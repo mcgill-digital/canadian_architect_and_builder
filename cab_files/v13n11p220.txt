@@ -1,0 +1,64 @@
+<doctype type="text">
+
+
+
+
+
+
+
+<article title=" THE BUILDER " author="">
+
+THE BUILDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THIS DEPARTMENT IS DESIGNED TO FURNISH INFORMATION SUITED TO THE REQUIREMENTS 0? THE BUILDING TRADES. READERS
+
+ARE INVITED TO ASSIST IN MAKING IT AS HELPFUL. AS POSSIBLE BY CONTRIBUTING OF THEIR EXPERIENCE,
+
+AND BY ASKING FOR PARTICULAR INFORMATION WHICH THEY MAY AT ANY TIME REQUIRE.]
+
+For the Carpenter and
+
+For the Mason.
+
+BOTH carpenter and mason are often confronted with problems in arched work. The first, because it is his duty
+
+to make all centers and frames required to be built even or round, the second, because it will be necessary for him to obtain the proper bevels and lines for forming the voussoirs and key-stones of his work. The construction of centres may safely be left for future consideration, providing the manner of obtaining the outlines of the work be fully grasped by the operator. It is generally the carpenter who prepares all the paterns for the mason, and who lays out the radial lines and the curves for both exterior and interior, but there are occasions when the mason is compelled to obtain the lines for himself. The following illustrations are arranged to suit both craftsmen.
+
+measure the height of the arch to 0, we will have the three points through which the arch will cut. This method is, perhaps, better shown in Fig. 5, where a h b show the width and height of arch. The curves c d are
+
+<article title=" Elliptical Arches " author="">
+
+Elliptical Arches.
+
+AT Fig. i. an arch is shown which is semi-elliptical, and is drawn by means
+
+of a trammel, or by aid of a string, as has been described in this department in previous issues. The arch is divided into sections or blocks of the proper size, and this is done by first dividing the curve into any desired number of equal spaces, then, wherever the joint is required, first draw a tangent to the curve from which square draw a line touching the joint where the joint is wanted, and this will give the proper radial line as shown at s. Fig. 2 shows a Tudor gothic arch formed by two parts of an ellipse. The manner of getting the curves for this arch is shown by the dotted lines, where the two rampant semi-elliptical arches are displayed. The curves are obtained by the same method as described in Fig. I, and the lines of joints are found by the same method as shown in the previous example.
+
+<article title=" Semi-Circular and Segmental Arches " author="">
+
+Semi-Circular and Segmental Arches.
+
+To DRAW the lines for a semi-circular arch is a simple matter, as all the radiating lines for joints and for the
+
+keystone are drawn from a common center, o, Fig. 3. The springing line is also a radial line, being on the same plane as the center o; the illustration explains itself. Segmental arches are more difficult to lay out than semi-circular ones, as the center from which the curves and radial lines are drawn is outside of the area of the arch and its chordal lines. A method of finding the center of any segment is shown at Fig. 4. Let A B C be any three points in the arch, all we have to do is to connect A B and B C by straight lines. Then from the center of A B, and from the center of B C, square down until the lines intersect at D, as shown, then the point D will he the center of the circle of which the arch is a portion. Thus, if we make A C the points from which the arch springs, and square up from the center X, and
+
+drawn from the center a b, and the line c d g is drawn through the points c d. The curves e t are drawn from the center a h, and the line e f cuts through the center of the required circle at g. Two segmental arches, drawn from one center o, with different radii, are shown at Figs. 6 and 7. The joints and springlines are also
+

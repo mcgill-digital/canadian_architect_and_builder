@@ -1,0 +1,110 @@
+<doctype type="text">THE CANADIAN	ARCHITECT AND	BUILDER	5
+
+
+
+<article title="Correspondence – The Toronto Technical School as an Information Bureau" author="">CORRESPONDENCE _ ________
+
+THE TORONTO TECHNICAL SCHOOL AS AN
+
+INFORMATION BUREAU.
+
+THE manager of a prominent manufacturing company in TorOnto writes as follows
+
+"Understanding that the Toronto Technical School was organized and maintained for the purpose of encouraging manufacturers, I some time ago thought I was justified in asking from a member of the faculty information on a small matter that neither myself or our engineer understood thoroughly. I accordingly on thc 18th of November last addressed a letter to the Lecturer on Physics, Toronto Technical School, Toronto, in which I stated we took the liberty of addressing him on a small matter that had been giving us some trouble in our works. I then stated very plainly and in as few words as possible just what our trouble was, hut so far (December 7) I have not had any reply. The information I wanted was a small matter in connection with heat which comes under the head of physics in the Toronto Technical School course. The question was : 'What temperature should Lot moist air be reduced to cause it to liberate the greater portion of the moisture which it contained? On the same day I also addressed the same question to an engineering firm in Montreal, and the return \ brought the required information. Possibly the member of the faculty to whom I wrote may have considered that it was presumptuous to apply to them for information, but as the school is maintained at considerable expense to Toronto, we, as citizens, thought we were justified in making the request.
+
+
+
+<article title="Correspondence – The O.A.A. and Student Education" author="">THE O. A. A. AND STUDENT EDUCATION.
+
+TORONTO, December 28th, 1899.
+
+To the Editor of the CANADIAN ARCHITECT AND BUILDER
+
+
+
+SIR,—In your editorial in a recent number of the CANADIAN ARCHITECT AND BUILDER, you refer unfavorably to the proposal of the Ontario Association of Architects to provide a travelling studentship for the students of the Association to compete for, stating that this seems like starting at the wrong end of the ladder on account of the students not having had the training necessary to qualify them to profit by such a studentship. You seem to have forgotten, or not to have been aware that it is proposed to
+
+present this studentship to the student standing highest in the examination for qualification as member of the Association. Now, as a necessary qualification is, that the candidate for membership shall be twenty-one years of age, and that he shall have served five years in an architect's office, and that he shall have passed the preliminary, intermediate and final examinations, and have shown himself qualified for membership in the Association, and for practice in the community, you will see that lie will have arrived at the period of his studies at which his mind is most prepared to receive the lasting and most essential impressions which are given by a period of time spent in studying the best examples of work in any one part of Europe.
+
+You go on to say that "the greatest requirement at present is the means of educating the student.' Again I beg to differ with you, as there is no lack of the means of educating architectural students in Ontario to-day. Several courses of study are open to them for the asking, but what I have maintained and now maintain is that unless a young man can see sonic object or some advantage to be derived from taking a prescribed course of study under such auspices as those provided by the Association, he becomes careless and indifferent, naturally saying, '' Why should I take this course of study which involves the payment of fees and the fulfilling of a lengthy course, when I can arrive at the same eventuality in my own way' and by my' own efforts?"
+
+You insinuate in the same article that sufficient attention has not been given to the subject of professional education by the Association. While this is correct in a sense in another sense it is not correct, for the provisions of the Association for the course of study for students is very elaborate. The failure has been caused by' the inability of the Association to promise the student protection arid assistance after he has completed the course and entered into practice in the province. Now, until the Association can make this promise to the student another means must be found to induce him to take the course of study and present himself for examination, for unless lie does this it must be apparent to every citizen of the community that the fit tire generation of architects shall either have received their education abroad, or be distinctly inferior in trained ability, owing to their neglect to grasp their present opportunities, unattractive as they may seem. The presentation of a medal and the offer of a scholarship will undoubtedly bring other students into keen competition, consequently the essential course of study will be taken by all, while all cannot win the medal and studentship. This, then, I claim, is the direction in which the efforts of the Association should be made, viz.: Making the course of study attractive to students.
+
+Trusting I am not imposing too much upon your space, and allow me to say that the interest which your paper is taking in the Association's welfare is highly appreciated by its members.
+
+Yours truly,
+
+REGISTERED ARCHITECT.
+
+
+
+
+
+<article title="Correspondence – Strength of Lead Pipe" author="">STRENGTH OF LEAD PIPE.
+
+To the Editor of the CANADIAN ARCHITECT AND BUILDER
+
+
+
+SIR,—Referring to the article appearing in your November issue relating to resistance of lead pipes, I would be thankful to know if you do not take into consideration the section of pipe in square inch for water pressure, arid should not the result 90 be divided by' XR2 giving 28 per square inch.
+
+Yours truly,
+
+L.	LEMIEUX, Architect.
+
+MONTREAL, Nov. 11. 1999
+
+
+
+Editor's NOTE.—The corrections suggested by our correspondent are seemingly right, if the tensile strength of lead be taken at 2,159 pounds per square inch. This constant, however, is not the one in general use as most authorities give it at 2,240 pounds per square inch.
+
+The following table of the resistance of lead pipe to internal pressure, is compiled from Kirkaldy, Jardine and Fairbairn
+
+
+
+Inch. Inch. Lbs. Lbs Inches. Ins. Lbs. Lbs. Inches. Ins. Lbs. Lbs.
+
+.5	.2 2.3 1579 1.25 .21 5.3 683 2 .21 9.2 498
+
+.625	.2	2.6	1349	1.5	.24	7.1	734	2	.2	....	44
+
+.75	.22 3.8 1191 1.5 .2 .... 528 3 .25 ....364 .2 4.1 91t 1.5 .2 .... 626 3 .25 ... 374
+
+
+
+Tensile strength of metal= 2,240 lbs. per square inch.
+
+
+
+TO COMPUTE THICKNESS OF A LEAD PIPE WHEN DIAMETER AND
+
+
+
+PRESSURE ARE GIVEN IN POUNDS PER SQUARE INCH.
+
+
+
+RULE.—Multiply pressure in pounds per square inch by' internal.
+
+
+
+diameter of pipe in inches, and divide product by twice tensile resistance of metal in pounds per square inch.
+
+ILLUSTRATION.—Diameter of a lead pipe is 3 inches, and pressure to which it is to he subjected is 370 pounds per square inch, what should he thickness of metal ?
+
+	370X3	1110
+
+	2240X3	4480=248 inches.
+
+The difference in weight between pipes of common, middling and strong is 12 per cent.
+
+
+
+<article title="The Use of Concrete for Sidewalks" author="">THE USE OF CONCRETE FOR SIDEWALKS.
+
+A correspondent. writes : In your issue of November there is an article on concrete for sidewalks. Our town started building cement walks this year, and as chairman of streets committee I have been seeking to learn all I could in the matter. I note that your article says that the walks should be kept damp for two weeks after laying. Will you kindly give me the reason for this ? We laid some walks with Hercules and Diamond cements for top course, with Hercules, White Star and Parrot brands variously for the lower course of concrete, amid did not dampen the surface after it was laid, and all of it seems to have made a splendid stone-like work that of the White Star drying the slowest. Later on in the season we laid some walk with White Star in the bottom course and White Bros. (English) for finish. The weather was cold amid overcast. After time walks had been thrown open to traffic a rain came and softened the top so much that footsteps made impression. Then we covered with sawdust. Frost came and where-ever the saw-dust was light or had been kicked off amid the sun afterwards got a chance at the walk, it seemed to blister amid a skin-like portion of the lop would heel off. That part that was covered with sawdust seems to be gradually hardening, though the damp weather has kept the sawdust wet Hut on the whole, the dampness just after laying seems to have worked disaster. Would be glad if your editor or contributor could throw light on the subject, and give the reason for advocating dampening the surface for a fortnight.
+
+
+
+ANSWER :— The reason why it is desirable that a new cement sidewalk should be kept damp by repeated moistening with water
+

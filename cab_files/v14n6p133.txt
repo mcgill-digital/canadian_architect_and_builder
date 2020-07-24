@@ -1,0 +1,74 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	133
+
+<article title=" STRESSES IN FOOTINGS " author="">
+
+STRESSES IN FOOTINGS.
+
+
+
+The huge buildings of the present age for stores, warehouses, mills, and mammoth emporiums, as well as abutments and piers for bridges, viaducts vaults, large arches, and retaining walls, have greatly increased the intensity of the stresses in footings It is, therefore, highly desirable, says the London Contract Journal, that simple principles of estimating these and the corresponding extent of the requisite resistance's for certain unit loads in thc usual structural materials should be plainly presented. None of the usual text-books discuss the statically details and the complex conditions that are, in many cases, involved. The pupil or apprentice, even if armed with advanced course technical certificates and added honors, will need home aid, which the following may, in a restricted sense supply. It consists mainly of a few informal data by way of a rough model for dealing in a measure with the principles of the subject.
+
+	STRESSES	IN FOOTINGS.
+
+
+
+ The footings being the bottom projecting courses, in the foundations 01 masonry walling, piers, etc., their proper stresses are vital to the stability and safety of the superstructure. In usual building details the footings are made to project equally on both sides of walls, and round piers, columns, isolated furnace chimneys, etc. This procedure is frequently done because it is a practical custom followed by the metropolitan building by-laws as regards dwellings and warehouses. The amount. of the projections should, however, be equal round the final resultant of the centre of gravity of walls and the axis of pressure of the resultant of all load points of floor girders, roof trusses, or other loads bearing upon the walls. if the distribution of footings is not thus equalized round the axis of load pressure there is a tendency to unbalanced subsidence, causing distortion cracks, and other evidences of failure. These evidences only occur at the points where the stresses are most intense and unbalanced, and that arc in no way modified by the elasticity of the masonry. In fenestrated walls, the piers and masonry transoms over openings are the most. vulnerable for locating evidences of conflicting stresses and distortions. In the case of high furnace chimneys of large internal diameter at the bottom, they are always best treated as a single mass in the lower beds of the foundation masonry or concrete; but just below the level where the boiler flues enter it the footings should project inside as well as outside. This is needed, because the axis of the centre of gravity of the section of the battered wall falls inside of the geometrical centre of the base. It is by means of the projecting footings that the stresses of the wall base are sufficiently diffused to bring them within the sustaining power of the foundation soil. The unit base load of the footings should have a factor of safety of two or three against the soil consistency to provide for future accidental decrease of its sustaining power by flooding drainage or overloading of any part of the superstructure. When thc footings are designed satisfactorily in this respect, undue or unequal subsidence is provided for to preserve the equilibrium of the superstructure and prevent any displacements of parts.
+
+<article title=" DESIGNING FOOTINGS " author="">
+
+DESIGNING FOOTINGS.
+
+
+
+The designing of footings should be no rule-of-thumb matter, in order to adequately meet the various active stresses to which their position and functions give rise.
+
+The footings, besides having sufficient projection to balance the respective intensities of stress on either side, must likewise have sufficient depth to resist the transverse stresses as a pair of cantilevers placed back to back. It becomes necessary to view the functions of the footings, not only as cantilevers merely in respect of their projections from the planes of the back and front wall faces, but likewise as back-to-back cantilevers from the axial centre of thc entire breadth of footing base. This double method of treating the stresses is typified by the persistent vertical splitting of the wall base itself for a considerable height above the footing level in tests that were made in India— near Calcutta— some years ago. The designing of footings systematically commences at the bottom of the level base in contact with the ground. Sometimes this bottom bed is of concrete, which is often made of common quicklime mortar that seldom gets hardened in moist ground, and may never attain much tenacity. The first practical problem in the order of procedure is to ascertain the safe sustaining power of the soil at the depth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of the level of the footing base, as well as the nature and thickness of thc successive beds in the soil section of the surface geology. The depth and extent of the auger borings and unit load tests must depend on the requirements of the building and of the local geological circumstances. The methods usually adopted for these purposes are omitted as not properly included in our heading. Thc area of the footing base should be increased by sufficient. spreading out from the resultant load axis until the inherent bearing power of the soil covered thereby will be amply sufficient to support the completed building with its total possible loads when fully equipped or occupied The graphic method of the funicular polygon" of forces is convenient for finding the precise position of the final static resultant of all the direct and abutting loads and pressures sustained by the foundations of buildings at the footing base level. The geometrical centre of the footing base will thus be made to coincide exactly with the final resultant axis of all the loads and weights. This systematic course, when carried out in practice, will be found to differ from the equal projections of half the thickness of the wall base on each side of it, as prescribed by the London Building Act, 1894 The upward reaction of the soil against the footing base is a uniform pressure over the area, and the centre of reaction is at half the cantilever projection from the resultant axis of the gross load and weight of the structure and superstructure.
+
+
+
+STRENGTH OF FOOTINGS.
+
+
+
+In considering the strength of footings, first, as back-to-back cantilevers (2, 4. 2, Fig. 1) of half the wall-base
+

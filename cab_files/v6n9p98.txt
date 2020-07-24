@@ -1,0 +1,68 @@
+<doctype type="text">	98	THE CANADIAN	ARCHITECT AND	September, 1893
+
+
+
+USEFUL HINTS.
+
+<article title=" USEFUL HINTS " author="">
+
+The following are the recipes of body and white glaze
+
+White body—74 lb. china clay; 18 lb. flint; 17 1/4 lb. stone; 3 1/2 lb. plaster. All must be mixed together dry, before adding water, on account of the plaster. Dip the brick at 30 oz. to
+
+pint slop, and pass the body twice through a fine sieve. White Glaze—19 lb. felspar ; 6 lb. stone; lb. whiting; 3/4 lb. flint;  lb. plaster ; 2 1/2 lb. best flint glass ; 12 oz. white lead. Mix as above.
+
+Conrad Mischler writes to the Painters' Magazine: "I have been painting iron work for the last 18 yea is and find that by using Venetian red and brandon, thinned with raw linseed oil and Japan, the article painted will stand the weather much better than when painted with any other. I painted two bridges some years ago which were not painted again until I did them after. One I painted with V. R. & B., as it is called, the other with red lead. The one painted with red lead was blistered and peeled to a great extent, while the other was in a very good condition. I painted them both over with V. R. & B., and they stand today looking almost as they did after being painted. Some ten years ago I painted the Fall River Railroad bridge with the V. R. & B. This bridge has iron beams in the water which I painted to low water mark, between tides. It has not been touched since, and has stood the wear of the water splendidly. I also painted an iron door with the same years ago, only giving it one coat. It is used every day by shop hands, and is clean and smooth today. I first clean the article thoroughly, and then use the V. R. & B. for the first coat, using for the next whatever color the party having the work done may desire, It has never failed to do everything expected of it, and has always given satisfaction. I have used red and white lead and experimented with all kinds of paint." <article title=" WEIGHT PER SQUARE FOOT OF SHEET IRON " author="">
+
+WEIGHT PER SQUARE FOOT OF SHEET IRON.—lt will be interesting to those who have anything to do with sheet iron boiler plate or similar material to have an easily remembered rule for finding the weight per square foot of material they are working with. The ironmanger says that it has been found by experience that a square foot of iron plate 1/8 inch thick weighed almost exactly five pounds, and this forms a basis for a very simple and easy rule. As a square foot of iron inch thick weighs five pounds, a square foot of 1/4 inch iron will weigh ten pounds, and we can say that the area of any sheet iron (or plate iron) in square feet multiplied by the thickness in one-eighths and multiplied by five will give the weight of the piece. There is a piece of tank iron 5-16 inch thick, 3 feet wide and five feet long, how much does it weigh? The area will be 3 feet by feet, or 15 square feet. Now how many eighths is 5-16 of an inch? Since 1/8=2-16 and 2 is contained in 2 1/2 times, we say  16=2 1/2 eighths, or 2 1/2 times five pounds= 12 1/2 pounds per square foot, and as there are 16 square feet we have 15 by 12 1/2 =1,875. Where the thickness is even eighths of an inch, it is much simpler ; but even this is not a hard thing to do as shown. If it is desired to use this rule for other than iron, we simply find the difference between the weights of the two metals per cubic inch and find what a square foot inch thick will weigh, then work as shown above.
+
+ZINC IN ARCHITECTURE—Copper plating sheet zinc for building purposes has recently been tried abroad with considerable success, the process being especially recommended where mechanical wear takes place. The zinc combines very well with the copper. The galvanic method of copper plating is advantageously used, but the zinc may also be coated with copper by ordinary means. In the first place the sheet zinc is cleaned with soda from any adhering dirt or grease, and is also purified by a weak acid bath from the covering of zinc oxide. There are then dissolved in twenty-four parts of water one part of refined verdigris and twelve parts of tartar, being heated to boiling point, after which three or four pints of Spanish white are added. The Spanish white is here decomposed and is precipitated as lime tartrate. The dark blue liquid is poured off and filtered, and can he used either as a bath for the sheet zinc or for the production of copper-plating paste. The first mode of action is the more recommendatory, as the fluid forces its way into the corners and angles of the zinc articles and is uniformly distributed all over. If it be desired to coat an immovable zinc object with copper, the article, after being cleaned, is painted with the copper solution and chalk compound, and, after drying, brushed. This very simple operation would likewise prove of value for architectural purposes where it is desired to remedy the generally unpleasing effect of zinc adornments.—-American Artisan. <article title=" ENAMELLING STATE BRICKS " author="">
+
+ENAMELLING STATE BRICKS, &c.—Some five years ago, when first the manufacture of bricks and tiles from slate waste commenced to he made in North Wales, says the British Clay Worker, the white glazed brick was successfully produced by the following process and recipes :—The process is called the Biscuit-brick process—that is, the firing of the brick only slightly at first, all care being taken in setting and drawing the bricks so as not to damage them in any way. The bricks need to be fired at about half the customary heat for the first fire ; they must then be taken to the dipping-house to be dipped in the body and glaze. Having everything in readiness, dip the part required to be glazed in clean water; you then pass on the brick to the next hand, whose dip will be the white body; then on to the next
+
+hand whose dip will also be the white body; again, pass on the brick to the fourth hand, whose dip will be to the glaze. Allow the brick to dry a little; then take a knife and scrape off all body and glaze that may have run over the side of the brick. The brick can then be set in the kiln to he fired again. The slate waste, however, is a ticklish material and will nor stand a hard fire. The heat it will take is a good red clay heat ; it will thus be seen that a down-draft kiln will not do for glazing slate waste. It must be fired in a kiln where all the flash heat can be kept from the brick—the kiln generally used is the Simmer mufflekiln. The kiln itself when set with bricks is almost a box-kiln. The bricks must be fired gently at first, and when on full fire it must not be neglected or allowed to sink too low. The firing should be continued until the glaze has run bright.
+
+
+
+
+
+
+
+
+
+
+
+<article title=" QUALITY OF SHINGLES " author="">
+
+QUALITY OF SHINGLES.
+
+TOUCHING on the shingle question in a paper on "Ignorance Concerning Woods," read at the International Forestry Congress, Chicago, Mr. Saley said: There are builders who really believe that the old-fashioned white pine shingle is out of the race. Cypress, red cedar and red wood are in fact supplanting it, but not for the reason that they are driving from the markets a poor roofing material. This shingle controversy is really amusing. Manufacturers tear from old roofs the kinds of shingles in which they are interested and hold them up to illustrate how durable they are. The fact is that a shingle of any of the woods named, or even of a meaner wood, would keep our heads dry as long as it will be necessary to protect them from dampness. To make shingles last still longer, lower, as some would say, the grade of them. That may sound paradoxical, and I am not aware that the theory holds in any other line. "A good thick shingle" is a term often heard. My preference would be to cover a building with a good thin shingle. A shingle, as a rule, wears out instead of rotting out, and the thinner the butt over which the water runs and drops on the shingle below the longer the shingle underneath will last. A steady dropping, it is said, will wear away a stone, and the shorter distance the water falls the longer the stone will last. This philosophy applies with great exactness to the durability of shingles.
+
+
+
+
+
+THE Stanstead Granite Company has been incorporated.
+
+A charter of incorporation has been granted to the Wright Cement Co., of Hull, Que.
+
+The Danville Slate Co., of Danville, Que., will it is said seek a market among the school slate manufacturers in Germany.
+
+The Rathbun Co. of Deseronto, lately purchased from Mr. E. B. Eddy, of Hull, machinery for the manufacture of patent lath and sheeting.
+
+A train comprising fifteen cars loaded with British Columbia shingles was recently dispatched from Vancouver over the C. P. R. to Eastern Canada.
+
+Steps are being taken at Quebec to organize a company with a capital of $100,000 to manufacture at St. Francois, pulp boards for interiors of buildings and furniture.
+
+The Canadian exhibit of brick-making machinery at the World's Fair has attracted great attention and is constantly examined by United States and foreign experts.
+
+A representative of the National Wall Paper Association of the United States, recently interviewed the Customs Department at Ottawa regarding the import tariff on wall paper.
+
+The St. Johns Stone Chinaware Co., whose works at St. Johns, Que., were destroyed by fire some months ago, express their intention of rebuilding on the same site provided the town will grant them a bonus of $25,000.
+
+The Rosedale Pressed Brick and Terra Cotta Co. has lately been organized in Toronto. The Company have leased a deposit of clay 27 acres in extent on the banks of the Don, and have erected buildings thereon. The necessary plant has been ordered, and manufacturing will shortly he commenced. Mr. John Flett is President of the Company, and Mr. J. V. Wright, Managing Director.
+
+Artificially stained bricks of a rich chocolate color, and others made from clay mixed with soot, have been sometimes sold as black for ornamenting walls with diapers, checkers and strings. The latter description are very inferior, while surface-washed imitations weather indifferently. The British clay Worker states that a little manganese and much iron in clay raised to an intense heat will produce bricks of no fleeting blackness.
+
+Messrs. McRae & Co., of Ottawa, have secured control for Canada, of a German patent for seasoning and staining beech and birch woods. By the new process the sap is sweated out of the boards by being placed, in a green state, in steam chambers for twelve days, and subsequently for three days in a drying chamber. The wood is then by a chemical application stained a rich walnut color. Beech and birch thus treated have met with a favorable reception in the European market, to which part of the product of the Canadian kilns will be exported.
+

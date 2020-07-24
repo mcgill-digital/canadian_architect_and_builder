@@ -1,0 +1,38 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" MARSH'S REINFORCED CONCRETE.*
+
+" author="Marsh, Charles F.">MARSH'S REINFORCED CONCRETE.*
+
+The use of reinforced concrete at present has the disadvantage of want of exact knowledge. Those who use it become tied to some system and limited by its methods. This is not a state of affairs that can long remain. The whole world is at work finding out the possibilities of the new material, and a first hand knowledge of the principles involved in us construction is necessary for designers who wish to be up to the mark and happy in their work in following the progress of the times, no less than to the few original thinkers to whom a little knowledge is of no use, who must appropriate thoroughly before they can use at. all.
+
+For this reason the publication of Marsh's Reinforced Concrete is an event, since it gives a comprehensive account of what is known about the material and what has been done with it, up to the present time, and points out how to apply this knowledge.
+
+The work is divided into seven parts of which five, concerned with facts and abundantly illustrated, are comparatively easy reading- ; the other two, devoted to theory, will require study.
+
+Part I gives a general review of the subject, with a summary of the advantages and disadvantages of the material. The Advantages make a strong array. They are Fire-resisting qualities ; Durability ; Impermeability, which does away with cost of maintenance and also makes it a defense against vermin, borers, insects and even, it is said, microbes; Monolithic character, which makes structures composed of it resist vibration, shocks, unequal settlement etc. ; Evenness of Temperature and Deadening of Sound in buildings Ease and Rapidity of Erection Notice of the Approach of' Failure ; Economy ; and Appearance The latter advantage, though the claim is Justified by some of the structures shown in the illustrations of this volume
+
+noticeably by the bridges, which, from the slight curvature of the arch, made possible by the material, are very graceful- --can hardly be said to be established with certainty yet, or upon very sure lines ; but in this unsolved future lies a stimulating interest in the material. It seems inevitable that a material compounded of plastic and flexible elements, which can each be brought into the exact position to meet the stresses to which they are subjected, will ultimately take form according to the lines of stress ; for this reason departing in some way from the appearance of timber and masonry construction, in which, right lines being the condition of strength and stability, the lines of stress are taken care of by increasing the bulk of the member rather than by adapting its form.
+
+The Disadvantages of reinforced concrete are two First, the Precautions necessary in selecting and preparing the material, and in making economical but true and immovable falsework ; and, secondly, Doubts as to Proper Method of Calculation.
+
+The process of experiment, upon the properties of the materials in combination is still going on, and we may expect more knowledge and better formulae ; but the formulae at present in use are based on data deduced and hypotheses assumed from present knowledge, which is true as far as it goes and there is nothing to prevent us from going ahead with these, and appropriating further enlightenment as it comes. Mr.
+
+
+
+*	REINFORCED CONCRFTE by Charles F. Marsh; published by Archibald Constable and Co., 16 James St., Haymarket London, Price 318. 6d.
+
+Marshs corrective for doubt in the matter is the fact that reinforced concrete construction is mainly in the hands of patentees of the different systems and that they '' do not rely so much on their patent systems for bringing them business as upon the fact that they thoroughly understand the work and have in their employ men who have become thoroughly accustomed to use the care and forethought that is undoubtedly requisite." But that is England. We are not in such a happy position here. If the patentees have a local agent in the large cities, that is the most we can expect. It is on the whole safer to seek security in knowledge in becoming ones self thoroughly accustomed to consideration of the care and forethought which are requisite.
+
+Part II is long and interesting. Its nature will he understood if it is briefly stated that it is an account of the different systems " employed. There are 44 of them chiefly French and German or Austrian but England, Holland, Switzerland and Italy are represented, and there are 8 in the United States. There is a full account of each with plentiful illustrations.
+
+Part III treats of materials. A great point in favor of reinforced concrete is that the materials are used to the best advantage and therefore can be reduced to a minimum; ; but there is involved in this a necessity that the materials should be good.. \s there is a saving in
+
+quantity we can afford to pay more attention to quality; but attention is required and constant attention too. As it is important that the concrete should be of the same strength throughout, the materials used in making it must be of uniform quality. The matrix, which must always be cement, must also, Mr. Marsh says, be Portland cement and artificial ; no other cement and no natural cement being strong enough or sufficiently certain in its behaviour. The specifications for cement and the methods of testing its essential qualities of Coolness, Fineness of Grinding Specific Gravity, Constancy of Volume, Time of Setting, Chemical Composition, and Cohesive and Adhesive Strength, are considered in a series of sections in this part.
+
+The aggregate receives attention chiefly in point of size and cleanness. The latter implies chemical cleanness as well as freedom from argillaceous or organic matter. Sand or gravel that has been in contact with acid or alkaline solutions, or the presence of sulphur in slag, are a danger, to both concrete and reinforcement, which requires probably more care in country work than in work in the cities. An instance is given of the loss of a large quantity of concrete, in consequence of the water, with which it. was mixed, having been taken from a mountain stream into which some chemical refuse had been turned at some distance above the spot from which the water was taken. In the city the water is at least chemically pure and can be trusted to be always the same and the aggregate comes usually from recognized sources that have been tested before and are not exposed to this kind of danger.
+
+The size of the materials of the aggregate, their pro— portions and the methods of mixing, occupy the rest of this part, with a table of quantities as used by different authorities for different species of works. There is also a short section upon the reinforcing metal. The choice between wrought iron and mild steel is in favor of the latter except. when welding is necessary, when wrought iron is safer than steel.
+

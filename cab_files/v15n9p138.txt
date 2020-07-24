@@ -1,0 +1,98 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+The load being 51½ cwt., the tiebeam will have to resist a tensile stress of 51 ½ X 2 = 103 cwt. The ultimate tensile resistance of fir timber according to statistics quoted by Tredgold and others, varies from 13,448 lb. to 8,506 lb. per square inch of sectional area. E Dobson, In 'Rudiments of the Art of Building," gives five tons = 11,200 lb. But it would appear that these figures have been deduced from experiments upon selected specimens of wood, and perhaps the writers referred to were accustomed to deal only with structures of an expensive character, in which only superior qualities of material were used. Certainly, the timber ordinarily supplied at competitive prices at the present day does not possess anything like the strength stated. J. T. Hurst, a modern authority, and one admittedly safe and reliable, gives in his "Handbook" one and a half tons per inch for the tensile strength of fir. This is equal to 3,360 lbs., or less than a quarter of the highest figure quoted, and Hurst is careful to state that materials of the quality ordinarily found in the market will seldom reach even this standard. The present writer is led to recommend one and a quarter tons—equal 25 cwt.--as a safe limit for the ultimate tensile strength. The working stress should not exceed one-third of this, or, say, 8 cwt. per inch. Our tiebeam must therefore contain 103 equals
+
+8	thirteen square inches of sectional
+
+area, and might, it would appear, he 4½ in. by 3 in., or less. But an allowance of four square inches must he made for cutting into the beam for the shoulders and tenons of the princpals, so that it must contain seventeen square inches, and may he 6in. x 3in.
+
+The tiebeam must have sufficient breadth for lateral stiffness, as well as to receive the feet of the principal, and a reliable rule is to make the breadth not less than 1/80 of span for the king trusses and not less than 1/100 for queen trusses. The following scantlings have been calculated according to the principles explained:— TABLE I.— TIEBEAMS FOR KING TRUSSES.
+
+	Span	Scantling.
+
+	20 ft	6in. by sin.
+
+	23 ft. to 24	 in. by 3½ in.
+
+	25 ft. to 27 ft	6in. by 4in.
+
+	28 ft. to 30 ft	6in. by 4½ in.
+
+
+
+TABLE 11.— TIEBEAM FOR QUEEN TRUSSES.
+
+
+
+Span.	Scantlings.
+
+31 ft. to 34 ft	7in. by 4in.
+
+35 ft. to 37 ft	7in. by 4½ in.
+
+38 ft. to 40 ft	6½ in. by 5 in.
+
+41 ft. to 45 ft	6½ in. by 5½ in.
+
+
+
+The lower the pitch of the roof the greater is the proportion of thrust to weight, so that for roots flatter than quarter pitch stronger tiebeams will be necessary. But such flat pitches, being unsuitable for covering with slates, need not be considered here. With roofs steeper than quarter pitch, the vertical stresses are greater; but the proportion of thrust to weight is so much reduced that it more than compensates for the increase of vertical stress, and the scantlings given above will suffice for roofs steeper than quarter pitch. In large roofs it becomes convenient to substitute iron ties for timber beams. We shall consider such cases subsequently.
+
+Let us now ascertain the scantling of a tie-beam to carry an ordinary ceiling. With a span of 20 it. the beam, being hung up in the middle, may be treated as of 10 ft. span, so that with trusses 10 ft. apart there will be 100 square feet of ceiling as an evenly distributed load. The weight of the ceiling, including joists, lathing and plaster may be reckoned at 1200 lb.
+
+	the	S x W x F
+
+or, say, 11 cwt By	ordinary
+
+	rule,	C =
+
+where S = span in feet ; W = load in hundredweights F=factor of safety ; B=breadth in inches ; C=coefficient of strength ; and D2 = square of depth in inches. Here S= 10 ; W= 11 ; and, taking the safe load at one-fifth of the breaking weight, to avoid unsightly deflection, F = ; and B may be assumed to 3. The value of C is often overstated in books, with the result that erroneous calculations are made. In Tredgold's tables the values of C in pounds are for Riga fir 530 and 670 and for Memel 545 ; and Barlow's experiments showed C = 577 in pounds for Memel. These figures give an average of C=5.17 in hundredweights when the load is on the middle of the beam
+
+and it would be double, or 10.34 with the load distributed. Again we must remark upon the impossibility of procuring timber of such quality for cheap building, such as the public will insist upon having now. Hurst gives C= 36 for a central load in hundredweights, or 7.2 for a distributed load ; and he appends the following- note, which every student of carpentry should observe with attention " For wood, as the experiments were made on small and selected specimens, a reduction of quarter to half should be made on the above values of C in large and unselected beams." This would make C=2.7 to 1.8 for central loads, and 54 to 36 for distributed loads. The present writer's experience has led him to adopt 25 for the former, and 50 for the latter.
+
+In the case before us we might take C = 5. But the tiebeam, which is supported upon the wall, may be considered as fixed where it is hung up to the king-post ; and a beam supported at one end and fixed at the other is twenty-five per cent. stronger than one supported at both ends, so that we may take C =6'4.
+
+x 11 X 5
+
+We have, therefore, 10   6¼	293.	The square
+
+root of this number is 538 (to be found in a table of squares and cubes), so that the beam might be 5½ in. by 3 in. The size need not be increased on account of the shoulders and tenons of the principals. The upper portion of the beam being compressed by the transverse strain, any portion compressed may be cut out without reducing the strength, provided that the aperture is filled up again with solid timber as in this case. We have only to take care that the scantlings of the beams are not less than those in Tables I and II.
+
+TABLE <article title=" TIEBEAMS IN KING TRUSSES TO CARRY CEILINGS " author="">TIEBEAMS IN KING TRUSSES TO CARRY
+
+CEILINGS.
+
+	Span	Scantling.
+
+	2Oft	61n.by3in.
+
+	21 ft. to 22 ft	6 in. by 3½ in.
+
+	23 Ft. to 25 ft	7 in. by 4 in.
+
+	26 ft. to 28 ft	7 in. by 4½ in.
+
+	29 ft. to in	by 5 in.
+
+		or 8 in. by 4 in.
+
+
+
+In queen-trusses the positions of the queens ma)' vary. Generally, however, when there are no rooms in the roof, they are placed at one-third of the span from the wall. On this assumption the following table has been calculated. The central part, between the queens, is virtually fixed at both ends ; but we are bound to calculate the scantlings for the weakest parts - -between the queens and the walls.
+
+TABLE IV.—TIEBEAMS IN QUEEN TRUSSES CARRY
+
+CEILINGS
+
+	Span	Scantling.
+
+	31 ft. 1036 ft	7 In. by 4 in.
+
+	37ft.to45 ft	8in.by 5in.
+
+
+
+When rooms are formed in queen-post roofs, the distance between the queens may conveniently be half the span or more. We will assume that it is half the
+

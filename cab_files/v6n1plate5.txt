@@ -1,0 +1,5 @@
+<doctype type="plate">
+
+<building>ST. MARY'S CATHEDRAL</building>, HALIFAX, NOVA SCOTIA.
+
+<person>MR. McCARTHY</person>, ARCHITECT, NEW YORK.

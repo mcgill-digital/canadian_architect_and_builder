@@ -1,0 +1,74 @@
+<doctype type="text">
+
+<article title="Systems of Piping in Steam Heating." author="Mansell, W.M.">
+
+	ARCHITECT AND	BUILDER
+
+
+
+SYSTEMS OF PIPING IN STEAM HEATING.
+
+By WM. MANSELL
+
+
+
+I HAVE been asked by your Secretary on different occasions if I would write a paper on steam—heating. I will be as explicit and plain as possible in my remarks, and hope t hey will be understood. They are only a few practical observations that I have gathered during my career as a steam lit t or. Being entirely of a practical nature, sonic of my remarks may possibly clash with the theoretical views of some of our members and here at the beginning I might say that we find some of the  theoretical  ideas very impracticable, and also many things which, though practicable, are very unsightly That being the case, the remark which is often made that anything practical is not unsightly is more than pleasing.
+
+We in the steam—heating line find we have to keep up with the times in the construction of our work. The advanced and still advancing changes in the const- ruction of buildings has caused an entire revolution in the construction of steam heating plants in the last few years. I don't think I am far astray in saying that in no one of the building trades have the changes been so great or inventions more numerous than those connected with the steam— heating problem. I remember, as a boy at t lie trade, when the British  American Life Assurance Building was tinder construction, it was t lie wonder of the day that a 4—inch main ii steam pipe was being used, and having occasion to go down there one day to g-et a piece of pipe of that size cut, the workmen were very excited and anxious to know what other big job in the city was using 4— inch pipe.
+
+That building at that time was the pride of the neighborhood, and the job of steam heating was the pride of the city but step by step the size and height of buildings have  increased so that heating engineers have been kept on t lie hustle le right along to keep up with the strides the architects were making to keep pace with Ii the demands of the public and t heir requirements iii t lie larger cities in the northern part of this is cent nent
+
+
+
+One requirement most necessary to the comfort of the public has been the proper heating of the buildings and t the installation of systems most suitable to the construction of the buildings. When you look back, not many years ago, to the time when t lie open fireplace, with its rearing wood fire, was the only means of warming the dwelling amid office and when the weather get so cold that the mercury got ashamed of being seen and crawled down out of sight when the folks used to snuggle up to the fire so close that their faces cised to almost blister, and their backs felt as t though the marrow of their back—boric was turning into an icicle and  then t tmrii to the present and compare the surroundings—how you can sit at the draughting boards in your office, with the weather outside below zero, and the fire perhaps half a block from you, with the temperature the in your office at almost summer heat, and all parts of the building the same—give a little credit to the steam—fitter, and don't class him with that much abused individual who is written about this
+
+Who is that man. so rightly abused, Who charges for stuff that is never used, And when he dies don't get excused
+
+The Plumber.
+
+Who round my house at night doth sneak, With my big seurauc girt to speak, And tell her " Make the steam pipes leak
+
+The Plumber.
+
+
+
+This man was, perhaps, the same that went to the house to make repairs, and the mistress of the house, seeing him coming, called down to the servant, Lock the pantry here comes the
+
+plumber.'' But changes in lie node of heating necessitated changes in the men. A few years ago the same workman used to do the plumbing and lb e si earn fitting as well but that practice has been done a way with, not because the same man cannot do both kinds of work, but because a man must become efficient if kept working continually on the one class of work, and it has been found that more work and a better class of work was hiring- done at either branch if the same man was kept to plumbing, or to steam fitting, as the case might be, and at the present time it is almost universal to find men being made specialists.
+
+This perhaps, has helped as much as anything to solve the steam—heating problem. Then it depends a great deal on the
+
+place that a workman in the steam fitting trade has been t taught his trade—what systems lie is best acquainted wit hi --because there is steam fitting and steam fitting, and there are steam fitters amid steam fitters, just as there are architects and architects.
+
+In some of our cities the same systems of piping are being employed to-day that were cised in the same place and by the same
+
+Paper read before the Toronto Chapter of Architects
+
+men t twenty years age. II em e is that system Fig. m) amid several jobs of this description have lately' been remodelled in our city. In t his system the steam main would rise from boiler and run up  all the way to radiators, so that any condensation forming would have to drip back to boiler in the steam, or be lifted up and forced through the heater, before returning back to boiler, making a great amount of' noise throughout the whole building  the sound being conveyed to all parts by means of the hues of
+
+
+
+piping. The sound would be most noticeable while steam was being raised in the meriting, cur in case the pressure got down and then got up again quickly.
+
+As a mile, with this system, when the engineer started to get up steam he would shut a valve on the main return entering boiler, amid open a valve en a drip pipe which was connect oil from the return header to the drain. This would blow all of the cold condensation into the sewer and get up a circulation through the system quickly then when all the radiators were hot lie would close the drip valve amid turn the condensation into boiler. This old—fashioned system of piping was very faulty, and to better the circulation out some (if the radiators that would be stubborn, valves would be placed on each return pipe at the boiler, and a drip pipe with It valve would be run from each and carried to drain, and very often the drips from several heaters was discharging into the drain place of being put back into boiler, necessitating additional water to be turned into lie boiler every hour, when steam was mmli.
+
+A new idea was then conceived, which did away with a lot of noise as well as a lot of pipe. This was to grade t lie steam main from the point over boiler and run the pipe do with it ( Fig. 2), and at the bottom end of all rising steam pipes, and at the end of all long horizontal runs mis in basement , to insert a relief' pipe drop t his
+
+pipe down below the water hue, and in place of bringing every return pipe back to boiler before dropping down, to drop as direct as possible and connect them in groups, and then connect to the main return boiler water hi line. The object of ruining all relict and return pipes down and submerging the junction point is to prevent the steam which has passed through the nearest radiator
+
+from rising up the return pipe from some of her radiator, which would mean the other current and stop the circulation, Or cause cisc buickitug. This system of piping is general now in all two—pipe or gravity systems, with the distinction that in place of running separate returns down from all radiators, the returns from radiator cmi upper floors are connected to the same riser met urn pipe (Fig.
+
+
+
+3).	This way of joining the returns with the same riser pipe has gix-emi the same results, and works as satisfactorily as running down separate returns, and as it cheapens the cost of work by reducing the amount of pipe and labor, is a grand incentive to its adoption. This system is, I think, the most general, both iii Canada and the Eastern States. It has been superseded and has been almost crowded out of existence in the Western States by the circuit main and single pipe riser system, and which has been extensively adopted in this city by some of our architects. (Fig. 4.)
+
+
+
+This system of piping has many advantages in its favor in a certain class of buildings over any of chose already mentioned. It can hue installed in any building having rue basement, providing there us room to work below the ground floor joist. Still, it must be understood that the boiler has to be put  how enough, to provide the proper "instance for steam main above the water hue and again, if there is no space below ground floor joist, the circuit can be carried around cmi the ground floor near the ceiling, and he branches to ground floor heaters to drop down to them, but as this requires a return main for collecting the dregs from ground floor heaters, it is seldom used.
+
+
+
+The circuit system is by far the cheapest to install, as the cost is lessened in several ways most. As you liaxe oume main, which acts both as a steam main and also a return. With the main the highest part is directly above the boiler, and from this point it descends with a slight wall until it comes back to the boiler again, when it drops and is connected at bottom. All branches are taken off the top of this main, and rise from that point. This is done for two reasons First, that all condensation will drop back unto main and be carried to boiler, and also to provide for expansion, which is a necessity in all jobs of steam piping, but more especially' with this system. The reason of this is that the main is mmscmcclly' earned around about four feet from outside walls, so as to make the horizontal branches as short as possible, which method is found to give the best results.
+
+The rising pipes in this system are, as a rule, from one to two sizes larger in diameter than the two pipe jobs, on account of
+

@@ -1,0 +1,56 @@
+<doctype type="text">
+
+
+
+general use, particularly on marine boilers, showed infinitely the worst results. There seems no room for doubt that this is largely attributable to the fact that it is a solid composition, and lacks one of the most vital requirements of successful non-conductivity, i. e., "diffused air." That the air must be diffused or separated into minute cells is strikingly illustrated in experiments 2 and 3, In the first, wood and air space of 7/8 inch next to the tank, as used on locomotive boilers, the loss per degree of difference of temperature was .o674. When the same air space was filled or packed with asbestos fibre the loss dropped to .o56 In the case of mica, the air theory appears to have been carried to the furthest possible extent, the whole covering forming a veritable air cushion, each leaf or film of mica being separated from the next by minute corrugations, the whole mat presenting the appearance of a porous flexible quilt. The value of this ingenious arrangement was amply proved in the experiments in question, when the loss per degree in difference of temperature was only .0428. That this is one of the most important qualities of a covering has long been recognized, and a large number of patents have been granted for devices 'intended to obtain it. But in nearly every instance it has been at the expense of the material. The great differences in the value of the coverings tested by the C. P.R. is due largely to the manner in which the valuable properties of diffused air as a non-conductor have been utilized.
+
+The following table will give some idea of what the loss of power has been found to be from uncovered steam-pipes with the steam at 75 lb. gauge pressure:
+
+
+
+2 inch pipe.. horse power loss for every 1 32 feet long.
+
+	4	1			75
+
+	6	I			46
+
+	8	1			40
+
+	12	1	"	''	26	"
+
+
+
+
+
+
+
+About 90 per cent. of this waste is easily prevented by a proper covering of the pipes. When it is considered that this loss occurs at the comparatively low pressure of 75 lbs., it is apparent that with steam at 1 30 lbs. and 140 lbs. and higher, the loss becomes very serious, and the necessity for preventing as much of it as possible is a matter of urgent importance.
+
+
+
+The accompanying diagram very clearly demonstrates what can be done in this direction by the use of various compositions, as it clearly shows the qualities and capabilities of each. It is possible that the question might arise as to whether the great differences between these substances would still be found had the trials of the C. P. R. Company been made with higher temperature than 212.
+
+It appears, however, from published reports of trials made some months ago by the engineers of the Boiler Inspection and Insurance Company of Canada that these differences did exist; that company subsequently issued a special circular on the whole matter, as one of particular interest to steam users. It is stated further that the Grand Trunk Railway Company have lately concluded a series of trials, on a large scale and under high steam pressure, of a number of boiler coverings, including the best of those tested by the C. P. R, and the Boiler Inspection Company, the difference between them being even more marked. As no data, however, is as yet available of these trials, it is impossible to speak of them with accuracy. It is encouraging to notice the increasing attention the whole subject is receiving, in
+
+view of the imperative necessity for observing the strictest economy in power and coal and the prevention of all unnecessary waste.
+
+<article title=" CONCRETE FLOORS " author="">
+
+
+
+CONCRETE FLOORS.
+
+The most complete set of experiments upon the transverse strength of concrete, writes Mr. Geo. H. Blagrove in the Contract Journal, appear to be those of Mr. A. Fairlie Bruce, previously referred to. Mr. Bruce used bars 30 in. long by 4 in. square, broken by central pressure over a 27 in. span, and after some 300 tests he sought to obtain a modulus of rupture, f, by which the transverse resistance of concrete bars or slabs might be calculated. This modulus is to be used in connection with thc ordinary formulae, so that if d-- the depth of the bar or slab, I = the moment of inertia, and M the
+
+
+
+moment of resistance, then M=I 2f/d 
+
+The proportions of ingredients used varied from 5 to 12 to 1 and the age of the concrete varied from one week to half a year. Excluding instances where the materials were known to be defective, a few examples of the value of f may be cited. With 3 parts of broken sandstone and 2 parts crushed fine instead of sand to 1 of cement, we have f— 95 at one week, and 222 at four weeks. With the same proportions, but with red sandstone and pit sand, we have f-= 30 at four weeks and only 228 at 39 weeks. Again, with 6 of sandstone and 212 of pit sand to x of cement, we have f at four weeks ; and generally with proportions of about 8 to of cement, the value of f at four weeks varies from to 166. These variations of strength cannot be directly traced to the nature of the materials used. For instance, with 5 of broken whinstone, of the same crushed, and 2 of sandstone crushed -—a total of 8 to of cement we have f= 58 at four weeks ; and with 5 of the same aggregate and 2 12 of crushed whinstone—a total of 7'2 to we find f= 166, or about 186 per cent. more. For purposes of comparison, Mr. Bruce calculated values of f from the results of Mr. Hutton's and Mr. Kyle's experiments. With proportions respectively of 8 and 9 to 1 of cement, we have f varying from 51'7 to 183.8 at 12 weeks, and from 1022 to 316 at 20 weeks.
+
+All Mr. Bruce's experiments show that there is a very great increase of strength with increased age, the value of f at one month being often doubled, and sometimes more than trebled, after six months. For examples of the transverse strength of concrete at greater ages, we would refer to experiments by Mr. Robert Moore, described in his paper on " Merchants' Bridge Terminal Railway. Mr. Moore experimented with concrete composed with 6 parts of broken limestone and 3 of river sand to of cement, made into bars 30 in. long and 9 in. square, buried for periods of eight, nine, ten, and eleven months respectively, and then dug up and broken by central pressure over a 27 in. span. The breaking weights varied from 6,030 lbs. to 8,030 lbs., and the values of f which we deduce from these results vary from 335 to 446.
+
+Mr. Bruce has employed a formula for calculating the growth of strength in concrete, the data for which are of course deduced from experiments. Sometimes the calculated and observed values of f agree fairly well, but in many cases there are startling discrepancies. For instance, with concrete made with parts of whinstone
+
+See Transactions Amer. Soc. C. E., vol. xxxi., 1894.
+

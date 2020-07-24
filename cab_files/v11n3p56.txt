@@ -1,0 +1,104 @@
+<doctype type="text">
+
+<article title=" Tests of cast-iron columns by the department of buildings of New York City." author="">
+
+	THE CANADIAN	ARCHITECT AND BUILDER
+
+
+
+TESTS OF CAST-IRON COLUMNS BY THE DEPART
+
+MENT OF BUILDINGS OF NEW YORK CITY.*
+
+WE present herewith a report of the tests of full-sized cast iron columns recently conducted by the Department of Buildings of New York city at the works of the Phoenix Bridge Co., Phoenixville, Pa., under the direction of Mr. W. W. Ewing, of the Department. The tests began on Dec. 15 at 1 p.m., and were finished on Dec. 21. The machine used was the well-known hydraulic testing machine, at the Phoenix works. It is the most powerful testing machine in the world. To ensure the accuracy of the tests, the Building Department arranged a comparison of
+
+ment machine shops at that place. Marks were made 26 ins, from the ends, that is, 200 ins, between marks, and a form of roller extensometer (Fig. 1), reading to 1-10,000 in., was employed, to take all measurements. In applying the load constant 1-10,000 in. increments were used. Certain additional loads were applied, corresponding with those to be applied later in the Phoenix machine. The column was then returned to Phoenixville, and the tests repeated in the Phoenix machine. The conditions were reproduced as nearly as possible; the same series of readings were taken, using the same extensometer. The results of the two tests are shown in Tables I. and II.
+
+The gage used to calibrate the Phoenix machine was a mercury
+
+FIG. i.—READING END OF THE KOLLER EXTENSOMETER
+
+EMPLOYED IN THE CALIBRATION WORK.
+
+FIG. 2.—SECTIONAL VIEW OF THE SHAW MERCURY GAUGE
+
+USED AT PHOENIXVILLE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 3.—DETAILS OF THE 15 IN. COLUMN.
+
+
+
+
+
+the Phoenix machine with the famous Emery machine in the U. S. Arsenal, at Watertown, Mass. On Dec. 30-31, 1896, a series of compression tests was made at Watertown upon a soft steel Phoenix column built by the Phoenix Iron Co., especially for these tests. It was made of eight segments riveted together, forming a round column 21 ft. long, inside diam. 14 5/8 ins., thickness of metal 1 '8 ins., area of section 75.3 sq. ins., total weight of 5,485 lbs. The calculated safe load was 530 tons. The column was shipped to Watertown Arsenal and carefully tested in the govern-
+
+
+
+* Reprinted from Engineering News, New York.
+
+FIG. 4.-—DETAILS OF THE 6 IN. AND 8 IN. COLUMNS.
+
+
+
+
+
+column instrument, manufactured by Thomas Shaw, of Philadelphia, Pa., and numbered was calibrated to read in pounds
+
+
+
+ler sq. in., and ranged from o to 220 lbs. Fig. 2 is a sectional view of the lower portion of the gage. The pressure used in the cylinder of the hydraulic testing machine is received on a diaphragm (f) and transmitted to the lower end of the double-headed piston (h), whose upper end, of much greater diameter, is surmounted by another diaphragm, above which is a reservoir of mercury (1), and a mercury column of small bore (g). The actual
+

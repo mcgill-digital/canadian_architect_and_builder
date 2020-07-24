@@ -1,0 +1,86 @@
+<doctype type="text">ELECTRIC HEATING.
+
+SOME interesting and successful experiments in the line of heating by electricity have been in progress at Ottawa, Ont., for nearly a year past. The apparatus employed is the invention of <person>Mr. Abearn</person>, general manager of the Ottawa Electric Street Railway. We reproduce from the Western Electrician, the following particulars and illustrations of the apparatus
+
+A cross-section of the electric boiler for car heating is shown in detail in Fig. 1. It consists of a shell or tube 2 of oval cross-section, within which is placed another similar but smaller shell
+
+voltages, and has, it is stated, been used for the last three months with most satisfactory results by patrons of the <firm>Chaudiere Electric Light Company </firm>of Ottawa, which company uses the Westinghouse alternating system. These heaters are used by barbers, druggists and for domestic purposes. A livery stable keeper uses a three gallon heater, the hot water being
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. I.
+
+
+
+3, the two having their ends suitably joined to form a water space between them, nozzles being provided for the circulating pipes. The vessel thus formed has its exterior surfaces insulated with strips of asbestos 4. A core, 5, also insulated with strips of asbestos, and wound with a resistance coil R of German silver inserted in the inner vacant space of the shell 3, and is of such a size as to press the wires R against the insulation of the shell 3. A similar resistance coil R is also wound upon the insulated shell 2, the terminals of the cods projecting. The vessel thus formed is placed in a casing 6, the terminals of the coils passing through insulators, and all the vacant spaces inside the casing being filled with powdered whiting. This casing is then wrapped in sheets of asbestos and inclosed in a wooden box secured to the under side of the car floor. Two of the boilers are used in each car, being placed in diagonally opposite corners, each supplying a set of circulating pipes. The resistance coils are placed within the car circuit. The nozzle in the upper side of the boiler
+
+	FIG 3.		Fig 4.
+
+
+
+applied to clean harness and bathe horses' feet. The heater shown in Fig. 3 requires 3 1/2 amperes at 50 volts. Such is its construction that when in use in barber shops the water in it is found sufficiently hot for shaving in the morning, although the current has been off all night.
+
+In March last Mr. Abeam had constructed and put in operation in the residence of ex-Alderman Johnstone the electric furnace shown in Fig. 5. This outfit has been in successful and continuous operation since being installed, and has attracted much attention. The large coal furnace abandoned for the small perpendicular electric furnace shown in Fig. 5 suggests immense possibilities for electric heating. The heated water passes upward into the 63 gallon tank in the corner, from which it flows to the two upper stories of <person>Mr. Johnstone</person>'s residence, supplying three bathrooms and one kitchen sink. The fact that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 2
+
+
+
+is connected with an upright supply pipe ; from this the radiating pipes C branch off, running to the other end of the car, where they are connected with another upright pipe. From this last mentioned upright pipe a return pipe passes through the floor and enters the boiler by the lower nozzle. A water reservoir D is placed under the seat and communicates with the flow and return pipes to keep the circulating pipes full of water and to compensate for evaporation. An expansion tank E. is placed at the end, away from the boiler, one in each set of pipes. This tank being high and flat, is concealed in the end panel of the car, and it provides for the variations in the level of the car and the water.
+
+The liquid heater shown in Fig. 3 was next devised. This heater is of handsome design, with a water glass on its side showing the height of the water within it. This type is wound for all
+
+FIG 5.
+
+
+
+hot water is being constantly drawn off, and cold water taking its place, is a much more severe test upon the furnace than if the water was being used for heating purposes only, as in the latter case the water is being circulated always. Mr. Ahearn has applied this principle to the hot water apparatus employed for car heating.
+
+Mr. Abeam, proposes this year to equip all the cars, the car shops and the new power house, with his new system of electric hot water heating. He has also arranged with <person>C. F. Sise</person>,
+

@@ -1,0 +1,6 @@
+<doctype type="plate">Canadian Architect and Builder
+
+<building>House in Crescent Road, Rosedale, Toronto</building>
+
+<firm>Gordon & Helliwell, Architects</firm>
+

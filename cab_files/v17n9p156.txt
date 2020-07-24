@@ -1,0 +1,194 @@
+<doctype type="text">156	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+nected so that it is impossible to accidentally shortcircuit either generator, the function of the circuit breakers being that the single poles of each breaker open and close independently of each other, so that in the event of a short circuit or overload remaining on the generator circuit after the breaker has been thrown open, the closing of the second pole will immediately open the other. These circuit breakers were made by the Cutter Electric Company, Philadelphia, and are adjustable for a capacity of 50 per cent. above and below the rated capacity of the respective generators which they are intended to protect. A double set of busbars with double throw switches has also been provided on the switchboard and the connections arranged so that the generators can be operated independently or in parallel. This provision has been made with the object of providing an independent control for lamps and for the 50 h.p. cupola blower motor in the foundry, as it is necessary to vary the speed of this motor at times, the variation of speed being secured by manipulation of the generator rheostat on the switchboard. When the cupola is in operation, the 50 k.w. unit and the 50 h.p. motor operate as an independent combination, a special pair of mains being run from the switchboard to the cupola for this purpose.
+
+The circuits between the dynamos and the switchboard are run in trenches built into the floor, these trenches being covered with cast-iron checkered plates. The conductors are rubber-covered and are supported
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 7.—INDUCED DRAFT FANS, SHOWING STOKER ENGINE
+
+BELOW PLATFORM, AND PORTION OF GREEN 11FF,
+
+	ECONOMIZER	AT LEFT HAND.
+
+
+
+
+
+upon split porcelain insulators held in position by iron clamps fastened by screws to 3" 3" vertical wood strips set into the concrete flush with the walls of the trenches. The outgoing circuits from the power house are run underground through a brick tunnel. Forming a part of the switchboard is a gauge panel upon which are mounted a 10" engine room clock, an 8" boiler pressure steam gauge, an 8" steam gauge connected
+
+to the receiver between the high and low pressure cylinders of the compound engine, and two 8" compound vacuum and back pressure gauges, one con nected to the exhaust pipe from each engine.
+
+For furnishing compressed air for operating the pneumatic hoists and other pneumatic machinery used in the works, a class D-2 10" x 16" X 12" Canadian Rand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 8.—AIR COMPRESSOR AND MOTOR.
+
+
+
+
+
+Drill Company air compressor has been installed. This compressor is driven by belt from a 40 h.p. Westinghouse direct current motor. This compressor is designed as a compound machine, the high-pressure or 10" X 12" halt being installed at present, the foundations being so arranged that the low pressure or 16" X 12" half can be installed when required. The capacity of this compressor is 446 cubic feet of free air per minute at a speed of 120 revolutions per minute.
+
+
+
+
+
+<article title=" A RHAPSODY OF THE NEW ART." author="">A RHAPSODY OF THE NEW ART.
+
+
+
+0 catfish maid with the taffy arms— A loop and a curve and a daub of green— Flaunting the flow of thy molten charms
+
+On the side of a soup tureen.
+
+
+
+Art thou a girl or a goop or a fish,
+
+Or merely a tinted thought,
+
+Like a chocolate caramel stuck to the dish
+
+And into thy semblance wrought?
+
+
+
+0, limpid lips' insipid peace— A loop and a curve and a daub of green— 0, rapture covered with verdigris
+
+And Art that is sight unseen
+
+
+
+A lily grows on a silver stem
+
+That twists as a bedspring might,
+
+In the ruby shade of a Turkish hem
+
+It holds an electric light.
+
+
+
+0, lines of beauty, 0, lines of care!
+
+0, art of the new, new fad
+
+Loop, loop the goop of the limbs and hair.
+
+till the drinkers of fudge go mad!
+
+-Wallace Irwin in N Y. Globe.
+
+
+
+
+
+Cement production in the United States in 1903 amounted to
+
+28.454,140	barrels, according to the U. S. Geological Survey.
+
+01 this amount 20,897973 barrels were Portland cement, 7,030,-
+
+271 barrels were natural cement and 525,896 barrels were slag
+
+cement. The amount made in 1903 was about 2,700,000 barrels
+
+more than the output in the preceding year.
+
+
+
+The effect of maintaining a higher standard of purity of the air breathed could not better be illustrated than by the following statement of facts: By improved ventilation the death rate has been reduced in children's hospitals from 50 to 5 per cent., and in army hospitals from 23 to 6 per cent., while prison records show, in one case, a reduction from the yearly average of 8o to
+
+8.	In the army stables of the German Government better ventilation has reduced the death rate among the horses from 19 to
+
+1.05.	Such facts speak for themselves.
+

@@ -1,0 +1,58 @@
+<doctype type="text">	
+
+36	THE CANADIAN ARCHITECT AND	BUILDER	March, 1893
+
+
+
+<article title=" SOME OBSERVATIONS ON FIREPROOF BUILDING IN
+
+NEW YORK " author="Horwood, John C.B.">SOME OBSERVATIONS ON FIREPROOF BUILDING IN
+
+NEW YORK.*
+
+By JOHN C. 13. HORWOOD.
+
+
+
+The illustrations accompanying this paper may be found elsewhere in this paper
+
+upon a separate sheet.]
+
+THE law in New York city requires all buildings to be fireproof when the top of the deck roof beams (half way up the rafter for pitch roof) arc over 85 ft. above the pavement.
+
+In all iron construction, as in slow-burning mill work, I find that the most straightforward and rational method of laying out the framing scheme is the best, avoiding trimming as much as possible, and keeping heavy weights from such position as necessitates carrying them in lateral directions to find their bearing on the continuous line of supports to the foundation.
+
+Cast iron is the principal material used here for supports, except in very lofty buildings, such as the <building>World, </building>and the 12 storey <building>Havemeyer office building </building>now nearing completion though the <building>Columbia office building </building>on Broadway, which has some 13 floors above the basement (3 of which are in a pitch roof) has cast-iron posts. Another building now going up, adjoining the <building>Mutual Life building </building>on Nassau street, has about 12 stories of frame in position, the posts being cast iron.
+
+The <building>Herald newspaper building </building>being erected in an open plot of ground at the Intersection of Broadway, 6th Ave. and 34th St., is but two or three stories in height (similar in idea to the <building>Bank of Montreal </building>in Toronto) and has all the columns wrought and riveted (fig. 1) but this is the exception in such a low building.
+
+In a very narrow, high building there will of necessity be a certain amount of play at the bolted connections of cast won work, which is avoided in riveted wrought columns.
+
+If rolled sections only are intended to be used, the spans of girders and beams must be laid out to keep within the limits of the loads-to be carried, whereas the spans may be greatly increased by substituting plate girders.
+
+Whatever scheme of construction may be used for a fireproof building the interior framing remains practically the same so that it becomes merely a problem of treating the external wall in its relation to the adjoining floor. There arc three ways of doing this, which are optional as far as the law is concerned 1st. By making the masonry walls and piers of sufficient strength to carry their own weight plus that of the floors, roof and contents of the building. 2nd. By making the walls and piers of only sufficient strength to carry their own weight, and framing all the floors so that their weight shall be entirely carried by iron supports or columns extending from the foundation to the roof, the columns if necessary being somewhat recessed in the walls 3rd. By making a frame of columns and girders to completely carry the outer walls as well as the adjoining floor construction.
+
+The first method was used in a 10 storey warehouse on Bleecker street erected about two years ago. I noticed, before it was finished, that a considerable quantity of the outer brick facing on the lower stories had been crushed by the great weight above, necessitating cutting out and replacing. The second scheme is the one most generally adopted. The last method is adopted where the utmost economy of floor space is desired and of the three, I think it is the cheapest. A comparison of the relative cost may be easily estimated from rough sketches of each scheme, by taking (as we do) cast columns at 3 1/2c. to 4c. per lb. and beams framed (and I presume wrought columns also) at 5c. per lb.
+
+When the third method is adopted, the "curtain walls," it carried on girders at every story, may be 12" thick, but if on girders at every second storey, and the intermediate floor braced by metal ties, the wall must be 16" thick. The former method is the most usual—in fact, I have seen no case of the latter.
+
+Before the building law was revised last year, the columns were allowed to project inside these walls without masonry protection (fig. 2) but now a 4" casing of brickwork is required (fig. 3).
+
+The two following sketches (figs. 4 and 5) are copied from the Building Law, illustrating this method. Fig. 4 is the one usually adopted I do not remember having seen No. employed.
+
+The flanges of the girders carrying the curtain walls arc brought to within 2" of the outer face of the wall, the mason work being cut to fit them (fig. 6), making the masonry at the level of the girders a mere filling, resting partly upon the lower flanges
+
+*	Paper read for the author by Mr<person> E. Burke </person>at the third annual meeting of the <assoc>Ontario Association of Architects</assoc>.
+
+of the girders, and partly upon the wall below. These girders may, of course, be of rolled sections instead of built as shown on sketch, though it is the latter that I have seen used for that purpose.
+
+I heard the foreman of one of the largest iron firms say, that up to 20" it is just as cheap to use rolled sections - - beyond that the built ones are more economical. The above sketch (fig. 6) of girders at floor level applies to all floors, as the girders over each other will be the same size unless in special cases where some extra load may necessitate greater depth and strength. The only variation is in the size of the columns at each storey, thus making the brackets and lugs larger as the sizes of the columns diminish.
+
+The columns are usually footed as shown in fig. 7, the footing beneath being of sufficient spread to give about 4 tons weight to the superficial foot of soil. A building is being at present erected which has footings of an unusual character. The structure will evidently have an iron frame supporting the outer walls; upon the concrete bed are now being laid footings of riveted plate girders. Immediately beneath the columns (which are of cast iron) there is a cast iron base plate the width of the column by about 4 ft. long in the direction of the girder footing. The latter is composed of two upright thickness of 1" metal (forming one web) about 30" deep and some 15 ft. long, with a top plate about 14" wide and a bottom one some 30" to 36" in width. These are connected to the web by angle irons and triangular shaped stiffeners about 3/8" thick. The elevation and sections are somewhat as figs. 8 and 9. The whole of this built position is coated with tar, and the last column, which is on the end of one of the footing plates is secured from sinking by having its footing girder riveted to the adjoining one by means of a very thick plate about 6 ft. long on top of the upper plate (fig. 10). Method No. 2 is the most complicated one in dealing with footings, as the footings of the walls and columns usually overlap each other, making it difficult at times to get a good unified bearing beneath both—in a pier, for instance, six or eight feet long, where sometimes, of necessity the iron post is placed near one end.
+
+With regard to interior framing, we usually make trial schemes in order to get the least amount of metal to accomplish the desired end, as this means a saving in cost as well as somewhat less weight upon the foundations. The deeper the beams and wider the span for filling gives the stiffest floor as well as the cheapest. The <firm>Pioneer Fireproof Construction Co</firm>., of Chicago, has a catalogue which gives some interesting information and experiments on this point.
+
+The heavy printing office building which is being erected near <building>N.Y. City Hall </building>is calculated for 400 lbs. per sq. ft. of floor space. The beams are about ft. apart and 14' 6" long, resting upon plate girders 22 ft. between the bearing. The webs of the latter are 30" deep. The former are 10" beams. The general scheme is as per fig. 11. Where a beam is connected with a circular column it is the practice to mould the latter so as to allow the beam to butt against it with a square end (fig. 13). Fig. 12 Is a section through the beams looking towards girders. Fig. 13 is a section through C. C. (fig. 12) looking towards beams, and the scored section indicates the bracket to which the double girders are bolted, and which is moulded to fit the shape of the girders. Fig. 14 is a section at A. A. fig. 12 looking down, and the plates (shown square) are sometimes made circular Fig. 15 is a section at B, fig. 13 looking down. The above four sketches are of instances where the bottom of the beams rest upon the top of the girders. Where a heavy girder is bolted to a square column, an interior web is cast to unite the two sides, so that the pull of the top connection or the pressure of the supporting brackets will not rupture the flat sides of the columns (figs. i6 and 17). Fig. 16 is a side elevation looking towards girder, and fig. 17 a horizontal section at level of girder.
+
+Fig. 18 shows the manner in which the bracketing on the columns of the <building>"Columbia" building </building>were arranged, where the columns were about 18" square at the bottom, and connected with a wide lattice girder on the inside, which carried the floor beams. As the columns diminished in size towards the top, these supporting brackets were naturally made larger to suit the sizes of the girders which (lid not alter in size, as the weight they carried were the same at each floor, Fig. 18 is a section
+

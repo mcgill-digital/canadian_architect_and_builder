@@ -1,0 +1,180 @@
+<doctype type="text">38	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" ARCHITECTURAL ACOUSTICS.*" author="Anderson, G. R.">ARCHITECTURAL ACOUSTICS.*
+
+By G. R. ANDERSON, M. A.
+
+ Lecturer in Physics at the School of Practical Science Toronto.
+
+
+
+NDER the general heading of Architectural Acoustics
+
+U
+
+ we shall have several related problems to solve, and it may be well at the outset to consider what these are. There will be,
+
+The best form to give to an auditorium in order that the audience in all parts of the room may hear easily and without any confusion of sound or discrete echo. Here it may be pointed out that sound being reflected and refracted similarly to light, there may be formed regions of interference and foci representing concentration of the sound waves which will materially interfere with good hearing, if such points lie within the zone of the audience.
+
+2.	The arrangement of the heating, lighting and ventilation in such a way as not to interfere with thc hearing in any part of the room.
+
+3.	The deadening of walls to prevent sound penetrating beyond the audience chamber. in this connection would also lie included the location of pipes, ventilating shafts, etc.
+
+4.	The control of the acoustics of any audience room so that
+
+(I.) The sound shall lie sufficiently loud to lie heard easily in any part of the room.
+
+II.) That the components of a complex tone maintain their proper relative intensities.
+
+(III.) That the separate syllables lie heard distinct from each other.
+
+(IV.) In the ease of music that there may be sufficient sustenance of tone to prevent the music from appearing dead or oppressed.
+
+Apropos of this last condition it may be pointed out that in a hall destined for public speaking the reverberation should be as nearly as possible eliminated and that the most desirable duration may be different for different forms of music, so that a knowledge of the purpose for which the auditorium is mainly intended is necessary.
+
+Sound being a form of energy, when once started will continue until it is either absorbed or transmitted by the furniture and boundary walls of the room. Scarcely any one can have failed to notice how a sound is prolonged in an empty hall or church, anti how much more quickly it dies away in the presence of an audience. This continuance of sound after the source has ceased will he called reverberation, and is a measure of the duration of what may appropriately be called residual sound.
+
+This paper will deal with the question of obtaining such data as may enable the architect to secure any required reverberation depending on the purpose for which the building is intended. The solution of the problem will then be to determine the absorbing power of time various materials used in construction and of the audience, and then to so apportion them as to reach the desired result.
+
+To measure the absorbing power of any room it will be sufficient to measure what is inversely proportional to it, viz., the rate of decay of the residual sound. For this purpose we require a sound of constant intensity and a device to measure with accuracy the reverberation after the source has ceased to speak.
+
+The apparatus here exhibited consists as you see of an organ pipe of pitch C-517, mounted on a wind chest and operated electrically. This is in series with a specially designed torsion chronograph, so that the drum on which the records are made is held in its initial position so long as the pipe is sounding, hut is released the instant the pipe stops. A second electric key serves to operate a pencil which makes a record on the moving drum at the instant that the operator decides the sound has become inaudible. Then, knowing the period of the drum, we can readily determine the exact duration of audibility of the residual sound.
+
+The method of solution will be best understood by the study of concrete examples.
+
+We may lay down the following preliminary propositions:
+
+
+
+1.	The duration of audibility of residual sound is practically the same in all parts of an audience room.
+
+2.	The duration of audibility is independent of the position of the source.
+
+3.	The efficiency of an absorbent in reducing the duration of audibility is ordinarily independent of its position.
+
+
+
+These propositions which are readily verified by experiment are a prior evident when we consider that in a room of even fairly large dimensions the time taken by the sound to distribute itself is very small, the velocity of transmission being about 1,100 feet per second.
+
+
+
+* A paper read at the Annual Meeting of the Ontario Association of Architects by Mr. G. R, Anderson, Lecturer in Physics at the School of Practical Science. Toronto.
+
+If a room could be constructed whose walls were perfectly reflecting, the sound once started would continue indefinitely, and to measure time absorption of any material we would . merely have to introduce a certain quantity of it and measure the duration of the residual sound, amid so calculate the absorbing power directly. But such a room is not possible and therefore we are driven to calculate the absorption of any material by a process of elimination
+
+We will consider the lecture room of the Fogg Museum at Cambridge, having a seating capacity of about 50dm, the volume being 2,740 cubic metres. In this room there were introduced by degrees a number of elastic felt cushions, the duration of the residual sound being measured from time to time, . the results of which are indicated in the annexed table:
+
+	Area of		Absorbent.
+
+	Cushions.	( Open Windows.		( Duration of R. S.
+
+	0	)	0	) 5.61
+
+	5.2	(	4.2	( 5.33
+
+	11.	)	8.8	) 4.94
+
+	18.2	(	14.6	( 4.94
+
+	23.6	)	22.9	) 4.21
+
+	41	(	. 32.8	( 3.94
+
+	.54.	)	43.2	) 3.49
+
+	67.6	(	54.1	( 3.33
+
+	83.2	)	66.6	) 3.00
+
+	94.2	(	75.4	( 2.85
+
+	105.3	)	84.2	) 2.64
+
+	122.8	(	98.2	( 2.36
+
+	138.4	)	110.7	) 2.33
+
+	157.3	(	125.8	2.22
+
+	In order to	render these		results universally serviceable
+
+we must adopt sonic standard absorbent, and for this purpose aim open window is at once the most easily available one and is practically absolute. A comparison of the absorption of the cushions with that of an equal area of open window gave as the coefficient of absorption of the cushions in question 8. If now we plot these results on a  system of rectangular co-ordinates, we obtain this curve,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1, which from time fact that it is evidently tangent to time horizontal axis suggests a rectangular hyperbola. To exhibit such a curve in full we shah have to shift the vertical axis to time heft as shown in this second figure
+
+Fig. 2) where the curve is symmetrical with regard to time axes. Here the full line represents the absorption dime to time cushion or open windows while time dotted line is evidently that due to the walls of time room. The formula for this curve is (a — x) t= k a const, a representing the fixed absorption of the wails, and x that of the added absorbents, either cushions or open windows.
+
+Solving this equation from the given data we have a — 94 sq. metres of cushions
+
+(75 sq. '' open window
+
+that is time total absorbing power of the walls, floor, ceiling and furniture of this room---75 sq. metres of open
+
+windows.
+
+Having thus obtained the total absorbing power of a room, the next thing is to apportion that absorption  among the various surfaces. For this purpose we shall require observations on as mainly rooms as there are different substances in order to secure enough independent equations to effect a complete solution. The following
+

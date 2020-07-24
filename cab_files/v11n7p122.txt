@@ -1,0 +1,160 @@
+<doctype type="text">
+
+<article title="The London City Hall Disaster." author="">
+
+	THE CANADIAN	ARCHITECT AND	BUILDER
+
+
+
+48530 6675 =	as the live or superimposed load necessary to
+
+break the beam.
+
+In a beam of this kind nothing less than a safety factor of should be adopted—a factor of would be preferable. Therefore
+
+	10464 lbs. as the safe load of	10464th _
+
+		 308'
+
+34 pounds per square foot of floor.
+
+But from evidence given at the inquest we may assume that the strength of the beam was reduced about 25by defects, such as knots, &c., so that the actual safe load the beam would carry was about 25 pounds per square foot of the floor it supported. Evidently some one made a had guess when t his beam was put in.
+
+Whilst this sad accident is fresh in the minds of the public,
+
+would it not be a move in he right direction to interview t he
+
+
+
+Dominion government and ask for an appropriation to the
+
+expenses of carrying out an extensive series of experiments upon
+
+the different Canadian lumber used in buildings, bridges, &c. such as struts, columns, joists, &c.
+
+There is no reliable data to work from in the designing Of
+
+
+
+wooden beams and joists, except the experiments carried out some
+
+50 years ago on foreign woods one inch square, free from knots
+
+
+
+and all other defects. Such experiments are of little value, and not a fair representation of the strength of joists taken from the
+
+ordinary stock of lumber in general use.
+
+
+
+A series of experiments made at the Watertown Arsenal, iii the U.S.A., on full sized specimens go 10 prove that the data given
+
+by the early experimenters is not to be relied upon as correct for lumber in use at this date, the figures given being too high.
+
+My impression  that it would be much safer t to assume the 
+
+ultimate strength of the outer fibres of pine at 4,000 pounds. in beams or joists under a transverse load, and in designing beams or joists use a fibre stress of 800, 900, I 000, 1,100 or 1,200 pounds
+
+per square inch as the ease may require. The former would give a safety y of 5 and the latter about 3 1/2 With a higher unit
+
+stress than 1, 200 pounds the deflection would be greater than good practice would approve
+
+In all modern specifications for steel beams a unit stress of
+
+
+
+I 16,000 pounds per square inch has been adopted for t the tension
+
+
+
+and compression flanges This gives a factor of safety of about
+
+	3.12	to 4. Now if it is considered good practice	to adopt a factor
+
+
+
+of 31/2 for safety in a metal that can always be got from the mills of' a uniform quality, is it wise to use wood beams at a less safety factor, when we know that it is impossible to obtain lumber of a uniform quality and strength and without some defects.
+
+in the United States tests above referred to, the transverse
+
+breaking strength varied between 3,400 pounds and 6,400 pounds per square inch. The quality of the lumber was good and free from large knots and other defects, but not selected.
+
+If we take the average quality of lumber, I hnk 4000 pounds would be equal to the average strength.
+
+
+
+It is to be understood that beams under the above mentioned fibre stresses, to be safe, should he braced by bridging or otherwise at intervals of about 20 times the thickness of the joists and
+
+to avoid too much deflection the depth of joists may be got from the following Multiply the length of beam in feet by 0.75 and the product will give the depth in inches.
+
+Below I give formula for the safe loads of rectangular pine joists of symmetrical section
+
+
+
+h. h
+
+
+
+For a fibre stress of	800 lbs.—f. L x 88.9 - Uniform load.
+
+900 lbs.— f.	X100 =
+
+	1000 lbs.—f. "	x 111 . 1
+
+	"	1100 lbs. t. "	X122.2=
+
+"	1200 lbs.— f. " X 133.3
+
+
+
+if these formula are followed we need not fear that another disaster would occur if a few dozen extra people crowded into a room at any time. b=thickness, h=depth, and L=length in feet. f= the fibre stress in pounds square inch.
+
+W.	H. LAW.
+
+
+
+The Board of Health of London, Ont., have adopted a by-law to regulate plumbing- work in that city, and will recommend the same to the city council.
+
+
+
+TEMPERING TOOLS. Steel tempering is usually done in clean cold water but Mr. Levat publishes the result of employing commercial carbonic acid to quench in, as a method practiced by him with greater success at the laboratory of the Faculty y of Sciences, Paris. Two gravers made of Holzer steel were heated to cherry redness, and one was dipped in water and the other in carbonic acid. The superior physical qualities of the tool tempered in the new way were very evident on subsequent use.
+
+(Correspondence of the CANADIAN ARCHITECT AND BUILDER)
+
+
+
+IMPORTANT amendments to the Plumbing By-Law of the city' of Montreal have been prepared and have been read a first time in the City Council, as follows
+
+Whereas, this council has been given power to establish a board of health  and to grant t thereto and d authority to take means to promote the health of the city, to provide precautionary measures against the introduction of diseases etc.
+
+
+
+And, whereas, the existence, within the city limits, and especially within the densely populated districts thereof, of' pit-in-the-ground privies. is a menace to public health and a frequent
+
+
+
+It is ordained and enacted by the said council as follows
+
+
+
+I .	Paragraph (41 ) of sect n 4 of by-law No. 2 5, passed
+
+
+
+on June 4, 1894, and entitled By-law concerning plumbing, drainage and ventilation of buildings is amended by striking out all the words in t first three lines of said paragraph and by replacing them by the following so that the said paragraph reads
+
+as follows
+
+
+
+(41 ).—No privy vault or cesspool for sewage, shall be, after May 1st., 1899, permitted to remain n in any part of the city where water closets can, by means of a drain not over 200 feet in length, be connected with a public sewer in the street. When no sewer
+
+exists in the street a permit for a temporary privy may be granted by the board of health and in such case it shall be water—tight of a capacity of 45 cubic feet the sides and bottom shall be constructed of cemented brick, 12 inches in thickness and well cemented inside with hydraulic cement such vault max be constructed of cast iron, the shape or form of which shall be either circular or oblong, without angles, and with a concave bottom it shall be provided wit h a ventilation pipe at least four inches in diameter, extending from the pit through the roof sufficiently high as to prevent inconvenience to occupants of neighboring houses the seats shall have a tight -fit ting cover it shall have an aperture opening exteriorly to allow of cleaning by pneumatic process, such aperture to be 2 feet by feet in size or else the flooring shall be air—tight and shall have a tightly fitting trap door communicating with the pit the top of he vault shall be one foot above the level of the ground nothing shall be put into such pit, excepting human excreta privies shall be located at a distance of 20 feet (or more, according as the board of health may deem necessary) from any house or street they shall be emptied when the contents reach to within 18 inches of the top of the vault, by persons appointed by the board no offensive smell or gases shall be allowed to escape therefrom. But, in no case shall a privy be allowed within t the walls of a dwelling house or in any property situated in a street having a sewer.
+
+
+
+Sec. 2. ——The said by-law is further amended by adding after section 5, the following
+
+Sec. 6.—For each day after the first of May, 1899, that any privy vault or cesspool for sewage shall be permitted to remain within the city units, in contravention of paragraph (4) as above amended, the owner of the property shall be liable to a minimum fine of one dollar, recoverable through the recorder's court on action of the health department or of any member her of the board of health. Sec. 3.—Sect ion 6 of said by-law becomes section 7.
+

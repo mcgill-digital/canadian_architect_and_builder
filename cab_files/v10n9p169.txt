@@ -1,0 +1,180 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND	BUILDER
+
+
+
+circuits when set at 50 per cent. above the current, and with a they
+
+voltage 25 per cent. above that for which are designed.
+
+e.	Must be plainly marked where it will always be visible, with the name of the maker, and current and voltage for which the device is designed.
+
+
+
+45.	FUSES--(For installation rules, see Nos. 17 and 21.)
+
+
+
+a.	Must have contact surfaces or tips of harder metal having perfect electrical connection with the fusible part of the strip.
+
+b.	Must be stamped with about eighty per cent. of the maximum current they can carry indefinitely, thus allowing about 25 per cent, overload before fuse melts.
+
+With naked open fuses, of ordinary shapes and not over 500 amperes capacity, the maximum current which will melt them in about five minutes may be safely taken as the melting point, as the fuse practically reaches its maximum temperature in this time. With larger fuses a longer time is necessary.
+
+
+
+Inclosed fuses where the fuse is often in contact with substances having good conductivity to heat, and often of considerable volume, require a much longer time to reach a maximum temperature on account of the surrounding material which heats up slowly. This data is given to facilitate testing.
+
+c.	Fuse terminals must be stamped with the maker's name, initials, or some known trade mark.
+
+
+
+46.	CUT-OUT CABINETS—
+
+
+
+a.	Must be so constructed, and cut-outs so arranged, as to obviate any danger of the melted fuse metal coming in contact with any substance which might be ignited thereby.
+
+A suitable box can be made of marble, slate or wood, strongly put together, the door to close against a rabbet so as to be perfectly dust tight, and it should be hung on strong hinges and held closed by a strong hook or catch. If the box is wood the inside should be lined with sheets of asbestos board about onesixteenth of an inch in thickness, neatly put on and firmly secured in place by shellac and tacks. The wires should enter through holes bushed with porcelain bushings the bushings tightly fitting the holes in the box, and the wires tightly fitting the bushings(using tape to build up the wire, if necessary) so as to keep out the dust.
+
+
+
+47.	SOCKETS (Sec No. 27.)
+
+
+
+a.	No portion of the lamp socket, or lamp base, exposed to contact with outside objects, must be allowed to come in electrical contact with either conductor.
+
+
+
+b.	Must, when provided with keys, comply with the requirements for switches. (See No. 43.)
+
+
+
+48.	HANGER-BOARDS
+
+
+
+a.	Hanger-boards must be so constructed that all wires and current carrying devices thereon shall be exposed to view and thoroughly insulated by being mounted on a non-combustible non-absorptive insulating substance. All switches attached to the same must be so constructed that they shall he automatic in their action, cutting off both poles to the lamp, not stopping between points when started and preventing an arc between points under all circumstances.
+
+
+
+49.	ARC LAMPS—(For installation rules, see No. 19.)
+
+
+
+a.	Must be provided with reliable stops to prevent carbons from falling out in case the clamps become loose.
+
+b.	Must be carefully insulated from the circuit in all their exposed parts.
+
+c.	Must, for constant current systems, be provided with an approved hand switch, also an automatic switch that will shunt the current around the carbons, should they fail to feed properly.
+
+The hand switch to be approved, if placed anywhere except on the lamp itself, must comply with requirements for switches on hanger-boards, as laid down in Rule 48.
+
+
+
+50.	SPARK ARRESTERS—(See No. 190.)
+
+
+
+a.	Spark arresters must so close the upper orifice of the globe that it will be impossible for any sparks thrown off by the carbons to escape.
+
+
+
+51.	INSULATING JOINTS— -(See No. 26a.)
+
+
+
+a.	Must be entirely made of material that will resist the action of illuminating gases, and will not give way or soften under the heat of an ordinary gas flame or leak under a moderate pressure. They shall be so arranged that a deposit of moisture will not destroy the insulating effect, and shall have an insulating resistance of at least 250,000 ohms between the gas-pipe attachments, and be sufficiently strong to resist the strain they will be liable to be subjected to in being installed.
+
+b.	Insulating joints having soft rubber in their construction will not be approved.
+
+
+
+52.	RESISTANCE BOXES AND EQUALIZERS--(For installation rules, see No. 4.)
+
+a.	Must be equipped with metal, or with other non-combustible frames.
+
+The word '' frames '' in this section relates to the entire case and surroundings of the rheostat, and not alone to the upholding supports.
+
+
+
+53.	REACTIVE COILS AND CONDENSERS-
+
+
+
+a.	Reactive coils must be made of non-combustible material, mounted on non-combustible bases and treated, in general, like sources of heat.
+
+b.	Condensers must be treated like apparatus operating with equivalent voltages and currents. They must have non-combustible cases and supports, and must he isolated from all combustible materials and, in general, treated like sources of heat.
+
+
+
+54.	TRANSFORMERS---(For installation rules, see Nos. 11 and 33.)
+
+
+
+a.	Must not be placed in any but metallic or other non-combustible cases.
+
+ LIGHTNING ARRESTERS---(For installation rules, see No. 5.)
+
+
+
+a.	Must be mounted on non-combustible bases, and must be so constructed as not to maintain an arc after the discharge has passed, and must have no moving parts.
+
+
+
+CLASS E.----MISCELLANEOUS.
+
+
+
+56.	INSULATION RESISTANCE-The wiring in any building must lest free from grounds, i.e.,
+
+
+
+the complete installation must have an insulation between conductors and between all conductors and the ground (not including attachments, sockets, receptacles, etc.) of not less than the following:
+
+	Up to	5 amperes	4,000,000
+
+	10		2,000,000
+
+	25	"	800,000
+
+	50	"	400,000
+
+	100		200,000
+
+	200		100,000
+
+	400		50,000
+
+	800		25,000
+
+	1,600	    and over	.... 12,500
+
+
+
+All cut-outs and safety devices in place in the above. Where lamp sockets, receptacles and electroliers, etc., are connected, one-half of the above will be required.
+
+
+
+57.	PROTECTION AGAINST FOREIGN CURRENTS—
+
+
+
+a.	Where telephone, telegraph or other wires, connected with outside circuits, are bunched together within any building, or where inside wires are laid in conduits or ducts with electric light or power wires, the covering of such wires must be fire-resisting, or else the wires must be enclosed in an air-tight tube or duct.
+
+b.	All aerial conductors and underground conductors, which are directly connected to aerial wires, connecting with telephone, telegraph, district messenger, burglar-alarm, watch-clock, Electro-time and other similar instruments, must be provided near the point of entrance to the building with some approved protective device which will operate to shunt the instruments in case of a dangerous rise of potential, and will open the circuit and an EST any abnormal current flow. Any conductor normally forming an innocuous circuit may become a source of fire hazard if crossed with another conductor charged with a relatively high pressure.
+
+
+
+Protectors must have a non-combustible insulating base, and the cover to be provided with a lock similar to the lock now placed on telephone apparatus or some equally secure fastening, and to be installed under the following requirements:
+
+1.	The protector to be located at the point where the wires enter the building, either immediately inside or outside of the same. If outside, the protector to be enclosed in a metallic, waterproof case.
+
+2.	If the protector is placed inside of building, the wires of the circuit from the support outside to the binding posts of the protector to be of such insulation as is approved for service wires of electric light and power (see No. 40a) and the holes through the outer wall to be protected by bustling the same as required for electric light and power service wires.
+
+3.	The wire from the point of entrance to the protector to be run in accordance with rules for high potential wires, i.e., free of contact with building and supported on non-combustible insulators.
+
+4.	The ground wire shall be insulated, not smaller than No. 16 B. & S. gauge copper wire. This ground wire shall be kept at least three inches from all conductors, and shall never be secured by uninsulated, double-pointed tacks, and must be run in as straight a line as possible to the ground connection.
+
+5.	The ground wire shall be attached to a water pipe, if possible
+

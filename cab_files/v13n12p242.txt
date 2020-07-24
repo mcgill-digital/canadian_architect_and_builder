@@ -1,0 +1,85 @@
+<doctype type="text;ad">
+
+<article title=" QUANTITIES OF MORTAR REQUIRED FOR BRICKWORK " author="Bradbury, Thomas">
+
+QUANTITIES OF MORTAR REQUIRED FOR BRICKWORK.
+
+VANCOUVER, Nov. 24th, 1900.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR, In an article in the CANADIAN ARCHITECT AND
+
+
+
+BUILDER for October last, under the heading of "Quantities of Mortar Required for Brick per M" (page 196) it is stated that for a joint of ¼ to 3/8 in. brickwork, it will require 4 to 5 cubic feet of mortar to I M bricks, or say an equivalent of 2 feet 6 inches per cubic yard.
+
+In the CONTRACT RECORD of Oct. 17th, page 4, under the heading of "Brickwork" it is stated that one cubic yard of mortar will lay 8o feet of brickwork, or three cubic yards. Now a third of a cubic yard of mortar is 9 feet, that is equivalent to 9 cubic feet of mortar to one cubic yard.
+
+Result—Author of article in CANADIAN ARCHITECT AND BUILDER, 2 feet 6 inches of mortar to I yard of brick. Author of article in CONTRACT RECORD, 9 feet of mortar to 1 yard of brick.
+
+If the editor will kindly give some accepted authority on this question it might be the means of preventing some beginner from being led astray by one of the above contradictions.
+
+Yours very truly
+
+
+
+THOS. BRADBURY.
+
+
+
+[With regard to estimating the amount of mortar
+
+required to lay a cubic yard of brick-work, authorities seem to differ; this disagreement is, doubtless due to the fact that the sizes of bricks differ, some being made 8 inches long by 2 inches thick and 4 inches wide, while others are 9 X 4½ x 2½ inches. The smaller the bricks the greater number of joints, and consequently a larger amount of mortar will be required. For ordinary sized Canadian bricks, five tiers make one foot in height, therefore it requires 15 bricks to make one yard in height. This requires 15 joints, one quarter of an inch thick of mortar ; in other words we have 15 horizontal joints a quarter of an inch thick and 3 X 3 feet area, in one cubic yard of brick-work. This would make a mass of mortar 334 inches thick, and 3 feet x 3 feet. Then we have 12 vertical joints in a cubic yard of brick-work, which also measure ¼ inch by 3 feet 3 feet each, which
+
+gives another mass of mortar 3 inches thick by 3 feet x 3 feet, less, of course, the thickness of the total horizontal joints, which will be allowed for waste etc., in this estimate. Now we have a mass of mortar as follows:
+
+334 inches x 3 feet x 3 feet for horizontal joints, and
+
+3 inches x 3 feet x 3 feet for vertical joints, or a total of 6 3/4 inches x 3 feet x 3 feet for the amount required to lay a solid cubic yard of brick-work. According to this estimate, which gives three joints extra for waste, etc., it requires about 434 cubic feet of mortar to lay one cubic yard of brickwork, but as this estimate does not make deductions for voids in slack joints, cross joints, etc., it must be evident the estimate is in excess of the requirements, though it is best when estimating to allow for the larger quantity.
+
+Quoting an American authority on the subject (Trautwine) we get the following
+
+	THICKNESS	PROPORTION	No, OF BRICKS	No. OF BRICKS
+
+	OF JOINTS	OF MORTAR	PER CUBIC YD.	PER CUBIC FT.
+
+	About 1-9	638	23.63
+
+	4	574	21.26
+
+	" 3-10	522	19.33
+
+	13	475	17.60
+
+	4-10	433	16.04
+
+
+
+As these figures are based on bricks measuring only
+
+8¼ x 4 x 2 inches the amount of mortar required to lay
+
+a cubic yard is manifestly greater than would be necessary to lay a cubic yard with Canadian bricks.
+
+An English authority (Seddon) tells us that it requires to lay a cubic yard of brickwork "'8 of a yard of good lime and a quarter of a yard of sand."
+
+Professor Ira Baker in his " Treatise on Masonry Construction" says, "I cubic yard of mortar will lay from 67 to 80 cubic feet of brickwork," and "from 90 to 108 cubic feet of brickwork with 3/8 to ¼ inch joints." This rule is also quoted in Kidder's Building Construction and Superintendence."
+
+From the foregoing it will be seen that authorities differ somewhat, but to Canadian estimators the first figures presented in this article, namely, 4 3/4 cubic feet of mortar for each cubic yard of brickwork will be nearer the correct thing than either the English or American rules, that is to say, that from 0.25 to 0.30 cubic yards of mortar will be sufficient to lay one cubic yard of Canadian bricks. —THE AUTHOR OF THE ARTICLE.]
+
+[NOTE.—The article in THE CONTRACT RECORD to which reference is made by our correspondent, was republished from the St. Louis Builder. — Editor
+
+C.	A. & B.]
+
+
+
+
+
+
+
+CANADA FOUNDRY COMPANY, LIMITED
+
+TORONTO, ONTARIO.	

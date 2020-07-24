@@ -1,0 +1,58 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+formula CaSO42H2O. In other words, in 172 lbs. of this material there are 30 lbs. of water, or 20'9 per cent. water. This water may be driven off by heat, wholly or in part, in accordance wit Ii the temperature attained, In the manufacture of plaster of Paris it is the object of the manufacturer to drive off sufficient water from the raw gypsum to give the following formula: 2CaSO4H2O. In other words, 290 lbs. of the manufactured plaster of Paris should contain but 18 lbs. of water or 6.2 per cent. water. The lowest temperature at which gypsum may be burnt for its conversion into plaster of Paris is 80°C but temperatures falling between 110° arid 120° give the best results. At 200 C. gypsum loses all its water, becoming what is technically known as dead burnt, when it is useless for the work. It is thus seen that in converting crude gypsum (specific gravity 2.31) into plaster of Paris (specific gravity 27) practically three-fourths of the original water which exists in some state of chemical combination, is driven off. And, conversely1 this same amount of water is taken up when the plaster of Paris is mixed for running moulds, etc., at the plasterer's hands, on its reconversion into gypsum. But the query not unnaturally arises--why does plaster set? The answer is by no means generally known. It is because plaster, 2CaSO4H2O, is soluble in water; but thc additional water taken up gives rise to the insoluble hydrate CaSO42H2, which immediately crystallises out the plaster when set being a vast network of thousands upon thousands of these crystals. In practice water is used in large excess in order to give the necessary fluidity to the plaster; but this makes no difference in the end, in so far as thc amount actually taken lip and used in the conversion of the plaster into the fully hydrated crystals is concerned; any water over and above this is simply evaporated in the drying
+
+Here, then, is a ready method at hand, which has the advantage of being based on exact scientific data, for getting at the true value of any sample submitted. This particularly in conjunction with the specific gravity, which presents no difficulty, since a neutral medium in the way of a solution, of the specific gravity required, could be readily obtained at little cost from any wholesale chemist. In such a solution the plaster should neither float on the top nor sink to the bottom of the test glass or tube, but just remain suspended in the body of the liquid. This would confirm in many ways one's experiments and observations on the water test. Apart from any degree of fineness in size, plaster may be underburnt, In this case the extent of the damage would be shown by the lower percentage of water absorbed, and since the density would be inferior, the plaster would float on the top of a liquid standardized at 2 7, In the case of over-burnt plaster, we should get inferior absorption and superior gravity. The presence of lime would he indicated by a superior absorption, with corresponding differences in the specific gravity. while the presence of silicious matter would immediately place the combined water and the specific gravity respectively out of agreement. The superior absorption of water by plaster of Paris when Lime is present—with evolution of heat, by the way—is explained by the fact that 56 lbs. of lime, CaO, combines with 18 lbs. of water; 1120 giving 74 lbs. of the slaked lime; Ca(OH)2 a body containing 243 per cent. of water, 3.4 per cent. higher than gypsum The fol
+
+lowing trials, conducted by the writer, will serve to show how constant is the combination:
+
+<article title=" FINE PLASTER " author="">— FINE PLASTER.
+
+
+
+8 ozs. of plaster plus 5½ ozs. of water. Weight after drying, 9¼ ozs. full.
+
+8 ozs. of plaster plus 6 ozs. of water. Weight after drying, 9¼ ozs. full.
+
+8 ozs. of plaster plus 6½ ozs. of water. Weight after drying, 9½ ozs. bare.
+
+Approximately the water taken up in each case was
+
+14 per cent. Theory demands 14.7 per cent. Error
+
+07 per cent. This was effected with slight expansion
+
+of the plaster.
+
+<article title=" COARSE PLASTER " author="">COARSE PLASTER.
+
+
+
+8 ozs. of plaster pius 7½ ozs. of water. Weight after drying, 9¼ ozs.
+
+8 ozs. of plaster pius 8 ozs. of water. Weight after drying, 9¼ ozs.
+
+8 ozs. of plaster pius 8½ ozs. of water. Weight after drying, 914 OZS.
+
+Water taken up and fixed 13.5 per cent., or 1.2 per cent, less than theory demands. The shrinkage in each case was 1/8 in 13 inches.
+
+The three following trials were made with fine plaster, that which had been shown as being practically pure—taking up 14 per cent. of water, but with lime added in varying proportions
+
+
+
+<article title=" FINE PLASTER PLUS LIME " author="">FINE PLASTER PLUS LIME.
+
+
+
+A.	8 ozs. of fine plaster plus ½ ozs. of lime and 6 ozs. of water.
+
+B.	8 ozs. of fine plaster plus oz of lime and 7 ozs. of water.
+
+C.	8 ozs. of fine plaster plus 1½ ozs. of lime and 8 ozs. of water.
+
+After mixing, setting, and thoroughly drying the samples were weighed. A had gained 1 ½ ozs., B 134 ozs., and C 2¼ ozs. In other words, the percentage gain in each case was:— A= 15 per cent. B= 16.2 per cent. C= 19.1 per cent.
+
+Some relation is thus seen between the amount of water fixed and the proportion of lime present in the plaster It will he further noticed that the amount of water used in mixing does not affect thc results after the plaster has thoroughly dried. But it does affect :he plaster in other directions. A larger mass of plaster is obtained for a given weight of the material, when water is used in excess, than is obtained from the same weight of unmixed plaster if water be sparingly used in he mixing. But in the former case the resulting mass will be more open, as a body, and softer than when nixed under the latter circumstances, all other conditions being equal. An explanation of this fact is to be found in the rate or speed of setting. It is well known hat the size of crystals, not the shape, is largely governed by the rate or speed of formation in the mother liquid and since the setting of plaster consists solely f the formation and deposition of crystals in the manner indicated in the earlier part of this paper, the chances are that they are all governed by the same laws. In conclusion, it should be stated that the foregoing experiments were conducted in a workshop with ordinary balances and weights. The many nice adjustments and the absolute accuracy of the laboratory are of, under the circumstances, possible. However, the experiments are sufficiently accurate for all practical work
+

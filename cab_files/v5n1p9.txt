@@ -1,0 +1,74 @@
+<doctype type="text">be so thoroughly mixed, by sifting or otherwise, that it shall be uniform in character throughout its mass.
+
+The test for checking or cracking is an important one, and though simple, should never be omitted. It is as follows: Make two cakes of neat cement 2 or 3 inches in diameter, about 1/2 inch thick, with thin edges. Note thc time that these cakes, when mixed with mortar to the consistency of a stiff plastic mortar, take to set hard enough to bear a one-twelfth inch diameter wire loaded with pound, and a one-twenty-fourth inch wire loaded with 1 pound. One of these caltes, when hard enough, should he put in water and examined from day to day to see if it becomes contorted or if cracks show themselves at the edges, such contortions or cracks indicating that the cement is unfit for use at that time, in some cases the tendency to crack, if caused by the presence of too much unslaked lime, will disappear with age. The remaining cake should be kept in air and its color observed, which for a good cement should be uniform throughout (yellowish blotches indicating a poor quality), the Portland cements being of a bluish gray and the Natural cements being light or dark according to thc character of the rock of which they are made. The color of the cements when left in the air indicates the quality much better than when they are put in water.
+
+The strength of a cement depends greatly upon the fineness to which it is ground, especially when mixed with a large dose of sand. Cement of the better grades is now usually ground so fine that only from 5 to 10 11cr cent. is rejected by a sieve of 25)0 meshes per square inch, and it has been made so fine that only from 3 to 10 per cent. is rejected my a sieve of 3,200 meshes per square inch. The finer the cement, if otherwise good, the larger the dose of sand it will take and the greater its value. Following is a table showing the results of tests made at the Cairo Bridge:
+
+BRAND OF Proportion Tensile strength, lbs. per square inch for different
+
+	CEMENT.	of sand	degrees of fineness No, iou sieve.
+
+	100	90	80	70	60
+
+	f Cement
+
+Louisville	Sand 0		320	335	318	305	3t9
+
+	Cement 
+
+6 months	Sand 1		283	298	290	280	249
+
+  old.	Cement	1
+
+	Sand 2		199	192	181	173	161
+
+	Cement	1
+
+Portland	Sando		620	621	659	692	712
+
+	Cement
+
+6 months	Sand t	178	459	436	391	352
+
+	old.	Cement 1
+
+		Sand 2	323	299	263	249	224
+
+
+
+'[lie tests should be applied to the cements as offered for sale. If satisfactory results are obtained with a full dose of sand. the trials need go no further. If not, the coarser particles should first he excluded by using a No. 100 sieve, in order to determine approximately the grade the cement would take if ground fine, for fineness is always attainable, while inherent merit may not be. The question of a standard sand seems one of great importance, for it has been found that sands looking alike and sifted through the same sieves, give results varying within wide limits. The material that seems likely to give the best results is the crushed quartz used in the manufacture of sand paper, being both clean and sharp. The degree of fineness should be such that it will all pass a No. 20 sieve, and be caught on a No. 30 sieve. The proportions of cement, sand and water, should he carefully determined by weight, the sand 'and cement mixed dry and all the water added at once. The mixing must be rapid and thorough, and the mortar, which should he stiff and plastic, should be firmly pressed into the moulds with the trowel, without rarrimiog, and struck off level; the moulds in each instance, while being charged and manipulated. to he laid directly on glass, slate, or some other non-absorbent material. The moulding must be completed before incipient setting begins. As soon as the briquettes are hard enough to bear it, they should be taken from the moulds and be kept covered with a damp cloth until they are immersed. For the sake of uniformity, the briquettes, both of neat cement and those containing sand, should be immersed in water at the end of 24 hours, except in the case of one day teats. Ordinary fresh, clean water, having a temperature between fib and 70 degrees F,, should be used for the water of mixing and immersion of samples, The proportion of water required varies with the fineness, age or other conditions of the cement, and the temperature of the air, but is approximately as follows:
+
+For briquettes of neat cement, Portland, about 25 atural, ,, 30
+
+For	briquettes of 1 part cement and 1 part sand, about 15 30401f the total weight of sand and cement.
+
+For	briquettes of 1 pact cement and 3 parts sand, about 12 57216710f the total weight of sand and cement.
+
+The object is to produce the plasticity of rather stiff plasterer's mortar. An average of 5 briquettes may be made for each test, only those breaking at the smallest section to be taken. The briquettes should always be put in the testing machine amid broken immediately after being taken out of the water, and the temperature 01 the briquettes and of the testing room should be constant between 6o and 70 degrees F. The following figure shows the form of briquette recommended by the Committee of the American Society of Civil Engineers:
+
+GERMAN METHOD OF TESTING PORTLAND CEMENT.
+
+In November, 1878, the Prussian Minister of Public Works issued a series of standard rules for testing Portland cement, which were adopted by nearly all the architectural and engineering associations in Germany, and subsequently served as a basis for standard tides in several adjoining countries. At the instance of the <assoc>Association of German Cement Manufacturers</assoc>, these rules have now been altered and several important modifications introduced. The amended rules were published by the Prussian Minister of Public Works iii July, 1887, and differ from the mules previously in force as follows:
+
+The time of setting of a slow-setting cement is now fixed at two hours instead of half an hour. In testing for expansion, the cake of cement is allowed to set for 24 hours before immersing in water, during which period it is to be kept moist amid in the shade. The cement must be ground so finely that not more than 10residue remains upon a sieve of 900 meshes per square millimetre (5,806 meshes per square inch) and made of wire he
+
+thickness of which is one-half the width of the mesh moo grams (0.22 lbs.) of the cement is to be used for each test. The strength is ascertained by tensile amid compressive tests ; the cement in both cases being mixed with three. times its weight of sand of a definite size of grain. The breaking area of the tensile briquette is 5 square centimetres (0.775 square inches), and the compression tests are made with cubes of 50 square centimetres square inches). The minimum tensile strength of a mixture of 1 part by weight of slow-setting cement mixed with 3 parts by weight of standard sand, after hardening c clay ill air and 27 clays under water, is 16 kilogrammes per square centimetre (227.5 pounds per square inch). The crushing strength is 160 kilogrammes per square centimetre (2275,6 pounds per square inch), The standard sand is obtained by sifting clean quartz sand first through a sieve of 50 meshes per square centimetre (387 meshes per square inch), made of wire 0.38 millimetre (0.0146 inch) diameter, then through a sieve of 120 meshes per square centimetre (774 meshes per square inch), made of wire 0.32 millimetre (0.0123 mccli) diameter. The sand which remains upon tile finer sieve is that which is to lie used for the tests. For each series of tests ten briquettes at least must be broken, the average of the ten numbers obtained being taken as the strength of the cement. In making each five briquettes for the tensile test, 250 grammes pound) of cement is mixed wit h 750 grammes (1.65 pound) of standard sand and 100 grammes (022 pound) of fresh water, the whole mass being well mixed for five minutes. The mortar is beaten into the moulds for one minute with a spatula weighing about 250 grammes pound) until water begins to rise. When the surface has been smoothed with a knife, the mould is carefully removed and the briquette placed in a covered zinc-lined box for 24 hours. It is then immersed in water for the remainder of the hardening period. In making these briquettes by machinery, <person>Dr. Bohme</person>'s apparatus is cised; 180 grammes of the mortar is placed in the mould and subjected to 150 blows of a hammer weighing 2kihogrammes (44 pounds). For crushing tests, Dr. Bohme's machine alone is prescribed, the proportion of water and number of blows of the hammer being the same as for tensile briquettes. All the briquettes must be tested immediately they are removed from the water. In breaking the tensile briquettes. the weight must be added at the rate of 100 grammes (0.22 pound) per second. It may be mentioned that the amount of water prescribed by the German rules makes the mortar about the consistency of moist earth,
+
+And now, gentlemen, having discussed at considerable length a very dry and dusty subject, let us enquire how it is that every manufacturer proth dices the best cement on the market. The reason is somewhat as follows: One of the smaller towns in Canada or the States, let us suppose, has risen to the dignity of a city, with a board of works and a duly appointed engineer, who, we hope, is a graduate of the. Ontario School of Practical Science, and who is alive to the importance of carefully examining all cement used on public works. Some engineering structure of unusual importance is about to be built, and tenders for materials are asked, among other things cement. Then up conies the great unwashed army of cement manufacturers, who, unlike their German brethren, have not awakened to the advantages to be derived from a trade onion, and each deposits his tender accompanied by circulars showing that large quantities of his particular brand have been used on important works all over the country. In due time the tenders are opened, and, as usual, the figures are all closely bunched. The cement men get uneasy and anxious; but not so with our engineer. We notice an unusual gleam in his eye, and with a sardonic smile he vouchsafes the bloodcurdling information that the board has ordered a -testing machine. After the tests are made the contract is awarded to Mr. A., as his cement stood the highest in the tests. Then another town advertises, amid the same performance is reported, and Mr. B. gets the contract, and so on from A to Z. Thus all the manufacturers are satisfied, for each has found a place where his cement stood the highest test, proving conclusively that it is the best in the market.
+
+DISCUSSION.
+
+
+
+During the discussion which followed, <person>Mr. Barrett </person>pointed out that in hot summer weather considerable quantities of sand and cement were sometimes mixed dry and stored away ready for wetting tip into mortar, but this should never- be tolerated, as the sand1 although apparently perfectly dry1 contains sufficient moisture to cause incipient setting in the cement, thereby detracting from its strength.
+
+<person>Mr. Wells </person>: Why are not 24-hour tests made of mixtures of sand and cement, the same as with neat cement?
+
+<person>Mr. Ball</person>: Although 24-hour tests of neat cement arc useful either in themselves or in comparison with the 7-day tests, 24-hour tests of a mixture of sand and cement are of no value.
+
+24-hour tests of neat cement, in themselves, give little or no indication of the ultimate strength which that cement will attain, but such tests are useful where a quick setting cement is required, as for sewers, in running water, &c., where quick setting is desirable, or where a considerable strain will be brought to bear soon after the cement is in place ; they are also useful when compared with 7-day tests, as before mentioned. Sand does not diminish the ultimate strength of cement so much as it retards its setting and hardening, as will be seen by a comparison of the strengths of neat cement and of mortar at the ages of 7-days and one year. Mortar made with cement and sand at the age of 24-hours would possess very little strength, and would give no indication of the ultimate strength.
+
+<person>Mr. Johnson</person>: I would like to ask the speaker's opinion on the practice of specifying the best quality of cement for first class masonry, and allowing inferior grades in third or second class masonry.
+
+Mr. Ball: This is a very common mistake. Stones accurately
+

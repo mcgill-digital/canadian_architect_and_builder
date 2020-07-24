@@ -1,0 +1,222 @@
+<doctype type="text">
+
+<article title="Correspondence" author="">
+
+	THE CANADIAN	ARCHITECT AND BUILDER
+
+
+
+replacing the words "a secretary-treasurer," in the third line, by the words "a secretary and a treasurer."
+
+
+
+2. The second clause of section 7 of the said act is replaced by the following
+
+
+
+"Any person who had attended an architect's office during four years, at the time of the coming into force of this act shall be entitled to be registered as a member of the association by observing the above formalities."
+
+3. The notice that the organization of the council of the association of architects of the Province of Quebec is completed shall be published without delay after the sanctioning of this act, in the Quebec Official Gazette, and the delay of six months, mentioned in section 7 of the 54 Victoria, chapter 59, shall be computed from such publication.
+
+4. Section 13 of the said act is replaced by the following:
+
+13.	After the expiration of six months from the publication of the notice of the organization of the council of the said association, no person can take or make use of the name of architect, either singly or in connection with any other word, name, title or designation, giving it to be understood that he is an architect under this act, unless he is registered under this act as a member of the said association.
+
+Any person who, after the time above mentioned, not being registered as a member of the said association, takes or makes use of any such name, title or designation, as above mentioned, shall be liable, upon summary conviction, to a fine not exceeding twenty-five dollars for the first offence, and not exceeding one hundred dollars for every subsequent offence."
+
+
+
+3. This act shall come into force on the day of its sanction.
+
+
+
+
+
+<article title="The London Building Disater." author="BAILLAIRGE, Charles ">
+
+THE LONDON BUILDING DISASTER.
+
+To the Editor of the CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR,—Without the least idea of placing the responsibility of the London, Ont., accident at the City Hall on anyone, which might be as unjust as to saddle a surgeon or physician or dentist with killing his patient, or an apothecary for giving poison by mistake, it behooves me, as a member and past-president of the P. Q. Association of Architects, or as a member of the Can. Soc. C.E., to reduce the thing to calculation and let the result be a most instructive lesson to both professions and to builders in general, so that if possible, present structures be examined and strengthened where necessary, or the components of new structures made such that similar accidents be impossible or improbable in the future.
+
+
+
+From the data I possess and some of which you were kind enough to hand me, and from a plan of the room where the accident happened, giving lengths, breadths, depths and distances apart of joists, beams, etc., I compute the dead weight of the
+
+whole to have been	13,845 lbs.
+
+
+
+including joists, flooring, ceiling, deafening, mortar
+
+
+
+and supporting sheet iron.
+
+
+
+Taking the greatest assumed number of persons in the
+
+
+
+room to have been 300, at 150 lbs.	45,000 lbs.
+
+Together	58,845 lbs.
+
+At centre—say 1/2	29,422 lbs.
+
+
+
+or 14.7 tons.
+
+
+
+Thus the incriminated beam broke under this weight.
+
+
+
+Now the strength of beam, made up though it was of four beams 3" X 14" spiked together, may be assured, if well bound together, equal to that of a solid beam of same size, or of 12" x 14". Taking Trautwine's 450 lbs. as the breaking weight of an average pine bar of 1" x 1" x 1', we have for the breaking weight of our beam
+
+	450 lbs.	b x d2 or 450 lbs	I2 x I4 or 450	12 x 196
+
+	b 21	21
+
+or 450 X	=450 lbs. x 112 times	50,406 lbs., say 25 tons.
+
+
+
+Therefore, had the beam been sound it probably would have stood the test, but there were knots in two of the four component pieces, and the beam broke at one of these knots; and that the knot was a bad one is evidenced by the fact of it being a dry one, since it was found fallen out of the beam. Witness Broadbent thinks these knots weakened the beam one-third, and this is a pretty shrewd guess—unless arrived at by calculation of size, or, rather, depth or height, of knot, and taking into consideration its position in the beam as to whether at centre of depth thereof or at or near top or bottom of beam.
+
+
+
+County Engineer Talbot estimates the weakening of beam by knots at only 1/10, and I am not in a position, not knowing size or position of knots, to judge between these gentlemen. But if Talbot be correct, then the difference of stress must have been due, as he assumes, to the vibration caused by the stamping and jumping he alludes to. If there was no stamping or jumping adequate
+
+to much of an increase in the stress, then Broadbent's assumption of a 1/3 weakening by the knots must be reliable.
+
+
+
+Taking then from 25 tons, strength of beam, one-third of it, to allow for weakening, we get 1423 tons, or just the weight under which the beam broke.
+
+
+
+It will be noticed that no strength or resistance or support is attributed to the flooring beams, which there of course would have been had the joists been, all of them or even half of them, of a single length or stretch but on the contrary they are all, so I am informed, or were, in half lengths, meeting or lapping a few inches on the bearing beam, and in such case, not only do they not add to the strength, but they aggravate the weight.
+
+
+
+Now even had this beam been sound, it is seen that its total strength was but 25 tons, not 5o, as Mr. Talbot says, from, evidently, forgetting to divide his distributed weight by 2 to get weight at centre. Thus, at 25 tons breaking weight, supposing it to be sound, it had only a factor of safety of 1 2/3 instead of from 3 to 5, which such factor should have been, and had it been made
+
+
+
+20" high it would then have had a factor of safety of about 3 1/2, thus guarding against any probable eventuality ; while, as it was, a column under it would have made it all right.
+
+
+
+Without being an alarmist, but seeing the comparative frequency of such accidents here, as in the United States, it would not be amiss for municipal and other authorities to put a few dollars in the way of architects and engineers by causing them to examine and report on structures where a column or two or the  strengthening of a beam might be essential.
+
+
+
+CHAS. BAILLAIRGE,
+
+
+
+City Engineer, Quebec.
+
+
+
+
+
+
+
+MONTREAL, Jan. 27th, 1898.
+
+
+
+<article title="Correspondence." author="GARDINER, J. Rawston">
+
+To the Editor of the CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR,—Having calculated the strength of the beam and the estimated actual weight on the beam at the time of the collapse, I send you the figures which (if you find correct) may be of interest to your readers:
+
+
+
+It has been calculated, according to your article on the subject in the January number, that there were 250 persons on the floor at the time of the disaster—which seems to be on the high side, but I 'have taken this figure for my estimates, which are as follows
+
+WEIGHT (LBS.) OF BEAM.
+
+
+
+250 persons at 130 lbs. each=32,500 lbs.
+
+
+
+6oo sq. ft. of floor, plaster, etc., at 20 lbs. 12,000
+
+
+
+44,500 "
+
+
+
+Half this amount will have been borne by the beam, viz., 22,250 lbs. or nearly 75 lbs. to the sq. foot.
+
+
+
+22,250 lbs.
+
+
+
+
+
+CARRYING POWER OF BEAM.
+
+
+
+b.d2
+
+
+
+1—x3=breaking weight at middle in cwts.
+
+12 x 142
+
+that is	x 3 336 cwts. or 37,632 lbs.
+
+21
+
+336 x 2
+
+	or-	=672 or about 134 cwts.
+
+5
+
+that is, 15,008 lbs. safe load distributed with a factor of safety of 5. With 4 as a factor of safety we get 18,800 lbs.
+
+
+
+The result of these figures shows that the beam when broken had about 22,250 lbs. weight upon it—if only persons were in the room and no other weight—and that this beam should not have had more than 18,800 lbs. upon it. However, the point is whether the beam would not have stood this weight of 22,250 lbs. if the beam had been built and set properly. There seems to have been a good deal made out of a knot in the wood, but in a built beam of 4 pieces 14 X 3 inches it seems to me as highly improbable that the knot would come in the same portion of the
+
+beam when built up and therefore should not have been weakened 
+
+
+
+as much as argued. Another point, however, may be argued, whether a built up beam nailed together is as strong as a solid I one of the same dimensions and what proportion one bears to the other. I should like to hear this point discussed by architects and engineers.
+
+
+
+Yours very truly,
+
+J.	RAWSON GARDINER.
+
+
+
+
+
+
+
+The contractor's ad should make a. strong bid for favor,— Printer's Ink.
+

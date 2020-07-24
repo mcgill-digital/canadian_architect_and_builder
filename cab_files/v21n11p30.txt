@@ -1,0 +1,76 @@
+<doctype type="text;ad">
+
+the resisting moment of a square rod whose side is s, we obtain
+
+D
+
+S = —38
+
+As this is close to 1-40 of the diameter of the column,
+
+we may use the same size of square rod as that used in
+
+the coil.
+
+It is recommended, therefore, that reinforced concrete columns he made round or octagonal and that the entire area of the circle or octagon be considered as taking the load; also that the reinforcement be made of a coil of square steel rod 'of a diameter one-fortieth that of the column; also that just inside of this coil eight rods of tile same diameter be wired to the coil. At thc end of a coil tile rod should lap a half circle, as this would he about 55 diameters.
+
+The unit of 550 pounds per square inch would he
+
+used for lengths up to 10 diameters. Between 10 and
+
+25 diameters the allowed unit pressure would be found
+
+by the following formula:
+
+	1
+
+	P	670 — 12 —
+
+		D
+
+
+
+where p — allowed pressure per square inch,
+
+1 = length in inches.
+
+D — diameter in inches.
+
+
+
+Columns more slender than 1-25 of their length should be avoided. The same reinforcement should be used in all columns of a given diameter, so that flexural and eccentric stresses will be taken care of in long columns.
+
+
+
+The Don Valley Brick Works
+
+	ARE NOW	MANUFACTURING
+
+
+
+
+
+Canada Foundry Company, limited
+
+
+
+
+
+HEAD OFFICE: 36 Toronto Street, TORONTO
+
+
+
+
+
+MONTREAL AGENTS:
+
+
+
+ DAVID McGILL, 206 Merchants Bank Chambers, MONTREAL
+
+
+
+
+
+Kindly Write for Prices
+

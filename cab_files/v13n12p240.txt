@@ -1,0 +1,61 @@
+<doctype type="text">
+
+
+
+block A to the line C A D, on the saw bench, using a twelve inch saw, first draw the circle E M 1), twelve inches in diameter, the same as the saw, then lay off on the radius E K, E F, equal to A B, and draw a line at right angles for the surface of the table. With F for the center draw the circle T H V, equal in diameter to C D, Now the line passing through M, and touching the circle at T, will make the required angle with the line M I. From the point M, lay off at right angles to S M, M L, equal to D N; set the saw gauge at this point, with the angle already found, and the saw bench is ready for the work. The teeth of the saw, for this purpose, should be very coarse, and filed so as to cut the whole length of their sides as well as their points. If three or more of the teeth could be made shorter than the rest, and at the same time given more set, it would improve its working qualities greatly. When the saw is fastened to the arbor by means of two wedge shaped collars, the same will "wobble" or "stagger", and will cut a groove, having parallel sides, but the bottom will be concave in sections, as shown in the first diagram in Fig. 8. This can be made to give a flat bottom to the groove by jointing the saw while in motion, as shown in the second figure. By setting the saw off from the center, one corner of the groove will be made deeper than the other, but the sides will remain parallel. A dovetailed shaped groove may be made by tilting the stuff first on one side, and afterwards on the other, specimens of the dovetailed groove are shown in the lower sketches. Door stiles and door rails may be plowed for the panels by "wobbling" the saw as shown, and the panels get a better "grip' when fitting in a sawn groove. The size of the groove may readily be obtained by the proper adjustment of the bevelled washers; they can be turned on the arbor to give the saw the proper angle, and when the right position is once found, the washers and the saw can be marked, and the same adjustment can be made with little trouble when the same size of a groove is wanted. The bevel washers may be made of hardwood—maple being about as good as any—and one pair of washers may be used for several sizes of grooves. The washers, if made of wood, should fit loosely in the arbor and should be true on both face, and each should be the exact counterpart of the other. In fact, it is better, when making the washers, to make the two out of one piece of stuff, boring the hole first, and then sawing them across the hole to the proper bevel. The iron collar and outside washer must be retained on the mandrel. The first bevel washer fits against the collar, then the saw is run on, then the round wooden washer, with its thick end opposite to the thin end of the first washer, then the rim washer, which must be followed by the tightening nut. The saw will then stand at an angle with the mandrel, and this is the object attained.
+
+
+
+The Hanover Portland Cement Company are enlarging the capacity of their works from 200 barrels to 300 barrels per day.
+
+PROMINENT CONTRACTORS
+
+MR. J. B. MCMANUS.
+
+<article title=" PROMINENT CONTRACTORS " author="McManus, J. B.">
+
+One of the best known contractors of late years in the Maritime provinces is Mr. J. B. McManus of Memramcook, N. B., who has become particularly known as a builder of sub-structures in bridge work, and who has been handling large contracts of a general character though he seldom now turns his attention to the erection of buildings.
+
+Mr. McManus was born in Memramcook in 1846 and is a son of Terrance McManus, a native of the north of Ireland who settled in New Brunswick when about twenty years of age, and who for some years with his sons did business under the name of T. McManus & Sons.
+
+For some twenty years previous to 1894 J. B. McManus and his brother J. W. McManus were the only members of the old firm. At that date they dissolved the partnership and each is now doing business under his own name.
+
+Mr. McManus does a large amount of work throughout the Maritime provinces and in New Brunswick especially for the Provincial and Dominion governments.
+
+Among the many contracts handled during the last few years might be mentioned the building of two large breakwaters in the summer of 1899, one in Kings and one in Shelburne county ; also one that cost $20,000 in Guysboro county. In company with other well known builders, who formed with him the firm McManus, Lowe & McManus, he aided in the construction of the big under blast and open hearth furnaces at Sydney, C.B., for the Dominion Iron & Steel Co., the cost of which approximated $60,000.
+
+Mr. McManus is just completing for himself a residence in Memramcook which is one of the finest in that section.
+
+
+
+METHOD OF FINDING DIRECTION OF JOINTS
+
+IN ELLIPTICAL ARCHES.
+
+EDITOR CANADIAN ARCHITECT AND BUILDER
+
+
+
+DEAR SIR,—Your diagram Fig. I in this month's BUILDER showing the manner of finding the direction of joints in semi elliptical arch, is not correct. The tangent as shown, or at least a line parallel with a tangent, is all right when applied to circles, but wrong in a semi ellipse. The most practical way to correctly draw those points when a semi ellipse has been drawn with a string is to draw lines from the foci to the point where the joint is required and bisect the angle thus obtained, which will be thc correct joint.
+
+JOHN HANRAHAN.
+
+
+
+ANSWER—Theoretically our correspondent is quite right, but his method is not in general use among bricklayers as it takes too much time to obtain the correct lines, and the method shown in Fig. I, November issue, is often employed instead because of its quick application, and it is approximately correct. Most so-called elliptical arches are simply semi-ovals, being composed of segments of circles, and the rule given applies to such arches with correct results.
+
+
+
+
+
+The coroner's jury at Ottawa charges the city building inspector with derelict ion of duty in allowing an imperfect wall to remain standing. The falling of the wall recently caused the death of two. per sons.
+
+
+
+THE SOLAR PRISM CO., 
+
+CLEVELAND, OHIO., U.S.A.
+
+THE N T. LYON GLASS CO. LIMITED (AGENTS FOR CANADA)
+
+TORONTO 

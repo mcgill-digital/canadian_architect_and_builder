@@ -1,0 +1,92 @@
+<doctype type="text">STUDENTS DEPARTMENT
+
+<article title="Students Department" author=""> STUDENTS' EXAMINATIONS 
+
+
+
+FOLLOWING are the subjects for THE students' examinations of the <assoc>Ontario Association of Architects </assoc>for 1896:
+
+FIRST INTERMEDIATE EXAMINATION.
+
+Every candidate must, at least one week prior to thc date fixed for the examinations, send to the Registrar the following drawings, which must be certified by his principal to be his own work
+
+Five sheets of drawing's, one of each of the Roman orders. One sheet of the moulding's and ornaments of those orders drawn to a larger scale. (Each sheet to be of the size of a half sheet of Whatman's Double Elephant paper, i.e., 20 in. by 26 in.)
+
+The subjects for examination will be
+
+ELEMENTS OF CONSTRUCTION.—Text book: Mitchell's Building Construction.
+
+MATHEMATICS.—EUCLID : Books I, II and III. Plane Trigonometry : Including the solution of plane triangles. Algebra Including quadratic equations.
+
+TECHNICAL TERMS. —A knowledge of the terms necessary to understand the description of a monumental building and its parts.
+
+HISTORY OF ARCHITECTURE -To the close of the Roman period. Books recommended: Stevenson's House Architecture Vol. 1, as an introduction ; Rosengarten's Architectural Styles Fergusson's History of Architecture.
+
+SECOND INTERMEDIATE EXAMINATION.
+
+Everly y candidate must, at least one week prior to the date fixed for the examination, send to the Registrar the following drawings, which must he certified by his principal to he his own work
+
+One sheet of Romanesque architecture two sheets of Gothic architecture one sheet of drawings measured from existing examples one sheet of constructional details. (Each sheet to be of the size of a half sheet of Whatman's Double Elephant paper, i.e., 20 in. by 26 in.
+
+The subjects for examination will he
+
+	Statics GRAPHICAL. AND	Analytical
+
+
+
+STRENGTH OF MATERIALS.—Text 1)00k for both the above heads : Lessons in Applied Mechanics, by Cotterill & Slade Part II.
+
+PRACTICAL KNOWLEDGE OF BUILDING TRADES.—Masonry (excluding cut stone work), Brickwork and Plaster. Text hook:
+
+Mitchell's Building Construction ; advanced course.
+
+STRUCTURAL IRON WORK—The candidate will be required to draw details of the forms of ii on construction in use in ordinary practice, viz.: the construction of columns and girders, and the framing of beams and trusses. Text 1)00k : Mitchell's Building Construction ; advanced course.
+
+HISTORY OF ARCHITECTURE.— From the close of the Roman period to the present time. Text books recommended: Fergusson's History of Architecture Rosengarten's Architectural Styles ; Parker's Introduction to Gothic Architecture.
+
+FINAL EXAMINATION.
+
+Every candidate must, at least one week prior to the date fixed for the examination, send to the Registrar a perspective drawing which must he certified to be his own work. Drawings to be on a sheet of paper, 20 in. by 26 in., and not mounted on cardboard.
+
+The subjects for final examinations will he
+
+HISTORY OF ARCHITECTURE.—The candiate will he expected to know the history of the development of Architecture.
+
+MOULDINGS, FEATURES AN I) ORNAMENTS.—The candidate must be able to draw the characteristic moulding's, features and ornaments of any style.
+
+DESIGN. —As illustrated by drawings for a building of moderate dimensions, from particulars given, with details of construction and ornament.
+
+NATURE AND PROPERTIES OF	MATERIALS.—Limes, cement, stones, bricks, timber. Text book: South Kensington Notes on Building Construction.
+
+FOUNDATIONS—Text book:	Foundations, by George T. Powell.
+
+ARCHITECTURAL JURlSPRUDENCE.—Text book: The law re
+
+lating to Civil Engineers, Architects and Contractors, by Macassey & Strachan.
+
+PRACTICAL KNOWLEDGE OF BUILDING TRADES.— Sufficient for the purposes of ordinary building. Text 1)00k : South Kensington Notes on Building Construction; Building Superintendence, by T. M. Clark.
+
+STRENGTH OF MATERIALS.—Designing structures of an ordinary kind from data, with computation of the strains involved. Text book : South Kensington Notes on Building Construction.
+
+HEATING AND VENTILATION.—Text books : Ventilation and Heating, by John S. Billings; Steam Heating for Buildings, by Wm. . Baldwin.
+
+SANITARY SCIENCE.—Text books : Gerhard's House Drainage Bayles' House Drainage and Water Supply.
+
+STEEL AND IRON CONSTRUCTION AND PROTECTION.— Text
+
+book recommended : Skeleton Construction in Buildings, by W. H. Birkmire.
+
+
+
+<article title="Plaster Casts" author="">PLASTER CASTS.
+
+PLASTER of Paris may he hardened so as to bear a more perfect polish than ordinary stucco-work, and not he very readily scratched. Thus is effected, says\ the Builders' Reporter, by the addition of certain saline substances, such as alum, borax, silicate of potash, or soluble glass. If an object in plaster, such as a bust he soaked for a month in a solution of alum in twelve to thirteen parts of water, and then wiped and allowed to dry fully in the air, it will become so hard that It can no longer be scratched with the nail, and will lose much of the brittleness (if ordinary plaster casts. Casts treated in this way become stained, and are always liable to attract moisture from the atmosphere. If baked gypsum be moistened with a solution of alum, or raw powdered gypsum be well mixed up with a similar solution and exposed to a red heat, a mass will be obtained of a dull milk-white, or more usually a slight cream color, which may be readily pulverized, and will set quite as well as ordinary gypsum, especially if a weak solution of alum be employed in making the paste. Casts prepared of the compound thus formed, although taking a longer time to dry, are unusually hard. They may he exposed to the weather for some time and may he washed with a sponge without injury, and even immersed in boiling water without diminishing their hardness. Those prepared by steeping in a solution of alum, on the contrary, will become quite soft; so much so as to receive the impression of the fingers if soaked for a few hours in cold water. Keen's cement is a plaster prepared in this way. If carbonate of potash or pearl-ash be mixed with the alum, so as to form a basic alum, we have Martin's cement ; and if for the alum we substitute borax, we have Parian cement. Common plaster of Paris casts resemble, in many respects, the dense gypsum from which a good deal of the plaster of commerce is made; and as this differs from alabaster only in its molecular structure, many persons have imagined that it might be possible to convert plaster into a material resembling that beautiful substance. The nearest approach which has yet been made to the solution of this important problem is Cheverton's invention of the so-called protean stone or plastic ivory. This substance, which is well adapted for carvings in imitation of ivory and the manufacture of various ornaments, is made by exposing the plaster cast or block of the same substance to a temperature varying from 250 deg. to 350 deg. Fahr., during twenty-four hours, by which the whole of the water combined with uhe sulphate of lime is driven off, and the material reduced to the condition of plaster of Paris. After undergoing this operation it still retains its form, but is exceedingly friable.
+
+
+
+The following makes a good gasfitter's cement :—Take 4 1/2 part. by weight of resin, I part of beeswax, and 3 parts of Venetian red. Melt the resin and wax together, then stir in the red pigment, and pour the mixture into moulds made of oiled paper or iron.
+
+Brick-dust MORTAR.—The use of brick-dust mortar as a substitute for hydraulic cement is now recommended on the best Spanish engineering authority, experiments made with mixtures of brick-dust and quicklime showing that blocks of one half inch in thickness, after immersion in water for four months, bore without crushing, crumbling, or splitting, a pressure of 1,500 lb. per sq. in. The use of brick-dust mixed with lime and sand is said to be generally and successfully practised in the
+
+Spanish dominions and is stated to he in all respects superior to the best cement in the construction of culverts drains, tanks, or cisterns.
+

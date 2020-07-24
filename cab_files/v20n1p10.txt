@@ -1,0 +1,80 @@
+<doctype type="text">CANADIAN ARCHITECT AND BUILDER 
+
+
+
+<article title=" CEMENT AND CONCRETE " author="">CEMENT AND CONCRETE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article title=" BY-LAWS GOVERNING REINFORCED CONCRETE CONSTRUCTION IN TORONTO " author="">
+
+BY-LAWS GOVERNING REINFORCED CONCRETE CONSTRUCTION IN TORONTO.
+
+Considerable difficulty has been experienced by City Architects and Building Inspectors in framing a set of by-laws governing the erection of reinforced concrete buildings. The officials do not wish to be too stringent, neither do they wish to authorize the erection of buildings which will not stand reasonable tests. For these reasons the conditions have been carefully considered and the following set of by-Jaws which was compiled by Mr. Robert McCallum, City Architect of Toronto, are about as reasonable for all persons concerned in the construction of a building as could be expected.
+
+PERMISSION TO ERECT.— Before permission to erect any reinforced concrete structure is issued, complete drawings and specifications must be filed with the inspector of buildings, showing all the details and the size and position of the reinforcing rods, stirrups, etc., and giving the composition of the concrete; provided, however, that permission to erect any reinforced concrete does not in any manner imply the acceptance of the construction until after tests have been made of the actual construction to the satisfaction of the inspector of buildings.
+
+The execution of concrete work shall be confided to workmen who shall be under the control of a competent foreman or superintendent.
+
+PROPORTION OF CONCRETE. -- The concrete shall be mixed in the proportions of not less than one part of cement, two parts of sand and four parts of clean stone or gravel, or in such other proportions as may be necessary to make the resistance of the mixture to crushing not less than 2,000 pounds per square inch after hardening for twenty-eight days.
+
+METHOD OF TESTING.— The tests to determine this value must be made by a competent engineer, furnished by the owner of the building, or by the contractor, and such tests, as well as the preparing of the mixture for the same, shall be made in the presence of and under the direction of the inspector of buildings or his regularly authorized assistants. All concrete work entering into the construction of any building shall be made of like material and proportioned in the same manner as the concrete in the accepted tests.
+
+MIXING OF CONCRETE.— The concrete used in rein forced concrete construction must be what is usually known as a "wet" mixture, and all concrete shall be thoroughly mixed by machine to an even, uniform consistency.
+
+When a section or panel of reinforced concrete or any trussed concrete member is started, it must be finished in its entirety before shutting down for any purpose which will make a necessary delay of more than thirty minutes' duration, and any batch or remnant of concrete which has been allowed to stand until
+
+it begins to set must be at once removed and shall not be mixed and used in any portion of the work.
+
+PUTTING CONCRETE IN PLACE, ETC. -- All concrete must be placed in the forms in its final position as quickly as possible after being properly mixed, and particular attention must be given to the thorough puddling of concrete around all reinforcement, and under the lower flanges of all beams, so as to make the entire mass a rnonolithic body entirely free from voids or unfilled portions.
+
+QUANTITY CEMENT -- Only high grade Portland cement shall be used in reinforced concrete construction. Such cement when tested neat shall after one day in air develop a tensile strength of at least 200 pounds per square inch, and after one day in air and six days in water shall develop a tensile strength of at least 500 pounds per square inch, and after one day in air and twenty-seven days in water shall develop a tensile strength of at least 600 pounds per square inch.
+
+Provided always that a copy of a duly certified statement of the result of each such test of the cement to be used in any concrete construction shall be filed with the city architect before the said cement is used in said construction. Other tests as to fineness, constancy of volume, etc., made in accordance with the method prescribed in recognized " standard specifications for cement," shall be furnished when deemed necessary by the city architect.
+
+SAND.—The sand to be used must be clean, sharp and coarse, perfectly free from loam or dirt.
+
+CRUSHED STONE OR GRAVEL.— The stone used in the concrete shall be clean crushed stone or gravel of a size that will pass through a three-quarter inch ring. The stone shall be fresh broken and screened, free from dust, and if gravel is used it shall be thoroughly washed.
+
+METHOD	OF REINFORCING. —All reinforcing steel shall be completely inclosed by the concrete; the thickness of concrete on the bottom or exposed side of any reinforcing steel member of a lintel, beam, girder or column shall not be less than two inches, and there shall not be a less thickness than one inch on the bottom of the steel in a floor slab.
+
+THICKNESS OF CONCRETE BETWEEN REINFORCEMENT
+
+
+
+RODS. -- The steel in lintels, beams or girders shall be disposed so that there shall not be less than one and a half times the thickness of the steel, in concrete, between the different pieces of steel of which the reinforcement is composed.
+
+STRESSES.— Reinforced concrete shall be so designed that the stresses in the concrete and the steel shall not exceed the  following limits
+
+Extreme fire stress on concrete in com-
+
+   pression	500 lbs. per sq. inch,
+
+Concrete in direct compression	350 lbs. per sq. inch.
+
+Shearing stress in concrete	50 lbs. per sq. inch.
+
+Tensile stress in steel	16,000 lbs. per sq. inch.
+
+Compression in steel	12,000 lbs. per sq. inch.
+
+Shearing stress in steel	10, 000 lbs. per sq. inch.
+

@@ -1,0 +1,142 @@
+<doctype type="text">
+
+<article title="Builders' Accounts." author="Kittredge, A.O.">
+
+	THE CANADIAN	AND BUILDER
+
+
+
+BUILDERS' ACCOUNTS. *
+
+By A. 0. KITTREDGE, F. I. A.
+
+
+
+THE object of all accounting may be described as twofold:
+
+First, to keep track of what. is owing to us and what we owe to others; and, second, to show just where we are making or losing in our operations. The usual conception of bookkeeping limits it to the first of these two functions. The second, which is the real result, has been very generally supplied in the past by comparing the condition of the business man's affairs at two different periods, as, for example, January and December 31 of a given year.
+
+For illustration, the case may be stated somewhat as follows:
+
+If at the beginning of the business period, or January 1, our balance sheet shows us to be worth $10,000, and if at the end of the period, or December 31, a similar balance sheet shows us to be worth $12,500, then it must be that during the year we have made $2,500. This is very satisfactory in a way, and is seldom objected to as a method so long as a gain is shown by these periodical comparisons. But as soon as the comparisons between the two balance sheets show that there has been a loss the case becomes different. We then demand to know where the loss has been made, although we were apparently indifferent where we made the gain while our business was profitable.
+
+Unfortunately the question where the loss occurred is not readily answered by books as ordinarily kept. Therefore a reexamination of the transactions of the whole year must be instituted in order to discover the real reason of the lack of profit or to single out the particular operation upon which the loss was made. Before we have discovered by this tedious operation what we are searching for, the thought no doubt occurs, that if we had only known during the months that have transpired since our last balance sheet, that we were passing over dangerous ground, we could have saved at least a portion of the loss. Therefore our desire is
+
+	DR.	ANY CONTRACT.	CR.
+
+Labor.	Corrections.
+
+Materials.	Materials left over.
+
+All specific outlays.
+
+Pro rata of gene al expenses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Balance= Net Cost.
+
+To be closed into Selling Account.
+
+
+
+
+
+to have our books so arranged for the future that we shall know at all times whether we are making or losing, and further that we shall know at the close of every operation just how much has been made or lost upon that transaction alone.
+
+So much by way of introducing to the reader's mind the thought
+
+	DR.	SELLING ACCOUNT.	CR.
+
+Net cost of each of the contracts.	Selling price of the same
+
+	 contracts.
+
+	Dr. Balance—Loss on the opera.	Cr. Balance= Gain from the opera
+
+
+
+
+
+
+
+that the business man of the period, whether he be a builder or engaged in some other branch of trade or industry, is not satisfactorily served by anything in the way of bookkeeping and accounting that falls short of affording him at all times a statement of his exact position and the rate of progress that he is making forward or backward. This brings us face to face with the need of accurate and properly arranged cost records. The builder's cost records should be so designed that a proper comparison shall ever be presented, not only in gross, but also in detail, between what it really costs to execute the work upon which he is engaged and what he obtains for it. Assuming that the selling price is the same as the estimated price, then properly arranged records of what it costs to execute a piece of work become actual verifications or corrections of the system of estimates and the prices that are made. Whoever estimates upon building work should be in such close touch with the records of actual cost that he is thereby informed of just what each given part is worth.
+
+
+
+*	Reprinted from The Bulletin.
+
+One object to be served by these articles, as I apprehend the case, is to point out the changes necessary to be made in bookkeeping as it is ordinarily understood and practiced by such bookkeepers as are available to builders to hire, and such bookkeeping as is taught in the schools and explained in the text books as will adapt it to the builders actual requirements. These changes are not in principles at all. They are only in new applications of
+
+	DR.	GENERAL EXPENSES.	CR.
+
+Costs of office rent, general superintend-	Amounts prorated to the several
+
+	ent, clerks, and all other expenses that	contracts.
+
+cannot be specifically charged.
+
+		Cr. Balance = Excess of actual cost
+
+	Dr. Balance — Amounts not prorated.	 that has been charged to contracts.
+
+
+
+This account should balance at the end of the year.
+
+
+
+universally recognized principles. A few moments' attention to the Merchandise Account will not be out of place, since in what it represents is involved the whole question.
+
+In the majority of cases builders fail to see their costs in proper relationship to their selling prices, simply because the so-called
+
+	DR.	MATERIALS ACCOUNT.	CR.
+
+All purchases of materials that cannot be	Amounts delivered to contracts
+
+ specifically charged to contracts.	 (taken at cost).
+
+Amounts returned from contracts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Balance=Cost value of materials on hand.
+
+
+
+
+
+Merchandise Account is made the general dumping ground for everything that is done. It is an overworked account. Materials, labor, expenses, and all costs whatsoever are charged on the one side, while the selling prices form the amounts on the other side. The common argument is that all the costs by being grouped together on the one hand and all the credits of sales being grouped together on the other, the difference between the two amounts, taking into account, of course, any materials remaining on hand or work in progress which has not been charged up, will be the profit or loss made on the operations. This is all very true, but it does not present the facts in the best shape to serve the builders purpose. What he wants to know is the result of each operation. Did he make or lose on it, and how much? Instead of learning at the end of the year that lie has made a small profit on the aggregate of his business, or perhaps even made a loss, when he feels morally certain that on some contracts he made a very large profit, he wants to know, for example, that on the public school building recently completed he made $6,000, and on the street-car barns he lost $8,ooo, on the row of dwellings in the suburbs he was able to make $6,000, on the church he came out even, and on the factory building he lost $4,000. In this statement the gains, it will be seen, are wiped out by the losses. A general showing, therefore, would indicate nothing save that the business was without profit.
+
+The stumbling-block in the Merchandise Account, whether we look at it from the standpoint of the builder's bookkeeping or the bookkeeping of any other branch of business, is that it is made up with two sets of values. First, there are costs such as labor, materials, and expenses in general on the one side, and selling
+
+prices of these same elements combined on the other, the latter of course including whatever profit is being made. It is practically impossible to have all the materials consumed. There is always more or less of materials left on hand to be inventoried at the time the account is made up. Accordingly, the balance in this account never shows either the profit made or the loss sustained, as the case may be, nor yet the net amount of materials on hand. Instead, the balance is a combination of these two items.
+
+Without extending this argument any further the reader will readily perceive the point that is in mind by comparing the Merchandise Account which, as stated, involves two sets of values with some other account wherein only one set of values is em
+

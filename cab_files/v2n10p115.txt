@@ -1,0 +1,474 @@
+<doctype type="text;plate">THE C ANADIAN ARCHITECT AND	BUILDER
+
+''5
+
+
+
+<article title="How to Estimate" author="">HOW TO ESTIMATE.
+
+BY "CATO."
+
+FIGURING up trenches, the plan of which is a trapezoid, is done by first finding the area, by adding the sums of the ends together and dividing by two for a mean width. The result, multiplied by the length, will give the area, which is multiplied by the depth of the trench to get the solid contents or quantity to be excavated.
+
+A like process can be employed if the depth of the excavation be a trapezoidal section by adding the greater and lesser depth together and dividing their sum by two for an average or mean depth, and multiplying by the superficial area as before to gain the solidity.
+
+The area of an excavation whose plan is rhomboidal is found by dividing it into two equal triangles, and calculating the area of one by multiplying the common base, A, B, by half the perpendicular height, the result of which doubled, equals the area.
+
+Wells or other cylindrical excavations come under the head of cylinders, and can therefore be calculated by the rule covering it. For instance, if any one wishes to find the cost of digging a well or vault, say 10 feet in diameter, to a depth say of 12 feet, proceed by using this formula:
+
+First multiply 10:0 X 3.1416, which, multiplied by 12= the number of cubic feet to be excavated.
+
+It often seems strange that the cost should be figured up per cubic yard but if the estimator wishes to be more accurate he can figure per cubic foot, or per thousand feet, according as he wishes. It is a very good plan when estimating an excavation of great length and varying depth, to figure up the cost of one section of 10, 50, or 100 feet in length, multiplied by the width and mean depth; then to find the number of times this length will divide into the entire number of feet to he excavated.
+
+STONEWORK.
+
+
+
+Contractors for stonework usually estimate by the perch and cubic foot, though it is sometimes done by the square foot or square yard. A perch of stone or stone masonry measures 16 1/2 feet long, feet wide and foot high. It contains 24 3/4 cubic feet in the solid or in the quarry. When built in the wall 22 cubic feet make a perch, cubic feet being deducted for the mortar and filling.
+
+It is usual to allow about three pecks of lime and bushels of sand to a perch of masonry, but in New York and other American cities proportions of half and half and often one peck of lime to 4 bushels of sand is put in.
+
+In ordinary square work, as Footings and cellars, multiply the length, breadth and height together, to find the number of cubic feet it contains, and divide by 24 3/4 or 24.75 to find the number of perches it contains. Divide by the above number when the stone is laid dry; if bedded in mortar, divide by 22 thus: how many perches in a wall 6o feet long, 4 feet 6 inches high, 15 inches thick.
+
+6o
+
+4 1/2
+
+240
+
+30
+
+
+
+270
+
+67 1/2
+
+
+
+cubic feet.
+
+337 1/2 / 24 3/4=13 7-11 perches in wall.
+
+
+
+
+
+Sash frames with sash weights, locks and trim complete, may be taken out of old buildings that are being taken down and preserved just as good as new by screwing slats and braces on them, which not only keeps the frame square, but prevents the glass from being broken. Doors, frames and trims may also be kept in good order until used, by taking the same precaution as in window frames.
+
+
+
+
+
+<article title="Rules for the Thickness, etc. of Brick Walls" author="">RULES FOR THE THICKNESS, ETC.. OF BRICK WALLS
+
+ACCORDING TO THE METROPOLITAN BUILDING ACT (LONDON, 1855).
+
+
+
+NOTE. —Subsequent Metropolitan Building Acts made no alterations in these rules.
+
+RULE FOR FOOTINGS.
+
+The projection of the footing at the bottom of every wall on each side shall be at least equal to one half the thickness of the wall at its base. The diminution of the footings shall be in regular offsets, and the height from the bottom of the footing to the base of the wall shall be at least equal to one half the thickness of the wall at its base, the base of the wall being the first course above the footings. Example
+
+
+
+
+
+1'6"
+
+	9	X	1'6" x
+
+
+
+Here the wall at its base is ft. 6 in. thick, therefore the projection on each side must be at least 9 In., and the height from the bottom to top of the footings must also be in.; not less.
+
+Bricks are here supposed to be not less than 8 1/2 in. long or more than in. long.
+
+EXTRA HEIGHT OF A STORY.
+
+If any story exceeds in height the thickness prescribed in the tables below for that story multiplied by 16 the walls of that story must be increased in thickness one-sixteenth part the height of the story.
+
+Example—H eight of story, say 17 ft. in.
+
+Thickness of wall described, 13 in.
+
+Now, as 17 ft. in. is sixteen times the thickness of the wall, the wall is to be thickened by one-sixteenth the whole height, or 13 in., making 26 in. the correct thickness,
+
+But this extra thickness may be confined to piers distributed properly, the total widths of the piers being equal to 1/4 the whole length of the wall.
+
+Example Extra thickness is 13 in.
+
+Total length of wall, say 30 ft.
+
+1/4 length of wall is 7 ft. 6 in.
+
+'[he width of the piers must together equal ft. 6 in.
+
+You have therefore a wall 17 ft. 4 in. high, 30 ft. long, 13 in. thick, with four piers that are each 1 ft. 10 1/2 in. wide on face.
+
+No story enclosed with walls less than 13 in. thick shall be more than 10 ft. high.
+
+
+
+The following tables give the heights of the walls in the left hand column, and the lengths in the corresponding horizontal columns. The lengths of the walls are supposed to be curtailed by return walls at either end, and the length of the wall is measured from center to center of the return walls.
+
+	Length up to	Length up to
+
+	   45 ft.	   8o ft.	Length unlimited.
+
+I Height
+
+up to
+
+100 ft.. 1st story 21 1/2 in. thick
+
+	2nd
+
+	3rd
+
+	17 1/2
+
+	Remainder 13 in.
+
+Height	Length up to
+
+up to	   45 ft.
+
+90 ft.
+
+1st story 21 1/2 in. thick
+
+	2nd 21 1/2
+
+	" 17 1/2
+
+	Remainder 13
+
+Height	Length up to
+
+up to	   40 ft.
+
+8oft.
+
+1st story 21 1/2 in. thick
+
+	2nd 17 1/2
+
+	3rd 17 1/2
+
+	Remainder 13 "
+
+Height.	Length up to
+
+up to 40 ft.
+
+70 ft. 1st story 17 1/2 in. thick
+
+	2nd 17 1/2
+
+	Remainder 13
+
+Height	Length up to
+
+	up to	30 ft.
+
+6o ft.	1st story 17 1/2 in. thick Remainder 13
+
+H eight	Length up to
+
+up to	30 ft.
+
+50 ft. Wall below topmost story 13 in. thick
+
+	T'pm't st'y 8 1/2
+
+Remainder 8 1/2
+
+Length up to 35 ft.
+
+Wall below 2 topmost stories 13 in. thick
+
+2 topmost
+
+stories 8 1/2
+
+Remainder 8 1/2
+
+
+
+Length up to
+
+35 ft.
+
+Wall below 2 topmost stories 13 in. thick
+
+2 top. stys 8 1/2
+
+Remainder 8 1/2
+
+Height up to 40 ft.
+
+
+
+
+
+
+
+
+
+
+
+Height up to 30 ft.
+
+Height Length up to
+
+up to 30 ft.
+
+25 ft. From base to top of wall 8 1/2 in. thick
+
+1st story 26 in. thick
+
+2nd		26
+
+3rd 21 1/2
+
+4th 21 1/2
+
+5th	, 17 1/2
+
+6th	,,
+
+Remainder 1.3 in.
+
+	Length up to
+
+	70 ft.
+
+
+
+1st story 26 in. thick
+
+2nd 21 1/2
+
+3rd 21 1/2
+
+4th
+
+5th ,, 17 1/2
+
+Remainder 13 "
+
+
+
+
+
+Length up to
+
+	60 ft.
+
+
+
+1st story 21 1/2 in. thick
+
+2nd 21 1/2
+
+3rd 17 1/2
+
+4th
+
+Remainder 13
+
+
+
+
+
+Length up to
+
+ ft.
+
+
+
+1st story 21 1/2 in. thick
+
+2nd 17 1/2
+
+3rd
+
+Remainder 13
+
+
+
+
+
+Length up to
+
+	50 ft.
+
+
+
+1st story 17 1/2 in. thick
+
+2nd 17 1/2
+
+Remainder 13 "
+
+
+
+
+
+Length up to
+
+	45 ft.
+
+
+
+1st story 17 1/2 in. thick Rest of wall below topmost St y 13 in. thick
+
+
+
+Remainder 8 1/2
+
+1st story 30 in. thick
+
+2nd.		26
+
+3rd		26
+
+4th 21 1/2
+
+5th	, 21 1/2
+
+6th 17 1/2
+
+7th
+
+Remainder 13 in.
+
+
+
+Length unlimited.
+
+
+
+1st story 30 in. thick
+
+2nd		26
+
+3rd		26
+
+4th 21 1/2
+
+5th 17 1/2
+
+6th	,
+
+Remainder 13
+
+
+
+
+
+Length unlimited.
+
+
+
+1st story 26 in. thick
+
+2nd 21 1/2
+
+3rd 21 1/2
+
+4th 17 1/2
+
+5th
+
+Remainder 13
+
+
+
+
+
+Length unlimited.
+
+
+
+1st story 26 in. thick
+
+2nd 21 1/2
+
+3rd	21 1/2 "
+
+4th
+
+Remainder 13 "
+
+
+
+
+
+Length unlimited.
+
+
+
+1st story 24 in. thick
+
+2nd 17 1/2
+
+3rd ,
+
+Remainder 13
+
+
+
+
+
+Length unlimited.
+
+
+
+1st story 21 1/2 in. thick
+
+2nd 17 1/2
+
+Remainder 13
+
+Length unlimited.
+
+1st story,	- 
+
+Rest of wall below top story Topmost story 
+
+Remainder	.	-
+
+17 1/2 in.
+
+
+
+8 1/2
+
+thick.
+
+Length unlimited.
+
+Wall below top story
+
+Topmost story
+
+Remainder
+
+in.	thick.
+
+
+
+8 1/2
+
+Length unlimited.
+
+Wall below top story	-	13 in. thick.
+
+Topmost story		- 8 1/2
+
+Remainder	-		-
+

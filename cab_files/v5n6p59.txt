@@ -1,0 +1,283 @@
+<doctype type="text">June, 1892 59  THE CANADIAN ARCHITECT AND BUILDER 
+
+
+
+ample in each style to be placed under the ground floor windows of a college 
+
+building and the other at a height of twenty feet from the ground over the main 
+
+entrance door way.
+
+30 11.	Sketch a doorway in the style you have selected,
+
+giving Plan, Elevations, and section through jamb and head.
+
+	Algebra.
+
+FIRST AND SECOND INTERMEDIATE.
+
+
+
+NOTE 100 marks will be considered a full paper.
+
+Values.
+
+15 1.	Simplify
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 2.	Two numbers differ by two. Show that the difference
+
+of their squares is twice their sum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trigonometry.
+
+FIRST AND SECOND INTERMEDIATE.
+
+NOTE:	100 marks will be considered a full paper.
+
+Values
+
+15 1.	(a) Define an angle according to the usage of Pitne Trigonometry. 
+
+(h)	Define the common units of angular measure.
+
+(c)	Express in sign and magnitude in any two of the units, the angle described by the minute hand of a clock between the times 9h. 05m. and 11h. 25rn.
+
+20 2.	(a) Explain fully the meaning of sinA, cosA tanA, and
+
+secA. 
+
+(b)	Discuss the changes in them as A changes from o° to 360°. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15 8.	Given a = 47.97, b = 54.23 and A = 57° 34. Find B,
+
+	and C.	____________________________
+
+	NUMBER	MANTISSA	RATIO	L
+
+	5423	.734240	Sin 57°	34'	9.92635 1
+
+	4797	.680970	sin 72°	35'	9.979618
+
+			sin 72°	36'	9.979658
+
+	4344	.637890	sin 49°	50'	9.883191
+
+	4345	.637990	sin 49°	51'	9.883297
+
+
+
+
+
+Euclid.
+
+FIRST AND SECOND INTERMEDIATE.
+
+PART 1.
+
+1.	(a) Triangles upon the same base, and between the same parallels, are equal to one another.
+
+(b)	E is a point in the side AC of a triangle ABC. Construct a triangle ECBD equal to ABC.
+
+2.	If a straight line be divided into any two parts, the square on the whole line is equal to the squares on the two parts together with twice the rectangle contained by the parts.
+
+3.	The angle at the centre of a circle is double of the angle at the circumference subtended by the same arc.
+
+4.	The opposite angles of any quadrilateral figure, inscribed in a circle, are together equal to two right angles.
+
+FIRST AND SECOND INTERMEDIATE.
+
+PART 2.
+
+5.	If a side of any triangle be produced, the exterior angle is equal to the two interior and opposite angles, and the three interior angles of every triangle are together equal to two right angles.
+
+6.	In any right angled triangle the square which is described on the side subtending the right angle is equal to the squares described on the sides which contain the right angle.
+
+7.	To describe a square that shall be equal to a given rectilinear figure.
+
+8.	The bisections of the three angles of a triangle meet in one point.
+
+Foundations.
+
+F Final NAL.
+
+Values.
+
+10 1. Name one of the best soils for building upon. Is it safe to build upon a clay soil; state your reasons for the answer
+
+you give.
+
+11 2. In building upon a soil which has not level strata or which has portions of clay or loose gravel, what should be done to prevent uneven settlements.
+
+15 3. Where the foundations of a building are not at the same level what means should be taken to prevent uneven settlement.
+
+20 4. If you were putting in the foundation of a building and came upon a soft piece of ground what would you do to obtain a good foundation and prevent uneven settlements?
+
+20 5. What is meant by the detached pier system of foundations; when should it be adopted and what are its advant
+
+ages?
+
+20 6. In putting in foundations for a building what means would you take to prevent uneven settlements on the part of the supporting soil.
+
+15 7. What are sand piles and under what conditions is it advisable to use them?
+
+10 8. What would be safe load to place upon a good hard clay soil?
+
+20 9. What should be done to make a safe foundation where the soil is running sand?
+
+	10	10. Enumerate some of the different forms of piles.
+
+	20	11. How would you obtain a large surface support for a
+
+building where it is impossible to obtain such a support in
+
+the ordinary way by projecting the footing courses.
+
+20 12. Is it advisable to use inverted arches in foundations if so under what conditions?
+
+20 13. State the proportions of a good concrete for filling trenches under foundation walls.
+
+10 14. Should concrete be placed in the trenches or should it be thrown in from a raised platform.
+
+
+
+
+
+Architectural Jurisprudence.
+
+FINAL.
+
+APRIL 7TH.
+
+<person>S. H. TOWNSEND</person>, Examiner.
+
+NOTE:	100 marks will be considered a full paper.
+
+Values.
+
+20 1. The penalty clause in contracts as it is usually termed, provides that in the event of the Contractor's failure to com-
+
+plete the work, or building to be executed, within the stipulated period he is to forfeit and pay to the employer a specified sum per day or per week, for each and every day or week as the case may be which shall elapse between the stipulated and actual date of completion. The sum of money so forfeited by the Contractor is sometimes spoken of as a "penalty," although in most contracts it is expressed to be as "liquidated damages." Distinguish between these
+
+two terms, and give a simple illustration of the difference.
+
+25 2. Does the approval by the client of the drawings and specifications stop him from afterwards alleging that the
+
+Architect has failed to exercise proper skill in the preparation of these documents? If so, to what extent? and in regard
+
+to what matters?
+
+20 3. What are "torts ?" Do you know of any law or rule of the courts in regard to tort-feasors, liable to effect the liability of an Architect to parties other than his client?
+
+25 4. State what you know of the responsibilities an Architect incurs in the event of the failure of buildings constructed
+
+from his drawings and under his supervision, and say to what extent these responsibilities are shared by the builder and owner.

@@ -1,0 +1,46 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" THE SIMPLIFICATION OF PLUMBING " author="Putnam, Pickering J.">THE SIMPLIFICATION OF PLUMBING.
+
+A paper read on Nov. 10th last by Mr. J. Pickering Putnam, F. A. I. A., before the Society of Arts, Boston, deals with this the new under the title "Sanitary Plumbing and the Plumbing Laws." The paper is printed in full, with illustrations, in the American Architect for December 24 and 31. Much of it is occupied with demonstration before the audience of the facts of syphonage, by means of an apparatus of pipes traps, etc., with an air pump attached to produce the necessary vacuum. This is not new matter to the profession and may be omitted. Briefly stated siphon-age occurs, when water is discharged from a fixture in an upper storey, because the friction of the walls of the soil pipe prevents the air from following as fast as the plug or piston of water falls, and therefore there is a volume of rarefied air immediately behind the piston, and this, when it passes the inlet from a fixture on a lower storey, upsets the equilibrium of air pressure on each side of the trap and the weight of air above the trap, being greater, forces the water down and out of the trap. As scientifically stated in the paper '' the inertia of the water in the trap affords less resistance to the air than the friction along the sides of the soilpipe." The purpose of back venting traps is to furnish a supply of movable air which, being immediately connected with the waste pipe where it leaves the trap, can, when the air in this pipe moves out to fill the vacuum in the soil pipe, drop into its place more readily than the air in the room on the other side of the trap.
+
+When the plug of water gets near the bottom of a tall pipe, back-pressure, the reverse of siphonage, is very likely to occur because of the bend between the vertical soil pipe and a horizontal drain pipe of the same dimensions. As the bend retards the passage of the air in front of the falling plug of water, the air between the water and the bend becomes compressed, acid fixtures which are near the bend are apt to have their trap seal broken by back-pressure resulting from this. For this the back vent, at the angle at which it is often connected, does not seem as if it would be the easiest way of relief.
+
+It is this hack venting air pipe and the plumbing laws which require it that is the principal occasion of Mr. Putnam's paper. He has been studying the question for the last twenty years ; in 1891 got the Boston Society of Architects to take the matter up and make an effort to have the back vent law repealed; and now that this Society has appointed a Committee on the revision of building laws, which invites suggestions, is making another effort of which this demonstration before the Society of Arts is a part.
+
+But there are other amendments to the plumbing law proposed in his paper. He states them as follows:
+
+
+
+"1. More than half of the increased complication is due to the so-called " back venting" of the traps of all fixtures. We have, for instance, bath-tubs, wash-basins and other fixtures, whose traps consist in bends in the pipe deep enough to present a barrier to the passage of drain-pipe air into the house. Our building law requires every such trap to be vented by a special air-pipe extending from the sewer side of the trap up to a point above the highest fixture on the stack. The original purpose of the law was to protect the trap seals from what is called " siphonage." But soon after it was enacted it was discovered that the air current induced by the back-vent pipe was itself far more mischievous than the danger it was expected to
+
+remove, in that it operated to destroy the seal by evaporation ; and so rapidly did it do this in some cases, that in at least one large city the Board of health felt obliged to issue notices to house owners advising them to have the traps refilled by hand in houses temporarily unoccupied, as often as once a fortnight, in order to restore the seal destroyed by back venting.
+
+It was also very soon found that the system was unreliable on account of deposits of greasy sediment within the vent-pipe and of snow or frost at its top, which rendered it inoperative, Other difficulties and dangers revealed themselves as time went on, as I shall show directly.
+
+On the other hand methods of securing positive protection without back venting were multiplied, until to-day the thinking man is puzzled to understand how the public can continue to allow to exist such a foolish and costly method of ensuring insecurity.
+
+2.	The next important modification of the law recommended consists in the omission of the main house trap in the basement, and of the external sewer vent often resulting from its use.
+
+3.	A third modification consists in requiring every fixture to he constructed with an outlet large enough to fill its waste-pipe "full bore," in order to keep these pipes clean by thorough flushing.
+
+4.	A fourth consists in reducing the number of fixture traps required. the law now calls for a separate trap under each fixture, no matter how near to one another they come. An exception is made in the case of several adjoining wash-trays, which are allowed to have a single trap between them. This good feature should be extended to all adjoining fixtures. I hope to be able to show you that it is much more scientific as well as much safer and more economical to use one trap in such cases than several.
+
+5.	Moreover, it is for important reasons better to place the trap at or below the floor-level than close to the fixture it serves, as is now required by law.
+
+6.	A sixth modification consists in omitting, in most cases, the trap now called for on all rain-water leaders, because a trap here reduces the ventilation and increases the complication and expense. But more than this, this trap prevents the use of the main soilpipe as a rain-water conductor. There is no possible way of flushing the soil-pipe better than by admitting rain-water, where the combined system of sewerage is used.
+
+7. A seventh modification consists in striking out the restriction in the law, limiting the jointing of cast—iron pipes to lead caulking. Probably no more unscientific method of construction now exists in the whole domain of house building than this, iron and lead having no more constructive affinity for each other in jointing than cats and dogs. Other really scientific methods of jointing cast-iron have recently come into the market which are both reliable and much cheaper.
+
+8.	Finally, the provision requiring water-closets to be supplied from cisterns with flush-pipes not less than an inch in diameter should be modified. Better and simpler means for flushing are now known.
+
+
+
+The evaporation of trap seals, which is the principal source of danger from the hack-venting air-pipe, is thus accounted for
+
+
+
+"The air of a house being warmer in winter than the outer air, the ventilating current rising through the pipe is conducted over or near the crown of the trap and escapes at the roof. In summer the reverse movement takes place with a similar result. This current evaporates out the trap-seal with a rapidity proportioned to its proximity to the trap, its dryness, temperature, rapidity of movement, and, in short, in proportion to its efficiency in performing its function of ventilating the branch waste-pipe and guarding the seal from siphonage, and in experiments which have been from time to time published it has been found that seals have been destroyed by this cause in actual plumbing work in less than ten days. It the vent is
+

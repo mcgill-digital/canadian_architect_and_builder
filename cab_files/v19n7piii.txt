@@ -1,0 +1,14 @@
+<doctype type="ad">
+
+<firm>Sheldons Limited Galt Ontario </firm>Hot Blast Heating Systems
+
+<firm>McKenzie's Stained Glass Works Hamilton Ontario </firm>Glass Painting
+
+<firm>H. Horwood and Sons Prescott Ontario </firm>Art glass works
+
+<firm>Beamsville Brick and Terra-Cotta Company </firm>Beamsville Ontario
+
+<firm>McNally and Plummer </firm>Blyth Ontario The Builders' crane
+
+<person>G. T. Martin </person>Architect Smiths Falls Ontario Com-Po Stone interlocking building block
+

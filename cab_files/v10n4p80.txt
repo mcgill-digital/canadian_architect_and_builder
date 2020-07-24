@@ -1,0 +1,148 @@
+	<doctype type="text">80	THE	CANADIAN	ARCHITECT AND BUILDER
+
+
+
+<article title=" WHAT THE FIGURES ON A CARPENTER'S
+
+SQUARE MEAN.
+
+" author="">WHAT THE FIGURES ON A CARPENTER'S
+
+SQUARE MEAN.
+
+THE following question and answer take rather too much space for the regular department of queries, and we therefore print it as a separate article.
+
+II. S. F., New Decatur,	, writes ''On a carpenters square that I have there are certain figures located between those which represent inches, but I do not understand what they mean, nor do I know anyone that does. Will you please explain them?"
+
+ANSWER. We do not know just what kind of a square you have, but will explain one that may be like
+
+it. The large part of the square two feet long is the body and the short part is the tongue. The side on which the name of the maker is stamped is the face, the reverse side is the back. On the back of the body is a table giving the measure of lumber, or boards 1" thick, a section of which is illustrated in Fig. 1. To
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+use it proceed as follows: Suppose that you have a board 2' long and 9" wide, and wish to know how many feet there are in it. The column under the figure 12 represents the length while the other figures to the right and to the left of it stand for the width of the board. Looking down the column underneath the figure 12, we find the second figure is 9, and as 2 represents the width of it, we find it one column to the left Then with our pencil we begin at the 9 and follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the space until we arrive at the 2 column, where we find 8' and 3', which is the number of feet in the board.
+
+Again, suppose that we have a board 14' long and 14' wide. In the twelve column find the 14 and pass the pencil to the right until we arrive at the 14 column, where we find 16' and 4", which is the correct measurement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the back of the tongue may be found what is called " brace measure." It ·is used as follows Suppose that you have a horizontal timber into which you wish to frame an upright post. You expect to put the brace 27" from the angle on the post, and also 27" on
+
+the horizontal timber. See Fig. 2. It is desired to know the length of the brace. Refer to the brace measure, a section of which is shown in Fig. 3, and to the right of 27 you will find 38. 19, which is the length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of brace. It may be proved as follows: Square each of the given distances, add them together and extract the square root of the sum.
+
+Thus, 27 + 272 = 38. 19
+
+
+
+Again, on the face of the tongue may be found some spaces and figures, a part of which are illustrated on Fig. 4. Only every tenth space is numbered. These are given for the purpose of showing how to cut an octagon stick of timber out of a square one. Suppose that we have a stick that is 2' square, as shown in Fig. 5. We draw the lines A and 13 through the centre as shown, and as our stick is 12' square we take our
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dividers and measure off 12 spaces on our scale, Fig. 4. Then putting one point of them on we make the mark at 2, and then the mark at 3. Next start at 4 and put down the marks 5 and 6. Then from 7 mark 8 and 9. Then from 10 mark 11 and 12. Now when we have drawn the lines shown, it tells us just how much to cut off to make the 2 stick an octagon.
+
+
+
+<article title=" LABOR UNION SUED " author="">LABOR UNION SUED.
+
+An action involving the right of a labor union to suspend a member and boycott him has been entered at Ottawa. The plaintiff is R. Beaulieu, stonecutter. His action is to recover $2,000 damages from the officers of the Rockland branch of the Stonecutters' Union for alleged illegal suspension from that branch. Beaulieu's suspension took place about two years ago during a strike among the stonecutters at Rockland. The strike arose over trouble with the contractor, Mr. Arch. Stewart, of Ottawa, over an apprentice who was set to work with Beaulieu. The workingmen claimed that more than the right number of apprentices were at work, and when the contractor refused to remove the young man Larocque, the men, including Beaulieu, went on strike. The trouble extended over a few days, and was finally settled, but in the meantime Beaulieu was accused by the union of treachery and connivance with the contractor to keep Larocque at work, and at a meeting of the union a fine of $150 was placed on Beaulieu. Until this was paid he was placed under suspension. He did not pay the amount. His case was published in all the craft papers, and he has since been prevented from obtaining work in any union towns. Beaulieu asserts that he acted during the strike like an upright union man, and that here was not the least reason for his suspension. Damages to the amount of $3,000 are asked.
+

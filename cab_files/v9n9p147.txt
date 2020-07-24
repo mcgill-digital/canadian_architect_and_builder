@@ -1,0 +1,36 @@
+<doctype type="text">
+
+fresh supply enters to fill up the vacuum after it has circulated through the heap and has been robbed of its share of carbonic acid gas. That this procedure really happens in such a heap we can easily see when we place a lump of freshly-slaked lime in a wine glass, and in another glass place a small quantity of material taken from a heap such as described, and which has been prepared a few days before. Fill both glasses nearly up with water, and add a few drops of muriatic or sulphuric acid to each. In the first glass nothing can be observed, while in the second glass we will see in the shape of small bubbles the carbonic acid escape, which has been absorbed by the lime from the atmospheric air circulating in the heap." It is reasoned that as the hardening of mortar after mason work results from slow absorption of carbonic acid from the air, if this be a1lowed to take place to any great extent before the mortar is used, a granular and non-adhesive condition of the mortar results, and a strong wall cannot be made with it.
+
+<article title=" TESTS OF NAILS " author="">
+
+TESTS OF NAILS.
+
+RECENTLY some very complete investigations have been made in the laboratory of Sibley College, Cornell University, to determine, first, the relative merits of cut and wire nails a question involving the due consideration of the surface of the two types, as well as the proper shape, point, etc. ; secondly, the best relation between the thickness of the board nailed and the length of the nail ; thirdly, the relative holding power in different kinds of wood ; and, fourthly, the approximate stress nails may be expected to stand both in direct tension and when subjected to shearing stress, the relative force required for driving in and drawing out, etc.
+
+Any absolute statement as to the holding power of nails would be of little or no practical value since a slight alteration in the governing conditions would very materially affect the result. Only comparative results are therefore given, but these are of interest, more especially as they suggest a possibility of effecting a marked improvement in the cut nail.
+
+It is to be noted that when a pointed wire nail is driven into a piece of timber, it forces the fibres of the wood apart, the elasticity of the fibres keeping them tightly pressed against the sides of the nail. On the other hand, when a square or cut nail, not pointed, enters the wood, the edges on the end sheer off, and there is little or no wedging across the grain. As the nail penetrates, the two sides which are perpendicular to the grain are wedged and press back these fibres still more, and when the nails are being withdrawn these fibres act as barbs and resist its removal.
+
+To show that the greater part of the holding power of these nails was due to this action, a nail was driven in these two holes so that only the ends of the fibre came in contact with its surface. Then by comparing the pull necessary to withdraw this nail with one driven in the ordinary way, it was possible to estimate the value of this effect. In one experiment the nail driven between holes required a withdrawal pull of 590 lb., while an exactly similar nail driven in the solid wood required 635lb. to remove it, or only a gain of 451b., or less than eight per cent more. Evidently, therefore, by pointing an ordinary cut nail, its holding power should be very materially increased, since its grip would then be due to a combination of both the cut and wire nail effects.
+
+Comparing the value of cut to wire nails, as regards
+
+their resistance to a straight pull, it was found that for 4 in. nails the advantage was on the side of the cut nail in the proportion of five to four ; for 2 1/2 in. nails the advantage was much greater, the ratio being as nine to five.
+
+As nails are more often subjected to shearing strain, several experiments were made to decide the relative value of the two types of nails under this condition. Two pieces of wood were nailed flat together and placed in a testing machine in such a manner as to cause one piece of wood to slide over the surface of the other, thus subjecting the nails to a direct shearing stress. As may be readily supposed, the nature of the timber used materially affected the results. When Georgia pine was used the wire nail had a superiority of about six per cent With white pine, hemlock, and oak, however, the wire nail showed an inferiority of twenty-two per cent., eleven per cent., and five per cent., respectively. These comparisons were made on the basis of equal areas of nail, and compared by the fairer standard weight, the average of the cut nail is still greater.
+
+To determine the effect of the surface of the nail on its holding power tests were made of plain, barbed, and ''blued" wire nails. The barbed nail was found to offer a somewhat greater resistance to withdrawal than the plain, smooth nail ; but the " blued" nail was much superior to either. Further, it was found that in cut nails, barbs which are sharp and angular diminish the holding power, and that the resistance to driving and withdrawing vary in about the same ratio, generally at about six to five.
+
+The experiments showed very clearly that the shape of the driving end of the nail is important. The holding power of a pointed wire nail was found in one case to be 122 per cent. greater than an otherwise similar but blunt nail. Even slightly beveling the edges was found to increase the holding power about eighty per cent.
+
+So far as the effect of time on the holding power could be tested it was found that the grip diminishes as the nail stands, though after being wet the rusting of the nail causes it to hold better. Roughly, it was found that the nail holds about one and a half times as much when driven in the side of timber as when driven in the end.
+
+Summing up the results of the experiments, they may be said to show that (I) cut nails are superior to wire nails in all positions ; (2) the main advantage of the wire nail is due to it possessing a sharp point ; (3) if cut nails were pointed, they would be thirty per cent. more efficient in direct tension ; (4) wire nails without
+
+points have but one-half their ordinary holding power; (5) the surface of the nail should be slightly rough, hut not barbed --barbed decreases the efficiency of cut nails about thirty-two per cent. (6) nails should be wedge-shaped in both directions when there are no especial dangers of splitting; (7) the length of nails to be used in tension should be about three times the thickness of the thinnest piece nailed ; when used in shear about twice this thickness is sufficient ; (8) the relative holding power in different woods is as follows White pine, one ; yellow pine, I ; white oak, three ; chestnut,
+
+6; beech, 3 2 ; sycamore, two; elm, two; and laurel,
+
+2 8 ; (9) nails usually hold about fifty per cent. more when driven perpendicular to the grain than when driven along it ; (10) nails are always strongest when driven perpendicular to the surface of the timber ; 11 when subjected to shock, nails will hold less than one-twelfth the load they will stand when weight is applied gradually.
+

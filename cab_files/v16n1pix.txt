@@ -1,0 +1,43 @@
+<doctype type="text;ad">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title="Experiments with Ferro-Concrete" author="">EXPERIMENTS WITH FERRO-CONCRETE.
+
+
+
+The London Engineer publishes in abstract the results of some interesting experiments on reinforcing concrete by means of metal by <person>M. Considere</person>. In his earlier work M. Considere endeavoured to rationalise the reinforcement of masses of concrete against tensile strains by means of metal bars ; but his later experiments have been concerned with the question of increasing also the compressive strength of such masses by a suitable distribution of metal. He finds that the most economical method of strengthening a concrete column is to lap it round with wire, metal used in this way being from two and a half to three times as efficient as an equal weight arranged as straight bars parallel to the line of thrust. A number of cylinders 40 millimetres (157 in.) in diameter were moulded out of a mixture of 400 kilogrammes (881 lbs.) of cement, with 1 cub. metre (1.31 cub. yds.) of sand, and were wrapped with fine wire, the volume of the latter being 0034 per cent, of the total volume. These were tested by crushing at different ages, from eight up to one hundred days. Similar specimens without the iron were also moulded and tested, the comparative results obtained being as follows
+
+Age of specimen, days 	8	14	22	23	100
+
+Crushing stress, pounds
+
+ per sq. in. with iron re-
+
+ inforcement	846	6,543	7,568	4,935	10,525
+
+Crushing stress, pounds
+
+ per sq. in. without iron
+
+ reinforcement 	569	711		853	2,418
+
+Weight for weight, the hundred-day old re-inforced cylinder is very nearly as strong as iron. In some further experiments the cylinders tested were 15 centimetres (590-in.) in diameter, and varied in length from 0.50 metre (19.7-in.) to 130 metre (51'1 in. The mixture used was 0.800 cub. metre (1'046 cub. yd.) of gravel, 0'400 cub. metro ('523 cub. yd.) of sand, mixed with, in some cases, 300 kilogrammes (661 lb.) and in others 6oo kilogrammes (1,323 lbs.) of cement. The short specimens were tested in the laboratory of the Ecole des Ponts et Chaussees. The block without iron failed at a load of 1,052 lb. per sq. in., whilst another, which was wrapped with a spiral of hard-drawn iron wire 1/4-in. in diameter, wound to a pitch of 118-in., did not fail till the stress reached 5,120 lb. per sq. in.; and a third, in which the wire used was 0.167 in diameter, wound to a pitch of did not fail under a load equivalent to 5,405 lb. per sq. in., which was the maximum the testing machine was capable of exerting. Another cylinder, in which the bulk of the metal was in the shape of longitudinal bars, failed at a stress of 2,418 lb. per sq. in. M. Considere states that the latter prism, as well as the specimen without iron, both failed suddenly) whilst with the spiral-wound blocks failure was very gradual. It was further noted that in the best of the spiral-wound blocks the amount of compression was considerable, being as much as 355 millimetres per metre before any signs of cracking could be observed.
+
+
+
+The Board of Health of Ottawa have approved and sent on to the council by-laws to license and regulate plumbers and to regulate the character of plumbing work done in that city.
+
+<firm>W. H. Sumbling, Laundry Machinery Toronto</firm>
+
+
+
+Artistic Sanitary durable, <firm>Metallic Roofing Co. Limited Toronto</firm> Montreal Winnipeg
+
+
+
+Great clock bells for city halls, <firm>Meneely and Co. West Troy NY</firm>
+
+
+
+<firm>Cabot's creosote shingle stains, Samuel Cabot, Boston</firm> Cabot's Sheathing and deafening quilt, Canadian Agents: Toronto Montreal Vancouver Winnipeg St. John Halifax

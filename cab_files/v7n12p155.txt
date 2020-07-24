@@ -1,0 +1,224 @@
+<doctype type="text">	THE CANADIAN	ARCHITECT AND	BUILDER
+
+
+
+of stanchion of square, rectangular, crucial or cruciform or box-like cross section; estimating the elemental components and putting them together will give the weight of a lineal ft., which into the length or height of the column or girder will give its total weight.
+
+ With regard to circular work, as of a cast iron column, the inner diameter added to the thickness gives the mean diameter and this taken 3 and 1-7 times gives the mean circumference or girth, which into the weight ht of a lineal ft. of the column under consideration, and this last into the length in feet, will be the total weight of the column.
+
+For example, say we have to compute the weight of a column of which the outer diameter is to be 8 in., and the metal 7.8 in. thick, therefore, the inner diameter or base will be 6 1-4 inches and the mean diameter 6 1-4 in. plus in., or 7 1-8 in. (or which is the same thing, the mean diameter is similarly arrived at, as the outer-diameter 8 inches, less the thickness of 7-8 in. = 7 I -8).
+
+Now, diameter 7 1-8 in. x 31-7 gives 21 in. 3-8 x 1-7 of7 1-8 in. or say 1 in.; therefore mean circumference = 223-8 in., say 22 1-2 inches, or 7/8 ft. superficial. iron 7/8 in. thick= 7/8 of 40 lbs. = 35 lbs.  or iron i-8 in. thick=5 lbs. and 7 times lbs. =35) and 35 lbs. into
+
+7/8 times gives 65 lbs. for foot lineal.
+
+If it be required to weigh any irregular form such as a statue or piece of carving or scroll work, of which the cubical contents are unknown, the latter may easily be had by immersion of the object in sand or water in a cylindrical or rectangular box or tub of quick and easy computation, and a mere comparison of the height when just covered by the sand or water with the height of depth of the auxiliary material after removal of the object. Thus if the box be a foot square in cross section and the filling stand 3 feet high or deep with the object in it, and 2 ft.  9 inches after the object is removed, the cubical contents arrived at are a foot square and 3 inches in height or 1-4 of a cubic ft., or 120 lbs. If the object be hollow, it must of course be inverted in the bath, so the
+
+or water may fill the hollow space.
+
+ the weight of an object to be cast of any metal may be made known in advance by weighing the model of it in wood or any other material and by simple rule of three, comparing their specific gravities. And in like manner when the weight is known of any object, its cubic contents may be arrived at by a mere inversion of the terms of their
+
+t proportion
+
+
+
+ Thus if a shapeless piece of stone or wood or metal, the ratio of its cubical contents to those of a cubic foot of the material, from a table of specific gravities, will be the same as that of the weight of a cubic foot of the material to that of the piece to be computed.
+
+ the foregoing mode of obtaining the cubical contents of an irregular feature by immersion in a vessel, if the vessel instead of being cylindrical
+
+or rectangular , has tapering or splayed side, or be the fustrurn of a or pyramid, the contents must of course be computed by the oidal formula, which consists in adding to the sum of the areas of
+
+the upper and lower bases of the tub or vat four times the middle area of which the factors are arithmetic means between those of the end areas) and multiplying the result by one sixth part of the depth or
+
+height.	MASTER PLUMBERS' ASSOCIATION.
+
+
+
+
+
+the annual meeting of the above Association held last week, the following officers were elected; President, J. Lamarche vice-presidents, J. Date, A. Champagne and H. Paddon secretary, W. l3riggs; English corresponding secretary, XV. Hughes; French corresponding secretary, J. Thibeau financial secretary, J. C. Jacotel treasurer, XV. At Stevenson; sanitary committee, J. W. Hughes, John Date, James Mattinson, A. Sigouin and J. C; Jacotel arbitration committee, P. Carroll A. Demers, G. Von, G. Rosser and H. Baillie; auditing committee, J. Watson, A. Rousseau and Theo. Jacotel legislation committee, F. Brunet D Gordon, J. Burns, T. Leclaire and W. Britton apprenticeship committee, A. Demers, E. C. Mount, T. Jacotel, j. Bonhomme and J. Sadler.
+
+()
+
+THE NEW BUILDING BY-LAW.
+
+<article title=" THE NEW BUILDING BY-LAW " author="">
+
+The members of the Committee of the Province of Quebec Association of Architects to whom was referred the revision of the proposed city building by-law are finding their task an arduous one. They have held meetings regularly since last June, and now meet Tuesday and Friday in each week. Even though these meetings should be continued during the holidays, it is not probable that the work of the committee can be completed before the end of January. The members of the committee are: Messrs. A. C. Hutchison, A. T. Taylor, J. Nelson, A. Raza, W. E. Doran, Jos. Perrault, Jos. Venne, Victor Roy and J. Z. Resther.
+
+<article title=" MONTREAL STREET RAILWAY BUILDING COLLAPSE " author="">
+
+MONTREAL STREET RAILWAY BUILDING COLLAPSE.
+
+
+
+A	lengthy investigation has taken I)lace before a coroner's jury into causes resulting in the accident to the Montreal Street Railway
+
+
+
+ new building, to which brief reference was made last month. A number of experts were called as witnesses, but as there was much diversity of opinion amongst them, we shall print only the conclusions of Mr. W. McLea Walbank, B. A.S., M. C. Soc. C. E., and Mr. Lacroix, the City Building Inspector, who made an examination of the building by direction of the Attorney-General for the Province of Quebec, and whose opinions, as embodied in the following report, we should regard as being impartial.
+
+R.	D. McGIBBON, Esq., Q.C.,
+
+Pro Attorney-General for Province of Quebec.
+
+ SIR,
+
+Acting under your instructions I, in company with Mr. Lacroix, City Building Inspector have carefully examined the Street Railway Company's an new building on the corner of Craig St. and Place des Arms Hill, in order to ascertain the cause
+
+ recent collapse
+
+_ The result of my examinations calculations and tests goes to prove that the collapse  has been caused by the failure of the 12in. brick wall supporting the two
+
+e north -east portion of the building.
+
+In order to ascertain the crushing strength of the bricks used we had the same tested at McGill College Laboratory in our presence by Professor Bovey and Mr. C.
+
+
+
+the result of which have proved very conclusively that the strength of the
+
+	brick depends	almost wholly	upon the manner in which thc workmanship is per formed in
+
+ viz., in using care to see that the bricks are properly wetted
+
+
+
+ in use bricks when bedded with cotton waste and cardboard and found the other failed as follows :—The first brick "A,' bedded as above, failed at 395 lbs.
+
+ This sample was bedded in Portland Cement also. "B" commenced cracking at lbs., and failed at 428 lbs. "C ' and "1)' broke across the
+
+centre at 132 and 161 respectively. "E" cracked at 57 lbs. and failed at lbs. "F" was bedded in Portland Cement on one side an d loose sand on the top—commenced cracking at from 25 to 36 lbs., increased rapidly at 214 lbs., and failed at 625 lbs.
+
+The above tests were with wet brick.
+
+Dry Bricks: bedded with cotton waste and cardboard—No. failed at 139 lbs. No. 2 failed at 89 lbs. No. failed at 143 lbs. per sq. inch.
+
+
+
+PROPER BEDDING.
+
+
+
+Not being satisfied that the bricks if properly bedded would fail with the small loads above quoted, we procured additional samples of brick from the building and had the same very carefully and evenly bedded in plaster of Paris, with the following results
+
+M, first crack at 1583 lbs., failed 2218 lbs.
+
+	N first crack at	lbs., failed 885 lbs.
+
+0, first crack at 417 lbs. , failed 937 lbs.
+
+	P first crack at 1385	failed 1959 lbs.
+
+Q, first crack at 979 lbs., failed 1385 lbs.
+
+R. This sample bedded on cardboard only, cracked at 85 lbs., fractured badly at 743 and failed at 946 lbs.
+
+ MORTAR.
+
+
+
+A sample of the mortar is at present in the hands of Dr. Harrington, of McGill University, who will report on same about Thursday or Friday. I have also some samples of the mortar in my possession which I took from the building myself. I have made an estimate of the weight supported or concentrated on the 12in. wall at the foot of the column second from Craig Street and first from Place d'Armes Hill as follows Area carried by top of column, 193.2. The weight of roof covering on roof composed of 11 X 3 joists at 2 ft. centers an inch board over same would be neglecting bridging on blocks equivalent to 9 lbs. per sq. foot.
+
+
+
+IRON.
+
+	One 5in. eye beam,	lbs., 21 ft. long	1 50 lbs.
+
+	One 12in.	"	32	"	288
+
+	Six 7/8 in.	14.7 " to "	882
+
+	One	""" 3·5 "                          
+
+	2271
+
+
+
+This weight distributed over 193.2 of floor gives 11.75 lbs. per square foot.
+
+
+
+TERRA COTTA.
+
+I weighed a block of terra cotta which I found in the building and appeared to be a fair sample with cement on it and which I have still in my possession, and found same to weigh 20 lbs. The size of the block with cement was 41/2 X 13. One of these blocks would give an area of 58 sq. inches, making the load about 50 lbs. to the sq. foot.
+
+RECAPITU LATION.
+
+	Wooden roof	91 lbs.
+
+	Iron	11.75 lbs.
+
+	Terra Cotta	50 lbs.
+
+	   Total	70.75lbs per sq. . ft.
+
+This load multiplied by 193.2 gives 13.669 lbs. approximately as the weight of the roof resting on top column.
+
+Assuming that the fifth floor was similarly constructed, deducting the joists and roofing boards, the weight per sq. ft. of this floor would be 70.75, minus q, equivalent to 61.75 lbs. per sq. ft.
+
+	193.2 multiplied by 61.	-	11930 lbs. as the load on the column supporting this
+
+floor in addition to the roof load.
+
+Assuming that the fourth floor was similarly constructed to the fifth floor, there would be an additional t 1930 lbs. for the wall supporting this column, to which should be added The weight of the columns themselves, which witnesses have stated 10 be 2400 lbs.
+
+The total load therefore carried by the 12in. wall immediately under the column in question would be as follows -—Weight of roof        13969 lbs.
+
+	5th floor	11930
+
+	4th floor	11930
+
+	Weight of columns,	2400
+
+	   Total	39929	or 20 tons.
+
+
+
+Size of bearing plate 12X18, equals 216 sq. inches.
+
+Load per sq. inch was therefore 185 lbs.
+
+The McGill University will send you a complete report of tests referred to and the bricks are still preserved and packed in a box at the College awaiting your instructions.
+
+Yours faithfully,
+
+(Signed) W. MCLEA WALBANK,
+
+Architect and Civil Engineer.
+
+(Signed) P. LACROIX,
+
+Building Inspector.
+
+After having heard the testimony of the numerous witnesses, and listened to the coroner's charge thereupon, the jury returned the following verdict
+
+"We, the undersigned jurymen, after having heard the proof, declare that Regis Pauze, Adolph Leblanc and Joseph Marquis died in Montreal the 9th day of November, 1894, having been killed by the falling of a part of the building under construction for the Montreal Street Railway Company. We believe that the falling in was due to the fact that Ed, C. Hopkins, architect Avila Gravel, engineer of the Dominion Bridge Company, and Joseph McLaughlin, foreman of the Dominion Bridge Company, failed to take reasonable precaution in the construction of the work and that they cannot be excused for having neglected to fulfil this duty.
+
+We likewise believe it to be our duty to recommend to the municipal authorities that an amendment to the building laws be brought about, with a view to avoid such a catastrophe in the future.'
+
+
+
+Messrs. E. C. Hopkins, Avila Gravel .and Joseph McLaughlin were thereupon arrested, but were subsequently released on giving bonds to appear when required to do so before the civil courts.
+
+
+
+
+
+A SUCCESSFUL YOUNG CANADIAN.
+
+
+
+QUEBEC, Dec. 1st, 1894.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+S1R,—We translate from the French the following, which purports to be from Le Canadian," of St. Paul, Minnesota, amid which, while reflecting honorably on Canada, and Quebec in particular, is also to the credit of the Quebec section of the Province of Quebec Association of Architects, under whose auspices the young man was admitted to the practice of the profession. The article reads as follows:
+
+Minnesota, one of the wealthiest States of the Great Republic, has decided on erecting a capitol to cost as much as a million and a half of dollars. 56 sets of plans have been sent in. Those designed by Rene Lemay are among the worthiest and most perfect. if we can credit what the St. Paul Despatch says on the subject. We have the plans before our eyes while writing this, and in truth the design is superb. We regret not being able to reproduce the longitudinal and cross sections which go to complete the design, which is by R. P. Lemay, assistant of M. M. Kretz & Co. Architects.
+
+Mr. Lemay is the son of Pamphile Lemay, the well known Canadian poet. After long and serious studies under apprenticeship with Mr. J. F. Peachy, of Quebec, architect and member of the P. of Q. Association of Architects, he was by the Quebec Board of Examiners admitted to practice, when with his diploma he entered the office of M. M. Kretz & Co., who were not slow in discovering the talent of their young assistant, and who confided to him the execution of a plan which was to compete with those of the best architects of the United States. His efforts were crowned with success, and everything leads to the belief that the Commission will adopt the plans and specifications of our young Canadian friend. '—Com.
+

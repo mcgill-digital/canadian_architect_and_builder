@@ -1,0 +1,116 @@
+<doctype type="text">REINFORCED CONCRETE DESIGNING
+
+
+
+The following article upon "Reinforced Concrete, Design and Construction'' is contributed by Mr. R. H. Haas of Bayonne, N. J.
+
+In order to give an idea of the possibilities of reinforced concrete, in a condensed form, the writer will omit reference, to a certain extent, to the theoretical side, and will sum up mainly from the contractor's and owner's point of view, that is—the practical side.
+
+Concrete history runs back into tire ages. We are told and shown, that the old Egyptians knew of a sort of cement. The old Romans manufactured a ''puzzolaneearth'' cement out of volcanic ashes The Englishman Parker manufactured a cement at tire beginning of last century on the Thames river by mixing, burning and grinding clay and lime which he called Roman cement Only within the last ten years has the cement industry obtained the immense proportions and achievements of to-day. Much credit for the prominence of the concrete industry in the United States is due to Mr. E. L. Ransome, who began years ago to use the discarded cables of the San Francisco street railway as reinforcement,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and later, patented the famous twisted bar and drum mixer.
+
+Canada has boomed reinforced concrete buildings only in the last two years, hut the growth of the industry is wonderful. Great difficulties have had to lie overcome among which may Ire mentioned the crowding of twelve months' work into six. In 1906 the writer made the prediction that time concrete industry would surprise even the optimist, and after closely watching the growth since then, the results, I believe, have proven the correctness of the prediction. The difficulties at present seem to be the obtaining of materials quickly and economically. Contractors, who have enough capital, will have to furnish barges, etc. for the roper handling of their supplies if they wish to make the money that is waiting for them in this industry.
+
+In the matter of design, engineers, architects and contractors should work towards the standardization ideal, if they wish to obtain economical and rapid results. Straight lines and uniform design of beams and girders in simple structures are of more importance than the exact theoretically economical size of the beam, or the computing of the area of reinforcement to the fraction of a thousandth part of an inch. This seems also apparent from the fact that the mills specify a variation of weight of 5 per cent. either way from their standard. Moreover, one single shipment of steel bars will, generally, vary greatly in elastic limits.
+
+Simplification should he the architect's key-note. This he can adopt without aesthetic loss, by making a study of concrete arid keeping in mind that that which looks easy and beautiful in stone and wood is, generally, expensive and out of place in concrete. Again, features necessary in mill construction can be omitted in reinforced concrete on account of the monolithic nature. Inexperienced architects and engineers will often lay out openrugs etc. in floors directly across time economic running of steel, thereby necessitating extra headers etc. with all their extra and expensive framing of forms. A great saving is made by designing the building as a skeleton. that is, casting curtain walls independently after columns arid floor slab have set. Tire accompanying details will give the render some idea of correct and incorrect— I should say expensive--designs.
+
+In figure 1 the belt (a) will cost frilly 60 per cent. more in forms including the saving of concrete than (b). The depth of (a) in fig. 2 between ring and crown is too small; (b) is better. In (a) of fig. 3 we have a detail in stone arid in (b) I he corresponding design in con-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crete In the curtain inn walls of fig. 4, (b) is the better on account of requiring less labor on forms and less patching after removing the forms.
+
+It must be admitted that, the architect cannot set up at present as an expert in reinforced concrete ; his mind has to he too busy with all the materials that enter into a building. Therefore lie can devote only part of his time to the study of reinforced concrete, while the specialist is limited on[y by his ambition. Still, the architect must, arid does, take notice of the almost unlimited possibilities of concrete, which are evidenced by the fact that at the last meeting of the American Institute of Architects, nearly two days out of four were allotted to the discussion of concrete. The following extract from the report of a committee at this meeting, seems to predict great possibilities for reinforced concrete from the architect's point of view ''And now comes the ghost of what might have been. and calls for incarnation feeling (if a giant can feel) 'that in reinforced concrete, science is preparing a system which can be vivified with the spirit of Art.''
+
+
+
+<article title=" DETAILING CONSTRUCTION FORMS " author="">DETAILING CONSTRUCTION FORMS.
+
+
+
+Forms are the most expensive item on a concrete building and at least as much time and thought should be spent on the detailing (if them as is spent on the reinforcing members. The contractor should work towards a standard detail of form which can be used over and over
+

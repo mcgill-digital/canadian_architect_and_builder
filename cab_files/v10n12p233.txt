@@ -1,0 +1,82 @@
+<doctype type="text">	THE CANADIAN	AND	BUILDER	233
+
+
+
+you will find that thc air is moving five or six times faster in some places in the pipe than it is in other places in the pipe, and if you stick in your measuring tube in that spot where it is moving faster, and figure on that, you will have a remarkably good efficiency. On the other hand, if you will take care and put your anemometer successively in all portions of the pipe, the result will not come out anywhere near that.
+
+There was another thing which troubled us—viz., the anemometers. We have three of them, one a brand new one which came to us fully certified that it was perfectly correct, hut I found on comparing it with the one we called standard last year that there was about 40 per cent. difference, and between it and that we called standard the year before, 20 per cent. So there was trouble right away. Then we set out to standardize the instruments ourselves, and, I might say, the result showed that they were all wrong. The method we used to standardize the instruments was to swing them around through the air on a long pole. Knowing the circumference of the circle, and the number of revolutions made, you have the distance it travels, and, if it moves through perfectly still air, the supposition is that the air would
+
+
+
+produce the same result in every case. This is the method usually adopted, to which, of course, there are some theoretical object ions. Moving the anemometer through the air is not really the same as having the air moved through the anemometer.
+
+Another method which was used for calculating the anemometer, and which was finally adopted as giving the best results, was to check its readings by blowing the air through a large tube, in which a steam pipe was so arranged that all the heat given off by the steam pipe must he taken up by the air; in which case, if the number of heat units calculated as having been absorbed by the air (temperature. volume and velocity being the three factors of the calculation) was the same as tile amount determined as having been emitted by the condensed steam, the reading of the anemometer was taken as being correct.
+
+<article title=" EFFICIENCY OF FANS " author="">
+
+EFFICIENCY OF FANS.
+
+
+
+I might say that the highest possible efficiency of a fan delivering air without a casing is not. over 50 per cent.—that is, theoretically—because there are theoretical losses which are equal to 50 per cent. of the work put in. Consequently, we know that we cannot get very high results. By putting on a easing and putting on a chimney, it may possibly be brought up 1075 or 80 per cent., although it is very doubtful, I think, if anything has passed 80 per cent.
+
+
+
+With the pressure blowers, we got quite uniformly the same results with all the different types. That is, with three different fans, and at the speed of which I spoke, we got an efficiency that ran from 32 to 47 per cent., varying with the conditions, 47 per cent. being the very best. in order to get that we had to construct our experimental fan with square blades, almost exactly like the commercial fan of that diameter, and we gave it a single inlet (22 inches in diameter), taking in all the air from one side and delivering it at the other side. With that condition, the best efficiency we could get, even at the best speed, was about 35 per cent.
+
+Afterwards we made a double inlet—that is, put an inlet on the opposite side of the fan—and simply the changing of tile inlet increased the efficiency of the fan from 35 to 47 per cent., which shows that the rectangular fan supplied by air at the center on a single side cannot get a sufficient supply to keep the casing and all the parts full ; and it would also point as a probable improvement on fans, that if we were to make the fan slightly conical
+
+that is, make it larger near the centre than at the outside, by means of which we could admit more air through a given sized hole ; that is, if our entrance in proportion to our discharge orifice was made larger it would no doubt increase the efficiency. This was ascertained some years ago, but I think it has been overlooked by our manufacturers generally, because I know of no American fans built with the conical case, although some foreign fans have been built that way.
+
+I think that from 35 to 47 per cent, is just about the commercial efficiency of fans run under the best conditions. In proof of this proposition I might say that I have looked over a large number of tests, and I believe in hardly any case did I find that the efficiency had been higher. It has gone as high as 47 per cent. only in such cases where the inlet was double or the passage for the entrance of air was made very large indeed. Practically this would mean that if the catalogue tables are based on the 100 per cent. efficiency, we must multiply the air by just about 3, in order
+
+to find the power necessary to drive a given fall as printed in a given catalogue.
+
+
+
+We went further than this and tested a few fans that were running in buildings and which were used in connection with hot blast, or the hot and cold blast system of heating and ventilating. In all these cases we found the fan efficiencies very much lower than those which I have given you, or, in other words, we found that the tans were not working under the best conditions. We found in every case that the fans were running very much too slow, and the efficiency, instead of running up around 25 per cent. ran under 20 per cent, and yet the fans were perfectly capable of returning a very great deal more for the power put into them.
+
+
+
+ SPEED.
+
+
+
+It seems to me from our investigations that there call he no very great objection to increased speed, except in such cases where noise is objectionable ; of course you understand that the noise will always increase with the speed. I think we should all endeavor to ascertain at what speed a fan gives the very best results.
+
+
+
+In addition, I might say that we found tile following propositions to be true:
+
+
+
+(1) That the amount of air moved by a given fan would vary directly with its speed—that is, if you turn it over twice as fast, it will throw out twice as much air.
+
+
+
+(2)	We found that the work required to move the fan varied with the cube of the speed.
+
+(3) We also found, as an interesting fact, that if we took and formed an equation, of which the peripheral speed in feet per second—that is, tile speed of the tips of the fans—was put on one side, that number was equal, practically all of our experiments, to forty-seven times the square root of the highest pressure, expressed ill inches of water—that is, about three-quarters of the peripheral. In other words, we found that the highest pressure we could produce was about three-quarters of the theoretical, and the highest pressure can always be produced when there is no air being discharged from the fan. When there is no air being discharged from the fan there will always be a less pressure than the highest, because two things together constitute the total work of the fan.
+
+
+
+Then there was one other useful point, which, from the fact of its being of some interest, we noticed—viz., the relation of the velocity of the tips of the fall to the velocity of the air that was driven off. I want to tell you that there is no relation between them. The whole matter rests upon this fact : If you allow a
+
+
+
+pressure to accumulate in front of your fan, as you may do by holding the air back and then let that air discharge freely afterwards, it will go downhill at any rate whatever, and may travel three or four times as fast as the tips of the tall.
+
+
+
+DISC FANS.
+
+
+
+In regard to disc fans the efficiency runs lower. We did not get as high an efficiency in a single case with a disc fan. I think they must necessarily run lower. More than that, just as soon as we got them working against any pressure, tile efficiency almost entirely fell off—that is, we were turning the fan round and moving very little air. Yet the disc fan is very much better suited for certain classes of work. In making this statement, of course, it is not to be understood as at all derogatory to the disc fan. They are two classes by themselves, one used for one purpose and the other for another purpose.
+
+Practically, then, the way our investigation stands at the present time is that about the best efficiency we can get out of the blower fan is about 35 per cent. with the single inlet, or, through a double inlet, about 10 per cent. better. That may seem to you to be more extravagant than ventilation by means of chimneys. I think we discussed that at our meeting last winter, and the table I gave you then was figured out on a supposed fan efficiency of 25 per cent., and perhaps you may remember that the fan then came out, even when I used a very wasteful engine, 50 times as economical as a chimney 1,000 feet high. If, instead of tile fan being 25 per cent., it is 33 per cent., of course our fan then becomes 75 times, instead of 50 times, cheaper than a chimney.
+
+In other words, we cannot afford, even though our fan is inefficient, to ventilate by heat. We must afford to ventilate by power. Mechanical ventilation is the ventilation which is corning and which we must learn to handle ; and it is cunning because it is more efficient, because it is cheaper, because it is more positive, because it is more certain and sure to give the very best
+
+results.
+

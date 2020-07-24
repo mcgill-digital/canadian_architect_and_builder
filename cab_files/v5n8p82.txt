@@ -1,0 +1,78 @@
+	<doctype type="text">82	THE CANADIAN ARCHITECT AND BUILDER	August, 1892
+
+
+
+<article title="New Methods in Heavy Timbering" author="Corser, Frederic G.">NEW METHODS IN HEAVY TIMBERING.
+
+The following article on this subject from Mr. <person>Frederic G. Corser</person>, architect, Minneapolis, Minn.  appears in a recent number of the Engineering News:
+
+The great success of the building now much in vogue for warehouses and factories, known as the 'mill construction," and the probable extension of some features of this system to other classes of buildings than those mentioned, has been productive of more or less study of the subject of timbering. If we except the efforts made within a comparatively short time to reform the timbering customary in these factories and storehouses, we must look in vain for recent examples of even tolerable timber-work. All the traditions to be acquired by the present generation of builders lie in the direction of rough, cheap work, intended to be concealed from view. No builder of this day thinks that the timbering of the ordinary building is a thing to be proud of under any circumstances. The carpenters of the day will look over the old works on the subject with rather more pity for the simplicity of the old builder, which led him to waste his time on the splendid framing shown, than of admiration for that framing.
+
+Another factor in the decline of timber work is the cheapness of sawing and dressing lumber in our time, which has increased the tendency to hide the actual construction by boxing or casing it in. When to this we add that the properties of timber used transversely are not generally well understood, we find sufficient causes for a decidedly low state of the art of timbering. How ever, with an amount of ingenuity and technical skill unknown to former times, seeking employment in every field, it were in deed a pity if the art of timbering were overlooked and now that there are such good economical reasons for the use of heavy timbering, left in full view, we may look to see the objectionable features overcome.
+
+The accompanying cuts give some things which, as far as I know, have not been used outside of my own work, and which
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are submitted as in the right direction. The drying of large timbers being a slow process, proceeding from the outer and newer tree growth which shrinks most, to the inner and older wood which is more stable, we get under the ordinary conditions several unsightly cracks, due to the strains set up by this unequal drying. Aside from their unsightliness, these cracks are often of considerable damage to the timber from the standpoint of strength. The boring of posts from end to end has long been done, and when the holes thus made are of considerable size, and vented by transverse holes at top and bottom, the trouble is overcome to some extent. Were it practicable to bore the floor timbers in this way, the benefits would be even greater than to the posts, because in the timbers used transversely we could bore out a relatively large part of the centre without weakening them. However, boring requires special machinery, not to be found around saw-mills or planing-mills, and there are limitations to the length of the timbers that one can get bored. After trying for some years to get manufacturers of lumber to put in the necessary machinery for boring, I gave it up.
+
+A deep groove may be worked in from the upper edge, a circular saw being specially set for the purpose. This method s open to the objection of destroying a few of the fibers opposed to the compressive strains, but it is even more efficient in reduc-
+
+ing the tendency to crack than is the boring. The preservation from season-cracks would doubtless in some cases prevent a loss of strength that would offset the amount taken away by the grooves.
+
+An old way of reducing the tendency to season-cracking consists in splitting the timber through the center with the saw, turning the outer sides inward, and bolting. This was a favorite prescription by Viollet le Duc. It puts the older and more permanent part of the tree-growth outward, and as this is less liable to shrink than the sappy newer growth, it not only relieves these seasoning strains by so much as would naturally follow from dividing the timber, but it also exposes the part of the timber which cracks least.
+
+There are also other advantages in thus making up the timber in two parts, among which is the opportunity given to inspect the heart of the tree this portion being, as is well known, subject to decay which does not manifest itself at the surface. An other advantage of using the timber of two parts is the fact that in the operations of the modern sawmill, larger timbers can in this way be sawn from a given diameter of logs, Still another gain to the building is to be found in the greater progress of the seasoning process in the interval between the cutting of the lumber and its final assembling in place in the building.
+
+Not long since it occurred to me that possibly broad grooves or panels might be worked in the sides of the pieces thus pro posed to be bolted together, the operation being done at the planing-mill at the times of dressing of lumber. Upon enquiry, I find that the planers in use at these mills for doing the bulk of their work may be easily modified to work these channels, and I have had estimates for doing it at a very low figure.
+
+As grooves or panels of about the proportion shown in the cuts may be made without taking from the strength of the pieces when subjected to transverse strain, this form becomes desirable for several reasons. The seasoning of the timber prepared in this way would be accomplished in a fraction of the time required by a solid timber ; the panelling would so reduce the pieces at the center as to remove the tendency to season-cracks ; considerable weight would be saved in freighting and handling on the building ; the interior could be dried while the under side of the timber, being practically solid, would resist fire well, and if the Outer sides were also panelled, it would do much toward relieving the appearance of the timbers, by introducing lines that would in a measure take the attention from the unsightly features of common lumber. In fact, this treatment of timbers will go far toward making open timber-work desirable in other classes of buildings than factories and warehouses. Floors built on this principle are much to be desired in schools, for instance, where by their substitution for the common thin joist and concealed construction, and by the use of open-timber roofs of suitable de tail, a practically fire-proof building may be obtained at less cost than one of the kindling-wood structures so nearly universal.
+
+I am indebted to Mr. <person>C. J. H. Woodbury </person>for the suggestion that the small vent-holes be placed at a low enough level to drain the inside of any water that might get into the centre during or after building. For bolting the halves of the timber together, lag-screws are used as shown, because they would not become so loosened by the shrinkage of the wood as would the common bolts running clear through. A few dowels might be inserted with profit in the upper part of the girder liable to unequal loading, as the planking, being parallel with it, would not be of assistance in distributing the load over the two halves. The dowels, replacing fibres subject to compressive strains only, would not take from the strength of the beam.
+
+The iron stirrup, so commonly used for the support of timbers meeting at right angles, as when heavy joints are carried at one or both ends by girders, is far from an ideal way of accomplishing the desired result. It is clumsy in appearance, if not actually so in manufacture it usually gives a rather poor bear ing for the joists, while the shrinkage of the joist eventually leaves the top of it considerably below the top of the girder. The iron seat shown in the cut is designed to overcome these faults in a degree.
+
+As we approach the neutral axis of the timber in which the mortise is cut, we find the fibers less and less strained under a load, so that we may remove a part of the timber without weakening it, provided we have enough wood at this point to bear the small strains that the timber will be called on to withstand at the level of the mortise, If in this mortise we place a casting of the form shown, and tenon the joist to fit, we shall get a bearing of the joist much better than that given by the stirrup ; the arrangement will be much less unsightly, and nearly all the old trouble of shrinking away from the common level at the top, which gives so much trouble where stirrups are used, will be overcome.
+

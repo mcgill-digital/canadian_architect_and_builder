@@ -1,0 +1,146 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	
+
+
+
+creased, with the result that the tensile strength increased, as given below
+
+Pds per sq. inch
+
+I set, average	. 328.8
+
+	2 "	"	.	344.3
+
+	3	- 	-	3443
+
+	4			3556
+
+	5
+
+ "	"	363.
+
+	6	 .	.	369.5
+
+	7			395.2
+
+	8
+
+	.. .	3933
+
+	9			.	. .	... 	... 3962
+
+	10	"	" .. 405 7
+
+
+
+It is apparent, then, that the resulting tensile strength will depend very materially upon the apparatus used, the method adopted and the person employed to perform the experiment. There cannot, therefore, be the same uniformity in specifications on this point as on that of sifting, but much might be done with this end in view, We have already seen in the results quoted variations in the tensile strength at the end of seven days (tested neat) of from 500 pds. per sq. in. to 200, and that these differences may be due entirely to the method of handling. Hence the mere statement that the tensile strength was found to be 345 pds. is meaningless unless we know the method of handling.
+
+In the annual report of the City Engineer, Toronto, for 1893, there is a table giving the tensile strength (tested neat) on seven days of 23 different brands of Portland cement. The average strength of these brands is about 236 pds. per sq. in,, the maximum  being 350 and the minimum 140. The report for 1890 explains the method adopted. On the other hand, the specification for the drill hall at Toronto calls for a cement to stand a tensile strain of 450 pds. per sq. inch.
+
+Of these two methods the second will, perhaps, give more uniform results, while the former requires less time, and where a large amount of testing is necessary, time forms an important factor. It would, however, be better for all to adopt some intermediate method.
+
+3. SOUNDNESS.—M1. Faija advocates the use of an apparatus called a "steamer," and which, he claims, will reveal any "blowey" tendency in cement. The test consists in keeping pats of cement in water at a temperature of from 110 degs. to 120 degs. Fahr. for two days.
+
+In a paper prepared for the Engineers' Congress at Chicago, two years ago, Mr. Gary gave in detail the standard methods of testing cements in Germany. All hot tests are discarded there, for the reason, he says, that they are misleading. The <assoc>American Society of Civil Engineers </assoc>do not recommend an accelerated test, while the <assoc>Canadian Society of Civil Engineers </assoc>recommend Faija's hot test. The fact that many cases of unsoundness in cement are not discoverable by the ordinary short time tests, is well known, and as the hot tests are on the safe side, it might be well for the 0. A. A. to follow the suggestions of the Can. Soc. C. E.
+
+SPECIFIC GRAVITY OR WEIGHT.—In the process of manufacture, it is very important that the cement be properly burnt (semi-vitrified). Now, as an underburnt cement is light, it follows that the relative weight forms a ready means of determining whether the burning has been properly done. It has therefore been customary in specifications to state that the cement shall have a define weight per striked bushel, 112 to 115 pds. However, it would be better to specify that the specific gravity shall be above a certain standard, as the determination of the specific gravity is by no means as uncertain as that of weight. The weight per bushel is unsatisfactory, as it is affected by the following —I. The size of the measure adopted ; 2. The distance the cement fails into the measure 3. The freedom with which it falls ; 4. The looseness or amount of separation between the grains 5. Any disturbance in the way of a jar while the measure is being filled.
+
+In proof of the above, we may give the following quotation from "Notes on Building Construction," prepared by the Council on Education, South Kensington ,—" Method of Weighing"— "In order that the cement may be accurately weighed, great care must be taken in filling the measure. This may be done by allowing the dry cement to run down into the measure by a board or shoot, inclined at an angle of 45 degs., any superfluity being carefully struck off by a light straight-edge. A vessel with holes in it is sometimes used for filling instead of the inclined shoot. An accurate method is to fill the measure through a sieve of about r-16th inch mesh, held a short distance above it, or the cement may be poured through a hopper placed about two feet above the measure. A drawing of the hopper is sometimes given in connection with the specifications." It is thus apparent that the weight per striked bushel is liable to vary and must differ considerably with different persons and even with different determinations of the same person The specific gravity, on the other hand, is a definite quantity not effected by
+
+and its determination liable to but a slight personal error  observer
+
+
+
+It will be seen, then, how desirable it is that this property of cement namely, its relative weight, should be determined from
+
+a specific gravity rather than from its weight per striked level
+
+The e following is the result of a series of tests of Beams 4" x
+
+of Portland cement and kept under water for one year.
+
+The first set were gauged neat, while the second consisted of two parts of crushed granite, such as used in the manufacture of granolithic sidewalks, to one of Portland cement
+
+	Span In inch,	Section	Modulus of 
+
+				b	    b				Rupture	in pds per sq. in
+
+	36	.		4"	x 59"					 526
+
+	18			4	x 5.9					.426
+
+	·	4 x 59	594
+
+	9.	4 X 59 .	542
+
+	9	4 x 59	.	561
+
+9	4 x 59 .
+
+
+
+I I.
+
+	36	.	4 X 6	...	1088
+
+	18		4 X	6 .		1107
+
+			4	X 6	.	[007
+
+	9	.	4 x	6 ...		1125
+
+	9		4	X 6		1130
+
+	9		4	X 6
+
+
+
+Compressive strength of two cubes of neat cement one year old:
+
+	Area exposed to	Crushing strength
+
+	Height	crushing.	In pds per square In
+
+	5		5 X 49 ..	.,	3878
+
+	5	.	5 X 48		3877
+
+
+
+
+
+<article title="Correspondence - The Accident at the Montreal Street Railway Club" author="">THE ACCIDENT AT THE MONTREAL STREET RAILWAY BUILDING.
+
+
+
+MONTREAL, Jan. 23rd, 1895.
+
+
+
+Editor CANADIAN ARCHITECT AND BUILDER
+
+DEAR SIR,— I n the January number of the CANADIAN ARCHITECT AND BUILDER, there appears a letter signed by <person>E. C. Hopkins</person>, relative to <person>Mr. Lacroix </person>signature being attached to a report on the collapse of the <building>Montreal Street Railway building</building>, which was prepared by me for the Provincial Government, as follows
+
+"It may perhaps be somewhat of a surprise to you, as it certainly has been to Mr. Lacroix and myself, to find his name attached to a report which, as he states in his letter to me, given below, he did not sign, and was no party to; and further, which arrives at conclusions he has not yet gone into or expressed any opinion upon.
+
+What object was to be gained by tacking the City Building Inspector's name to the report, without his knowledge, is left for those doing so to explain, if possible."
+
+In explanation of the same I beg to draw your attention to the fact that the report in question was prepared solely by myself that Mr. Lacroix never was asked to sign the report-—in fact, never saw it. We visited the building together, took the bricks and mortar from the wall, and were present at the test at the McGill University Laboratory. After that I was specially requested to prepare a report giving the weights concentrated on the wall where it was supposed to have failed, which I did, Neither the report nor the copy bears Mr. Lacroix's s signature, so was as much a surprise to me as to any one else to find the Building Inspector's name added to my report. As Mr. Hopkins wishes to know "what object was to be gained by attaching the City Building Inspector's name to the repot without his knowledge is left for those doing so to explain if possible," perhaps the CANADIAN ARCHITECT AND BUILDER will give the explanation, and by so doing will prove that I at least had nothing whatever to do with it.
+
+
+
+Yours truly,
+
+
+
+<person>W. MCLEA WALBANK</person>.
+
+
+
+[It lies with the correspondent of the ARCHITECT AND BUILDER to explain the addition of Mr. P. Lacroix's signature to a report published in the December issue of the CANADIAN ARCHITECT AND BUILDER, and submitted by Mr. W. McLea Walbank, architect, of this city, on behalf of the Provincial Government in the coroner's enquete, of the accident which happened to the Montreal Street Railway Co.'s building. The correspondent of the ARCHITECT AND BUILDER having applied to Mr. Walbank for a copy of his report for publication, the last named referred him to his clerk, who gave him a rough draft of the report and which they together corrected to agree with the original. Mr. Lacroix having examined the collapsed building jointly with Mr. Walbank and the fact of him having also signed a letter Sent to the Queen's Attorney and prepared by Mr. Walbank suggesting the proceedings that should be adopted for conducting the tests of the building material employed in that building, led the clerk to confuse the two documents, the letter of suggestions and the final report of Mr. Walbank, and so one was taken for the other, and the name of Mr. P. Lacroix, Building Inspector, added to the report without Mr. Walbank's knowledge, or without any bad faith or intention whatever on the part of either Mr. Walbank's clerk or the ARCHITECT AND BUILDER'S correspondent.]
+
+
+
+
+
+Send for a copy of the CANADIAN CONTRACTORS' Hand book. Price, to subscribers, $1.00.
+

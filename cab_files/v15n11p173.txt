@@ -1,0 +1,100 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+3-in.	in diameter, made of non-absorbing material, is placed on a glass plate and filled with the mortar to be tested the consistency being such that the needle does not entirely pierce it." (Trans. Amer. Soc. Civil Engineers, Oct. 1893.)
+
+A simple method for determining the standard consistency neat cement tests is to mould a ball of mortar in the hands to a plastic state and drop the same about 20 inches on to the table. If the ball of mortar neither flattens appreciably nor cracks, the consistency is satisfactory This process corresponds practically with the previous method. The water for standard consistency of to sand briquettes shall ordinarily be 10 per cent, of the sand and cement by weight. and amount of water for standard consistency of neat cement of any particular brand be less than 20 per cent. then the amount of water for standard consistency of 3 to sand briquettes for this particular brand shall be one-half of the amount used in neat tests.
+
+
+
+(7) PREPARATION OF BRIQUETTES
+
+
+
+(a) HAND-MADE.
+
+
+
+(i)	Neat Cement. The moulds shall be slightly oiled on the inner side and placed upon a metal or glass plate. The mixture of cement and water shall then be thoroughly worked together (preferably in a Faija's mixer) for five minutes. The moulds shall then he filled well above the rim so that the mortar presents a convex surface With an iron trowel the mixture shall then be patted, commencing at the side, first gently and then harder until it becomes elastic and water appears upon its surface. No after addition of the mixture shall be allowed, as the briquette must be of uniform density throughout The superfluous cement shall then be removed and the surface smoothed by means of a knife or sharp-edged trowel. The moulds can only bc removed when the cement has hardened sufficiently The briquettes shall then be placed it. a damp chamber (zinc lined) furnished with a lid (also zinc lined) to prevent the in irregular drying of the briquettes under varying degrees of temperature. After a period of 24 hours the briquettes shall be laid in water and kept completely submerged during the whole period of hardening. The proportion of water used shall be stated in the report.
+
+(2)	Sand and Cement. Five pieces of blotting paper soaked in water shall be laid upon a metal or glass plate, and upon each piece of paper there shall be placed a mould also moistened with water. The cement and sand in their specified proportions shall then bc thoroughly mixed together, after which the water shall be added, and the whole thoroughly worked for five minutes. With the mortar thus obtained each should be filled by one application so as to rise in a convex form above the edge of the mould. With an iron trowel the mortar shall then be patted, beginning from the side, first gently, then harder, until it becomes elastic and water appears upon the surface. No additional material must be added, as the briquettes must show a uniform density throughout Superfluous mortar shall then be taken off by means of a knife or sharp-edged trowel, and the surface smoothed.
+
+The moulds still then be carefully removed and the briquettes laid in a damp chamber (zinc lined), furnished with a lid (also zinc lined) to prevent irregular drying. After a period of 24 hours the briquettes shall be laid in water and shall be kept completely submerged during the whole period of hardening.
+
+
+
+(b) Machine-Made
+
+
+
+(i) If possible, briquettes prepared as above shall be subjected to a uniform specified pressure (say, for example, 20 lbs. per square inch) by means of a ram of die same gauge as the moulds, or,
+
+(2)	A Bohme apparatus may be used, In this case, the moulds shall he filled with about 4/10 of a lb. of mortar prepared as in (a), and shall be placed in the machine 150 strokes shall then be applied to the core with a hammer of about 4.4 lbs. in weight (2 kilog.). After removing the mould and the core the briquettes shall be smoothed off, taken off the subjacent plate and treated as in (a).
+
+By care in following the instructions given in (a) and (b) it will be found that hand work and machine work will give fairly uniform results. Doubtful cases, however, should be invariably decided by machine-made briquettes
+
+
+
+(8) TESTING MACHINES
+
+
+
+Testing machines shall be of the positive lever automatic type, so arranged as to apply the loads quietly and uniformly at the
+
+rate of 200 lbs. per minute
+
+(9) CLIPS.
+
+
+
+The style of clips shall be such as will break the briquette at the line of least section. Clips with adjustable rubber or paper composition rollers are found to work satisfactorily and should be used.
+
+(10) CHEMICAL TESTS.
+
+
+
+Chemical tests and full quantitive analyses are strongly recommended; and preference will be given to cements of which analyses are furnished by the manufacturers.
+
+
+
+(ii) ADULTERATIONS, ETC.
+
+
+
+Any cement containing adulteration shall not be accepted as a Portland cement. There are also certain ingredients which should be strictly limited in their amount. If there is found to be more than 2 per cent of sulphuric acid or 3 per cent of magnesia, the cement should be rejected. It is understood that Portland cements only are being specified for. The silica or sand cements are in a class by themselves, need special specifications, and are not intended to be included in the present one.
+
+
+
+(12) PACKING.
+
+
+
+Cement shall either be packed in paper-lined, air-tight barrels, well constructed and hooped so that, under ordinary conditions of handing no cement shall sift out, or if iii sacks, the texture of the sacks shall be so strong and fine as not to permit of any sifting out or wasting of cement under ordinary conditions of handling. The net amount of cement, deducting the weight of the package, shall be 350 lbs. per barrel.
+
+
+
+(13) CERTIFICATE.
+
+
+
+The manufacturer shall give written certificate with each shipment of cement, stating (1) the date of manufacture, (2) the tests and analyses which have been obtained at the manufacturer's laboratory for cement taken from the day's grinding of which this shipment forms a part, (3) that the cement does not contain any adulteration
+
+<article title=" RECOMMENDATIONS " author="">RECOMMENDATIONS.
+
+
+
+Frost Test on Cement. In case of experimental tests made for the purpose of determining the action of cements when exposed to severe frost, it is recommended that the cements be mixed at a temperature below freezing, with cold water, cold sand, and kept exposed to ordinary winter weather, just as they would be exposed in actual construction of masonry. A description of what is done in this connection should be kept for comparison with other results, and the records of such experiments filed With the secretary of the Canadian Society of Civil Engineers
+
+It has been observed in hot bath tests that little pustules or eruptions take place on the surface; instances are also given of the glass shattering in the hot bath test without separating from the cement or without any other sign of failure on the part of the cement, Members of a he society at e requested to observe the causes or reasons therefor and report the same to the secretary of the society
+
+Inasmuch as small consumers are rarely able to gauge or mix their test specimens with a mechanical mixer it is advised that where tests are made by hand mixing due discrimination shall be made in comparing the results with tests made by mechanical mixing. Hand mixing done by an expert will probably agree closely with mechanical mixing, but for ordinary testing the mechanical method will give more uniform results, inasmuch as no skill or dexterity is required to produce approximate uniformity
+
+Cement testers, where possible, should make long time tests to see whether or not where is any connection between high early tests and future falling off in tensible strength, and whether, when mixed three to one with sand, the same or similar deterioration s observed. These tests should, if possible, be carried on for several years. It would be of the utmost value to the profession to obtain positive data on this point from engineers in charge of municipal university or other laboratories, who are in a position to supply it.
+
+
+
+The sudden death is recorded of Mr. Thomas Mowbray, a well known sculptor, of Toronto. Before coming to Canada the deceased executed carvings on some of the most important public buildings of Liverpool, Eng. The Toronto Custom House shows example of his skill.
+
+Mr. J. 0. Marchand who for nine years past has been engaged in the study of Architecture at the Ecole des Beaux Arts in Paris, has returned to Montreal, his native city, and in conjunction with Mr. Stevens Haskell, of New York, has commenced the practice of his profession there. The firm have opened offices in the London and Lancashire Building, St. James Street.
+

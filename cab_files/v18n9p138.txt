@@ -1,0 +1,142 @@
+<doctype type="text">138	THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" INTERCOMMUNICATION " author="">
+
+INTERCOMMUNICATION.
+
+
+
+ [Communications sent to this department must be addressed to the editor with the name and address of the sender attached not necessarily for publication. The editor does not hold himself responsible for the expressions or opinions of correspondents. but will. nevertheless endeavor to secure correct replies to queries sent in, We do not guarantee answers to all queries neither do we undertake to answer questions in issue following their appearance.]
+
+
+
+
+
+
+
+
+
+From ''Builder":	Would it be right to stain the floors in a residence the same color as the dark woodwork and finish?
+
+ANSWER.—NO, it is not considered necessary that floors should be of the same finish as the woodwork above. Oak makes about the best floor, though maple is very satisfactory, too, slightly stained in the filler to cherry color or oak brown. Very dark floors are not desirable as the dust shows so plainly on them they always look dirty.
+
+
+
+From "Workman": I have heard of a tool that will bore a square hole will you kindly inform me if there is such a tool, what it is like and where it can be obtained, and oblige ?
+
+ANSWER.-- --Yes, there is just such a tool in the market, it is called ''The Pearl Square Augur" and is sold by a company who have their offices at No. 107 Liberty St. New York N. Y, We do not know of any Canadian house that keeps them for sale. This is a real augur all the cutting parts boring a hole by a rotary motion not a tool that has to be forced into the wood by pressure. It is the only augur in the world that bores a square hole. Several gold medals have been awarded the inventor.
+
+
+
+From "Plasterer": Will you kindly inform me how the centre of an arch is obtained, the curve already being struck, and advise me where a book describing the method may be obtained ?
+
+ANSWER.---The centre points from which different arches are struck can be readily found by practical geometry; and any workman who wishes to rise to the higher branches of his trade must not expect to find everything ready for him without any labor on his part. The most useful method of finding centres is shown in the accompanying illustration, Fig. 1. Let A 13 be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+part of the curve of any arch ; from any point c with a radius c d strike the arc d e, and from any point f with the same radius strike the arc g h to intersect with the previous arc at and j, then a line drawn through i j will pass through the centre from which the arc curve was struck. Now take any point k and with any radius k 1 strike the arc 1 m, and from any point n with the same radius strike the arc intersecting the previous arc in q r, then a line drawn through q r will intersect with the line drawn through i j at the point S, which will be the centre of the arc curve. when the arc has more than one centre, the various
+
+centres can be found in the same way, by taking different parts of the curve. There are many books now to be had that show how to overcome this and other like problems, but, perhaps the best for your purpose, is "Hodgson's Modern Carpentry" Price $1.00. It may be obtained from this office.
+
+
+
+From "Contractor"; Will you kindly give me a rule for measuring slate on a roof giving the number of various kinds or slate required to cover one square, also please describe a good method of laying slate.
+
+ANSWER.—A very good table for finding the number of slate required to lay one square of roofing is given below. It is taken from ''The Builder and Contractors Guide" and is considered fairly correct.
+
+
+
+Number of slates required to cover a square of 100 ft.
+
+	Size	Lap of	Lap of	Size	Lap of	Lap of
+
+	2 inches 3 inches	2 inches 3 inches
+
+	12X6	488.00	533.33	20X12	133.33	141.17
+
+	7	411.43	457.14	13	123.08	130.32
+
+	8	360.00	400.00	14	114.20	121.01
+
+	14X7	342.86	374.03	22X11	130.91	137.80
+
+	8	300.00	327.27	12	120.00	126.32
+
+	9	266.67	290.91	13	110.77	116.60
+
+	10	240.00	261 .82	14	102.86	108.27
+
+	16x8	257.14	276.92	15	96.00	101.05
+
+	9	228.57	246.15	i6	90.00	94.74
+
+	10	205.71	221.53	24X12	109.09	114.29
+
+	11	187.01	201.40	13	100.70	105.57
+
+	18x9	200.00	213.33	14	93.51	97.96
+
+	10	180.00	192.00	15	87.27	91.43
+
+	11	163.64	174.55	16	81.82	85.71
+
+	12	150.00	160.00	17	77.01	80.67
+
+	20X10	160.00	169.41	18	72.73	76.19
+
+	11	145.45	154.01
+
+	With	regard to	laying and nailing slates,			there are
+
+different ways of doing the work. There is single and double nailing both of which are shown in sketches
+
+and 2, Fig. 2 In Fig. 1 all the slates of the roof are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fixed with two nails. suppose slate A is broken at line X X, and is to be superseded, the first thing to be done is to get out the nails B, to allow the remaining part of the slate to be removed, This can only be done by ripping, as the nails are out of sight. It is now, however, that the real difficulty presents itself. How is the slate to be nailed ? The slates in course C will not turn aside, being fixed at two points, the same applies to course D. The thing is impossible let alone unpractical. What is the result ? The slate is often fixed with a little cement, or the easier plan is taken of merely wedging it in, a procedure that soon puts the roof in an unsafe, and very untradesmanlike condition indeed. In Fig. 2, we show part of the roof with only every third course double-nailed, which is recognized by all practical slaters to be the best possible manner of slating a pitched roof. At the same time it is the cheaper method of the two, as there are fewer holes to punch, fewer nails to provide, and less time occupied in driving them in, and for these reasons it is always quoted at a cheaper rate. Let us refer to Fig. 2, and the advantage will be quite obvious it being quite possible to supersede any broken slate in any course
+

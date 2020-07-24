@@ -1,0 +1,72 @@
+<doctype type="text">69
+
+
+
+<article title="Toronto Plumbing" author="">TORONTO PLUMBING.
+
+THE officials whose duty it is to administer the Toronto Plumbing By-law state that its operation has resulted in a gratifying improvement in the character of plumbing work done throughout the city. About 75 per cent. of the plans submitted for the approval of the Plumbing Inspectors since the by-law came into operation little more than a year ago, have been referred back for necessary changes. Notwithstanding this, up to date more than eleven hundred plans have passed inspection, More than seven hundred of this number have passed during the present year.
+
+Enquiry confirms the opinion expressed in a former number of this journal, that great necessity exists for regular inspection of old plumbing. The only inspection of old work at present is done by the inspectors of the Health Department, and only in cases where complaints are made to the Health Officer by the occupants of the premises. Remembering how indifferent the majority of householders are to the subject of sanitation, we fear that the present method of inspection is by no means as thorough as the public health demands.
+
+If, as we are informed, the plumbing done under the Plumbing By-law is vastly superior to that of former years, we find here an additional argument in favor of regular inspection of the imperfect work done when there was no official inspection, a vast amount of which is still existing.
+
+
+
+<article title="Internal Extended Surface in Boilers and Radiators" author="">INTERNAL "EXTENDED SURFACE" IN BOILERS AND
+
+RADIATORS.
+
+W
+
+E learn from the Engineering and Building Record that experiments have been made at the naval arsenal in Best, France, by the officers of the Government with a boiler furnished with tubes having longitudinal ribs on the inside, so as to present a larger surface for the absorption of heat. The projection of the flanges is about one-quarter the diameter of the tube, and eight of them are placed at equal distances around the inner surface. The results gained are said to indicate an economy of 18 to 24 per cent. in the consumption of coal, when compared with the ordinary smooth tubes.
+
+This, however, could hardly be true except in the case of a boiler with insufficient heating surface, as when properly designed and operated a good boiler will abstract as much heat from the gases as may be desired.
+
+For marine boilers, where economy of space is of great importance this device may be useful in increasing the efficiency of the heating surface.
+
+It also suggests the question whether it may not, in some cases at any rate, be economical to use "extended surface" on the inside as well as on the outside of hot-water radiators.
+
+
+
+<article title="Important Sanitary Problems" author="">IMPORTANT SANITARY PROBLEMS.
+
+A
+
+MONG the subjects selected for essays to be read at the forthcoming convention of the <assoc>National Association of Master Plumbers of the United States </assoc>to be held in Pittsburg, Pa., from the 25th to the 27th inst., are the following "The best method of obtaining for country houses an abundant supply of pure water "; "Would it be advisable, where supply of water for cities is limited, to encourage the use of water meters ; that is, under what circumstances should they be adopted with a view to economy and equitable distribution ?" "Taking into account the wonderful progress of electrical science and invention, what prospect is there in the near future of its application to plumbing ?" "As a measure of practical utility and economy, should the circulation pipe ever be omitted in fitting up the hot water supply to bath rooms or basins?" "Should not plumbers, from their standpoint as mechanics, adopt and stimulate the hot-water system of heating dwellings or other buildings ?" "Is it injurious or otherwise that Boards of Health fail to recognize the experience and mechanical knowledge of the plumber where accurate inspection of intricate details of work is required ?" "In view of the fact that the sanitary regulations of municipal bodies are requiring the cast-iron soil-waste and ventilation pipes to be air-tight, is it advisable to resort to the use of wrought-iron pipe and fittings ?" "The best methods of putting in pipes in build-
+
+ings with a view to protection against freezing ; also desirable precautions against such pipes being affected injuriously during extremely cold weather. Incidentally, the danger of water-backs of ranges being frozen up "; "The best method of putting cast-iron pipes together to insure duration and non-liability to separation under any and all circumstances; ''What are the conditions under which success in the plumbing business can be best attained ?" "The necessity of Plumbers' Associations taking an active interest in promoting beneficial legislation in favor of sanitary regulations within their respective localities "; "Upon what grounds do plumbers base their claim to recognition as authorities on sanitary rules and practice, and why is their advice indispensable ?" "The ethics of plumbing; why should not the plumber establish a code similar to that of the profession and thereby enhance his social and moral status ?"
+
+
+
+
+
+Complaints are made that the streets of Ottawa are insufficiently lighted.
+
+Campbellford, Ont., is putting in an electric light plant.
+
+The city of London, Ont., has in view the erection of a garbage crematory.
+
+Port Hope, Ont., is advertising for tenders for lighting the town by electricity.
+
+Buckingham, P. Q., has completed arrangements for putting in electric light in the fall.
+
+The Electric Light By-law voted upon at Stratford, has been carried by a majority of 51 for the light.
+
+The by-law to guarantee 5 per cent. on $40,000 to build an electric street railway in Victoria, B. C., has passed.
+
+The Toronto Local Board of Health is consulting with manufacturers with a view to the abatement of the smoke nuisance.
+
+Through the liberality of an old graduate, a course of instruction in sanitary science will in future be open to the students attending McGill University, Montreal.
+
+One of the electrical projects in the air at the present time, says the New York Electrical Review, is the problem of heating dwelling houses electrically, without the use of any very hot substance. It is claimed that wall-paper can be made in such a way that the passage of currents of low electro-motive force will heat it moderately warm to the touch, and thus diffuse throughout the room an agreeable temperature. This is, of course, theoretically possible and may even become feasible in the more improved state of the art. A source of warmth coming from the entire surface of a room would certainly be the perfection of house-heating and would do much to make this so-called temperate zone of blizzard's sea blows endurable. Why may not the artificial illumination of the future be of the same nature? Recent developments are tending towards the possibility of infinite subdivision. The charm of a room illuminated with myriads of candles is one never to be forgotten, though it is one which few of the present generation have seen. We predict that the ultimate use of the glow-lamp for domestic purposes will be to diminish its size and increase its number.
+
+
+
+
+
+<article title="Strength of Bent Pilpe" author="">STRENGTH OF BENT PIPE.
+
+S
+
+OME experiments recently made on the strength of bent pipes have developed some things not commonly known, or, at least, not recognized. We mean the strain on the inside of the angles, due to the effort of the pipes to straighten themselves under pressure. The problem is one of considerable intricacy, resolvable, however, by computation, and is a good one for practice by our engineering students. In the experiment referred to, a copper pipe of 334 inches bore, three-sixteenths of an inch thick, was used. The angle was ninety degrees, and the legs about sixteen inches long from the centre. At a pressure of 912 pounds to an inch the deflection of the pipe was nearly three-eighths of an inch, showing an enormous strain on the inner side in addition to the pressure. A steam engine indicator is made in England on this principle. There is a curved pipe employed, and the tendency to straighten under pressure produces the recording movement.
+

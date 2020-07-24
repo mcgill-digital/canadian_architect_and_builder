@@ -1,0 +1,185 @@
+<doctype type="text">
+
+<article title=" Tests of cast-iron columns by the department of buildings of New York City." author="">
+
+THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+tests were made with a higher reading mercury column, which was compared with instrument No. 5447 at the time of the tests, and afterwards by the maker of both instruments. The values in Tables I. and II. have been corrected in accordance with the result of the calibrations.
+
+From the figures given in Tables I. and II. the following computation of the calibration of the Phoenix testing machine was made and included in Mr. Ewing's report
+
+Let P=unit load in Watertown machine.
+
+1 compression in ins, due to P.
+
+P = unit load in Phoenix machine.
+
+P compression in ins. due P'.
+
+P=1 lb., 1=000000089l, and 1'=0002432916.
+
+If P P'
+
+	P	P1'
+
+then	and P'
+
+	.0002432916	lbs.
+
+
+
+P'=0000000891=2,730.54
+
+This figure indicates that each unit on the gage must be multiplied by 2,730 to obtain the pressure exerted in lbs.
+
+We would call especial attention to the importance and value of he above test as furnishing for the first time, so far as we are aware, an active calibration of the Phoenix hydraulic machine.
+
+According to the illustration of the Phoenix machine in our issue of Jan. 10, 1891, the hydraulic cylinder is bored to a diameter of 64. inches. This is equivalent to an area of 3,227 sq. inches.
+
+If there were no friction in the machine and no error in the Shaw mercury column gage, then lb. pressure per sq. in. indicated on the gage would represent a load of 3,227 lbs. on the testing machine, instead of 2,730 1bs., the figure given by Mr. Ewing. The difference, 497 lbs., is 15.423476f 3,227, which may be taken as the average friction of the machine plus the error, if any, of the gage.
+
+In the tests made at Watertown (Table 1) there were 36 readings taken, in nine different tests, in which the increment of load was uniformly 80,675 lbs. The corresponding compressions ranged only from .0070 to .0074, a variation of .0004. An inspection of the figures seems to indicate that this variation was that of the measuring instrument and of the personal equation of the observer, rather than an error in the recording of the load by the testing machine, or a variability in the action of the column being tested. The differences in the recorded compressions due to the first applied load, 161,150 lbs., in the nine tests, ranging from .0057 to .0091 inch, is probably an error in the setting or in the zero reading of the measuring instrument, which error remained
+
+practically conscious during each one of the tests, and does not affect the increments of loads after the first load.
+
+In the calibration of the Phoenix machine the compressions clue to increments of 25 units on the gage (or 25 X 2,730=68,250 lbs.), range from .0054 to .0065 inch, a difference of .001 1, which is nearly three times the range shown in the Watertown tests for an increment of load 80,675 lbs. If we assume that the whole range of difference found in the Watertown tests, .0004 in., is the error
+
+
+
+TABLE 11.—Tests of Same Phoenix Column In Phoenixville Ma
+
+	TABLE 1.—Tests of Phoenix Column In Watertown Machine, Dec. 30—31, 1896.		chine, Dec. 15—16, 1897,
+
+	 Total	Loads,
+
+	load,	Compressions in ins.	gage	—	Compressions In ins.
+
+	No.	 lbs.	No. 1.	No. 2.	No. 3.	No. 4.	No. 5.	No. 6.	No. '7.	No. 8.	No. 9.	No.	read'g.	No. 1.	No. 2. No. 3.	No. 4.	No. 5. No. 6.	No. 7.	No. 8.
+
+	1.	161,150	0.0091	0.0088	00084	0.0081	0.0085	0.0068	0.0057	0.0058	0.0057	1.	(10	-0.0095	—0. 1 —0.0097	—0.0090 —0.00. -0.0089 -0.0096			-0.0089
+
+	2.	322,700	.0233	.0229	.0226	.0221	.0220	.0207	.0200	.0199	.0200	2.	100	. 3	.0004 .0002	..	.0003 .0005	. 2	.0007
+
+	3.	403,375	.0304	.0302	.0298	.0292	.0292	.0278	.0272	.0272	.0271	3.	125	.0059	.0061 .0059	. .0062	.0057 . .0062	.0060	.0063
+
+	4.	484,050	.0375	.0372	·0376	 .0365	 .0364	.0849	.0345	.0345	.0345	4.	150	.0118	.0122 .0118	 .0123	.0117 .0122	.0117	.0122
+
+	5.	564,725	.0446	.0444	.0441	.0437	.0435	.0420	.0418	.0417	.0418	5.	175	.0181	.0186 .0179	.0187	.0180 .0187	.0182	.0188
+
+	6.	645.400	.0519	.0518	.0515	.0510	.0506	.0493	.0490	.0490	.0490	6.	200	.0235	.0247 .0237	.0248	.0238 .0247	.0240	.0247
+
+	7	763,720	 0626	.0625	.0622	.0617	.0613	.0600	.0597	.0597	.0597	7.	220	.0292	.0303 .0288		 0289	0289
+
+	Differences.	Differences.
+
+		Loads,											Loads, scale
+
+	Nos.	  lbs. Compressions in						ins.				Nos.	divisions. Compressions in						ins.
+
+	1—0.	101,150	0.0091	0.0088	0.0084	0.0081	0.0085	0.0068	0.0057	0.0058	0.0057	1—0.	60	0.0095	0.0091	0. 7	0.0090	0.0096	0.0089	0. 0	0.0089
+
+	2—1.	161550	 .0142	 .0141	.0142	.0141	.0135	.0139	.0143	.0141	.0148	2—1.	40	.0098	.0095		5	.0099	.0094	.0098	.0096
+
+	3—2.	80.675	.0071	.0073	.0072	.0071	.0072	.0071	.0072	.0073	.0071	3—2.	25	.0056	.0057	.0057	.0057	.0054	.0057	.0058	.0056
+
+	4—3.	80,675	 .0071	.0070	.0072	.0073	.0072	.0071	.0073	.0073	. 4	4—3.	25	.0059	.0061	.0059	.0061	.0060	.0060	.0057	.0059
+
+	5—4.	80,675	.0071	.0072	.0071	.0072	.0071	.0071	.0073	.0072	.0073	5—4.	25	.0063	.0064	. 1	.0064	.0063	. 5	 .0065	 .0066
+
+		80,675	 0078	 0074	.0074	.0073	.0071	. .0073	.0072	.0073	.0072	6—5.	25	.0054	. .0061	.0058	.0061	.0058	.0060	 .0058	. 9
+
+	7—6	118.320	.0107	.0107	.0107	.0107	.0107	.0107	.0107	:0107	.0107	7—0.	20	.0057	.0056	.0051		.0051
+
+								 Average differences.———
+
+			Average differences.					Loads, Corn-	Compression in
+
+		Loads,	Compress-	 Compression				scale press-	 ins, per unit
+
+	Nos.	lbs.	ions, ins.	in	ins. per lb.		Nos.	divsn. in ins	 of g ge rdg.
+
+	2—1.	161,550	0.014,0 066.66	0.	.000,087,0		2—i.	 40 0.00967 0.000,241.75
+
+	3—2.	80,675	.007.177,77	.	. .088,9		3—2.	 25 .00565 .000,226,00
+
+	4—8.	80,675	.007.211,11	.	. .089,3		4—8.	 25 .00595 .000.2.38,00
+
+	5—4.	80,675	.007,177,77	.000,000,008,9			5—4.	 25 .00639 .000,255,6
+
+	6—5.	80,675	.007,277.77	.	. 090,2		6—5.	 25 .00586 .000,234,4
+
+	7 —0.	118,320	.010.700.00	.	.000,090,4		7—0.	 20 .00528 .000,264,0
+
+	Average		compression in ins, per lb. of load.			0.000,000 ,089,1.		 Average compression in ins. per unit of gage reading, 0.000,243,291,6
+
+
+
+
+
+
+
+
+
+TABLE III.--RESULTS OF BREAKING TESTS OF CAST-IRON COLUMNS.
+
+					 Sec.	Breaking
+
+	Thickness.	Location	Breaking	Character	tional	load per
+
+Column	Outside	Maxi-	Aver,	of	load	Compress.	of metal at	Remarks,	area, sq. in. of
+
+	No.	Length. Diameter.	mum. Least. age.	break	lbs.	ion.	fracture.	sq. in. area, lbs.
+
+	1.	190 12393928ns.	15 ins.	About ft.	1,356,000	   ingrain;	One place foundry dirt extended half 43.98 30,830
+
+				 ins, from bot-		blowholes	 way through ; another pla. e foun-
+
+				 torn,		and dirt,	 dry dirt and honeycomb between
+
+							 inner and outer surface.
+
+	II.	190 1/4 ins.	15 ins.	5-16 1	11/8	Bet. 1 and 5 ins.	1,330,000	Medium grain;	At a pressure of 1,302 000 a slip of 48.03 27,700
+
+						from bottom.		 fairly uni-	 some kind occurred, which dropped
+
+								 form, spots	 the pressure to 1,275,000 again
+
+								 of dry dirt,	 run up until break occurred. Upper
+
+									 portion sprung 1/2-in. in 9 ft. 4 ins.
+
+	13 2.	1901/4 ins.	15 ins.	114	I	Bet.3 3/4ft. from	1,198,000	21/2 in., bet.	Coarse,	but	At 1,108,000 column sprung badly, 48.03 24,900
+
+						 bo'm and 61/2		  150,000	uniform;	a	  Fig. C movement recorded under
+
+						 ft. from top.		 and 1-.	few flaws.		 compression
+
+								 108 ,000.
+
+B 4.	190 1/4 ins.	15 1/8 ins. 1 7.32 1	11/8	Bet. bot'm and 1,246,000 21/4 in., bet. Coarse in cen-	Bad spots, cinder pockets and blow- 49.48 25,200
+
+	one-third up	50,000	tre; finer on	holes near middle of column small
+
+						 from bottom,		 and 1,-	outside cin-	 cracks in necking near top; column
+
+								 246,000.	ders and slag.	 given a permanent set.
+
+	5.	190 1/4 ins.	15 ins.	1	11-64	At bottom	1,632,000	2 5-16 in. in	Fine grain	Flaws and foundry dirt at point of 50.84 32,100
+
+						 flange.		 8 ft. In.	and uniform	 break load was carried as high as
+
+									where no	 1,804,000. The dummy head against
+
+	flaws occur-	which column rested was found
+
+	red,	broken after the test this may
+
+		have had something to do with
+
+	character of break.
+
+	6.	190 1/4' ins.	15 ins.	1 1/4	1 1/8	1 3.16	No break; per-	 Over	in. bet. No break.	Pressure run up to 1,108,000 and re- 51.52	Over
+
+	

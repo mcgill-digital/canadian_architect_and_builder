@@ -1,0 +1,80 @@
+
+
+<doctype type="text">
+
+<article title="Low Pressure Hot Water Heating" author="Russell, J. Nelson">LOW PRESSURE HOT WATER HEATING.*
+
+By J. NELSON RUSSELL.
+
+
+
+IN upholding the claims of low pressure hot water heating this evening, as being the most suitable for the majority of installations, I have endeavored to take up some points which are outside the beaten tracks, and I trust that my remarks may be sufficient to give food for discussion and exchange of ideas.
+
+The popularity of this method of warming is unquestionable, and, in my opinion, it will hold its position for years to come, in spite of the advancements in the methods of heating by steam and other agents.
+
+That there must be reasons for this, and this is not merely due to the wishes, and perhaps caprices, of those engineers who claim its advantages, is patent to all. since no system will stand the full test of time unless the advantages claimed for it are borne out in practice.
+
+Any apparatus, to be to the satisfaction of the client, and to the credit of the contractor, must, beside being efficient and fulfilling the guarantees given, be easily attended to and economical.
+
+EASILY ATTENDED TO.
+
+
+
+To fulfill this condition, an apparatus must be in as large a measure as is practicable, unaffected by fluctuations of' the fire, must be able to be attended to in the evening, and yet warmth provided through the night. In small installations, it should have no parts that require skilled attendance whatever, or in larger plants, where such attendance is available, it should be reduced to the slightest degree.
+
+Upon this head the system of low pressure hot water undoubtedly takes premier place.
+
+As water is one of the finest agents we have at our disposal for the taking in and giving out of heat at all temperatures, we have therefore the best material to deal with.
+
+In a system with runs of pipe for the heating surface, the contents of the apparatus is sufficient to enable an almost constant temperature to be maintained, the boiler power being, of course, in correct proportion.
+
+In a radiator system, although the contents for the same heating surface is much less than in a pipe scheme, yet it is in excess of that of high pressure hot water or a steam scheme, and, in the event of' the fire lowering below the power required to maintain the apparatus at full temperature, all the heat conserved in the circulating water is available ; whereas the effect in a high pressure apparatus is much more rapid, and in a steam apparatus on the reduction of the temperature to 212 degs., the steam, after giving off its latent heat, returns to water, and to the boiler, and is of no further use for radiation in the apparatus until the fire is re-lighted.
+
+With regard to the attendance to the apparatus, the putting on of fuel, the regulating of the draught, and the cleaning of the grate, these must be seen to in any scheme.
+
+In the low pressure hot water system, the water will circulate at whatever temperature the fire is capable of raising it to, and if the fire is too fierce, the open air pipe is brought into use, and the apparatus will be freed from the steam and excess of heat until such time as the excess is lowered.
+
+With a gravity steam apparatus you may say that such excess is kept in check by the automatic damper
+
+*Paper read before the Institution of Heating and Ventilating Engineers of Great Britain.
+
+control, and to this I agree, but automatic devices are not infallible, and there may come a day when the safety valve may be brought into action, if in the meantime it has not stuck fast.
+
+With the system of this paper, skilled attendance is certainly at a minimum, and an apparatus once installed will work, year in and year out, with intermittent attention to air cocks, safety valve, and cold water service.
+
+Compare this with the high pressure hot water, with its yearly pumping through by skilled labor, and with its periodical filling, which if not attended to, will in time prevent circulation, with the inevitable result of the destruction of the furnace coil and its replace-men t.
+
+ECONOMICAL.
+
+
+
+This is a side of the matter which affects the client far more than the contractor. Give him a scheme which is effective, easily attended to, and yet burns more fuel than one of similar proportions upon another system, and he has cause of complaint, however satisfactory everything may be.
+
+Let us look into the points upon which there may be waste of heat.
+
+The proportions and design of the boiler, and the use of the heat in the gas from the fuel, are, of course, large factors for economy or waste.
+
+Take for granted that, so far as those items are concerned, we have a gravity steam system, a high pressure hot water system, and a low pressure hot water system, each to do equal duties, and each of the highest class of design and workmanship.
+
+Is it possible to say that either has the preference for economical working above the others?
+
+Is there any possibility of waste of heat from the radiators or coils, which contain a large proportion of the heating surface of any installation ?
+
+It is an almost universal practice that these should be placed upon the side of the room which is the cooling side and in the majority of cases they are placed beneath the glass surface, the greatest cooling factor of all, and, as we have not only to consider the warming of the room, but also the checking of cool cross draughts as well, this is undoubtedly the correct position, but for economy in heat it is just the one place of all which gives opportunity of waste.
+
+The rising column of heated air from the radiator is brought at once in contact with the greatest cooling factor, increasing the difference in temperature between the interior and exterior of the glass, and thereby increasing also the rapidity of the heat transmission, the whole of which is waste, pure and simple.
+
+This is the result also, only in a lesser degree, if the radiator is placed upon an outer wall between windows.
+
+Is there any means of prevention, without placing our heating surface elsewhere ?
+
+Yes, a partial one.
+
+How?
+
+Lower the temperature of the ascending air column from the radiator by reducing the temperature of the water or steam in the radiator itself.
+
+It is evident that if we have a steam radiator working at a pressure of 10 lbs. per square inch, i. e., 240 degs. in one room, and another at atmospheric pressure, i.e. 212 degs., in a similar room, the ascending air column and the heat transmission through the glass in the first case will be higher than in the second.
+
+If we have a third room with a radiator worked by
+

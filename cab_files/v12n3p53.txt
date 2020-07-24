@@ -1,0 +1,114 @@
+<doctype type="text">
+
+<article title=" MODERN SYSTEMS OF INTERIOR WIRING." author=" CHUBBUCK,L.B.">
+
+	THE CANADIAN	ARCHITECT AND BUILDER.	53
+
+
+
+bending with the pipe without cracking or splitting, must be impervious to heat and moisture. There has been much discussion as to whether an insulating lining is necessary in a metal pipe which is perfectly waterproof and the wires it contains are insulated up to many megohms per mile. At the World's Fair (1892) all forms of pipe tubing and conduit then manufactured were rejected, and plain iron pipe was finally adopted, in which the distribution wires were run. Although some of these wires were carrying a 2,000-volt alternating current, no faults whatever were developed. There are also thousands of miles of plain iron pipe now used for underground service for high potential mains in cities, which have given perfect satisfaction.
+
+In spite of these facts, a thin insulating lining is always used for interior conduit work, for several reasons. All the iron pipe as now manufactured on a large scale is very rough on its interior, due to burrs, fins and splinters, and in pulling a wire through a long stretch of this pipe the insulation is very liable to be torn, especially in rounding corners, elbows, etc., in the smaller sizes of pipe. A plain iron pipe is also liable to sweat internally, and any rust due to moisture in the conduit is a menace to the insulation on the wire. Thus a thin lining is useful as tending to preserve both the pipe and the insulation.
+
+There are two styles of iron armored conduit very extensively used, one having a lining of treated paper and the other a thin coating of enamel both inside and outside. The lining in the latter conduit is very hard and as smooth as glass, which is an advantage in inserting the wires. These iron armored conduits are manufactured in the regular gas pipe sizes externally, and in coupling the standard gas pipe threads are also used.
+
+
+
+DISTRIBUTION.
+
+
+
+The system of distribution to be used in a building depends to a large extent on the character of the building, whether the lights
+
+FIG. 3.—FEEDER SYSTEM.
+
+are scattered, as in the case of a business block, or arranged in groups in a large electrolier, around the stage, etc., as in the case of a theatre. One of the most general methods of distribution is shown in Fig. 3, which gives an isometric sketch of the feeder system in one wing of a modern office building. In this system of wiring all the branch circuits (not shown) on each floor are run from one or more distribution boxes or cabinets on that floor. The panel boards in these cabinets are supplied from the switchboard in the basement by a system of risers or feeders running up one of the side walls to the cabinets. In conduit work a two-wire system is usually employed throughout the building, and a separate pair of feeders run up from the switch-board to each
+
+distribution box. Or where the load is light, and separate control for each floor from the basement is not required, the panel boards on two or three adjacent floors are supplied from one pair of feeders. In order that the public lights along the halls, staircases and elevators may be independent of the other lights in the building, it is customary to run a pair of feeders from the basement to one or more separate panel-boards on certain floors from which these lights are wired. In case current is required for running motors for printing presses, etc., on some of the floors, the main panel boards on these floors are divided into two sections, one part for the lighting and the other for power service. This power section of the panel board is supplied by separate feeders from the power panel of the switch-board, from which are also run the mains for the elevator motors.
+
+Where ventilating motors are used in a building, they are usually placed immediately under the roof and wired from the power panel in the top floor. To start or reverse these from the basement, a magnetic switch is often placed in the branch circuit to the motor, and the four small controlling wires from this switch run to the basement in one conduit. By the use of these automatic switches, motors, lights, etc., may be controlled from distant points without the expense of diverting the heavy main wires. They can be used in controlling dummy waiters from different floors, and also as the ordinary three and four point switches
+
+in lighting an electrolier from several different places. Where the building is to be wired for electric bell, telephone or ticker service, weatherproof wire is generally used throughout for this purpose, and all the wires from each floor run in a single conduit to a distribution box in the basement.
+
+
+
+INSTALLATION.
+
+
+
+In Figs. 4 to 11 are shown details of different parts of conduit electric wiring as installed in a fireproof office building. The
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 4.—WIRE WAY.
+
+
+
+conduit is installed at that stage in the construction of the building after the brickwork in the flooring and walls is finished, but before any plastering is started. Since even the smallest size of conduit (3/8") is generally too large to be covered by the layer of plaster on the brick walls, it is necessary to cut shallow channels in the brickwork wherever the conduit is to run on these walls. This is a tedious job, and is usually done by a gang of men with hammers and cold chisels before the regular conduit work is started. Where there are a number of vertical feeders requiring large conduit to be run, arrangements are made with
+
+the architect to have a recess left in the brickwork of sufficient width and one brick deep from the basement right up to the roof. A good place to run this channel for the feeders is up the elevator enclosure. This is generally in a central location, which is convenient for the panel boards, and besides this there are no windows, partitions, walls, etc., to dodge around in running the feeders to the basement. Fig. 4 shows the manner in which the feeder conduits are run in the wire way and their connection to the distribution box, also the smaller branch conduits leading from the box to the different circuits.
+
+FIG. 4a.—PANEL BOARD.
+
+On account of the large size of wire used for the feeders, a separate conduit is generally run for each wire. If, however, an alternating current is to be used in the building, this arrangement of one conductor in an iron tube will cause a loss of energy by induced currents set up in the iron. It is thus necessary to use brass armored conduit or to neutralize this effect by running both wires in the one tube.
+
+In the branch circuits two wires or a twin wire are almost always run to a single conduit, and the wiring differs in some respects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 5.—ORDINARY WIRING.
+
+
+
+from ordinary methods. In ordinary work, where a number of lights are installed in a room, the mains are run down the length of the room and branches tapped off to each lamp, as shown in Fig. 5. In conduit work, however, no tee's are placed on the conduit, and a zig-zag path is taken from one outlet to the next. In
+

@@ -1,0 +1,38 @@
+<doctype type="text">
+
+are cut through over each purlin, so that BUILDER would thus act as separate beams. But as the common rafters are not thus usually cut through over the purlins, but are continuous, having proportional cantilever reactions over each intermediate support tip to the points of contraflexure, the position of the points of contraflexure or their distance from the supporting intermediate purlins, and the value of the bending moments and moments of fiexure, depends on the depth of the rafter or continuous beam, the distribution of the load, elasticity of the material, etc. The formulae for thus obtaining the distribution of the load over the various purlins are complicated and need not be given here, as they have been calculated for the usual scantlings of common rafters of fir. The proportions of the distribution here to follow are based on a continuous uniform cross-section of straight rafter, supporting a uniformly distributed load. The points of support are equidistant from one another, and their bearing surfaces all in the same straight line. The loads for the two halves of the spans continuous over several supporting purlins are alike ; it is therefore only necessary to give the lowest or cave half of the continuous rafter supports. When the number of spans is odd the number of supports is even, and there is no centre support. But when the number of spans is even and the number of supports odd, the centre support is the turning point of the values of the purlin loads for both halves. Thus when there are two spans and three supports the wall plate and the ridge pieces each bears 3/8 of the load upon their respective spans, and the purlin bears 10-8 of a similar load. When there are three spans and four supports, the eave and ridge piece each bear 4-10 of the single-span load, and the two intermediate purlins each bear I 1-10 of the same load. Similarly, when there are four spans and five supports, the wall plate and ridge bear 1-28 of single-span load, the second and fourth supports bear each 32-28, and the third or middle purlin bears 26-28 of the single-span load. For five spans with six supports, the wall plate and the ridge each bears 15-38, the first and fourth purlins 43-38 each, the second and third purlins each 37-38 of load.
+
+The practical difference that this ratio of distribution of the loads over the rafters, and consequently over the purlins, will affect roofs of large span and having the trusses set a considerable distance apart—say, upwards of I2ft. or 14 ft In such cases the scantlings of the purlins would require to be proportioned for the increased ratio of load. In ordinary roof timbering the scantlings of the purlins would all be alike, but in such case they should have sufficient strength for the maximum apportionment of load. Taking as an example the case of two spans and three supports, the difference in the load on the purlin between treating the rafters as two separate beams and one continuous beam is that in the former the purlin would only hear half of the entire load on the rafter, whereas as a continuous beam it bears five-eighths of the entire load. The excess of load as a continuous beam imposed upon the purlin is thus one-eighth of the entire rafter load for the whole span of the purlin. If the span of the purlin be 14ft. between the spacing of the trusses and that the purlin was placed 8ft, from the wall plate, the load area of roofing supported by it would be 112 square feet. Then suppose the permanent load on the purlin, including its own weight, all uniformly distributed, were 261b. per foot super for plain tiles, the total would be 2,9121b.,
+
+or, say, 3,000lb. in round numbers. The excess of one-eighth of the entire load or one-quarter of the above, half-rafter load would be 750lb., and if the wind load were, say, three-fourths of the above say 5631b., the total load would be 1,3131b. This proportionate excess in such a case as assumed, would be a sufficiently large excess to require a special computation of the strength of the purlin so as to be safe against bending under it on the occurrence of a storm of wind.—The Contract Journal.
+
+<article title=" VENTILATING AND WARMING STABLES " author="">
+
+VENTILATING AND WARMING STABLES.
+
+BEFORE considering the ventilation, it will be well to see what is a proper and sufficient area of floor space for stables and loose boxes, and also the cubic space that should be given for each horse.
+
+In practice the sizes of stalls and loose boxes vary according to the space at command, without in most cases any reference to sanitary considerations, but a good standard size for a stall is 6 ft. wide by 9 ft. long, from the wall to outside of stall post ; it they are wider than 6 feet the horse has too much room and can turn around in the stall, while if longer than 9 feet the horse is dwarfed in appearance.
+
+The gangway at the end of the stalls should not be less than 6 feet wide in a stable with stalls on one side only.
+
+The size of loose boxes is not affected in the same manner, and very good dimensions for a loose box are 12 feet long by 12 feet wide ; but it should not, unless under very exceptional circumstances, be less than 10 feet by 9 feet, and the gangway should be 6 feet wide, whether the boxes are along one only or both sides of the stable, and the doors should open outwards.
+
+Taking the above as standard sizes we get the floor areas as under:
+
+For a stable with stalls on one side, 90 square feet per horse.
+
+For a stable with stalls on both sides, 81 square feet per horse.
+
+For loose boxes on one side only, 216 square feet per horse.
+
+For loose boxes on both sides, 180 square feet per horse.
+
+The cubic space to be allowed to each horse varies according to different authorities from 900 to 1,600 cubic feet for an ordinary size animal. Hutton gives 1,560 cubic feet as necessary. We should say that it should not be less than 1,500 cubic feet, which is one and a half times that laid down by the best authorities as requisite for a healthy sleeping apartment for a human being; and we may, we think, safely assume that this proportion will not be excessive for an animal like a horse, considering the exhalations that must arise from soiled litter, etc.
+
+This capacity, taken with the floor areas already given, gives a height of 16 feet for a stall stable with one row of stalls, 20 feet for a stable with two rows, and about 9 feet for loose boxes.
+
+It will be at once recognized that while the floor area actually given does not in most cases vary very much from our standard, the cubic capacity is seldom given except in some high class hunting and other stables in the country, and never in London, where it is very uncommon to find a stall stable having more than 1,000 cubic feet per horse, and that insufficiently ventilated.
+
+The following examples are from stables in existence.
+

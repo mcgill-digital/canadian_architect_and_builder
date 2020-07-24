@@ -1,0 +1,104 @@
+<doctype type="text">54	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+in the smaller towns ; and the plan before us seems well adapted for a little expansion.
+
+
+
+<building>CATHEDRAL CHURCH OF ST. BONIFACE</building>, ST. BONIFACE,
+
+
+
+MANITOBA.—MESSRS. <firm>MARCHAND & HASKELL</firm>,
+
+
+
+ARCHITECTS, MONTREAL.
+
+
+
+Here is a design well worth attentive scrutiny, both for the interesting working out of the style in detail and, especially, for the dignity and nobility of the total result. The front—especially the entrance with its expanse of steps and the great seated angels at each end—has the true Catholic feeling, of the church of which the visible existence in the world is a real part of the order of things.
+
+In plan there is evidently a nave and passage-aisles. The designers have profited by modern development in that direction. One could wish they had abandoned antiquity also in the truncation of the tower at the dome. Provincial examples minimized the brutality of their slicing by making the slope steep—extending it down to the point of' emergence of the tower from the roof'. They might have done more. Instead of merely negativing ugliness as far as possible, they might have left us a solution that had positive beauty. There was time for invention then.
+
+
+
+WESTIMINSTER PALACE, FROM THE VICTORIA EMBANKMENT;
+
+
+
+FRQM A PHOTOGRAPH BY MR. <person>J. P. HODGTNS</person>,
+
+
+
+TORONTO.
+
+
+
+From this point of view, where there is nothing to be seen but towers, we appreciate the value of the towers. The whole extent of the building is marked out for us by them. The pavilion marks the near angle of' the river front, the clock tower and Victoria tower the opposite ends of the other front, and the lantern rises in the centre. From whatever point of view the building may be looked at, a true impression of its extent is never lost. The aerial perspective given by the London haze, (which is so well rendered in Mr. Hodgins' photograph,) gives full value to the distance between the two great towers. This is architectural design, and the largeness of its character has so much to do with the quality of these buildings that it ought to have more to do with the controversy that is now going on in England, as to whether Barry or Pugin should have the credit of the design. The large man was unquestionably Barry, and the internal and external scheme are great. Pugin is said to have detailed the work; in which case England has not, as somebody said, "wasted her gift of Pugin." But there is one point in the detailing—the universality of the ornament—which affects the general character of the building—the point where the architect comes in; and we have an utterance of Barry that may be matched with this; a saying to the effect that ornament will not be excessive if it is applied everywhere
+
+
+
+<article title=" HEATING AND VENTILATION OF ST. PAUL'S HOSPITAL, MONTREAL " author="">HEATING AND VENTILATION OF ST. PAUL'S HOSPITAL, MONTREAL.
+
+
+
+In a paper read before the Canadian Society of Civil Engineers, a double duct fan system of heating and ventilation is described with a novel air washer and humidifier. Those of our readers who have had experience with fans for heating and ventilation will be interested in the air filtering device to remove dust and add moisture to the entering air.
+
+An ideal system of heating and ventilation should maintain a constant temperature and supply fresh air in large quantities at a proper humidity without dust or drafts. Almost every system of heating is designed to maintain a constant temperature, but very seldom is the humidity
+
+given consideration. It is not uncommon to find air in buildings very much drier than normal pure air, and an explanation is not difficult. Since air saturated at zero degrees will contain about one-half grain of moisture per cubic foot, and at 70 degrees one cubic foot will contain eight grains, it is clear that if air is heated from zero to 70 degrees the humidity at the higher temperature will he only 6 per cent., and the air will then be drier than the atmosphere of the Sahara Desert. This extreme dryness is very harmful to the mucous membrane of the human body, and it is in a large measure responsible for the prevalence of disease of the nose and throat in cold climates. It is also a noticeable fact. that a high temperature is required if persons are to be comfortable with a low humidity. it is well known that a thermometer with moistened bulb will register a lower temperature than a dry bulb beside it, but it is not generally known that the sensation of heat and cold experienced by people varies rather with the registration of the wet bulb thermometer than with that of the dry bulb. It is a common error to assume that the dry bulb thermometer gives a true indication of the temperature felt by human beings, and to consider all contradictory evidence as due to the mutability of human nature. Roughly, it will he found that with 55 per cent. relative humidity a temperature of 64 degrees will be as comfortable as a temperature of over 70 degrees, with a relative humidity of 30 per cent. From an engineering standpoint, therefore, we come to the same conclusion as a physician, who, discussing this subject, states that: "So long as we continue to neglect the indoor relative humidity we shall continue to live in unhygienic surroundings, created by any method of heating that is not supplied with means for properly moistening the air. To do this should be as much the purpose of a scientifically constructed heating system. as to furnish sufficient heat."
+
+Any system. of ventilation will necessarily add not only to the first cost of a heating equipment, but also to the operating expense. Heat is considered essential because the lack of it at once affects our comfort ; while breathing impure air, when one becomes accustomed to it, produces no immediate discomfort. Through ignorance of the fundamental principles much money has been wasted in the past on inefficient or defective methods of ventilation. It is, however, considered poor practice to-day to design a heating system without at the same time making provision for a positive supply of fresh air free from dust or soot, and furnished to a building without drafts in any room. In the State of Massachusetts a law has been in force for several years making it compulsory to supply 30 cubic feet of fresh air per head per minute in all schools and public buildings. The amount of air usually estimated for buildings of different classes is as follows
+
+
+
+Hospitals (ordinary) 35 to 40 cu. ft. per min. per person.
+
+Hospitals (epidemic)	80
+
+Workshops	25
+
+Prisons	30
+
+Theatres	20 to 30	"
+
+Meeting halls	20
+
+Schools per (child)	30
+
+Schools per (adult)	40
+
+
+
+Fresh air contains about 4 parts carbon dioxide in 10,000, and the presence of 6 to 8 parts in 10,000 is scarcely noticeable, but the presence of 11 parts in 10,000 is distinctly perceptible, and when higher percentages are found the air is sufficiently stale to be not only uncomfortable, but actually injurious. Since an adult breathes about 500 cubic inches of air per minute and as respired air contains about 3.4 per cent. carbon dioxide, it is clear that approximately 17 cubic inches of carbon dioxide are exhaled per minute and from this data the following table has been prepared:
+
+
+
+Parts carbondiox- Cu. ft. of fresh air Percentage re
+
+	ide in 10,000	per min. per person.	spired air.
+
+	        4		Infinite	  o
+
+	        5		100	.29
+
+	       6		50
+
+	        7		33.3	 .87
+
+	        8		25	1.45
+
+	       9		20	1.74
+
+	       10		16.7	2.03
+
+	       11		14.3	2.32
+
+	Common standards	of	good ventilation	are taken as
+
+allowing between 6 and 8 parts of carbon dioxide to 10,000 parts of air, and a comparison of the two tables will show that they give about the same results. Allowance should be made for the size of the room and the period during which it is used at a time, for where there is a large space per capita, even if no fresh air is admitted, it will take some time for the air to become polluted.
+
+With a system of forced ventilation there is a tendency to install small ducts, as the available space for ducts is generally limited, and by an increase of pressure the requisite amount of air may be delivered even with small ducts. It is a great mistake, however, to use a high
+

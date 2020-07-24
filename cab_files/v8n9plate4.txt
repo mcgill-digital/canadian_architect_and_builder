@@ -1,0 +1,5 @@
+<doctype type="plate">VOL. VIII.	CANADIAN ARCHITECT AND BUILDER.
+
+<building>New Grand Opera Hotel, Toronto</building>
+
+<person>Henry Simpson</person>

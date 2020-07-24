@@ -1,0 +1,184 @@
+<doctype type="text">	THE CANADIAN ARCHITECT	AND BUILDER
+
+<article title=" USEFUL OFFICE BREVITIES " author="">
+
+USEFUL OFFICE BREVITIES.
+
+IN all levers the power is in proportion to the length of the arm on which it acts, which means that if the fulcrum is close to the body to be moved, the effect is greater than if it were nearer the balancing point or centre where the lifting force would only equal the downward pressure, increasing or decreasing as the fulcrum recedes or approaches it.
+
+All plumb lines drawn to the earth's surface continue to its centre, showing that walls and other parallel erections are not in reality parallel, and if continued to a sufficient height a difference would be perceptible in the distance between them.
+
+The same rule applies to horizontal lines, owing to the earth's curvature, which is 8 in. to the mile, making all lines drawn parallel to its surface similarly curved.
+
+In making patterns for iron castings the iron in pounds is equal to the same weight of pine in ounces. A hollow cast-iron column is capable of bearing as much strain as a solid cast column of the same diameter.
+
+To space any number of articles the thickness of same being given : Place them closely together and measure their combined width, then subtract this dimension from length of distance to be spaced, and divide the number of articles in the remainder.
+
+A simple way to strike lancet Gothic arches is to join the apex and a point of springing, bisect this line, and draw a line at right angles to it. The intersection of this line with the springing line is the radius point.
+
+To find mitres on the Steel Square.
+
+12 X 12=Square Mitre.
+
+7 X 4=Triangle.
+
+131/2 X 10= Pentagon.
+
+4 X 7=Hexagon.
+
+121/2 x 6=Heptagon.
+
+18 x 71/2
+
+	or	—Octagon.
+
+
+
+221/2 x 9=NonagOn.
+
+91/2X 3=Decagon.
+
+Half an ounce of iron loses one-eighth of its weight in water. A mans daily labor could be performed by 41b. of coal.
+
+Figures on the square for top and bottom cuts on common rafters
+
+	1/8 pitch	3" rise 12" run.
+
+	"	"
+
+	6	=4	12""
+
+
+
+1—5	
+
+=	48/10 12
+
+ 
+
+	= 6"	"	12"
+
+	8"	"	12"
+
+— 12"
+
+	_ — 12" 
+
+		"	12"	"
+
+	Gothic "	— 21 i " " 12"
+
+For hips substitute  17in. run for 12ft. run.
+
+When a beam is fixed at one end the strain no it is four times as great than if it were fixed at both ends.
+
+To calculate the area of an ellipsoid or spheroid Call the
+
+base 10ft. and the height 7ft. Then		X (7 X 4)=296 sum of
+
+square of base and four times square of height 296 2=148 and 148=12.1655 square root of 148. Then 12.1655 x 3.1416 x 10/2=
+
+191.0957.	Square feet and area of spheroid or ellipsoid.
+
+Table of the gravity of wood from cork to lignum vitae
+
+			Specific gravity.
+
+	Cork		246
+
+	Poplar		383
+
+	Larch		544
+
+	Elm and English fir		556
+
+	Mahogany, Honduras		560
+
+	Willow		585
+
+	Cedar		596
+
+	Pitch pine		560
+
+	Pear tree		66
+
+	Walnut		671
+
+	Fir, forest		694
+
+	Beech		696
+
+	Cherry tree		715
+
+	Teak		745
+
+	Maple and Riga fir		750
+
+	Ash and Dantzic oak		760
+
+	Yew, Dutch		798
+
+	Apple tree		793
+
+	Alder		8oo
+
+	Yew, Spanish		8o7
+
+	Mahogany, Spanish		835
+
+	Oak, American		872
+
+	Boxwood, French		912
+
+	Log wood		913
+
+	Oak, English		970
+
+	Oak, English, sixty years cut		1170
+
+	Ebony		1331
+
+	Lignum vitae		1333
+
+To find out how many feet there are in one ton of mahogany:
+
+I ton=20cwt.=35,840 ounces in a ton..
+
+Look to mahogany, and opposite you will find 56o, which divided into the ounces in a ton, will stand thus
+
+560)35840=64 cubic feet. Ans.
+
+To find the weight of a body from its bulk
+
+RULE—Cubic feet x specific gravity=weight in ounces.
+
+To find weight of a log of larch 14ft. long, 2 1/2ft. broad, and 1/4ft. thick
+
+2.5ft. x 1.25ft. x 14ft. 43.750 ; then,
+
+43.750	X 544~=23800 ounces=
+
+13cwt. iqr. 31b. 8oz. Ans.
+
+The standard of specific gravity of bodies is water, one cubic foot weighing 1,000 ounces.
+
+
+
+<article title=" GEOMETRICAL DECORATED WINDOWS " author="">
+
+"GEOMETRICAL DECORATED WINDOWS.
+
+THE important subject of the due subordination of the mouldings of Decorated windows was very ably worked out by Edmund Sharpe, though at the present day, when Gothic principles are so well understood, some of his comments may appear to give almost elementary information. He remarks on page 51 that "the different orders of the window arch seldom consist of the same mouldings, and do not often even resemble each other. This is, perhaps, less the case with the earliest windows than with tile later ones." He proceeds to say, "On the other hand, tile rich series of curvilinear arch-mouldings, commencing with Carlisle and ending with Beverley, exhibit profiles of great variety and beauty". Further on, "As soon, however, as the double ogee began to be a prevalent curve, the practice of repetition in the orders (If mouldings, both of windows and doorways, became again very common." All this is very interesting. In some thirteenth century work there is good reason for saying the mouldings have the effect of bundles of reeds tied together, and this complaint is justified by their sameness, also by the want of proper prominence and boldness to the leading members of the several groups of mouldings. Again, page 53, Sharpe says, "The section of a tracery bar is usually tile same on both sides. This rule, which may be said to obtain throughout the whole of the curvilinear period, has its exceptions in the Geometrical period. Occasionally the circular centerpiece has a different series of mouldings on the inside and on the outside.
+
+Where, also, two orders of Foliation are used, not occurring together, a tracery bar will sometimes show a different profile on its two sides." Even were there no Mediaeval precedent for what Sharpe has described, there can be no reason whatever why, when the architect thinks fit, he may not act according to the particular circumstances. For example, the employment of what has sometimes been called "edge-tracery" (i. e. where time fillet is dispensed with the plain chamfers or hollow chamfers, as the ease may be, meet in an arris) is very useful where the tracery requires to be lightened, more particularly in wood-work. For the same mouldings can be used in the same window with or without the fillet. What is somewhat unfortunately termed a "false" mitre is also handy in those parts (If tracery where the plan just mentioned does not suit, so as to get a perforation. Even although an architect gives a drawing of the tracery half or full size, lie is sure to find hat lie can improve it when he has seen the masons set it out full size on the boards, as every architect ought to make a point of doing if he possibly can. It is very apparent that much (If old Geometrical tracery was never struck in by compasses, and varies in outline where, according to rule it ought to be the same. In modern practice such a procedure is undesirable, but at the same time it will be found that an occasional deviation from compasses is a decided help. It was just remarked that some license might be taken in lightening tracery, but, on the other hand, there is occasionally an advantage in giving, at any rate, an appearance of streil" tim where desirable by refraining to pierce according to routine. What ought to be avoided is any "cut-and-dried" look to a window. It should show the evidence of the care and thought bestowed upon it by the designer, and nor look as if turned out from a mill. To make one last quotation from Edmund Sharpe
+
+"Much ingenuity is often shown in the manner in which these three members of a tracerned window [i.e. window-arch, scoinson arch and rear-vault are respectively arranged and united with its lower part and with one another; and the subject is one which deserves more attention and study than is usually bestowed upon it." These words might be written in letters of gold, so true are they. But, happily, since they were penned architects have begun to pay a good deal more attention to the point Sharpe alludes to than they did then. But, with the best intentions, what can the unfortunate architect do who is tied and bound by want of funds placed at his disposal ? It is most difficult to find room for a window-arch well recessed from the exterior, an ornamental rear-vault, and a bold drop-arch for internal effect— for it means walls of substantial thickness. The successful treatment (If a scoinson arch is important, for it gives a charming variety, and prevents a too large soffite where the window is placed at a considerable height. If treated in combination with an order of tracery distinct from that of the exterior of the window the effect is the more enhanced, as it gives that slight feeling (If mystery which is so valuable an aid to the architect. Builders' Reporter.
+
+
+
+
+
+Mr. Horwood, architect, recently from New York, has opened an office at 90 Bank Street, Ottawa.
+
+It is understood that the Owen Sound Portland Cement Company, whose works were destroyed by fire recently, is being reorganized under the name of the Georgian Bay Cement Co., with a capital stock of $90,000.
+

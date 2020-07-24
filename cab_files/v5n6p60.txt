@@ -1,0 +1,222 @@
+<doctype type="text">60
+
+CANADIAN ARCHITECT AND BUILDER
+
+June, 1892
+
+
+
+10 5. State what you know of the relative effect of progress and final certificates.
+
+30 6. A contract provides that the certificate of the Architect shall be a "condition precedent" to payment, and that his decision shall be final, and further that the contractor must obtain written orders signed by the Architect for extra work before such work is commenced. (a) What is meant by a condition precedent? (b) If the Architect includes in his final certificate extra work for which he is not given a written order or work which has not been properly executed, must the proprietor pay the full amount certified-for? If so, why so? If not, why not? (c), What will be the effect to the builder if the Architect refuses to grant him a final certificate. 1 Because he honestly believes the work-to be improperly done, when as a matter of fact the work is done in a manner that would be accepted by another Architect. i ii Because the proprietor told him he had not the money to meet a certificate, and induced him to delay granting the certificate in consequence.
+
+20 7. To what extent has an Architect power to order changes in the work shown by the drawings and specifications? If for instance the drawings and specifications showed that the foundations were to be piled, and the contract provided that the contractor was to make such additions or omissions as the Architect directed, and the Architect finding piling unnecessary directed the builder to build the building without piling— would the court recognize this order? Or if the Architect considered a wall specified to be built of brick would be better if built of stone, would he be justified in ordering the change without the express assent of his client? If he did order it, without such consent, would the court recognize the order?
+
+
+
+
+
+Heating and Ventilation.
+
+FINAL.
+
+Values.	HEATING.
+
+25 1. Name the different ways in which heat may be transmitted and explain clearly how heat is given off in each case.
+
+30 2. (a) State the advantages and disadvantages of hot air heating.
+
+(b)	State the advantages and disadvantages of hot water heating.
+
+(c)	State the advantages and disadvantages of steam heating.
+
+20 3. In what position should a hot air furnace be placed in relation to the rooms to be heated?
+
+20 4. What precaution should be taken in the running of the hot-air pipes so that hot air may be carried equally to the different rooms on all floors?
+
+5 5. What is the average temperature of the surface of a hot-water radiator when the system is working properly on a cold day?
+
+25 6. State the reason why a hot-water plant cannot be piped similar to steam. That is, what precautions are necessary to ensure that all radiators may obtain an equal supply of water?
+
+20 7. What is meant by the water line of a steam boiler and what relation must it bear to the positions of the supply and return mains for the proper working of a gravity job?
+
+20 8. What is a false water line in a steam heating job and is it a satisfactory method of overcoming differences in levels?
+
+5 9. What is the usual pressure on the boiler of a first class gravity system of heating ?
+
+10 to What is meant when it is stated that a building is heated by (a) exhaust steam
+
+	(b) live	"
+
+to 11. In piping a building for heating by exhaust steam what precaution must he taken as to the position and size of
+
+the steam main?
+
+5	12.	What service is performed by a Nason steam trap?
+
+5	13.	What service is performed by an Albany steam trap?
+
+5	14.	What is meant by the one pipe system of piping?
+
+5	15.	What is the cause of noise, etc. in a steam plant and
+
+how may it be avoided?
+
+ 16. In a two pipe system of steam heating in what direction should the main steam supply fall?
+
+10	  17.	Should the safety valve on heating boiler have a lesser
+
+	or greater opening than on a high pressure boiler?
+
+5 18. What is the object of a check valve on the main return?
+
+10 19. Which is the better method to carry the return mains under the floor or above ? State seasons for your reply.
+
+25 20. What should govern the amount of heating surface to be placed within any room to be warmed?
+
+5 21. Is any moisture given off to the air of a house by a hot-water or steam-heating plant?
+
+VENTILATION.
+
+10 i. What is the usual method of detecting impure air?
+
+10 2. Why does a column of air pass up or down a flue?
+
+5 3. When should an out-let register be placed in a room heated by hot air?
+
+10 4. Does impure air rise to the ceiling, drop to the floor or does it do either?
+
+ 5. What is the highest speed at which air can be brought into a room without causing a draught?
+
+15 6. Is one opening out of a room for ventilation purposes better than two or more openings or not?
+
+5	7. What is meant by upward ventilation?
+
+5	8. What is meant by downward ventilation?
+
+10	9. Which is the more satisfactory and why?
+
+20	10. What amount of floor area and cubic space should be
+
+allowed in a school room per pupil?
+
+
+
+
+
+Sanitary Science.
+
+FINAL.
+
+values.
+
+25 1. State briefly the general sanitary principles which govern the present system of plumbing work.
+
+25 2. State what are the conditions governing the proper
+
+	drainage of a house where waste, subsoil and roof water
+
+	must be disposed of.
+
+25	  3. Draw on the accompanying plan the different drains
+
+	which you would put down to drain and carry oft all waste
+
+	products of a house including subsoil and rain water.
+
+5	 4. What is the weight of extra heavy soil pipe?
+
+5	  5. Why is it necessary that soil pipe should be heavy?
+
+10	 6. What provision would you make for running the waste
+
+	water from a refrigerator?
+
+5	 7. What is meant by the water test as applied to plumbing pipes?
+
+5	 8. What is meant by the smoke test as applied to plumbing pipes and fixtures?
+
+15	 9. How would you dispose of the waste matter from the
+
+	plumbing system of a country house.
+
+15	  10. Give a sketch of a cesspool suitable for the reception
+
+	of the matter of a country house.
+
+10	11. State the advantages and disadvantages of back vent
+
+ing traps in plumbing work.
+
+10	12.	State the advantages and disadvantages of a breathing
+
+	pipe.
+
+10	13.	How should a urinal be set up in a semi-public place?
+
+15	14.	Describe the best method of setting up plumbing fixtures in a private house.
+
+10	15. How should the waste pipes of a plumbing system be
+
+	set up?
+
+15	  16. What measure would you take to prevent any danger
+
+	to health arising through emanations from the ground beneath a house?
+
+15	  17. What are the causes of damp basements in clay soil
+
+	and how would you provide against such dampness?
+
+15	  18. What is an earth closet and what are its advantages
+
+	and disadvantages?
+
+10	19. What is an anti-syphon trap and what are its ad
+
+vantages?
+
+10	20. How may a trap become unsealed?
+
+10	21. What constitutes a good trap?
+
+
+
+
+
+The Elements of Building Construction.
+
+SIRST AND FECOND INTERMEDIATE.
+
+APRIL 8TH.
+
+MR. <person>E. BURKE</person>, Examiner.
+
+NOTE:	In 1st intermediate 110 marks will be the greatest number obtainable and o fter cent. the minimum to pass. In the second intermediate 130 marks will be the greatest number obtainable and 50 j5er cent. the minimum to j5ass. The Questions enclosed in brackets are not required of the first intermediate students.
+
+Values.
+
+10 1. Draw to scale of 1/2" to the foot a section of a rubble stone Cellar wall 18" thick, showing footing course in proper proportion. Show how wall is built in Section and Elevation and indicate description of work in writing upon the drawing.
+
+10 2. Draw to 1" scale plans of two Successive Courses of a one and a half brick wall at the angle of a building showing Flemish bond on exterior and English on interior face.
+
+15 3. Sketch in Elevation a random coursed wall of squared rubble having a rockfaced plinth, quoins with margin draft and weathered coping. Also sketch section showing bond.
+
+25 4. Show Elevation of a window to 1/2 inch scale 3'O" wide
+
+6'o" high in a one and a half brick wall with Segmental Arch —one half the arch to be "bonded" 11/2 brick in height and the other to be "rowlock" same height. Indicate on the elevation in a series of four courses each, three different kinds of bond. [Show 1/4 full size section of jamb, head and sill. Sashes to be hung with weights.]
+
+10 5. Show a flat stone arch over a 4 ft. opening with the stones joggled. What is a cramp?
+
+10 6. Sketch a Scarf Joint 3'O" in a 6" x 8" timber. [Show plan and elevation and fastenings of a beam spanning 22 ft., the largest timber available being 3" x 12", stuff 16 ft. long, beam to finish 9" thick.]
+
+25 7. Show Section of a brick trimmer-arch with trimmer joints, flooring and deafening.
+
+15 8. Draw Section to 1/4" Scale of a King-bolt roof-truss, having a span of 30 ft. Indicate the names of the different members.
+
+10 9. Sketch section of Gutter and Eaves, wood or metal, suitable for the Canadian climate.
+
+10 10. Sketch section of fiat roof, (felt or gravel), at parapet wall and method of flashing.
+
+10 11. Show a section, to a scale of 2" to the foot, of jamb and
+

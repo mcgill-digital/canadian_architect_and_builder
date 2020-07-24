@@ -1,0 +1,64 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	171
+
+<article title=" POSSIBILITIES IN HEATING WITH HOT AIR " author="Thompson, R. S.">
+
+POSSIBILITIES IN HEATING WITH HOT AIR.*
+
+The primary object in all house heating apparatus is to 1111 the house with warm air, and in all systems the air is warmed by contact with heated surfaces, as air is absolutely transparent to radiant heat.
+
+In heating with hot air, the air is heated by contact with hot surfaces in a central heating apparatus, and is then conveyed to the rooms. In heating with hot water or steam, the water is heated in the heating apparatus, conveyed to the rooms, and there used to heat the iron of the radiators, which in turn heat the air.
+
+The difference between the two systems is, therefore, practically that in the hot. air system, the air is heated by one central plant, while with hot water and steam the air is heated by a separate plant or substation in each room, which sub-station is heated from a central station.
+
+It is not my purpose to disparage the system of heating the air by individual heating plants, but to show some of the possibilities in heating the air by a central plant, a system which, in my judgement, has been largely left to incompetent men, and has not received the attention and scientific study which it deserves.
+
+That this system has been in a large proportion of cases unsatisfactory, I freely admit, but believe that the failures have been due to errors in construction or operation and not to any inherent defect in the principles.
+
+Heating the air by a central plant involves less expense in the installation, and this is a matter which demands consideration of the practical engineer. Economy in first cost is not everything, but it is something, and with probably ninety—nine out of one hundred people who have homes to heat, a very vital something. While a really first-class hot air plant cannot be installed at the prices commonly charged for inferior and inefficient ones, yet even such a plant costs less than a hot water or steam system. Economy of first cost is, therefore, a possibility in heating with hot air.
+
+But economy of operation is not less important. '[he plant is paid for once, the fuel bill is a continuing expense and frequently amounts to more in a few years than the first cost of the plant. No system is economical which involves a continuous useless expense. =
+
+What are the specific facts in regard to cost of operation in heating with hot air?
+
+A given amount of fuel will in perfect combustion set free a given amount of heat, no more and no less. The heat. is in the fuel, not in furnace and boilers. No heating apparatus can add a single unit. The theoretically perfect plant would be one in which there was absolutely perfect combustion of the fuel and complete utilization of the heat released by this combustion, and on these two points depends the comparative economy of operation.
+
+On the first point, completeness of combustion, while there is large difference in different apparatus, there is no essential difference between the two systems. The fuel can be burned as perfectly, and as large a proportion of the heat units contained in it be released, with one system as with the other. The issue is, therefore, narrowed to what becomes of the heat after it is released from the fuel.
+
+Heat cannot be destroyed. Once produced, it must either be transformed into some other form of energy or continue as heat. In house heating, it may be practically said that all the heat released by combustion either goes towards heating the house, that is, to replacing that which has been lost by radiation and leakage through the walls and windows, or escapes up the chimney, having performed no more useful function than the creation of a draft.
+
+The extent to which the heat produced is utilized can, therefore, be practically determined by ascertaining the per cent. which escapes to the chimney. The
+
+
+
+*	A paper by Mr. R. S. Thompson read before a meeting of Heating and  Ventilating Engineers.
+
+lower the temperature at which the waste products of combustion escape to the chimney (velocity of current being the same) the larger will be the per cent. utilized for heating the house and consequently the greater the economy of operation. In other words, the extent to which the cooling of the products of combustion can be carried is the measure of the efficiency of any heating apparatus.
+
+Let us see the theoretical limit to which the cooling can be carried, keeping in mind the fact that the theoretical limit can never be reached much less passed in practice.
+
+The products of combustion are cooled by contact with metal which is cooled by contact with water or air. The theoretical limit of cooling is, therefore, the temperature of the air or water by which this cooling is accomplished. 
+
+With live steam, the possible minimum is the temper— attire of water boiling tinder normal atmospheric pressure, or 212 degrees.
+
+With hot water, the possible minimum is the temperature of the water as it returns to the boiler from the radiators, usually 140 to 170 degrees.
+
+With hot air, the possible minimum is the temper-attire of the cold air entering the furnace, anywhere from below zero to 70 degrees.
+
+The theoretical limit of cooling and consequent theoretical economy in operation is, therefore, lower with hot water than with steam, and lower with hot air than with either hot water or steam.
+
+It is, therefore, possible theoretically—to heat with hot air more economically than with any other system.
+
+But the advocates of the other systems will contend that while this may be so in theory, yet that in practice, owing to the greater power of water to absorb heat, it is otherwise, and that actually the exhaustion of the heat contained in the products of combustion is carried much further in both steam and hot water heating than it is in hot air heating.
+
+In many cases, I admit the contention but iii turn contend that the reason is to be found in the construction of the apparatus and not in the principal, and that it is entirely' possible to so construct hot air apparatus, that the same difference in its favor, as compared with hot water and steam, will exist in practice as is shown in theory.
+
+A few days since I made a test with a hot air furnace, and found the temperature in the smoke pipe was 120 degrees, or at least 20 degrees lower than the theoretical minimum with hot water, and 92 degrees lower than the theoretical minimum with steam. Probably you will say that the fire was low. Judge for yourselves. At the time I took the temperature of the smoke pipe, the furnace was delivering over a thousand cubic feet of air a minute at a temperature of 210 degrees. And when this test was made, the temperature of the outside air was 80 degrees, or at least 40 degrees higher than would be distill in the use of the apparatus. It may safely be said, therefore, that in actual practice the cooling of the products of combustion in a hot air furnace, can be actually' carried from 40 degrees to 120 degrees lower than the theoretical minimum with hot water and steam.
+
+I think it, therefore, demonstrated, both by scientific deduction and practical test, that one of the possibilities in heating with hot air is the utilization of a larger per cent. of the heat contained in the fuel than can be secured by any other system.
+
+In heating with hot air, however, there is an expenditure of heat which may' perhaps be called waste, namely', the heat contained in the air which is forced out of the building by the pressure of the warm air that is being poured in.
+
+But this loss of heat is due to the necessity for ventilation. A given amount of ventilation will involve the same loss of B. T. U. whatever the heating system may be.
+
+It is true, with hot water or steam heat, it is possible to reduce the ventilation below the proper ratio and thus save heat. But this is equally possible with hot
+

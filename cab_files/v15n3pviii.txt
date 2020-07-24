@@ -1,0 +1,58 @@
+<doctype type="ad">The Canadian Architect and Builder
+
+
+
+<firm>Miller Brothers & Toms</firm>
+
+elevators
+
+Montreal
+
+
+
+<firm>Toronto plate glass importing company</firm>
+
+Window glass, shop fronts, house windows, show cases
+
+Toronto
+
+
+
+<person>Charles Potter</person>
+
+Optician
+
+Toronto
+
+
+
+<firm>The Philip Carey Manufacturing company</firm>
+
+Carey's magnesia flexible cement roofing
+
+Toronto
+
+
+
+<firm>The Elliot and Son Company</firm>
+
+Hardwood floors
+
+Toronto
+
+
+
+<firm>Dennis Wire and Iron company</firm>
+
+Fire Escapes
+
+London, Ontario
+
+
+
+<firm>The Steinberger, Hendry Company, limited</firm>
+
+Bells, slate, blackboard
+
+Toronto, Ontario
+

@@ -1,0 +1,54 @@
+<doctype type="text">
+
+<article title=" Stairs " author="">
+
+Stairs.
+
+elaboration may be employed in the vestibule, both on the walls and on the ceiling, in decorating such rooms as we have mentioned, regard should be had to the character of their furnishings, so that there may be an agreeable harmony all round. It is not necessary to have colors simply variations of one or two primary colors, but opposite colors when intelligently employed give very rich and pleasing effects, but the inexperienced decorator will have to experiment a little in order to discover which combinations produce the better results. It is not intended that the foregoing be considered as suited for a pretentious house but rather as being adapted for buildings where simplicity and quietness are sought rather than aesthetic effects.
+
+
+
+
+
+No matter what kind of a house may be erected, if it be more than one story high, a flight of stairs of some sort
+
+becomes a necessity to admit of communication with the upper part of the building. Generally the character of the house and the purposes to which it is to be put, determines the style and character of the stairs. Where possible a long continuous flight should be avoided, as nothing is more tiresome to people past middle age than to lift themselves up a story or more over stiff, steep stairs. Platforms or landing-s should be introduced at intervals, so that any one flight may not contain more than ten or twelve steps. The width of stairs should always be in accordance with the importance of the building in which they are placed, varying from three to twelve feet. Where two persons are expected to pass each other conveniently the least width admissible is three feet, and, though sometimes conditions arise where the designer is compelled to make them less, where it can by any possible device be made to admit of making the stairs three feet wide it should be done. From three to four feet is a suitable width for a good dwelling, while five feet will be found ample for stairs in buildings occupied by many families, and from eight to twelve feet is sufficient for the width of stairs in halls of assembly or public buildings. To avoid tripping or stumbling, care should be exercised in the planning of a stair to secure an even grade. To this end the nosing or outer edge of each step should be exactly in line with all the other nosings. In stairs that have a circular plan and containing livers and winders, precaution in this regard is especially required. In such stairs the steps, flyers and windows alike, should be of one width on the line along which a person would naturally walk when having his hand on the rail. The tread—line, consequently, would be parallel with the handrail, and is usually taken at a distance of from eighteen to twenty inches from the centre of it. In the plan of the stairs this tread-line should be drawn and divided into equal parts, each pan being the tread or width of a flyer from the face of one riser to the face of the next. When the tread is complete and the nosing added it will be from one-and-a-half inches to two inches wider than the distance from riser to riser, but in making calculations for stairs on the run this difference is never
+
+
+
+
+
+ The term "rise and run" is used to indicate the space the stairs will occupy, the " rise " meaning the  top of the lower floor to the top of the
+
+second floor The '' run" means the distance from the front riser to the face of the last or top riser, from
+
+which a plumb line is dropped to the floor, from which point to face of first riser is the '' run." In other words, it is simply the distance the treads would make if laid edge to edge without nosings— arid measured altogether. Let us suppose we have fifteen treads, each being eleven inches wide,- this would make a run of 13 feet inches, as follows 15 X 11 165/12 = 13 feet 9 inches. Sometimes this distance is called the ''going" of the stair, but this term is only used in this country by old country workmen, and is nearly obsolete, and when it is used it just as often means the width of a single tread as it does the " run" of the stairs.
+
+
+
+It is a general maxim that the greater the breadth of a step the less should be the height of the riser. Experience shows that a step of 12 inches wide and 5 1/2 inches rise may be taken as a standard, and if from this it is attempted to adduce a rule of proportion, substituting, for the sake of the whole numbers, the dimensions in half—inches, namely, 24 and 11, then, in order to find any other width corresponding in verse proportion
+
+say, as 24:11:12:22 —24:II::19:13.8 - 24:11::20:13.2.
+
+
+
+Thus it will be seen that a step of six inches in width will require the riser to be eleven inches ; a step 9'2 inches wide will require the riser to be nearly 7 inches, and a step of to inches requires a riser of about 6 5/8 inches. The same thing is thus otherwise expressed Let T be the tread and R the riser of any step which is found to have proper proportions, then to find the proportion of any other tread t and riser r,
+
+	RxT / r =t	TxR / t = r
+
+
+
+ or 
+
+Take, for example, a step with a tread of 2 inches, and a riser of 5 1/2 inches as the standard, then to find the breadth of the tread when the given riser is 8 inches, and substituting these values for t and r in the formula, we have 12 X 5 1/2 =8 1/4 inches as the breadth of the tread. Suppose, again, the given breadth to be 13 inches, we have 12 = 5 113 inches as the height of riser. This
+
+
+
+process of inverse proportion may be graphically performed quite easily by any workman able to build a stair. It will be noticed that the standard measurements are 12 in. tread and 5 1/2 in. rise, making in all 17 1/2 inches. To get a well proportioned stair, keep the measurement of tread and riser to this figure. If the tread is nine inches, make the rise 8 1/2 in. ; if 8 ins., make the rise 9 1/2 ins. Whatever a riser or tread may be, make the corresponding riser or tread make up whatever is lacking of 7 1/2 inches.
+
+
+
+
+
+Straight stairs are the most common and the most useful, and if not long are the easiest stairs to travel over. By a straight stair we mean a single flight without a break or a turn. A platform or landing- stair is one that has resting places in its length. Platforms or landings may be located at any point in the run of the stair, and the continued flight may run in the same direction as the bottom flight, or it may turn to the right or to the left as conditions require. A dog-legged stair is one in which some of the steps are built around a newel post in order to turn a corner. They are an inconvenient stair and are chiefly used as a back stair. Circular and elliptic stairs are very fine in appearance they are built on circular orelliptical plans and require the highest kind of workmanship to properly construct. There are some other kinds of stairs to which we may refer in future issues.
+

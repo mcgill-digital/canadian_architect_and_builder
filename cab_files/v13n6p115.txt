@@ -1,0 +1,48 @@
+<doctype type="text;plate">THE CANADIAN	ARCHITECT AND	BUILDER	115
+
+
+
+latter part of this paper namely, how to lest the efficiency of a hot water boiler apart from its radiators and connections.
+
+Most engineers are, in a way, familiar with the testing of steam boilers, hut for hot water boilers I have not yet met with any method in use that will fill the requirement which is open to ordinary mortals to follow. I say ordinary mortals, since it is a custom in the higher schools of science and art, to so burden such investigations with algebraical logarithms, fomulars, calculus, etc., combining so little practical information that ordinary mortals are excluded from following or find life too short to take up the subject in that way. In considering the task before us we will find we have three measurements to accurately obtain, on which to base calculations as to the amount of heat units captured by the boiler. These are: 1st. The temperature, or in other words the proportion of heat units in the water when it enters he boiler. 2nd The temperature, or in other words the proportion of heat units in the water when it leaves the boiler. 3rd. The rate or quantity of the flow of the water.
+
+It is comparatively easy to obtain the first and second values but not the third, because of the necessity of' procuring art instrument delicate enough to measure the rate of flow correctly, that can be put in a pipe without obstructing it and so impeding the circulation, with injurious results. There are ways proposed for measuring, or I would rather say estimating the amount of water passing in a pipe without obstructing it, one of which only I will refer to in order to show the difficulties to be contended with
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let A 13 be a pipe with water flowing through it; at points A and B we tap in small pipes, C and D, and bring their other ends together arid turned upright as at E. The head or force of the circulation will he represented by the difference in height of the water in the two columns at E. Having ascertained the head and the size of the orifice through which the wafer flows, the amount passing could be accurately calculated but for one thing, the allowance necessary to be made (scientifically the coefficient) for the friction of the piping, or in other words tire impediment to theoretically tree circulation. To obtain this correctly requires other tests and experiments of a complicated character, also the differences in height of the columns at F: being very small, would have to be taken by microscopic arid micrometer measurements, difficult to obtain. There is another trouble ; since tire main circulating pipes will be found in the basement, the ends E might have to be extended a considerable height. This would necessitate note being taken of the temperature of the water in these columns, so that any variation in weight therefrom could be calculated. Furthermore, as during the test the rates of temperature and flow will lie continually changing, observations would have to be made. This applies also to the proposition to rise an ordure water meter, could one of sufficient delicacy be found. When you consider in connection with this mass of figures, the skill and care necessary to obtain final results correctly, your will not wonder that tire ordinary mortal referred to is discouraged and dismayed. Still tire problem is before us and f lie question is, if we can't make a frontal attack is there arty way to get around. Every man has his own way of doing things, and without wishing to show arty disrespect for the methods of others, to which if presented I shall be only too pleased to listen, I beg your kind indulgence while I explain what I think is one solution of the difficulty, arid afterwards invite discussion or criticism of it for mutual benefit and interest.
+
+We have already shown how the efficiency of a boiler may be influenced by defects in the system. For the purpose of testing the efficiency of the boiler itself, I disconnect it from its system of radiation and treat it separately. It has already been explained that there are three measurements to be taken, and complications arise where the three measurements are unknown quantities that are constantly varying at all times during the test. In my test I endeavor to relieve this complication by making two out of the three measurements "known quantities and constant at all times during the test, thus leaving practically only one measurement to Ire dealt with during the test, arid proceed to explain briefly as follows To the boiler, Fig. 5, is attached flow and return pipes of the full capacity provided for in the boiler, running upwards and connected to an expansion tank in the ordinary manner. In the overflow of the expansion tank at T, is placed (in preference) a recording thermometer or an ordinary thermometer as opportunity may offer.
+
+Discharging into return pipe of the boiler is a pipe, T 2, carrying a known quantity of water per minute at a known temperature. With this our testing apparatus is complete. Let me here explain how tire latter part of this apparatus can be made. Roughly, I would propose an ordinary closet tank maintaining water by tap arid float at a stated level. From tins tank a pipe leads to the return pipe of the boiler, the discharge of which under the head of water in the tank has been measured arid adjusted to suit requirements. In the arrangement as illustrated herein, a set valve is shown at X for adjusting the rate of discharge. In such cases the total discharge at Y should be measured in bulk so that tire average maintained during the test may be the better verified. A better plan would be to introduce a suitable and reliable water meter at X, were one obtainable.
+
+For most accurate work I have devised a special water meter driven by clock work that will not only accurately measure an even continuous flow, but also automatically record the same. For obtaining a constant-known-temperature , water from a tank of melting ice should he used, or an ordinary water service which will run a stream at constant temperature. But to be exact in tins measurement a thermometer should be placed at T 2, 50 that should there be any variation in this temperature it can be rioted and allowed for, though complicating rite calculation to some extent.
+
+Now let me say a word On the thermometer and meter. I may be a crank on automatic machinery, possibly it is inherent laziness on any part; but instead of putting ordinary thermometers at tire points indicated and depending on taking their readings correctly (so I could swear to them,) every five minutes or otherwise during a 24-hour rest, I want to pint automatic recording thermometers there, say of the Callender pattern, that require no
+
+
+
+watching and will give results to a fraction of a degree arid time, whose records can for evidence be photographed and reproduced in print, free from the possibility of personal error. So also with tire measurement of the flow, but to explain such instruments would take one or more papers, so cannot be entertained at the
+
+present time.
+
+Having rigged my testing apparatus, we will proceed as follows :-—The apparatus being empty of water, we will start our water meter, stopping it when the water gets to overflowing, so that we may know the first contents. At the finish of the test the heat remaining in this water above tire normal will be one of the quantities to consider and add to multiresults Our apparatus
+

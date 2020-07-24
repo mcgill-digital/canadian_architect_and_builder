@@ -1,0 +1,70 @@
+<doctype type="text">
+
+March, 1893	THE CANADIAN	ARCHITECT ANDF BILDER	39
+
+
+
+<article title=" ONTARIO ASSOCIATION OF ARCHITECTS " author="">
+
+<assoc>ONTARIO ASSOCIATION OF ARCHITECTS</assoc>.
+
+Mr. <person>N. B. Dick</person>, the late treasurer of the Association, who was
+
+elected to the Presidency of the Association during his absence in Europe and in spite of his expressed wish to be allowed to retire from office altogether for a time, has, since his return recently, written to the Registrar accepting the responsibilities of the position. The proposal to Mr. Dick came from thc Council, by whom the constitution of thc Association requires the election to be made, but during the discussion which took place in the Convention as to the feasibility of the election of the President being by vote of the convention, Mr. Dick's name was by general consent used in connection with the proposition.
+
+	*	*
+
+
+
+The second annual examination of students was conducted at the School to Practical Science from Tuesday to Saturday, March 71h to 11th The time of holding examinations was changed from April, in which the examinations were held last year, to March, as being more convenient to students who wish also to come up for examinations at the School of Practical Science later in the year. Before notice of the examination results is sent to the students who were examined it is necessary that the Board of Examiners report to the Council of the Association, in whom is visited by the control of the examinations. The meeting of the council will be held as early in April as possible.
+
+	*	*
+
+*
+
+The Library of the Association has received a valuable addition in a set of The Brickbuilder for 1892 which has been presented by the publisher. The volume has been bound and is ready for lending. It is recommended by the Librarian as a practical aid to those who are aiming at good design in brick. The photographic reproductions are all of good subjects and there are many working drawings of standard examples in Europe and of work by the late <person>H. H. Richardson </person>and by well known American architects.
+
+<article title=" JOINTS IN CARPENTRY " author="">
+
+JOINTS IN CARPENTRY.
+
+A MOST important feature of the manipulative or handicraft part of carpentry is the "joints" to be used in the work, and an accurate and practical knowledge of the principles relating to these is most essential. It is therefore proposed in this article to deal with some of the matters relating to this branch of the ancient calling, treating the subject generally without going into the extensive question of special joints used in framing partitions or roofs. There are several kinds of joints used, according to the relation of the pieces of timber to each other. The "square joint" is when the pieces are at right angles with one another, and if thc one is lying on the ground and the surfaces of the timber are even, a simple way of effecting a junction would be merely to rest or butt the end of the vertical piece upon the lower one, the pressure of material supported by the upper piece being trusted to keep the two together. Although often adopted, this form of joint cannot be relied on unless the pressure mentioned is great, and in a vertical position, that is, parallel to an imaginary line called "the axis" passing through the center of the vertical piece.
+
+The better method of making a "square joint" is by passing one piece of timber into another by means of a rectangular or square hole this is well known as "the mortise or tenon joints" of
+
+which we give a sketch showing the junction
+
+	   in section. A denotes the piece of
+
+	  timber with an aperture 1234 called the
+
+	  "mortise" to receive the piece X called
+
+	  the "tenon," made in the timber B. This
+
+	  is a very common and useful joint, and in
+
+	  making same it should be remem-
+
+bered that the	thickness of the tenon X should be
+
+well proportioned	and about one-third of the width of
+
+the piece to which it belongs, in order that it may have sufficient strength. The depth of the tenon is generally equal to the depth of the piece to which it is joined. The mortise should be of the shape and dimensions of the tenon, smaller if anything, in order that no space be left when the tenon is inserted, and it should never exceed three-quarters of the thickness of the piece out of which it is cut, nor lose more wood than is necessary. When the tenon is sunk, or driven into the mortise the pieces are fastened by means of one or two wooden pins. This adds nothing to its solidity, but helps to keep the joint well together.
+
+In order to prevent the possibility of these joints not fitting tightly, several improvements have been made on thc simple method described above, as when the tenon is not made rectangular or square, but as shown in sketch 2, which is known as a "dovetail cut." Such mortises are very often not carried right through the entire depth of the timber, which is a good form of a joint to use when the strength of the timber will not allow much cutting away for a mortise. Another way to make a joint of this class is to carry the tenon through the mortise so as to have
+
+a piece projecting on the under side sufficient for a hole to be bored and a pin drawn tightly through it, thus keeping the tenon in the mortise without the aid of the pins as mentioned. A very satisfactory and reliable method is to combine the rectangular tenon and the dovetail
+
+mortise together, which is done by inserting the tenon and driving up wedges to fill in sides of the dovetail mortise.
+
+Having thus far dealt with the "square joint," we will now consider what is known as thc "vertical joint," that is, when two pieces of timber are joined, both of which are in the same vertical line. In most cases the joints under this head are practicable for joints between the timbers which are in a horizontal line, except for spanning; these methods not being calculated to be placed under such severe strains. As these joints are chiefly used for lengthening a vertical piece of timber by joining it to another, the principal point to be gained is to keep the jointed ends of the timbers from sliding or being pressed out. The pressure of the upper on the lower piece might be found sufficient to keep them together in a line, but it must be borne in mind that it the lower timber has no good foundation an unequal settlement will be brought about, and the line thrown out of the plumb ; therefore vertical joints are very seldom made with merely even surfaces where they join, unless bound together with plates of it on, or bound round with iron hoop and straps securely fastened. A simple form of a vertical joint is made by cutting a groove in the center of the end of each timber where they join, and a wooden or iron wedge inserted therein which will make it impossible for the lower timber to swerve from the plumb line, if it is securely fixed at its foundation.
+
+It will be found, however, that there are other directions of possible pressure, and in order to provide against these, it is best to cut two grooves at right angles to each other at the end of the lower timber, and make two tenons on the end of the upper piece to join tightly into the grooves. This last form is by far the best, and although more labor is necessary, yet thc safety that is secured is worth the extra work.
+
+To join a horizontal to a vertical piece of timber at its extreme end, a good method is found by cutting a tenon in the upper piece and fixing it tightly into a mortise made in the lower piece, but by far the neatest and securest joint for this class of work is what is known as the " mitre joint" This is formed by cutting one piece of timber at an angle of 45 leaving a tenon in the middle, and cutting the other piece of timber at the end to the same angle making a mortise on the angular side to receive tightly the tenon of the other piece. If this work is done correctly it will be seen that the corner made by the two pieces will be at right angles.
+
+The next class of joint it is proposed to refer to is the "horizontal joint," which is used in connecting pieces of timber crossing or meeting at right angles, and the method used is to lay one piece of timber upon the other and secure the two by means of wooden screw nails, but this form should not be used where there is much strain. A more satisfactory way is found by making a groove in the lower timber cut right across the width, and should be a little less in thickness than the section of the upper timber, that this can be tightly driven in. An improvement on this method is made by cutting a groove across the lower edge of the upper piece and making a mortise to receive the upper piece, leaving a projection to fit into the groove made in the timber inserted. If this system is adopted it is impossible for the timbers to move even in their own directions.
+
+When pieces of timber cross at an angle the method generally used to join same is by cutting a part out of the upper face of the lower piece large enough to receive tightly the upper timber, and these can be further secured by nails or pegs.
+

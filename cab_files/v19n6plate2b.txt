@@ -1,0 +1,6 @@
+<doctype type="plate">Canadian Architect and Builder.
+
+<building>Public Reference Library For Toronto</building>
+
+Messrs. <person>Wickson</person> and <person>Gregg </person>and <person>Chapman</person> Associated Architects, Toronto
+

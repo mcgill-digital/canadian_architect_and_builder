@@ -1,0 +1,145 @@
+<doctype type="text">to personal judgment and experience, and offers the best opportunity for the display of analytical and practical ability on the part of the designer. It is difficult to give specific rules. The following are some of the controlling questions to be considered.
+
+The class of structure, whether temporary or permanent, and the nature of the loading, whether dead or live. If live, then
+
+the	load is accompanied by severe
+
+dynamic shocks and pounding of the structure. Whether the assumed loading for calculations is the absolute maximum, rarely to be applied in practice. or a possibility that may frequently take place. Prolonged heavy steady loading, and also alternate tensile and compressive stresses in the same piece, will call for lower averages. Information as to whether the assumed breaking stresses are based on full-size or small-size tests 01 only on interpolated values, averaged from tests of similar species of timber is valuable in order to attribute the proper degree of importance to recommend average values. The class of timber to be used and its condition and quality. Finally, the particular kind of strain the stick is to be subjected to, and its position in The structure with regard to its importance and the possible damage that might be caused by its failure.
+
+In order to present something definite on this subject, your committee presents the accompanying table, showing the average  safe allowable working unit stresses for the principal bridge and trestle timbers, prepared to meet the average conditions existing in railroad )ad timber structures, the units being based upon
+
+the ultimate breaking unit stresses recommended by your committee and the following factors-of-safety, viz
+
+	Tension, with and across grail	Ten
+
+	Compression, with grain	Five.
+
+	         across grain	Four.
+
+	Transverse Rupture, Extreme Fiber Stress	Six.
+
+	               Modulus of Elasticity	Two
+
+	Shearing, with and across grain	Four.
+
+
+
+In conclusion your committee desires to emphasize the importance and great value to the railroad companies of the country of the experimental work on the strength of American timbers  being conducted by the Forestry Division of the U. S. Department of Agriculture, and to suggest that the American Association of Railway Superintendents of Bridges and Buildings endorse this view by official action, and lends its aid in every way possible to encourage the vigorous continuance of this series of government tests, which bids fair to become the most reliable and useful work on the subject of strength of American timbers ever undertaken. With additional and reliable information on this subject, far-reaching economies in the designing of timber structures can be introduced, resulting not only in a great pecuniary saving to the railroad companies, but also offering a partial check to the enormous consumption of timber, and the gradual diminution of our structural timber supply.
+
+Walter G. BERG, Chairman,
+
+	J. H. CUMMIN,	Committee.
+
+	JOHN FOREMAN,
+
+	H. L. FRY,
+
+
+
+AVERAGE ULTIMATE BREAKING UNIT STRESSES IN POUNDS PER SQUARE INCH.
+
+
+
+
+
+Recommended by the Committee on Strength  of Bridge and Trestle Timbers.'
+
+
+
+AMERICAN ASSOCIATION OF RAILWAY SUPERINTENDENTS BRIDGES AND BUILDINGS.—5TH ANNUAL CONVENTION, NEW ORLEANS, OCT., 1895.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVERAGE SAFE ALLOWABLE WORKING UNIT STRESSES IN POUNDS PER SQUARE INCH.
+
+
+
+Recommended by the Committee on "Strength of bridge and Trestle Timbers."
+
+
+
+AMERICAN ASSOCIATION OF RAILWAY SUPERTNTFNDENTS BRIDGES and BUILDINGS- 5TH ANNUAL CONVENTION, NEW ORLEANS, OCT., 1895.

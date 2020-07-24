@@ -1,0 +1,100 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" RADIATION OR PIPE SURFACE REQUIRED FOR BUILDING, HAVING CONSIDERABLE
+
+VARIATIONS IN CONSTRUCTION, SIZE AND TEMPERATURE " author="Jones, Walter">
+
+RADIATION OR PIPE SURFACE REQUIRED FOR BUILDING, HAVING CONSIDERABLE
+
+VARIATIONS IN CONSTRUCTION, SIZE AND TEMPERATURE.*
+
+Mr. Jones said he had not, up to the present time, met with any work that dealt with this difficult subject in an exhaustive manner, and whilst no one appreciated more fully than he did the excellent work of Mr. Chas. Hood, Mr. W. J. Baldwin, Mr. T. Box, Prof. Carpenter, Mr. F. Dye and others, who have given much valuable information, he has also felt that the discrepancies in the various rules and formulae were so great that a nearer approach to uniformity was sorely needed, and he trusted that the writers referred to would accept these criticisms in the most friendly spirit, and with the assurance that his sole object was an earnest desire to approach a solution of this difficult subject. He would not confine himself to destructive criticism, but would endeavor to crowd as much constructive information as possible into his short paper, in a manner so specific as to give the leading members of his profession food for thought and ample scope for criticism.
+
+He was of opinion that the conflicting opinions had
+
+arisen from several causes: First, the uncertainty that
+
+existed in the cooling or losses of heat through the
+
+enormously according to the difference in temperature, that the want of unanimity in the tables by different authorities was not at all surprising. Box, T, gave a loss (in units per sq. ft. of glass, per degree difference per hour) varying from 306 to 41 for greenhouses and 504 to 53 for windows. Professor Carpenter gave
+
+91 to 98, while various other authorities, English, Continental, and American, varied from ·776 t0 2'248. The difference between the highest and lowest was 630 per cent.
+
+Again, in comparing formulae, the various authors differed to practically as great an extent. Most of the published rules for obtaining the feet super of radiation were complicated, involving intricate calculations, and occupying more time than could ordinarily be given when preparing estimates. There would be no objection to this, providing the results obtained were such as to justify the extra time and trouble, but, so far as his experience went, this was not the case, for the results were frequently less accurate than those obtained by some simple formula, besides which complicated calculations were apt to lead to mistakes, and his object was to give some simple data that could be quickly grasped by the busy man, and that should give fairly reliable results under varying conditions.
+
+EXTERNAL TEMPERATURES, Fahr.
+
+	º0	º5	º10	º15	º20	º25	º30	º35	º40	º50	º55	º60
+
+	Inside	Temp.
+
+	   40	Fahr.	 8	75	.65	 ·56	5	 45	 38	 34
+
+	45	1	.89	8	72	62	55	48	·42	36
+
+	50	1.2	1.1	1	88	77	68	6	·46	.4
+
+	55	1.4	1.3	1.2	1.1 I 1 ·88 68 6 5 
+
+	60	1.7	1.6	1.5	1.4	1.3	1.1	1	.88	76	65	55	·48
+
+	1.9	1.8	1.6	P5	1.3	1.2	1.1	1.	·88	62	.52
+
+	70	25	2.3	2.1	2	1.8	1.7	1.5	P4	1.3	1.12	1	·86	75
+
+	75	3.	28	2.7	2.5	2.3	2.1	2	1.8	1.6	P5	1.3	1.15	1
+
+	8o	3.8	3.6	3.9	3.1	2.9	2.7	2.5	2.2	2	P9	1·7	1.5	1 3
+
+	85	4.6	4·4	4.2	4	38	3.6	3.3	29	27	2.5	2.2	2	1.9
+
+	90	5.7	5.5	5.3	5.	4.7 I 4.5	4 3	4	3.8	3.4	3.	2.8	2.5
+
+	95	7.5	72	6.8	6.4	6	5.7	5.5	5.1	47	4·5	42	3·9	3.5
+
+	100	8.3	8.9	8.1	8	7.9	7.7	7.5	7	6.4	6.	5.7	5·4	48
+
+
+
+
+
+glass. Second, by the use of constant, theoretical calculations, or multipliers, which would apply under equal conditions, but were only misleading where extreme variations of temperature existed. Third, that the calculations had not been verified by actual tests.
+
+The results of experimental cooling tests with an iron tube and a glass tube of approximately the same size, exposed at the same time to outside air under similar conditions, were that, with a cast iron tube, the units per super foot, per degree difference per hour, were 1.99, while with the glass tube the figures were 1 .72. What he desired to point out was, that with considerable variations in temperature, any constant or fixed multiple was sure to result in error, because the conditions change with the variations in temperature.
+
+All the authorities referred to were probably correct for stated conditions, and for a small range of temperatures, but he would endeavor to show that for different classes of buildings, and especially for high temperatures, the discrepancies were so great and so confusing that a combined effort should be made to obtain a nearer approach to accuracy.
+
+The cooling ratio, or loss of heat by glass, varied so
+
+
+
+*Abstract of Paper by Walter Jones, presented before the Institution of Heating and Ventilating engineers of Great Britain.
+
+(Here followed six comprehensive tables giving the heat ratios [or multipliers] for horticultural buildings. The figures cover the subject very fully, giving the superficial area of heating surface required to give internal temperature of from 40 degs. to 90 degs. Fahr., with external temperature of from o degs. to 50 degs., with the water at six different temperatures, from 150 degs. to 200 degs. Fahr. Following these tables are explanatory examples, also reference to other authors, showing that different authorities vary to the extent of nearly 100 per cent. in the radiation recommended for a given area.)
+
+A rule for ordinary brick buildings Mr. Jones stated
+
+to be as follows :—To obtain 6o degs. inside when 30
+
+degs. outside; water at 170 degs.— Glass (G.) feet super. 6
+
+cubic capacity (C.C.)	super. radiation for 60 degs.
+
+Exposed Wall (w.)	120{ inside when 30 degs. outside.
+
+	 For rooms under 5,000 ft. capacity.
+
+	140	  5,000 to 25 000
+
+	150	25,000 to 100,000
+
+	160	  over 100,000
+
+
+
+
+
+The above rule is for ordinary ventilation with one change of air per hour. If two or more changes, add cubic capacity 200 for each additional change.
+
+In small rooms the glass and wall surface is proportionately greater than in large rooms, and in the latter the walls are thicker and the loss proportionately
+

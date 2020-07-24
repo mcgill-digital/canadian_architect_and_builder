@@ -1,0 +1,60 @@
+
+
+<doctype type="text">SIZES OF PIPES FOR HEATING HOUSES
+
+<article title="Sizes of Pipes for Heating Houses with Hot Air" author="">WITH HOT AIR.
+
+WE present herewith an extract from an interesting article contributed to a recent issue of The Metal Worker by William G. Snow, who has had a long experience in hot air furnace work
+
+Much larger furnace pipes are now used than formerly.	This involves a greater original outlay and an increased running expense for fuel, but the householder is repaid by the more healthful conditions secured through the supply of an ample volume of warm air in place of a small volume of intensely heated air. The pipes should be so proportioned that the several floors will be heated equally.
+
+Table IV, calculated as explained below, will be found useful in determining their size. It must be borne in mind, however, that in heating and ventilating work no rule or table can be successfully used without a certain co-efficient of common sense to allow for varying conditions.
+
+Having obtained the equivalent of glass surface (E.
+
+G.	S.) multiply by 85 (the loss of heat per square foot of glass per hour with 70 degrees difference in temperature). The product will be the total loss of heat by transmission per hour.
+
+The volume of warm air required to offset this loss depends on its temperature, which generally ranges from 120 to 140 degrees in zero weather. Assuming the temperature of the entering air to be 140 degrees and that of the room to be 70 degrees, the air escaping at approximately the latter temperature will carry away one-half the heat brought in. The other half, corresponding to the drop in temperature from 140 to 70 degrees is lost by transmission. With outside temperature zero each cubic foot of air at 140 degrees brings into the room 2.2 heat units. Since only one-half of this, or I.I heat units, can be utilized to offset the loss by transmission, to ascertain the volume of air per hour at 140 degrees required to heat a given room, divide the loss of heat by transmission by I.I ; the quotient is
+
+
+
+TABLE IV.—Showing THE PROPER SIZE OF FURNACE PIPES TO HEAT rooms OF VARIOUS DIMENSIONS WHEN Two SIDES ARE EXPOSED.
+
+TEMPERATURE AT REGISTER 140°, Room 70°, OUTSIDE 0° ROOMS 8 TO 17 FEET IN WIDTH ASSUMED TO BE 9 FEET HIGH.
+
+ROOMS 18 TO 20 FEET IN WIDTH ASSUMED TO BE 10 FEET HIGH. FOR OTHER HEIGHTS, TEMPERATURES OR EXPOSURES MAKE
+
+A SUITABLE ALLOWANCE. WHEN FIRST FLOOR PIPES ARE LONGER THAN 15 FEET USE ONE SIZE LARGER THAN THAT STATED.
+
+
+
+In the space opposite thc numbers indicating the length and width of room, the lower number shows the size pipe for first floor,
+
+the upper number the size pipe for second floor.
+
+For third floor use one size smaller than for second floor.
+
+For rooms with three exposures increase pipe given in table in proportion to the exposure.
+
+For halls use pipe of ample size to allow for loss of heat 10 second floor.
+
+
+
+The main steps involved in the calculation of the above table are
+
+i. The determination of the loss of heat through the walls, windows and floor or ceiling of the room.
+
+2. The volume of warm air required to offset this loss.
+
+3. The velocity of air in the pipes.
+
+The loss of heat is calculated by first reducing the total exposure to equivalent glass surface. This is done by adding to the actual glass surface one-quarter the area of exposed wood and plaster or brick walls and one-twentieth the area of floor or ceiling to cover the loss of heat to non-heated basement or attic. Ten per cent. is added where the exposure is severe to cover the increased loss of heat by transmission and by the leakage of air. The window* area assumed in calculating the table is one-fifth, or 20 per cent. of the entire exposure of the room. From the inspection of a number of plans this ratio was found to represent a liberal allowance for glass surface.
+
+Double windows, when tightly put in, transmit about three-fifths as much heat as a single window
+
+the volume sought. This result divided by 6o gives the number of cubic feet per minute. Having determined the volume of air required per minute, if we know the velocity with which it will travel through the pipes, their area in square feet is readily determined by dividing the volume by the velocity in feet per minute. This area is easily reduced to square inches, from which the diameter of the pipe may be obtained.
+
+
+
+In calculating the table maximum velocities of 280 and 400 feet were used for pipes leading to the first and second floors respectively, These velocities are readily attainable in practice. They are lower than those commonly assumed for straight vertical flues, but this is accounted for by the greater resistance to the passage of air through the nearly horizontal basement pipes, and through elbows, nettings and registers. The size of the smaller pipes was based on lower velocities, according to their size, to allow for their greater resistance and loss of temperature.
+

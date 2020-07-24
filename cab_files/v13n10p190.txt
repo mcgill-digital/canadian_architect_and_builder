@@ -1,0 +1,176 @@
+
+
+
+
+<doctype type="text">STANDARD SPECIFICATIONS FOR STEEL
+
+AND IRON.*
+
+SPECIFICATIONS FOR STEEL FOR BRIDGES AND SHIPS.
+
+<article title="Standard Specifications for Steel and Iron" author="">
+
+I.	Steel shall be made by the open-hearth process.
+
+
+
+2.	Each of the three classes of structural steel for bridges and ships shall conform to the following limits in chemical composition:
+
+		Steel made by	Steel made by
+
+		  the Acid	  the Acid
+
+		  Process.	  Process.
+
+		  per cent.	  per cent.
+
+	Phosphorus shall not exceed	    0.08	    0.06
+
+	Sulphur shall not exceed	    0.06	    0.06
+
+
+
+3.	There shall be three classes of structural steel for bridges and ships, namely, rivet steel, soft steel and medium steel, which shall conform to the following physical qualities
+
+4.	Tensile tests
+
+Tensile strength, pounds per square inch 50,000 to 60,000 rivet steel, 52,000 to 62,000 soft steel, 60,000 to 70,000 medium steel.
+
+Yield point in pounds square inch Shall not be less than 30,000 rivet steel, 32,000 soft steel, 35,000 medium steel.
+
+Elongation in per cent. 8 inches shall not be less than 26 rivet steel, 25 soft steel, 22 medium steel.
+
+
+
+5.	For material less than 5-16 inch and more than 34 inch in thickness, the following modifications shall be made in the requirements for elongation
+
+(a)	For each increase of '8 inch in thickness above 34 inch, a deduction of  1  per cent. shall be made from the specified elongation.
+
+(b)	For each decrease of 1-16 inch in thickness below 5-16 inch, a deduction of 2 1/2 per cent. shall be made from the specified elongation.
+
+(c)	For pins made from any of the three classes of steel the required elongation shall be 5 per cent. less than that specified in paragraph 4, as determined on a test specimen the centre of which shall be 1 inch from the surface.
+
+6.	Eye bars shall be of medium steel. Full size tests shall show 12 1/2 per cent. elongation in 15 feet of the body of the eye-bar, and the tensile strength shall not be less than 55,000 lbs. per square inch. Eye-bars shall be required to break in the body, but should an eye-bar break in the head, and show 12 1/2 per cent. elongation in 15 feet and the tensile strength specified. it shall not be cause for rejection, provided that not more than one-third of the total number of eye-bars tested break in the head.
+
+7.	The three classes of structural steel for bridges and ships shall conform to the following bending tests, and for this purpose the test specimen shall be 1/2 inch wide, it possible, and for all material 3/4 inch or less in thickness the test specimen shall be of the same thickness as that of the finished material from which it is cut, but for material more than 34 inch thick the bending test specimen may be 1/2 inch thick.
+
+Rivet rounds shall be tested of full size as rolled.
+
+(d)	Rivet steel shall bend cold 180 degs. flat on itself without fracture on the outside of the bent portion.
+
+(e)	Soft steel shall bend cold 180 degs. flat on itself without fracture on the outside of the bent portion.
+
+(f)	Medium steel shall bend cold 180 degs. around a diameter equal to the thickness of the specimen tested, without fracture on the outside of the bent portion.
+
+8.	The standard test specimen of 8 inch gauged length shall be used to determine the physical properties specified in paragraphs Nos. 4 and 5. The standard shape of the best specimen for sheared plates shall be as shown by the following sketch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For other material the test specimen may be the same as for sheared plates, or it may be planed or turned parallel throughout its entire length and in all cases where possible, two opposite sides of the test specimens shall be the rolled surfaces. Rivet rounds and small rolled bars shall be tested of full size as rolled.
+
+(9)	On the tensile test specimen shall be taken from
+
+
+
+Recommended by a Special Committee of the American Institute Civil Engineers.
+
+the finished material of each smelt, but in case this develops flaws or breaks outside of the middle third of its gauged length, it may .be discarded and another test specimen substituted therefor.
+
+10.	One test specimen for bending shall be taken from the finished material of each melt as it comes from the rolls, and for material 34 inch and less in thickness this specimen shall have the natural rolled surface on two opposite sides. The bending test specimen shall be inch wide if possible, and for material more than 3/4 inch thick the bending test specimen may be 1/2 inch thick.
+
+(g)	The bending test may be made by pressure or by blows. 
+
+11.	Material which is to be used without annealing or further treatment shall be tested for tensile strength in the condition in which it comes from the rolls. For material which is to be annealed or otherwise treated before use, a full-size section of tensile test specimen length shall be similarly treated before cutting the tensile test specimen therefrom.
+
+2.	For the purpose of this specification, the yield point shall be determined by the careful observation of the drop of the beam or halt in the gauge of the testing machine.
+
+13.	In order to determine if the material conforms to
+
+the chemical limitations prescribed in paragraph No. 2
+
+herein, analysis shall be made of drillings taken from a
+
+small test ingot.
+
+14.	The variation in cross section or weight of more than 2 1/2 per cent. from that specified will be sufficient cause for rejection, except in the case of sheared plates, which will be covered by the following permissible variations
+
+(h)	Plates 12 1/2 lbs. per square foot or heavier, when ordered to weight, shall not average more than 2 1/2 per cent. variation above or 2 1/2 per cent. below the theoretical weight.
+
+(I)	Plates under 12 1/2 lbs. per square foot, when ordered to weight, shall not average a greater variation than the following
+
+Up to 75 inches wide, 2 1/2 per cent. above or
+
+per cent below the theoretical weight ; 75 inches and over, 5 per cent. above or per cent. below the theoretical weight.
+
+(j)	For all plates ordered to gauge there will be permitted an average excess of weight over that corresponding to the dimensions on the order equal in amount to that specified in the following table
+
+TABLE OF ALLOWANCES FOR OVERWEIGHT FOR RECTANGULAR PLATES WHEN ORDERED TO GAUGE. THE WEIGHT OF ONE
+
+CUBIC	INCH OF ROLLED STEEL IS ASSUMED TO BE 0.2833 LBS. PLATES 1/4 INCH AND OVER IN THICKNESS.
+
+	Width of Plate.
+
+	Thickness of	Up 10	to 100	Over 100
+
+	Plate.	Inches.	Inches.	Inches.
+
+	Inch.	Per cent.	Per cent.	Per cent
+
+		[0		18
+
+	5/16	8	12
+
+		7	10	13
+
+	7/16	6	S	10
+
+		5	7	9
+
+	9/16
+
+		4	6	8
+
+	Over 5/8	3 1/2	5
+
+
+
+PLATES UNDER 1/4 INCH IN THICKNESS.
+
+
+
+Width of Plate
+
+	Thickness of	Up to 50	50 inches and
+
+	Plate.	inches.	Above.
+
+	Inch.	Per cent.	Per cent.
+
+	1/8 up to 5/32	[0	15
+
+	5/32 up to 3/16		122
+
+	3/16 up to	7	10
+
+
+
+15.	Finished material must be free from injurious seams, flaws or cracks, and have a workmanlike finish.
+
+16.	Every finished piece of steel shall be stamped with the melt number, and steel for pins shall have the melt number stamped on the ends. Rivets and lacing steel, and small pieces for pin-plates and stiffeners, may be shipped in bundles, securely wired together, with the melt number on a metal tag attached.
+
+17.	The inspector representing the purchaser shall have all reasonable facilities afforded to him by the manufacturer to satisfy him that the finished material is furnished in accordance with these specifications.
+

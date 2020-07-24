@@ -1,0 +1,96 @@
+<doctype type="text">
+
+
+
+Unfortunately the cubic space is not so complete as we should wish it. We have not had time to supplement it, but those examples we have taken will be recognized as good ones.
+
+		Cubic space
+
+	Floor area	per horse.
+
+	Gifford Hall Stables, stall	120	1680
+
+	           loose boxes	216	3020
+
+	Wretham Hall, loose boxes	185
+
+	Frognall, Kent, stalls	134
+
+	Moreton hall, stalls	126
+
+	            loose boxes	216
+
+	Cowesfield House, stalls	120	1080
+
+	               loose boxes	210	3780
+
+	Easton Park, Suffolk stalls	105
+
+	loose boxes	150
+
+	Lock Inch Castle, stalls	130
+
+loose boxes	195 to 250
+
+	Claremont House, stalls	130
+
+	Copse Hill Hunting Stables, stalls	130
+
+	Ditto loose boxes	186
+
+	Berkswell Hall, stalls	128
+
+	loose boxes	190
+
+	Havering attn Bowe, stalls	147
+
+	loose stalls	120
+
+	Private Stables at Brighton, stalls	95
+
+	Ditto loose boxes	193
+
+	Private Stables in London, stalls	84	798
+
+	Ditto loose boxes	100	950
+
+
+
+
+
+
+
+From these examples it will be seen that, even in superior town stables, the cubic capacity is actually below that required for the human being.
+
+In the country stables, the floor spaces are in nearly all cases equal to or more than our standard, while the cubic space is considerably more in the case of loose boxes, showing that the amounts we give as standards are generally recognized as being necessary for a really good stable.
+
+In the following remarks we shall therefore assume the cubic space to be dealt with as 1,900 cubic feet per horse, and the average height of the stable as 15 feet and with this explanation our readers will be able to correct the quantities hereafter given to suit other capacities.
+
+
+
+The next step is to decide what quantity of fresh air is required to be admitted in summer and winter ; but as in summer the extra quantity required can be easily supplied by opening the windows, which must be provided for lighting (for it must not be forgotten that light is as necessary as air to maintain a healthy state of body, whether in man or horse) it will be sufficient to consider what ventilation is required in the winter only.
+
+Dr. Parkes, in his well-known work on Hygiene says we should allow 6 cubic feet of fresh air per minute for a man ; M. Peclet and Mr. Hood give from 3 1/2 to cubic feet of fresh air per minute, as the minimum quantity that should under ordinary circumstances be allowed for a human being in the winter to maintain the wholesomeness and purity of the apartment; and it seems reasonable to assume that a horse would require at least half as much again, or say, 7'2 cubic feet per minute in the winter, and double that in the summer, and a further allowance must be made on account of the exhalations from soiled litter, etc.
+
+The size of the inlet ventilators should, according to Dr. Parkes, be 24 square inches per man, and the Commissioners on improving the sanitary condition of Barracks, etc., laid down 1 square inch for every 6o cubic feet capacity, which, on 1,5oo cubic feet gives an area of 25 square inches—we, have, however, considered that a horse requires 1 1/2 times the space, and consequently the air, that a man wants, and therefore the area for each horse should be 37 square inches, which, allowing the maximum velocity that can be permitted without causing a draught, viz., 3 feet per second, gives an admission of 46 cubic feet per minute, equiva
+
+lent to changing the whole air of the stable twice in each hour.
+
+This quantity of air will be delivered when there is a difference of 10 deg. between the outside and inside temperatures.
+
+There must, however, not only be inlet ventilators for the admission of fresh air, but outlet ventilators for the escape of the vitiated air, and, quoting Mr. Hood, "it is advisable to make the aggregate area of the openings that admit the tresh air larger than the aggregate openings for the efflux of the vitiated air. This becomes necessary notwithstanding the increase of volume which takes place in the heated and vitiated air."
+
+If the opposite course be adopted, and the outlets be larger than the inlets, then a counter-current takes place, and the cold air descends through the outlet tubes unless prevented by some special means, and by making the inlet of large area the velocity of the incoming current is reduced, and unpleasant draughts avoided.
+
+It is also expedient to divide the entering current as much as possible, for by so doing the dangerous effects of cold draughts are prevented when the entering current is colder than the air of the room ; and when it is hotter, it prevents the air from rising too rapidly towards the ceiling and therefore distributes it more equally through the apartment.
+
+Provided the aggregate openings for the admission of cold air be not less in size than those for the emission of the heated air, the quantity of air which enters depends less upon the size or number of the openings which admit the fresh air, than upon the size of those by which the vitiated air is carried off.
+
+We have now arrived at this result, that for each horse we require 37 square inches of inlet valve area, while the outlet area must be less ; say 20 or 30 square inches per horse. 
+
+Outlet valves should either be taken into chimney flues or into special shafts made for the purpose, and carried up as high as possible above the ceiling of the stable. The valves themselves should be placed close up to the ceiling.
+
+Everyone with a knowledge of stable matters knows that there is more or less stagnation of air at the head of a stall, closed in as it is on three sides, and with the manger plate projecting some 15 to 18 inches into the stall at a height of about three feet above the floor, thus forming a kind of open box; also in a range of loose boxes where the only air that gets into the bottom of the boxes is what finds its way under the doors, which are often kept an inch or two off the floor for the purpose. Attempts to remedy this have been made by keeping the sills of stalls and loose boxes an inch or two off the floor, with the result that a space was left in which horses were liable to catch their feet, and which it was difficult to get under to clean.
+
+ The new arrangement consists of a new form of sill, of girder shape, having the Webb connecting the tipper and lower flanges perforated with holes. The bottom flange is made flat to rest on the floor, with caulking going into the floor to secure it laterally. The top flange is made with a groove to take the woodwork, which is thus kept well above the floor and away from all damp. At the head of the stall or loose box an iron-plate takes the place of part of the woodwork, and below the level of the manger plate, this is perforated in a similar manner to the sill, so that the air can circulate
+

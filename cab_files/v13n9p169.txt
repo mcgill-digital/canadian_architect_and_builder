@@ -1,0 +1,64 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	169
+
+
+
+<article title="Heating and Ventilation with Regard to Greenhouses" author="King, Robert W.">HEATING AND VENTILATION WITH REGARD TO
+
+GREENHOUSES.*
+
+By ROBT. W. KING, Mechanical Engineer, M. Can. Soc. C.E.
+
+
+
+The writer's attention was specially called to this subject in 1886 and 1887 with a view to thc application of steam in place of hot water heating in greenhouses. Thc first experiments were made in the greenhouses of Dr. Roe, of Georgetown, Ont. In 1888, thc writer became acquainted with the late. Mr. H. Dale, of Brampton, who had in contemplation the building of some houses for cut flowers. A more exhaustive study of the subject was then made, including the designing of boilers for that special
+
+Purpose. In writing a paper on this subject, it is natural to recall those earlier days, because it was then that the points now to be brought to your notice, were mainly first considered.
+
+In commencing to build a greenhouse plant, and especially with a view to future extensions, the plans for heating the whole or completed plant are one of the first and most important things to he considered. It will invariably be found advisable to modify in many ways the houses or their location in order to obtain the best efficiency and economy, both in thc installing and use of thc heating plant, rather than to endeavor to adapt that plant to houses that have already been erected, with little or no thought to efficient and economic heating. Since the variations, due to differences in location, are many, it will be impossible in a brief discussion to cover the whole ground, but it will be the writer's aim to convey in a condensed form, the conclusions to which his experience has led him.
+
+In considering the methods of heating to be employed reference will be made only to hot water and steam beating.  The former still has many advocates, especially in the shorter or smaller houses, and indeed, it is not so very long since it held the entire field. But, with the majority of large growers it has had to give way to steam.
+
+
+
+The efficiency of any plant does not depend so much on whether steam or hot water is employed, or on the class of boiler used, or on various other items often pressed upon one's notice as essential to success, as upon the details, and thoroughness of its individual design and manipulation. There are growers who after changing from hot water to steam, have changed back again to hot water, and then published their experience as a caution to others against steam. Moreover, boilers that have worked successfully in one place have failed to do so in another.
+
+
+
+Where steam has failed to give good results and economy in heating. it has been due to fault in the plans or method of installing it. In the earlier day's, the methods of installing hot water were well understood while steam was not. This was the case when the writer engaged to make a special study of steam heating as applied to greenhouse work.
+
+In any undertaking it is necessary to consider what are the requirements to bc specially provided for. In greenhouse heating it is mainly economy in fuel, and attendance.
+
+Fuel constitutes the main expense account, though attendance is also an important item, especially in small houses. These should have boilers designed to safely carry steam all night. Boilers so designed have proven themselves safer and more advantageous than others depending for regulation on a night watchman. Night watchmen fall asleep sometimes or do not wake up when they should, and so allow the houses to chill or become frozen. In a young business the watching of the fires at night generally' falls on thc proprietor, and thc broken rest so necessitated interferes seriously' not only' with health but with the proper conduct of business, which requires, for its best performance the stimulus of a sound night's rest.
+
+Coal in some form is the principal fuel employed by greenhouse men, and will therfoer be mainly so dealt with in his paper. In the first place it should be intelligently purchased. It is not enough to know by chemical analysis or the statement of an agent that from a certain grade or sample can be obtained the greatest number her of heat units in proportion to the price to be paid for it, and as compared with some other coal. It is essential to know that the particular fuel purchased is best adapted to the particular plant it is to bc burned under. We burn fuel under boilers for the purpose of conveying as fully as may he possible the heat made by its combustion to thc water in the boilers. Therefore the most direct way of testing a sample lot of coal is to so burn a measured quantity and then measure the heat conveyed thereby to the water in the boilers.
+
+Also it is essential to know that thc efficiency of the plant gen
+
+*Paper read before the Canadian Horticultural Association at Montreal, August,
+
+1900.
+
+erally, and its manipulation is such that a proper or economical duty is obtained from the fuel burned under the boilers.
+
+For these reasons every greenhouse should be provided with means for making evaporation tests or a direct measurement of the heat values obtained per pound of coal consumed. After having expertly determined the best obtainable efficiency of the plant itself in regard to the cost of the heat units absorbed from the fuel, then the grade of fuel and method of firing should be employed that will best maintain that efficiency.
+
+The importance of evaporation tests cannot be too strongly accentuated. Nor is it a very difficult or expensive matter to arrange for taking such tests as far as it is necessary for gardeners purposes, though to attempt to describe them within the limits of this paper would be too wide an extension of my subject. To make a test reliable for comparison with other plants, there are engineering questions and calculations in bringing all to one common basis of measurement that a gardener not also an engineer would not usually undertake. It would be more practical to consult an engineer, and have him arrange and supervise the first tests taken and leave such instructions as will enable subsequent comparative tests to be made at any other time desired without like supervision. This has been successfully accomplished in the Dale greenhouses at Brampton. Some of thc tests thus taken will be referred to in thc course of this paper.
+
+
+
+Test for efficiency of a heating plant need not be confined to steam heating. In a paper read before the " Engineers' Club," of Toronto, last spring the writer describes a method of testing the efficiency of a hot water boiler in such a way that the results in economy on fuel may be Compared not only with other hot water boilers, but also with steam boilers. This paper in question was published in the "Canadian Architect and Builder," and in the "Canadian Engineer" of recent issues.
+
+In designing a heating plant to obtain a high grade of economy in the cost of fuel, the prudent man will find that he must not look with too miserly an eye on the first cost necessary to install such a plant. In order to obtain thc abundance of heat necessary for your best success, more has to be expended than in installing a plant that will develop only a small amount of heat at a high cost per unit. This may be illustrated as follows
+
+
+
+Steam boilers with heat passing from front to back have been experimentally constructed in sections, so that the evaporation from each section could be independently measured. It was found that the largest part of the work was done at the first or front sections, while thc boiler being made long enough, practically no work was done by the last or back section. Suppose such a boiler divided into two equal sections of such a length that the first half does 75 per cent. of the work in absorbing heat from the fuel burned, and the last half 25 per cent. Now it is evident that you can purchase boilers designed (as amount of surface exposed to fire is to fuel consumed) on the first section plan for about half the cost of boilers built on the plan of the whole or combined sections but the latter will, though costing you more, give you a saving over the former plan of 25 per cent. in fuel, which may mean over 100 per cent. per annum on the extra cost of the plant as a business investment. By following the first plan you invest your money in the most unprofitable part of the plant and omit the most profit able as regards the cost of fuel, thus seriously affecting the net profits of the business. It will be seen, therefore, that the gardener without any check on what his plant is accomplishing may be working under a serious handicap in ignorance of his possible profits going up the chimney in smoke.
+
+
+
+It will be found that the same principles apply to hot water boilers, though steam boilers have a serious impediment as compared with the former in the higher temperature of the ordinary steam boiler surfaces which thus detract from their efficiency or heat absorbing power. This fact was early noted by the writer as a point wherein hot water had the advantage both in economy of fuel and in boiler construction over steam, since in a hot water system the lower temperature of thc circulating water as compared with steam made the boiler surfaces better adapted for the absorption of heat. Though makers of hot water boilers discount this objection—and sometimes to an absurd extent—-by giving that much less heating surface to their boilers, it still remains a point in favor of hot water heating.
+
+
+
+To meet this in steam heating the writer designed and patented plans for rising the return water in a gravity system as a cooling agent to apply to the waste gases between the hotter boiler surfaces and the chimney flue, and he considers this princi
+

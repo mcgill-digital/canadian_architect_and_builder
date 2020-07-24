@@ -1,0 +1,86 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND	BUILDER
+
+
+
+<article title=" REPORT OF TESTS ON VENTILATION " author="">REPORT OF TESTS ON VENTILATION.
+
+By the courtesy of the Chairman, Dr. J. J. Cassidy, of Toronto, we are enabled to publish the following valuable report of the Committee on Ventilation presented recently to the Ontario Provincial Board of health. Embodied in the Report are the results of recent tests of ventilation in a number of public buildings in Toronto. In view of the importance of the subject we print the Report in full as follows
+
+REPORT OF THE COMMITTEE ON VENTILATION.
+
+
+
+It is a source of satisfaction to learn that in the State of Massachusetts thc ventilation of public buildings and school-houses has passed beyond the theoretical stage. In that State statutes were passed in thc year 1894 regulating the construction, ventilation and sanitary conditions of buildings, and it is the special business of thc Department of the Inspection of Factories, Workshops and Public Buildings to see that the regulations imposed by those statutes arc promptly carried out.
+
+In a Massachusetts statute, entitled chapter 508, the following regulations arc made:
+
+"Section 40.—Every public building and every school-house shall be kept in a cleanly state and free from effluvia arising from any drain, privy or other nuisance, and shall be provided with a sufficient number of water closets, earth closets or privies for the reasonable use of the persons admitted to such public building or of the pupils attending such school—house.
+
+"Section 41.—Every public building and every school-house shall be ventilated in such a proper manner that the air shall not become so exhausted as to bc injurious to the health of the persons present therein. The provisions of this section and the preceding section shall be enforced by thc inspection department of the district police.
+
+"Section 42.----------- Whenever it appears to an inspector of factories and public buildings that further or different sanitary provisions or means of ventilation are required in any public building or schoolhouse in order to conform to the requirements of this Act, and that the same can bc provided without incurring unreasonable expense, such inspector may issue a written order to the proper person or authority, directing such sanitary provisions or means of ventilation to be provided, and they shall thereupon be provided in accordance with such order by the public authority, corporation, or person having charge of, leasing, or owning such public building or school-house.'
+
+On printed form No. 83 thc following requirements arc called for in the heating and ventilation of school buildings in Massachusetts
+
+1. "That the apparatus will, with proper management, heat all the rooms, including the corridors, to 70' F. in any weather.
+
+2. "That, with the rooms at 7O F. and a difference of not less than 40" F. between the temperature of the outside air and that of thc air entering the room at thc warm-air inlet, the apparatus will supply at least 30 feet of air per minute for each scholar accommodated in the room.
+
+3. "That such supply of air will so circulate in the rooms that no uncomfortable draughts will be felt, and the difference in temperature between any two points on the same breathing plane, in the occupied portion of a room, will not exceed 3".
+
+4. That vitiated air, in amount equal to the supply from the inlets, will bc removed through the ventiducts.
+
+'That the sanitary appliances will be so ventilated that no odors therefrom will be perceived in any portion of the building.
+
+"To secure approval by the department of plans, showing methods or systems of heating and ventilation, the above requirements must bc guaranteed in the specifications accompanying thc plans."
+
+Fully recognizing the wisdom of the above mentioned statutes and thc propriety of the regulations founded on them, your committee, in order to ascertain whether the conditions of heating and ventilation in Toronto arc conformable to the legal standard required in Massachusetts, examined the ventilation of three public school-houses, two Sunday school-rooms and the city police court. The following is the report of the work done
+
+REPORT ON THE VENTILATION OF TWO ROOMS IN THE CHURCH
+
+
+
+STREET SCHOOL-HOUSE, CORNER OF ALEXANDER AND
+
+
+
+CHURCH STREETS, TORONTO.
+
+
+
+Date of inspection Dec. 17th, 1896. Weather overcast and mild. Wind south-cast. Temperature 33.8 F. Humidity 61 Barometer 29.85. This building is heated and ventilated by the
+
+Smead-Dowd apparatus. It is a twelve-room school, three stories in height, and there are four furnaces, one for each corner of the building, each furnace heating and ventilating three rooms.
+
+Room No. 2, ground floor, s. w. side; seating capacity 63
+
+
+
+present 61; net air space 1,368.67 cubic feet; air space per head 186.37 cubic feet temperature at teacher's desk 68 F.; humidity
+
+49 difference in temperature in different parts of the room at the breathing line F.; air supply at inlet 1,630 cubic feet air removed at outlet per minute (estimate) 1,630 cubic feet amount of air supplied to each pupil per minute 26.72 cubic feet air changed completely in 6.96 minutes carbonic acid parts in , 1000 of air 0.537 time of test 2.55 p.m.
+
+Room No. 4, ground floor, n. e. side; seating capacity 64; persons present 50; net air space 11,738.17 cubic feet ; air space per head 235.66 cubic feet; temperature at teacher's desk 67 F.; humidity 55; difference in temperature in different parts of the room at the breathing line 3 F.; temperature of the air at the inlet 71 F.; air supply per minute 1,650 cubic feet air supply at outlet per minute (estimate) 1,650 cubic feet amount of air supplied cache pupil per minute 30.8 cubic feet; air changed in 7.14 minutes; carbonic acid in parts of 1,000 of air 0.537; tune of test 3.20 p.m. The fires were getting low, and the results obtained would probably show the average of all kinds of weather.
+
+REPORT ON THE VENTILATION OF TWO ROOMS IN THE LOUISA STREET
+
+SCHOOL, TORONTO.
+
+
+
+Date of inspect ion Dec. 18th, 1896; weather generally clouded; wind south temperature 36.9 humidity 92; barometer 29,389. This building is heated by box stoves in which wood is consumed. There is a fresh air inlet in connection with each stove, but the supply of fresh air is merely nominal, the ventilation being accomplished by open fanlights in thc windows.
+
+Room No. 1, ground floor, on the s. e. side; seating capacity 45; persons present 40; net air space 11,636.25 cubic feet; air space per head 290.90 cubic feet ; temperature at the teacher's desk 61 F.; humidity 60; difference in temperature at different parts of thc room at thc breathing line 13 F.; temperature of the air at the inlet (fanlight) 42 F. The fresh air inlets were two open fanlights, having an area of 6.72 square feet. The wind was blowing towards them, but as there was no definite inlet or outlet, I did not ascertain the amount of air supplied per minute or the amount removed. Carbonic add in parts of 1,000 of air 0.806; time of test  a.m. It had begun to rain when the next room was tested.
+
+Room No. 2, ground floor, on the n. w. side; seating capacity 64; persons present 58; net air space 10,365.42 cubic feet; air space per head 178.71 cubic feet temperature at the teacher's desk F.; humidity 71' difference in temperature in different parts of the room F.; temperature of air at inlet 42 F.; fresh air inlets, five open fanlights representing 16.75 square feet carbonic acid in parts of 1,000 of air 0.615. As the fanlights were all open and the room was filled with fresh air, this cannot he considered a test of the ventilation of this room.
+
+REPORT ON THE VENTILATION OF THE SHERBOURNE STREET
+
+
+
+METHOD 1ST SABBATH-SCHOOL, TORONTO.
+
+
+
+Date of inspection Dec. 20, 1896 weather very cloudy ; wind south temperature 30.9 humidity 59.0 barometer 29.561. This is a large room with galleries, formerly used as a church seating capacity 350; persons present 250; area 65,920 cubic feet area per capita 263 feet temperature at the desk 64 F.; carbonic acid in parts of 1,000 of air 0.806 at the first test; at a second test I found 0.537; time of test 3.30 p.m. This room is heated by a Smead-Dowd furnace. Fresh air is propelled through the furnace by a 48-inch fan, which is driven by an electric motor. Thc fresh air enters by eight inlets high up on the walls, and is extracted at the level of the floor, brought to a gathering chamber, and expelled by a 48-inch extraction fan. The extracting fan was said to bc making about 200 revolutions per minute when I obtained 0.806 carbonic acid. It was said to be making 400 revolutions per minute when I obtained 0.537 carbonic acid. January 26th, 10.45 a.m., I tested the ventilation of the Sherbourne street Sunday-school, only two persons being present. Temperature at desk 70 F.; difference in temperature in different parts of the room at the breathing line 4 F.; temperature of air at inlet 100" F.; temperature of air at outlet 66 F.; area of combined fresh air inlets 8.50 square feet; revolutions of propelling fan 160 per minute; revolutions of extracting fan 160 per minute; air propelled through inlets per minute average 520 linear feet. This multiplied by the area of the inlets, 8.50 square feet, equals 4,420 cubic feet per minute, or 17.68 cubic feet per head per minute for 250 persons. Air removed at outlets, 530 linear feet per minute, equaling 270,-
+

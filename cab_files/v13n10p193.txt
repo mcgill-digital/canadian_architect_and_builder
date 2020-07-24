@@ -1,0 +1,188 @@
+<doctype type="text;plate">THE CANADIAN ARCHITECT AND BUILDER	'93
+
+were produced by this process as usually carried out with currents of hot air.
+
+We will now deal in succession with the different kinds of tests made to determine the mechanical properties of timber, giving a few typical results in each case.
+
+
+
+TENSION EXPERIMENTS.
+
+
+
+Tension experiments are very difficult to carry out owing to the fact that the specimens so frequently give way by shear, drawing out the part held in the shackles.
+
+
+
+The form of specimen usually adopted is shown in fig. 3, with the dimensions.
+
+The results of different experiments vary very much, partly from the above cause, and partly because the specimens being of necessity small, the great influences of original differences in quality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are more important. The tenacity, however, appears to be relatively very great, especially when one considers the porous nature of timber.
+
+Professor Lanza, who failed to get satisfactory results with his big tension tests, says, " tie bars in construction will always give way in some other manner than by direct tearing, for instance, by tearing out the fastenings by shearing and splitting the timber.
+
+Again, in the long series of tests of American timber made by Professor Johnson for thc United States Government they decided to abandon tension experiments because "it was thought timber would never fail in pure tension in practice.
+
+
+
+Bauschinger found that the elastic limit in tension practically coincided with the breaking point while, apparently, the influence of time of telling soon disappeared. The figures given below are taken from Bauschinger's first paper, and show the great difference of strength in tension between the living sap wood and the dead heart wood. The figures are the mean of eight tests for the sap wood and four tests for the heart wood in each case, and they show also the influence of time of felling, which, however, as stated before, appears to disappear after a long seasoning
+
+
+
+COMPARISON OF STRENGTH OF HEART WOOD AND SAP WOOD IN
+
+
+
+TENSION, AND OF SUMMER AND WINTER FELLING.
+
+
+
+Tenacity in lbs. per sq. inch.
+
+	Summer felled.	Winter felled.
+
+Sap Wood. Heart Wood. Sap Wood. Heart Wood.
+
+Red Pine	14,940	3,270	10,660	4,120
+
+Spruce..	13,790	4,413	17,620	4,905
+
+
+
+COMPRESSION.
+
+
+
+Fortunately it is much easier to carry Out crushing tests, easier to make our specimens, and easier to get concordant results. Enormous numbers of tests have been made at various times but I will only deal with the more modern ones, in which the condition of the timber as to moisture, &c.—to which I have already drawn attention—has been noted.
+
+Bauschinger concluded that when the average quality of a timber was under determination—as, for example, when investigating the effect of time of felling-—then pressure tests were the best. He advises cutting a disc from each end and from the centre of the log, then dividing each of these into four sections, and from each of these cutting a square prism of length about one and a half times its side. These should be crushed, if possible, at a standard dryness of 15 per cent., and their density determined by weighing and measuring.
+
+
+
+Bauschinger found for pine woods that the strengths of short columns when plotted to a base of densities gives a straight line that is the crushing strength is a function of the density.
+
+
+
+The figures below are Bauschinger's results for the crushing
+
+strength per square inch reduced to 10 per cent. dryness for the same quality of timber as the tension figures just given:— SUMMER FELLED.
+
+	Red Pine	5,310 lbs. per square inch.
+
+	Spruce	4,770
+
+	WINTER FELLED.
+
+
+
+Red Pine ......7, 167 lbs. per square inch.
+
+	Spruce	5,600
+
+
+
+In Lanza's tests a large number of poats 7 in- and 10 in. diameter, mostly 12 feet long, were crushed; all gave way by pure compression. A summary of the results obtained are given below
+
+	Max.	Min.	Mean.
+
+Yellow Pine	4,720 3,920 4,370 lbs. sq. in. Old and seasoned white oak 5,197 3,965 4,480
+
+Another big series was made on the Watertown machine in the United States of America on struts of considerable length. These show markedly the same condition of affairs as with long struts or iron and steel—namely, an enormous reduction of strength with increase of ratio of least diameter to length. These Watertown tests were apparently on green timbers, but the data is not known.
+
+In several cases three pieces were bolted and keyed together to act as one, but in no case did they show a greater strength per square inch (they were all 15 ft. long) than single pieces, though they ought, according to the ordinary formula for the strength of columns, as they had their least dimension increased—-in fact, they buckled out in the same plane as the single one.
+
+Fig. 4 shows the relation of crushing strength to length of column, or rather to ratio — for yellow pine.
+
+d
+
+
+
+Johnson in his compression tests, cut off pieces 8 in. long from 4-in square sticks, the ends of the long sticks which had been tested as beams. He noted that after the shearing in of one end, which is the way the timber strut usually gives way, its strength is only 80 per cent. of the original strength. He also concludes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+from his experiments that this is the easiest and most valuable of all tests. He advises a factor of safety of 8 for dry, and for green timber when used in compression.
+
+All the crushing I have been discussing so far is that applied end-wise and with the grain. Now, it frequently happens in practice that a piece of vertical timber stands upon a horizontal piece, thus transmitting a load to it becomes, therefore, very important to determine the crushing strength across the grain. Not many experiments have been made. Tredgold found that 1,000 lbs., was sufficient to indent Memel fir distinctly, and 1,400 lbs. English oak.
+
+It is, of course, rather a matter of judgment to decide what is the crushing load, i. e., what indentation we must take as the limit; some authorities give in. Johnson takes 3 per cent. compression as a working limit, or 3/8 in. in a foot-thick bar, and 15 per cent. as destructive 1 3/4 in. in a 12-in-thick bar. He experimented with specimens 2 in. and 4 in. thick, and found a value in the case of pines on an average of 1,400 lbs. per square inch as against 7,000 lb. with the grain, or only 1/5 With American oaks the figures were respectively 2,300 lbs. per square inch, and 7,500 lbs. per square inch, or about 1/3
+
+These figures prove the extreme importance of paying attention to this point in designing any structure or temporary timber erection.
+

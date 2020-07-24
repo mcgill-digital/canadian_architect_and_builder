@@ -1,0 +1,98 @@
+<doctype type="text;ad">
+
+	CANADIAN	ARCHITECT AND BUILDER
+
+AN IMMENSE TOWER.
+
+FROM a paper recently presented before the Engineers' Club of Philadelphia, by Mr. Francis Schumann, M.A. Soc. C.E., we learn that the tower of the Philadelphia city hall rises to a total height of 548 ft. 1 1/8 ins, above the ground level. The underlying soil is a reddish clay, mixed with sharp pebbles, very stiff and hard to pick and difficult to soften with water. For 337 ft. 4½ins. this tower is of brick, faced with marble, and forms a hollow shaft averaging 70 ft. square on the outside, and  ft. square inside. Upon this masonry shaft rests the metal dome with a height of 210 ft. 9 3/8 ins., to the top of the statue of William Penn, surmounting the tower. The estimated weight of the whole tower, measured from the top of the concrete foundation, 15 ft. below the ground line, is 62,768 tons; the 8½ ft. bed of concrete covers an area of 7, 1 50 sq. ft., and weighs about 4,000 tons more. To a height of 90 ft. the masonry is attached to and forms a part of the north wing of the main building.
+
+
+
+ANCIENT SPECIMEN OF WROUGHT IRON.
+
+WHAT is believed to be the oldest piece of wrought iron in the world is a roughly-fashioned sickle blade found by Belzoni in Karnak, near Thebes, and now in the British Museum. Having been found imbedded in mortar under the base of the Sphinx, it is known as
+
+the sickle of the Sphinx." It is believed to be four thousand years old. The preservative properties of mortar surrounding iron are being constantly realized by those who are pulling down old buildings.
+
+SIGNS AND ABBREVIATIONS FOR HEATING AN]) VENTILATING WORK.
+
+MR. J. L. Bixby, jr., of Arlington Heights, Mass., has prepared a table of signs and abbreviations for use on heating and ventilating plans for his men. It is certainly most ingenious, says Heating and Ventilation, and we publish it herewith in the view that it may be of value to our readers.
+
+
+
+/	Feet.
+
+//	Inches.
+
+ Square inches.  Square feet.
+
+ Area.
+
+	A"	Area in square inches.
+
+	A	Area in square feet.
+
+	&	Cubic feet.
+
+ Cubic feet per second.
+
+ Cubic feet per minute.
+
+ Cubic feet per hour.
+
+	V	Velocity in feet.
+
+	V	Velocity in feet per second.
+
+	Vm	Velocity in feet per minute.
+
+	£	Pounds.
+
+ Pounds per square foot.
+
+ Pounds per cubic foot.
+
+	U	Units of heat.
+
+	Um	Units of heat per minute.
+
+Uh	Units of heat per hour. Degrees.
+
+ Number of times air is changed per hour.
+
+	H	Horse power.
+
+ Square feet of heating surface.
+
+ Square feet of indirect heating surface.
+
+ Square feet of direct heating surface.
+
+ Square feet of direct indirect heating surface.
+
+ Foul air current.
+
+Fresh air current.
+
+	W	Wet bulb.
+
+ Dry bulb.
+
+ Difference wet bulb and dry bulb.
+
+7	Temperature outside.
+
+	T	Temperature inside.
+
+	T	Temperature steam.
+
+ Temperature hot air.
+
+ Center.
+
+0	Fresh or hot air radiator.
+
+ Foilura regulator.
+
+ Ounces per square foot.
+

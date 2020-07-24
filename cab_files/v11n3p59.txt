@@ -1,0 +1,135 @@
+<doctype type="text">
+
+<article title=" Tests of cast-iron columns by the department of buildings of New York City." author="">
+
+Column 6.—The test was discontinued when a load of 2,033,000 Lbs. had been reached, the capacity of the machine having been reached. The permanent set of the column after it was removed from the testing machine was 13-16 in. in a length of 8 ft. 5ins. The concave side, after the test, was about 90º from the joints of the flack, and undoubtedly was the top of the column as cast in the mold.
+
+Column XVI.—One fracture occurred at a point where the chaplet for holding down the core was imbedded into the metal of the column. The metal outside of the chaplet was in. thick, and the chaplet 3-16 in. metal. The cast metal did not adhere to the chaplet.
+
+The column broke into 6 pieces (at middle and at each end). The fracture at the middle was nearly square off, and very near the exact middle point between the two ends. The fractures were about one foot from each end and irregular in outline.
+
+The metal was good, of medium grain. Wires were attached to the shaft of the column, 6 ft. 6 ins, from bottom, and ran perpendicular to the axis of the column, one horizontally and one vertically. These were carried to the outside of the building in which the tests were being made, and the actual vertical and horizontal deflections of the column were observed in conjunction with the corresponding loads.
+
+There was no evidence of shear at the fractured surfaces, as in the case of the larger columns. Failure seemed to result primarily from flexure.
+
+Column XVII.—The column broke into 8 pieces, the fractured points being at the middle and near each end.
+
+Quality of metal at fractured surfaces was fine grain, uniform and free from flaws.
+
+Column 7 (Fig. 7) was broken into four pieces, the fractures being 3 ins. to one side of the middle of the column and near each end. The quality of the metal was good, even medium grain, with no flaws.
+
+Column 8.—The quality of metal was fine grain, uniform and free from flaws. The column broke into four pieces, fractures being at middle and near ends; broke off nearly square at each point; no signs of shear in metal.
+
+Two of the 15 in. columns tested, Nos. B 2 and B 4, were taken from the Ireland building, which, it will be remembered, collapsed Aug. 8,1895 (Eng. News News Aug. 15, 22, 29, Sept. 5, Oct. 3, 1895). The four remaining 15 in. columns were made from drawings prepared by the Department of Buildings of New York city (Fig. 3), and were as nearly as possible duplicates of the Ireland columns.
+
+The columns marked I and 11 were made by the Jackson Iron Works, 27th St. and East River, New York city, of their ordinary run of metal. They were cast while other columns were being cast, with no knowledge of their ultimate use. The two marked  and 6 were made by the Healy Iron Works, Brooklyn, N. V., who were informed of what the columns were wanted for. The drawings for the 6 in. and 8 in. columns (Fig. 4) were also made by the Department.
+
+All the columns broken were, we understand, fair samples of the average cast-iron column used in buildings in New York city, and regularly passed by the Building Department as coming within the provisions of the law.
+
+The Building Law of the city of New York says:
+
+The strength of all columns and posts shall be computed at Mechanics' and Engineers' Pocket Book, Chas. H. Haswelt, 1897, p 768.
+
+cording to Gordon's formulae, and the crushing weights in pounds, to the square inch in section, for the following materials, shall be taken as the coefficient in said formulae, namely: Cast iron, 80,000. . . . The factors of safety shall be as one to four for all posts, columns and other vertical supports when of wrought iron or rolled steel, and as one to five for other materials, subject to a compressive strain.
+
+
+
+Applying Gordon's formula* with the coefficient 80,000, as above required, in the numerator, and 400 (which is not given in the law, but is given in Haswell's Pocket Book, to which reference Is made) in the denominator, we have
+
+
+
+S
+
+1+
+
+400 d²
+
+
+
+in which S is the breaking load, A=sectional area in sq. ins. I— length and d-= diameter of the column in inches.
+
+For the 15 in. columns we have l= 190 ins., d= 15 ins., S= 57,143 A. For the 8 in. columns l=160 ins. d—8 ins_ 5=
+
+40,000 A. For the 6 in. columns, 1=120 ins. d—6 ins_ 5=
+
+40,000 A. That is, by the New York law, the 15 in. columns would be calculated to have a breaking strength of 57,143 lbs. per sq. in., while the actual tests show that their strength was only from 24,900 lbs. to something over 40,400 lbs. per sq. in. The 6 and 8 in. columns would be calculated to have a breaking strength of 40,000 lbs. per sq. in. while their actual breaking strength was only from 22,700 to 31,900 lbs. If such columns as these are loaded in buildings with the loads which the law allows, the factor of safety, instead of being 5, as required in the law, is actually in some cases little more than 2. This is also borne out by the results obtained during similar tests conducted about a year ago by the Department of Buildings with full sized cast iron columns. Tile dimensions and results of these tests are given in Table IV. The values given in the column headed breaking load" are in round numbers, hence the breaking loads per sq. in. of area are correct to the hundreds as given.
+
+
+
+
+
+Following his usual practice, Mr. Alex. Bremner, of Montreal, has issued a useful calendar for the current year.
+
+Attention is called in the advertisement in this number of the James Smart Manufacturing Co., of Brockville, to the merits of tile Kelsey corrugated warm air generator. This heat generator is said to be in satisfactory operation in every province of. the Dominion.
+
+A very neat catalogue has just been issued by the Luxfer Prism Co., of Toronto, explanatory of their prismatic glass and the methods of using it. It contains views of many prominent buildings throughout Canada in which prismatic glass is employed, and many excellent testimonials from the owners as to its value as a light diffusing agent. The tact has recently been discovered that prismatic glass possesses the additional and valuable quality of resisting the action of fire. Satisfactory evidence of this fact was given at a test conducted at Chicago recently in the presence of tile Chief of the Fire Brigade and Underwriters of that city. After being heated to a very high temperature the glass was sprayed with cold water. The result was found to be that while the glass was cracked in all directions, it could not be dislodged from the metal framework. The company purpose making a similar test in Toronto at an early date.
+
+
+
+IN A CLASS BY ITSELF
+
+THE
+
+
+
+
+
+KELSEY"
+
+Corrugated Warm Air Generator
+
+—OR
+
+
+
+WATERLESS BOILER
+
+(PATENTED)
+
+
+
+
+
+
+
+Special Features:
+
+MORE HEAT WITH LESS FUEL.
+
+BETTER QUALITY OF AIR.
+
+WARMS ROOMS ON A LEVEL WITH ITSELF.
+
+WARMS ROOMS AT LONG DISTANCES.
+
+DOES NOT RUIN YOUR FURNITURE.
+
+ABSOLUTELY GAS AND DUST-PROOF.
+
+HAS THREE TIMES AS MUCH HEATING SURFACE,
+
+HAS MORE THAN TWICE THE AIR CAPACITY OF ANY OTHER HEATER.
+
+DOES NOT HEAT THE CELLAR.
+
+FIRE-POT DOES NOT CRACK OR BURN OUT.
+
+WEIGHS TWICE AS MUCH AS ANY OTHER.
+
+CHEAPEST IN THE END.
+
+IN	FACT, OVERCOMES ALL KNOWN DEFECTS OR OBJECTIONS TO OTHER HEATERS.
+
+Write for Descriptive Circulars and Letters of Commendation from Users.
+
+
+
+
+
+
+
+The James Smart Mfg. Go.
+
+BROCKVILLE, Limited. ONTARIO
+
+____________Exclusive Makers FOR CANADA— —______

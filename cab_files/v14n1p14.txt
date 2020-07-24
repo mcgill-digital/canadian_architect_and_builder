@@ -1,0 +1,134 @@
+<doctype type="text">14	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+(c)	The tests of Messrs. Walker and Cross, published in the Journal of the Association of Engineering Societies for December 1897 A cleat was nailed to a block, and the force required to slide the cleat on the box was measured. Wire nails were used in Norway and white pine. The results of the tests point to the following facts: The strength of a joint is directly proportional to the number of nails used; if the diameter of the nail is kept at the same value and the length of the nail gradually increased, then the load at first slipping is not affected, but the maximum load increases in the direct proportion to the length of nail; the strength per nail at first slip is expressed fairly well by the expression c ,where d = diameter of nail in inches, and c is a coefficient which is about 5500 for white or Norway pine and 13,500 for oak. These tests were made with nails from 6d to 8d. It is to be noted that the values obtained in these tests are low, compared with results described below.
+
+(d)	Trautwine states that boards of oak or pine nailed together by from to 16 ten penny common cut nails, and then pulled apart in a direction lengthwise of the boards across the nails, tending to break the latter in two by a shearing action, required about 300 to 400 pounds per nail to separate them as a result of many trials.
+
+It is to be noted that the results of experiments on nails driven in timber and subjected to a cross load must be expected to be very irregular. The strength of the combination of wood and iron is a complex function, and will vary more widely than the quality of the timber, which itself is not all uniform. One does not expect the degree of uniformity to be had in tests of a material like steel. Special value should be deduced for each kind of timber. The strength of nails in rough scaffolding and grand stands will be largely different from the values determined in laboratory tests, which are conducted with specially chosen material, and under carefully applied loads in order that the effect of a change in some one factor may not be in asked by a change in other factors. The laboratory results themselves under the best chosen conditions are somewhat irregular. The average values, however, indicate fairly well the laws of action. On the whole, then, the laws cited in the above summary are fairly well established.
+
+TESTS AT PURDUE UNIVERSITY.
+
+<article title=" TESTS AT PURDUE UNIVERSITY " author="">
+
+The present paper describes a series of tests on nailed joints in shear made as a thesis investigation during the winter of 1898 by Messrs. H. D. Barrow and D. W. Buchanan, senior students in Mechanical Engineering of the class of '98, working under the direction of the writer. The outline of the tests was arranged and the work under way before the results of the investigation of Messrs. Walker and Cross were available. The outline as originally conceived was however, carried out although it involved some repetition of the work of these gentlemen.
+
+SCOPE OF THE TESTS.—In all, about 250 joints were tested, slip and accompanying load being observed at about 12 different points for each joint. The work included:
+
+(1)	The preparation of tables showing the maximum resistance per nail and per pound of nail for both cut and wire nail up to 6od in oak and pine, using a thickness of cleat in the different tests to correspond with the use of practice.
+
+
+
+Shown also in tests at Purdue University.
+
+In series (a) of following investigation nine tests were made, under uniform conditions with a range from 590 pounds to 513 pounds, which is a less range than one might expect.
+
+(2)	To determine the effect on the resistance of the joint of the following factors:
+
+(a)	Number of nails in joint.
+
+(b)	Diameter of nail constant, length varying.
+
+(c)	Length of nail constant; diameter varying.
+
+(d)	Angle with surface at which nail is driven.
+
+(e)	Relative direction of applied load and fiber of
+
+timber.
+
+(f)	Relative hardness of block and cleat.
+
+(g)	Moisture in timber.
+
+(h)	Barbs on nails.
+
+METHOD OF TESTING.—Cleats six inches square of proper thickness were nailed to blocks, so that the top horizontal) edge of the cleat projected about one inch above the top edge of the block, as shown in Fig. 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sides of the block projected 1/4 inch and 1 34 inches, respectively, beyond the sides of the cleat. these joints were all nailed together by one man under uniform conditions, care being taken to square each joint. The nails were driven to the head and perpendicular to the surface, except when noted to the contrary. A series of preliminary tests (see series a) and the results of Messrs. Walker and Cross showed that the strength of the joint varied directly as to the number of nails i. e_ four nails were four times as strong as one nail. The number of nails used in making the joint varied from to 4 thus
+
+For 8d and under 4 nails were used.
+
+For 10d and 12d, 2 nails were used.
+
+For 8d fence, 12d fence, 16and over, 1 nail was used.
+
+The number was fixed by the liability to split the wood in driving.
+
+The thickness of cleat used were intended to represent such sizes as would be used in practice with the size of nail under test. In general, three thickness of cleats were used for each size of nail.
+
+
+
+TABLE.
+
+	STRENGTH PER Pound	NAILS	POUNDS.
+
+	PINE.	OAK
+
+	PENNYWEIGHT.	WIRE.	CUT.	WIRE	CUT.
+
+	Common 2d....	93,900	115,000
+
+		63,400	94,000	102,000
+
+	66,500	54,600	71,000	88,000
+
+	6d. 	43,200	39,300	56,500	53,200
+
+	8d	34,700	34,200	45,400	45,800
+
+		48,500	49,400	51,000	43,600
+
+	16d	39,300	35,600	41,000	33,200
+
+	20d	27,900	21,700	40,500	31,800
+
+	40d	24,700	16,320	29,700	22,500
+
+		21,000	14,880	18,600
+
+	Finish 4d	64,400	70,600	113,000	103,000
+
+	6d	55,300	48,500	76,600	63,400
+
+	8d	41,200	39,500	56,000	567,000
+
+	10d	55,800	46,000	60,600
+
+	12d	41,800		53,500
+
+	Fence 8d	46,200	30,200	47,300	34,300
+
+	10d	38,500	26,000	46,400	31,100
+
+	Fine 3d	88,800		121,000
+
+
+
+The values in this table are obtained by multiplying the strength of one nail by the number of nails in one pound. It will be seen that the smaller nails hold more per pound than the larger nails, and that when driven into pine, the wire nails hold more per pound than cut
+

@@ -1,0 +1,78 @@
+<doctype type="text">CANADIAN ARCHITECT AND BUILDER
+
+
+
+ADHESION OF CONCRETE TO STEEL—The adhesion of concrete to steel shall be assumed to be not greater than the shearing strength of the concrete.
+
+MODULI OF ELASTICITY. -- The ratio of the moduli of elasticity of concrete and steel shall be taken as 1 to
+
+
+
+12.
+
+
+
+BENDING MOMENTS.— The following assumption shall guide in the determination of the bending moments due to the external forces: Lintels, beams and girders shall be considered as simply supported at the ends, no allowance being made for continuous construction over supports, and the bending moment for a uniformly distributed load on such a member shall be taken at
+
+WL
+
+at not less than , where W is the uniformly dis8
+
+tributed load in pounds and L is the span in inches.
+
+Floor plates, when construced continuous, and when provided with reinforcement at top of plate over the supports, may be treated as continuous beams, and the bending moment for a uniformly distributed load
+
+WL 
+
+taken at not less than —. But in the case of square
+
+10
+
+floor plates which are reinforced in both directions and supported on all sides the bending moment may be
+
+WL
+
+taken at
+
+20
+
+
+
+The floor plate to the extent of not more than five times the width of any beam or girder may be taken as part of that beam or girder in computing its moment of resistance.
+
+MOMENT OF RESISTANCE. -- The moment of resistance of any reinforced concrete construction under transverse loads shall bc determined by formulas based on the following assumptions
+
+(a)	The bond between the concrete and steel is sufficient to make the two materials act together as a homogeneous solid.
+
+(b)	The strain in any fiber is directly proportionate to the distance of that fiber from the neutral axis.
+
+(c)	The modulus of elasticity of the concrete remains constant within the limits of the working stresses fixed in this by-law.
+
+(d)	The tensile strength of the concrete shall not be considered.
+
+SHEARING STRESS AND ADHESION. -- When the shearing- stresses, developed in any part of a reinforced concrete construction, exceed the safe working strength of concrete as fixed in this by-law, a sufficient amount of steel shall be introduced in such a position that the deficiency in the resistance to shear is overcome.
+
+When the safe limit of adhesion between the concrete and steel is exceeded, provision must be made for transmitting the strength of the steel to the concrete to at least such an extent as will bring the adhesion to within the safe limit fixed in this by-law.
+
+REINFORCED CONCRETE COLUMNS. -- Reinforced concrete may be used for columns when the ratio of length to least side of diameter does not exceed twelve. The reinforcing rods shall be rigidly tied or latticed together at intervals of not more than the least side or diameter of the column.
+
+In all cases where reinforced concrete columns rest upon girders, walls or foundations or other piers either wrought or cast iron or steel bearing plates or bases must be provided. The plates or bases to be of
+
+sufficient size to distribute the load which the column supports to such an extent that the compressive stress per square inch on the girder, wall or foundation or other pier will not be in excess of that allowed in this by-law for masonry, brick-work or the different kinds of concrete, or if the girder, wall or foundation or other pier is constructed of material the strength of which is not specially referred to in this by-law, the plates of bases must be of a sufficient size to distribute the load to such an extent that the safe compressive stress per square inch allowed by standard engineering authorities on such material will not be exceeded. The plates or bases must also be either of sufficient thickness or be braced or webbed so as to resist within the limit of stress allowed in this by-law; the betiding and shearing stresses to which they will be subjected by the columns and the ends of all reinforcing rods must be milled or sawed off normal to the perpendicular axis and each must have a full and perfect bearing on the plate or base.
+
+TESTS. To BE MADE BY CONTRACTOR ON DEMAND.— The contractor shall be prepared to make and shall make load tests on any portion of a reinforced concrete construction within a reasonable time after erection, as often as may be required by the inspector of buildings. Such tests shall show that the construction will sustain a load of three times that for which it is designed without any sign of failure.
+
+No concrete work shall be done in freezing weather except where the influence of frost can be and is entirely excluded.
+
+HOLLOW CONCRETE OR CEMENT BLOCKS.— The exterior walls of buildings not exceeding thirty-five (35) feet in height to the highest point of the roof, from the finished ground line adjoining the walls or surface of sidewalk, if built on the street line, may be constructed from the ground floor joist up with hollow concrete or cement blocks, provided the blocks meet the requirements hereinafter specified, and that the walls are made of the same thickness as hereinbefore called for in the tables for brick walls.
+
+The blocks upon which joist rest are to be solid, and if special blocks are not used and blocks have to be cut to allow joists to enter the walls, the spaces in the blocks between the joists to be filled in solid with concrete of a similar description to that of which the blocks are made and all portions of the wall, also piers or buttresses which support beams or girders causing concentrated loads shall be solid blocks and of sufficient strength to sustain within the limit hereinafter specified the full load for which support is intended.
+
+The hollow space in a block shall not exceed one third (1/3) of the superficial area and no block shall be used which will at the age of twenty-eight (28) days crush at less than one thousand (1,000) pounds per square inch of solid area, and no block in a wall, pier or buttress shall be subjected to a greater stress than one hundred and fifty (150) pounds to the square inch of available effective section.
+
+No concrete or cement blocks shall be used in the construction of any building until they shall have attained the age of at least three (3) weeks, and all blocks shall be made from Portland cement of a similar quality in all respects to that hereinbefore specified for under the title of "Reinforced Concrete Construction."
+
+The manufacturer or user of any such blocks, shall before commencing the erection of a structure with them submit a sample to the inspector of buildings for approval, and at their own expense and under the supervision of the said inspector or his representative have, at any and all times, such tests made as may be required.
+
+No concrete or cement blocks shall be used in the construction of any structure until they shall have been approved of and accepted by the inspector of buildings.
+

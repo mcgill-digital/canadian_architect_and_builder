@@ -1,0 +1,24 @@
+<doctype type="text">
+
+<article title=" EXPERIMENTS ON THE STRENGTH OF GLASS." author="Grenet, M.">
+
+EXPERIMENTS ON THE STRENGTH OF
+
+GLASS.
+
+THE extensive use of glass in construction renders definite information about its resistance under various conditions of stress desirable, but with the exception of the ultimate strength under direct compression, but little has been known about the subject until recently, says the Engineering Magazine.
+
+A series of experiments upon the resistance of glass to tension and to flexure has recently been made by M. Grenet under the auspices of the Societe d'Encouragement pour 1'Industrie Nationale, the details and results being published in the Bulletin of the society. The glass tested was of two varieties, manufactured by the well-known works at Saint-Gobain, one being the grade known as No. 4, and the other the so-called "cathedral glass," and there being but little difference between the two shown by chemical analysis.
+
+In the flexure tests the specimen was placed as a beam, supported on knife edges and with the load applied in the middle, the weight being a bucket suspended from a cross bar and arranged so that water dropped regularly into it from a separate vessel. The load could thus be applied at a uniform rate without the possibility of shock, and the rate of application kept under perfect control. By applying the usual formula for rectangular beams loaded in the centre, the tensile strength per unit of cross section was determined.
+
+The most interesting feature which was developed by these tests was the marked effect produced by variations in the rapidity with which the load was applied. It is well known that for nearly all materials a rapidly applied load will show an apparent resistance much greater than
+
+appears when the stress is applied more slowly, but in the case of these tests upon glass the effect is especially marked. Thus the tensile strength of a number of specimens averaged 6,000 to 7,000 pounds per square inch when the load was applied at a rate which caused the rupture to occur in 15 to 20 minutes, while when the duration of application was increased about three times, so that rupture occurred in about 45 minutes, the strength ranged between 5,000 and 6,000 pounds per square inch. When the water-dropping device was arranged for very slow loading, and the breaking load was attained in 10 to 12 hours, there was a marked diminution in strength, the resistance per square inch being only about 4,200 pounds.
+
+In order to show the reverse effect, some tests were made with loads applied very rapidly, and the effect was most marked, the mean of three trials giving an apparent strength of 10,000 pounds per square inch.
+
+A number of flexure tests were also made by M. Grenet upon glass rods, and these showed the same general results as regards the effect of rapidity of application of load. The actual strength of the rods, however, was higher than that of the plates, which was probably due to the difference in the method of manufacture. Thus, when the rupture was produced in about 15 minutes, the strength was nearly 11,000 pounds per square inch, while when the time was extended to 45 minutes the resistance fell to about 9,000 pounds, and for the 12-hour tests the breaking strength was but 5,700 pounds. In order to carry this feature of the tests to an extreme limit, M. Grenet suspended various weights to rods and allowed them to remain For a number of days. The result showed that for loads of 3,000 to 3,500 pounds per square inch no rupture occurred even after the expiration of three months, but when the loading was increased to about 4,000 pounds, rupture took place in one or two days.
+
+Metallic Roofing company limited Toronto wholesale manufacturer of all kinds of reliable fire-proofing materials
+

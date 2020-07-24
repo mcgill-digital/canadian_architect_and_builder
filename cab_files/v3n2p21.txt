@@ -1,0 +1,86 @@
+21
+
+<doctype type="text">February, 1890
+
+THE CANADIAN	 ARCHITECT AND BUILDER
+
+
+
+solid bearing underneath. When the reaching of a solid substratum is not feasible, the only method is, to so proportion the width of footings in the various places in relation to the compressibility of the various soils, that settlement may be uniform. When, however, part of the foundation is on solid rock and the other part on compressible soil, the difficulty is very hard to be overcome. Under such circumstances, if the character of the building will admit of it, the superstructure should be built with a straight independent joint over the point of junction between the rock and soft soil, so that any settlement of the latter may occur without disturbing the rest of the building, In the case of continuous cornices, base courses, etc., allowance can be made in building for the probable settlement. Frequently, however, the style of the building will not admit of this division showing above ground; then recourse will have to be made to two or three expedients:
+
+By building the foundation walls up to ground line with ordinary mortar, where over rock, and with cement, where over soft soil, the sinkage of the mortar joints may in some measure counterbalance the sinking of the other part of foundation when the superstructure is imposed. Advantage to a limited extent only can be taken of the flexibility of the walls, by adopting something like the following methods. Form a continuous and solid concrete bed over the soft portion and allow the end of it to rest on the rock. This bed may be stiffened by the use of iron beams bedded in the concrete, The end furthest from the rock must extend considerably beyond the end of wall above, and the foundation be built with a good batter or wide offset, so as to give an extended bearing at that end. In building on such a bed, great care and judgment must be used in raising the work slightly higher at the free end than at the solid rock end, also giving the vertical corner a slight batter inwards, so that when all has settled to its place, the horizontal courses may be found level, and the end perfectly plumb. It is. however, over the point of junction of the rock and concrete foundation, that a crack may be apprehended, and to avoid this, strong wrought iron ties should be built in at short intervals all the way up walls
+
+Having briefly enumerated the principal kinds and characters of foundation beds, the next point that claims attention is to properly determine their size and relation to the weights to be carried Here one point needs special emphasis. VIZ the centre of the bearing of the foundation bed or footing should be as nearly as possible perpendicular to the centre of the weight carried. If to any extent this be disregarded, and there be any compressibility of the foundation bed, the footings will sink most at the side heaviest loaded, and the superstructure be thrown out of plumb. With buildings in which the walls are of uniform height, and more especially without large openings near the bottom. a uniform continuous wall is evidently the best form of foundation. It distributes the load uniformly over a large area. Where there are piers or large openings near the lower portion of building, it is manifest that a continuous foundation wall would be very unscientific, for where the piers rest, there would be a heavy load, and where the openings are there would be a light one. In such cases, it is best to adopt the principle commonly known as the insolated pier method of foundations, each part of the building being considered separately and the weight of each section or pier estimated in relation to the footings to support it, so that there may be a uniform pressure over the whole of the foundation beds.
+
+In the majority of buildings there are also the important questions of the different heights of walls, the fact that some carry floors and others do not, and that many walls have a much greater weight resting on some portions than on others. And here it is well to advert to the use and abuse of inverted arches as a means of distributing uniformly the weight of foundations. In scientific hands, and after full and accurate calculation of the thrusts, they are a very serviceable device, but with unskillful treatment and without consideration of all the facts, they become a source of unexpected trouble and great loss.
+
+An important part, sometimes overlooked, is the consideration of the thrust upon the end piers or abutments and the making of them sufficiently strong to resist all lateral movement. 2nd. It is also Important to determine that the thrust is uniformly distributed from the piers in direct ratio to the weight which each pier is to carry Otherwise one pier with great weight will outthrust one with less weight, the inverted arch be disturbed. and a settlement inevitably occur. 3rd. See that the form of the inverted arch is such that the least lateral thrust is entailed. Usually when the piers are about the same weight, a half elliptic curve with diameters of two to three is best. 4th. See that the arch is solidly built, with every joint fully flushed up and each voussoir receiving its proper share of pressure. A good method is to form a cement centering on the foundation bed, and build the arch upon it.
+
+While my purpose is not to treat of foundation stones or walls, I might conclude by referring briefly to the subject of footings. 1st. As to form, certainly they should a1ways have flat beds and tops, and the Stones laid on their natural beds. It is desirable that they extend clear across the wall but where this is not possible, the jointing should approximate being in the centre. Under no circumstances should the lateral joint of a footing course be near the edge of the wall. The proportion of projection to the height of a footing will vary according to the transverse strength of the material used. With concrete and all artificial stones, the projection should not exceed half the height. With good quality dimension stores, the projection may equal the height. 2nd. As to material, footings should be composed of some material that can stand great pressure and is not adversely affected by alternations of wet and dry. Granite, gneiss and slate stand in the front rank; limestones and marbles are also very good; but some limestones do not stand a great pressure. and their transverse strength is sometimes not very great. Sandstones are of such varying strength, that each sample must be considered on Its own merits. Friable sandstones are of little value for such constructional work. Extra hard burned brick may be used where there is not much exposure to alternations of wet and dry. Brick footings should always be laid in cement, and the projection of each course should not be more than one inch, except under light walls.
+
+Finally, to sum up the whole matter, in order that suitable foundations may be provided to our buildings, it is necessary that we carefully consider the weight and form of the superstructure; the character and bearing power of the foundation bed, the form, size and position of the footings, and the character of the materials used.
+
+If In any way this paper shall have directed your attention to a further and deeper study of these important matters, the purpose of its presentation will have been accomplished.
+
+DISCUSSION.
+
+<person>Mr. Bousfield</person>, in moving a vote of thanks, referred to some interesting discoveries which had been made in excavations in Nottingham.
+
+Mr. Gregg seconded the motion, and asked if it was not better when using small stone, not to make the joint run through the centre of the wall, but to lay them alternately so that the joint would surry, so to speak. He
+
+thought the best plan was to have the stone go two-thirds through the wall and repeat In the opposite direction. This would make a better wall than one with a regular joint down the centre.
+
+Mr. Gordon said it was an important thing to make allowance for the weights on the piers. When the building was occupied, frequently there would be a great difference.
+
+The Chairman said that in his judgment it was undesirable that there should be a centre joint in the walls.
+
+
+
+
+
+<article title="Correspondence  - Quebec" author="">QUEBEC
+
+(Correspondence of the CANADIAN ARCHITECT AND BUILDER.)
+
+
+
+THE municipality of St. Sauveur, the scene of the great fire in May last, has now become part and parcel of the city. It has been divided into
+
+two wards, each returning one alderman and two councilors to the city council. Electric light poles have been planted through the new wards, and in a short time our new fellow-citizens will be able to congratulate them-selves, with the rest of the Quebecers, on living in the best lighted city in America. A police station and a very fine fire station have been established, and in the early spring, water mains and drainage will be laid through the principal streets of the new wards. a boon alike to them and to the city proper, which has ever been threatened by the fearfully unsanitary state of St. Sauveur under Its late government.
+
+Two additional buildings to those named in my November correspondence have been put up on the newly-widened St. John Street, one belonging to the heirs De Blois, and the other to Mr. <person>P. Cote</person>. The former is built of fine cut stone, with trimmings of cast iron , first storey contains two stores with plate glass fronts. with dwellings above. <person>Messrs. Lortie </person>are the con-tractors ; <person>Mr. Peachey</person>, architect. It will cost about $10,000. <person>Mr. Cote</person>'s is a very plan structure of red and white brick and will probably cost about
+
+$4,000.
+
+Some new contracts have been let, while most of our architects are at work on plans for buildings to be constructed in spring. Work will be abundant next summer, and high wages will in all likelihood have to be paid.
+
+Our city council, with the wisdom peculiar to all city councils, has resolved upon a very large scheme—no less than the construction of a $200,000 city hall ! Architects are invited to send plans in competition, the prizes offered being respectively $1 ,500, $1 000 and $500 for the three best designs. Very voluminous instructions have been issued for the guidance of competing architects, the whole showing that <person>Mr. Baillairge</person>, our worthy City Engineer, has given a great deal of attention to the study of the detai1s of the proposed new building. The requirements are very distinctly set forth, and foreshadow an immense and costly edifice—one which it is feared will exceed the limit of cost named in the instructions, viz. , $200,000. The appropriation is not immoderate were it not that citizens, even with the thermometer at 10° or I5° below zero, and beautiful snow roads, remember the usually filthy state of our streets, and the fact that the corporation is always pleading " no funds." either for street cleaning, or (so far at least as last summer is concerned) for new sidewalks, our wooden ones blossoming forth in green grass, and our stone ones so out of shape and level as to set people wondering how far back In the past century they may date. It is to be noted that the advertisement distinctly says that the architect securing first prize will not necessarily be allowed to secure the larger plum—corn. mission for superintendence. Why, each one may guess for himself.
+
+
+
+<article title="Correspondence - Montreal" author="">MONTREAL. 
+
+
+
+(Correspondence of the CANADAN ARCHITECT AND BUILDER.)
+
+T
+
+HE season is yet early to forecast the prospects of building during the coming year, although the late mild weather has had the effect of reminding one that spring is near at hand, and building operations will soon be in full swing. No doubt the coming season will by force of circumstances be a rather busy one if not interfered with by strikes
+
+Notre Dame street, from McGill to Chaboillez Square, is to be widened to 6o feet, which will cause all the buildings on the south side, with the exception of the <building>Balmoral hotel</building>, to be taken down and rebuilt, besides several on the north side. Some few contracts have already been let for private residences, and others are now being tendered for.
+
+PLASTERERS ON STRIKE.
+
+
+
+The dispute between the master plasterers of the city and the journeymen plasterers, which has been pending for about two years, reached a climax yesterday morning when all the journeymen plasterers went on strike. The chief point of dispute is that of wages. Two years ago it was patched up by an agreement between the <assoc>Master Plasterers' Association </assoc>and the <assoc>Plasterers' Union</assoc>, that $2.50
+
+should be the rate of days wages, which continued up to May of this year. The plasterers are now demanding increased wages to take effect after the 1st of May, and they also complain that some bosses violated the agreement by receiving more than two apprentices. On Thursday last the master plasterers were notified that unless they agreed to pay their men $3.00 after the 1st of May next, the journeymen plasterers would go out on strike on Monday morning. A meeting was held on Saturday, and the men were asked to appoint a deputation to meet them.
+
+The men worked as usual on Monday, but on Tuesday morning struck.
+
+I learn that the master plasterers have taken legal advice, and although they announce themselves willing to meet the men, are considering the question of proceeding against them if they hold out. Of course the strike has come at a very busy season, and will inconvenience every body engaged in the building business who have contracts on hand to be finished in a specified time. Not only will it affect plasterers, but every other branch of the building trade.
+
+It is now high time that the Government took this matter of the Trades Unions in
+

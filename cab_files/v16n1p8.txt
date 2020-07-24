@@ -1,0 +1,78 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+is now being generally followed in the best buildings. While the interior columns do not need this treatment, it is well to till around them solidly at every floor, because if it does nothing else it will prevent rats and other vermin going from one floor to another. Floor loads The building ordinances of the different cities cover all cases so completely, that very little is to be said. New York and Chicago both demand 100 pounds per square toot for each floor of an office building, or one to accommodate public gatherings.
+
+
+
+WIND BRACING.
+
+
+
+A great deal has been written about wind bracing in high buildings, and a great many methods of taking care of wind pressure have been brought forward.
+
+Diagonal rods and portal bracing have been tried, but interfere too much with floor space, and the former especially can not be carried out and made a perfect system.
+
+In the <building>Fisher building Chicago </building>erected in 1894, the wind was taken care of on the table leg principle. Around the outside of the building at every floor the spandrel sections were made of plate girders 30 inches deep run between the columns and riveted to them. Each floor was supposed to transmit pressure to all the columns of the building in that story, and so on to the ground.
+
+TIME OF CONSTRUCTION.
+
+
+
+The views shown on preceding page of the Fisher building show the time in which a steel building can be erected.
+
+DISCUSSION.
+
+
+
+<person>Mr. Shankland</person>:	These curves show the settlement of the <building>Masonic Temple in Chicago </building>from 1891 till about two weeks ago, on December 15th. The figures on the left are the numbers of the columns at each corner of the building shown on this sheet. The building is twenty stories in height. You will notice the curves are quite easy for the first few months of construction. The zero was taken at the first construction. As the building becomes older the curves become very much sharper and the greatest portion of the settlement had taken place at the time the building was finished. The first shew the dates from 1895 to 1897; the settlement was almost exactly uniform. Then they put extra weight on corner No. 19; they ran the stack up higher; and you see, in the increased curves there, that the foundation was affected at once. The settlement was 10 5-16 inches, 127/8 inches, 141/2 inches, 119 -16 inches. The greatest settlement is 141/2 inches; the least of those four corners is to 15-16 inches. The foundation was on spread footings, the load was 3,200 pounds dead load.
+
+A Member:	How much of that settlement is live load responsible for.
+
+Mr. Shankland:	I do not think the live load causes any additional settlement. I do not believe a building of that size in Chicago ever stops settling; I believe the wind pressure has enough effect to keep a small settle-me nt.
+
+A Member:	In that case inside columns would not be affected by the wind.
+
+Mr. Shankland:	The building acts as a monolith in that way. From July to December last there is no settlement shown. The levels were taken then. But that is too short a time to place any dependence on. This next photograph shows a work of solid concrete, twenty-six feet high and from six to eight feet on top. This is the <firm>Economy Lighting & Power Company of Joliette</firm> which is using drainage water to generate power to send to Chicago. That concrete work is not reinforced at all. It is a solid mass of concrete. The next photograph is shewn to illustrate the way concrete is used in bridge piers; those cylinders are seven feet in diameter and fifty-two feet high filled with concrete; the masonry is above high water but it is only a shell of masonry and the interior is all cement concrete. Those piers are 62 feet long and 22 feet high. The concrete is figured to carry the load and the steel only acts as wind bracing.
+
+A Member : Why was not concrete used for the foundations.
+
+Mr. Shankland : It would have been better if they had concrete instead of the natural stone, but the Board of Directors were not willing to allow concrete to be used to that extent. I wanted to use concrete. Piles were driven to the rock ; they were sawed off and the building put on top. These next six views simply show the time it takes to construct a steel building. These views are of the Fisher Building eighteen stories high. The first view is on October 12th ; the next is one week later, October 19th, and the next on October 26th. And the next is on November 10th, two weeks later.
+
+A Member : Working night and day.
+
+Mr. Shankland: Yes. The next view is taken on December 12, just two months from the time the first picture was taken. The next picture is in the April following and shows the completed building; it was rented from the first of May.
+
+<person>Mr. Denison </person>: it hadn't time to settle.
+
+Mr. Shankland : It was built on piles.
+
+Mr. Wickson : Mr. President, we have all listened with great pleasure to Mr. Shankland's paper. He should live in a civilized place where they have a bottom to build on, not in a place like Chicago where they can't find bottom without going so far down. I do not wonder they have to pay so much attention to fire proofing when they have to go so near the centre of the earth to get a foundation. I want to ask a few questions. Mr. Shankland said that in calculating the load on the ground he does not pay any attention to the live load on the clay. Is that the case in all kinds of soil?
+
+Mr. Shankland : It is the case in everything in Chicago. Of course a factory building or warehouse is always built on piles and there you take in a certain proportion of the live load. But in the spread footing of an office building the live load is not calculated.
+
+<person>Mr. Wickson </person>: That applies more particularly to Chicago rather than universally?
+
+Mr. Shankland : Yes.
+
+Mr. Wickson : In looking over the Building By-laws of Washington I see that they take into consideration a considerable portion of the live load, thus following certain authorities.
+
+Mr. Shankland : You naturally would if you did not want to get too great a settlement in the building.
+
+Mr. Wickson : What do you say the proportion of concrete is in the caissons?
+
+Mr. Shankland : One, three and six.
+
+Mr. Wickson : How near are the caissons built to the party wall in that building you mentioned ?
+
+Mr. Shankland : They are built in the centre of the party wall ; it is on a street on two sides—it is <building>The First National Bank building</building>. They are built in the centre of the party wall on the other side.
+
+Mr. Wickson : In a case of that kind are the builders allowed to go to the street limit with foundations.
+
+Mr. Shankland : They are allowed to go out to the kerb line.
+
+I\Ir. Wickson : You have spoken about concrete and its uses ; you have also given us some illustrations. Although concrete is being used so much in some respects I have found great difficulty in getting any data when I wanted it for concrete building—I mean the superstructure, not so much the foundation. It is rather a new thing ; but still it is being used in some places. Can you give us any way by which we can get data for the strength of the superstructure of a building.
+
+Mr. Shankland : EIsner & Anderson of Cincinnati are trying to get a permit for a sixteen story building. They have not succeeded in getting the permit yet. I do not know how they have figured tile concrete. I looked over the plans and, taking the floor load at 100 pounds, and the concrete itself is seven inches thick in the floors, I found they had 83,000 pounds on the basement columns without taking into account the floor itself.
+

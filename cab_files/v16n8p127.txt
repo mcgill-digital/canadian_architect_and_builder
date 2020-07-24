@@ -1,0 +1,74 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" INTERCOMMUNICATION " author="">
+
+INTERCOMMUNICATION.
+
+
+
+[Communications sent to this department must be addressed to the editor with the name and address of the sender attached not necessarily for publication. The editor does not hold himself responsible for the expressions or opinions of correspondents, but will, nevertheless, endeavor to secure correct replies to queries sent in. We do not guarantee answers to all queries, neither do we undertake to answer questions in issue following their appearance.]
+
+
+
+
+
+From "Young Workman ":—Isn't there some short method or rule by which a workman can get the bevels for polygons and for different pitches of rafters and similar work by the steel square without being obliged to make a diagram?
+
+ANS.—Almost any angle or degree can be found by aid of the steel square whet1 properly handled; by taking the proper figures on the blade and on the tongue. We know that if we take 12" on the blade and 12" on the tongue and place the square with these figures on the edge of the board, we get the mitre cut, a half pitch as it is called, on both edges of the square, the edge of the board being the base line to which the bevel must be applied. Quoting from an authority on this subject, we get the following "By very common usage among carpenters and builders, the pitch of a 'roof is described by indicating what fraction the rise is to the span. If for example, the span is 24 feet, then 6 feet in height would be called quarter-pitch, because
+
+6 is one quarter of 24. The rule is somewhat arbitrarily expressed, that is applicable in such cases in roof framing, where the roof is one quarter pitch, is as follows " Use 12" on the blade and 6" on the tongue, and the longer side of the square will be thc inclination of the root. For other pitches make use of the figures appropriate thereto in the same general manner."
+
+The diagram shown at Fig. A., indicates the figures for sixth pitch, quarter pitch, third pitch, and half
+
+"sticker" or a "shaper," that will cut out rope or spiral mouldings. I would be pleased to see such device described and illustrated in THE CANADIAN ARCHITECT AND BUILDER if you think it important enough, and of interest to the other readers as well as myself?
+
+ANS.—There was a device invented a number of years ago, by a Mr. Pendell, but which has been very much improved by a Mr. James Long. It is made as follows ----" The stock should be sawed out and struck round a sticker, or run through a hollow rounding chuck. Over the cutter-head of any machine you wish to use, fix a movable table with a opening in the bottom, through which the knives can come up. Then take a block of wood inches thick by 6 inches wide, 16 inches or 18 inches long, and bore, say, a seven-eight inch hole to one side and through the block, letting the bit cut out be about one-eighth inch (as in Fig
+
+FIG. A.
+
+
+
+pitch. The last three of these are in common use, although the first is somewhat exceptional. The tables given herewith show what figures to make use of for obtaining cuts for polygons, for common rafters and for hips and valleys
+
+	12	and 12 square mitre	121/2 and 6 Heptagon mitre,
+
+7	4 triangle 	" 18 		71/2 	Octagon
+
+13 3/4	" to pentagon	" 221/2	"	9	Nonagon
+
+4	7 hexagon	"	"	3	Decagon
+
+COMMON RAFTERS.
+
+
+
+The following figures on the square will give the plumb and horizontal cuts for the pitches enumerated below:
+
+	Rise. Run.	Rise. Run.
+
+ pitch		3	12	1/3 pitch	S	12
+
+1/6	''	''	12	12
+
+	6	4	12	54
+
+	1/5	48/tO	12	"	i6	12
+
+	1/4	6	12	Gothic	21	12
+
+<article title=" HIP RAFTERS " author="">
+
+HIP RAFTERS.
+
+
+
+The cuts for hips may be got by taking 17 for the run, instead of 12, using the same rise as for common rafter on the same pitch roof.
+
+
+
+From '' A Country Mill Hand ":—1 have been informed that there is a device that can be attached to a
+
+1). Fasten this block on the table over the knives, so that a rod in the block will lie at an angle of about 45 to the cutter-head. Then run bed of machine up until knife will cut a full bead or beads. The best to experiment on will be the three-strand when cut with a common stocker knife, with three beads one-half inch or thereabout, with the centre head dropped back a little. The next thing to be considered is the arrangement for twisting the stock through the block. Take a block of hard wood 4 inches wide, seven-eighth inch thick, and S inches long; slot each end about 2 inches. Take two thin pieces of steel (old band saw blades will do), make them sharp on the back, and drive them into the block lengthwise in saw kerfs about one-fourth inch apart (see Fig. 2); the object of the slot is to make the heads intersect. Fig. 3 shows the twister in position. The stock is twisted through by hand. In case the knives do not cut out the feed marks, move the twister until they do. The tighter you have the twister the more positive the feed.
+
+Figs. 4 and 5 show improvements originated by Mr. James Long. Fig. 5 is an end view of the form, which is V-shaped in order to lessen the friction arid cause the work to feed easier; at the same time it keeps the
+

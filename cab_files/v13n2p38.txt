@@ -1,0 +1,114 @@
+	<doctype type="text;plate">38	CANADIAN	AND BUILDER
+
+
+
+military school. He may do a great deal of harm in a very short time.
+
+The writer once had a terrific struggle with one of this class, a "loading" foreman employed by one of the large railway companies. The foreman or "inspector" insisted that certain girders that had to travel several hundred miles should be loaded on their sides, whilst the writer equally insisted on the girders travelling in a vertical position, or in the position in which they had been designed to carry their own weight.
+
+In the end the foreman was defeated, but not before the writer had undertaken to take sole responsibility during transit.
+
+METHOD OF CARRIAGE.
+
+
+
+There are two methods of carriage of girders over railways. One is with fixed
+
+bearings such as the case when the girder is loaded on to a boiler-truck in which the frame and supports are rigid. (Fig. i.)
+
+In this case, the question must be considered whether
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the girder is of requisite strength to act as a cantilever between the bearing and the end of the girder.
+
+The next question to be thought out is whether the height of the girder when loaded on the truck is sufficiently low for it to travel under the loading gauge of the different railway lines on
+
+which it may have to travel. In this connection the sharpest curve on the route must be known, because in the case of a sharp curve the loading gauge follows the curve, whilst the girder is straight and does not curve with the track. Plan Fig. 2 will show this.
+
+It will be seen that the centre
+
+of the girder is to one side of the centre line of the rails, and the ends of the girder are to the other side of the centre line of the rails. This makes the virtual width of the load much more when travelling over curves.
+
+The cant of the rails where curves occur is also worthy
+
+of consideration. In some cases of 4 in. or 6 in. cant or superelevation, the leaning over of t he girder towards the low rail must be provided against by stiff struts of timber on the one side and efficient chains on the other side, and as the vehicle will have to go over curves both right hand and left, the struts and chains must be provided on both sides equally. A further consideration is the endways bumping of the vehicle when the train is suddenly stopped and started on the journey. This will occur at all stations and signals at which the train will stop, and may occur when the engine driver is descending a gradient and shuts off steam and applies his brake, or when the guard in his own van applies his brake. This endways bumping is to be met by chains fixed at an inclination to the vertical, and at both sides of the top of each strut. Fig.3 shows the load when travelling over a curve with superelevated outer rail.
+
+The second method of carrying over railways is with movable bearings or bolster waggons. It is not often that timber bolster waggons can be used for carrying girders as they are not sufficiently strong for very heavy loads
+
+but sometimes special rail trolleys that are not in use at the time for transporting the long rails of our railway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+companies are used for the purpose of carrying very heavy girders (see Fig.4.). In this case the same considerations of loading gauge, cant on rails and the end shocks will have to be made ; but the case becomes much more complicated.
+
+It is well known that when felled trees are carried on bolster waggons, and firmly chained down to three or four of the waggons—the load being too long to be carried on only two bolster waggons—that, in such cases, the travelling of the combination will in such cases, either break the timber log, or, what is more probable, force the leading or trailing wheels off the road when passing over curves, and so derail the vehicles, or some of them. In this case the load is rigid, and the vehicle is movable with disastrous results.
+
+If a load of timber logs should not be treated in this manner, much less should our girders be so dealt with. The result must be that either the stiff girder will force the vehicle off the road, or the vehicle when going around curves will damage the girder. But there is another reason why our girder must only be attached in two places to the vehicle, and why it should be well clear even to the extent of several inches from all other fastening-s than the two referred to.
+
+A railway track is a thing both of curves and also of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gradients. 'Whenever a change of gradient occurs, and the changes of inclination are many, either a salient or a re-entrant angle (in a vertical sense) has to be passed over. At a salient angle or angle greater than 180", if the girder were resting on four points the load would be resting on the two inner points only with a tendency to
+

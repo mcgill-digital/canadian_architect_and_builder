@@ -1,0 +1,72 @@
+
+
+<doctype type="text;plate">SOME HINTS IN READING PLANS.
+
+<article title="Some Hints in Reading Plans" author="">WHAT I may say in this article will perhaps seem trite and commonplace to those readers who are accustomed to go every day into architects' offices and there carefully measure the drawings set before them in order to submit their estimates, for I have no special hints to give them nor short cut methods to suggest, but I know by experience that there are many young painters to whom a set of plans is a mystery which they cannot comprehend, and it is for their benefit that I am writing.
+
+Now let us start out with the explanation that work-
+
+
+
+
+
+FIG. I.—PLAN.
+
+
+
+
+
+ing drawings are not pictures of the object they are intended to delineate, but they are a conventional means of representing an object so that its different dimensions may be obtained by scale measurement, and so that the mechanic who understands the principles of working drawings may be enabled to construct the object represented. A working drawing is, geometrically speaking, a projection of the object represented upon a plain surface. At least two drawings are absolutely necessary in order to represent any object—a plan and an elevation, and to make a full set of working drawings usually four elevations are required and one or more plans, while in addition sectional drawings showing the object represented as being cut through are made to further illustrate points that require explanation. As a rule the painter will be interested only in such working drawings as come to him from the architect's offices, and these usually consist of the floor plans and elevations of the houses on which he is asked to bid. He is seldom shown the larger details, though these might materially modify his estimate.
+
+With these preliminary explanations, let us start at once to consider a set of working drawings ; and for the purpose I have selected the drawings of a small one story frame office building such as the village painter might be called upon to submit an estimate upon ; just such a building as might be erected for the lawyer or doctor; plain and neat and with no architectural pretensions.
+
+First, let us examine the plan. (Figure I.) A floor plan is the easiest of all working drawings to understand, for it is a conventional diagram, representing the building as it would appear were it cut through by a plane parallel with the ground at a point somewhat above the level of the window sills, so that all the window and door openings are indicated upon the plan. The observer is supposed to he looking down from above, and the drawing is made to scale the same as a map. In short, a floor plan is merely a map of the par-
+
+ticular floor of the house which it is intended to represent, and as my readers have all studied geography we may at once proceed with the special points requiring consideration in estimating from plans, and the conventional signs that are used to indicate certain things upon a floor plan. In former days the architects made their plans upon tracing linen, and the sections of the walls that appeared upon the plans were colored yellow to indicate wood, red to show brick or blue to denote stone, but nowadays mechanics seldom see a tracing, but blue prints, made by a photographic process, are used instead. The use of colors has been practically abandoned and plans are drawn in simple lines just as shown by the figure, though in some offices the sections of the walls are cross hatched, or section lined. Brickwork is painted in solid. I have shown the chimney in solid black. On the blue print it would appear solid white.
+
+Every change in level is represented by a line. For this reason two parallel lines are employed to show the walls and partitions, broken only at the doors. In this particular plan a line at the lower side of the door indicates the step leading down to the stoop of front porch. The door itself is indicated by a diagonal line to show on which side it is hung—-though this is often omitted —and the size of the door is shown by figures. The windows are indicated by parallel lines running between short cross lines. This only gives the width of each window; the style and general dimensions we must gather from the elevations. But as windows are a very important thing for painters to consider, you must carefully count the windows on the plan and then just as carefully locate them on the elevations, checking up one by the other. Some architects figure the glass sizes on the plans, and also mark whether outside or inside blinds are to be used. Others put this information on the elevations. Still others do not figure the glass sizes on the general drawings, but leave them
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 2.—FRONT ELEVATION.
+
+
+
+
+
+to be determined by the detail drawings that are furnished after the contract has been let. In this case it is well to scale the width of the window on the plan as closely as possible and deduct four inches for the stiles of the sash, dividing the remaining number of inches by the number of lights of glass to get the average with. But in doing this it is well to carefully compare the results thus obtained with the elevations, since a careless draughtsman may have made the windows on the plan narrower than they should be.
+
+Now let us look at the question of measurements.
+

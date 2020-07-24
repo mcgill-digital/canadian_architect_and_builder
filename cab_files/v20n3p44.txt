@@ -1,0 +1,38 @@
+<doctype type="text">	44	       CANADIAN ARCHITECT AND BUILDER
+
+		[ NOTE. —Contributions suitable for publication in this Department are invited from subscribers and readers]
+
+<article title="PRESERVATION OF STONE, CONCRETE AND CEMENT BY METALLIC COMPOUNDS OF SULPHUR" author="">
+
+PRESERVATION OF STONE, CONCRETE AND CEMENT BY METALLIC COMPOUNDS OF SULPHUR.
+
+A patent has recently been taken out on the continent for the preservation of stone, concrete and cement by a new based upon the employment of sulphur, pure or compounded, with the metallic salts. It may be noted that all the processes which have been previously introduced can be placed in two distinct groups-namely the first group or class—for covering the body under treatment with a coating or burnish which will preserve it from all external influences.
+
+The second group of class for impregnating the body nuder treatment with antipultrative salts which will fill up the intercellular spaces, and thereby prevent all decomposition or alteration.
+
+The first method has been considered insufficient when the blocks or pieces of stone, concrete or cement have been exposed to any mechanical action which is likely to injure the coating or burnish, because then the climatic action is just as likely to act upon the material, destroying it as if it bad never been treated with any one of the chemical compounds. It has also been observed that when the body has been exposed to the action of certain acids or alkalines, which are likely to attack the coating, that this first method is then quite useless.
+
+The second method is much more satisfactory, since by reason of the fact that it fills up the s aces or pores, and penetrates the mass generally, it forms a conjunction of very superior qualities. Not withstanding this latter recommendation this method also has its defects because in I the 
+
+evaporation which h necessarily follows, parts of the dissolved bodies which have been employed in the impregnation of the materials arc re-dissolved and so carried off, leaving spaces or pores which arc apt to be attacked in the course of time by various climatic or atmospheric compounds
+
+Tile process which has recently been introduced tends to avoid these various disadvantages, as well as to improve the material under treatment. Sulphur possesses very many advantages which contribute, in addition to the preservation of the stone or other matter, to give it a greater hardness and firmness. Its fusion temperature is about 115 degrees C., or 240 F., and the stone or concrete at this temperature does not alter. only losing the intermolecular water, which is replaced by the sulphur or sulphur compounds.
+
+
+
+Its low mechanical resistance and its great fragility have been the reasons why it has not been before used for the above purpose, but seeing that stone, whether natural or artificial. may he said to possess a number of cinalities which sulphur lacks, it has been discovered that. when thoroughly  impregnated, a resistance is formed. which, in practice. has been found to give very good results. The process which is being followed for impregnating the various bodies with sulphur consists in melting tile latter in a vessel heated with steam and maintained at a temperature of 140 degrees C., or 284 degrees F. Tile material to be treated is then completely submerged in this bath, and when the water which is contained in it is entirely evaporated, the sulphur is substituted, filling up, in this latter process, all the spaces or pores.
+
+<article title=" BOND BETWEEN CONCRETE AND STEEL " author="Kirk, Todd">BOND BETWEEN CONCRETE AND STEEL.
+
+The following conclusions arc a series of tests by Mr. Todd Kirk, at the University of Illinois
+
+Little difference is found in the bond resistance per square inch of surface of bar in contact with the concrete, whether the bar is embedded 6 or 112 inches. Evidently a length may be found beyond which the stretch of the steel would cause uneven distribution of time bond stress along the length of the bar and cause fail tire to begin at time point of the greatest stress in the steel and thus give results not representative of time real bond resistance This limitation applies to length for use in experimental tests of bond. In simple beams the bond stresses are applied a long the length of the bar, and stretch and bond exist together.
+
+The richer mixture of concrete gives somewhat higher bond resistance titan the leaner, the values for the 1.2.4 concrete averaging say, 10 to 15 per cent. higher than the 1 3.5 1/2 concrete. For plain round mild steel rods, the average for time bond resistance ranges from 350 to 450 pounds per square inch of contact surface.
+
+Flat bars gave much lower resistance than round bars Only three tests were made with flat bars, and these may not be representative. It should also be noted that the results with flat bars are much lower than tests made elsewhere. It should also be noted that for a bond stress of 125 pounds per square inch the tensile stress developed in the bar was only 9,000 pounds per square inch.
+
+The value of bond resistance will depend upon the smoothness of the surface of tile bar, the uniformity of its diameter and section. the adhesive strength of tile concrete, and the shrinkage grip developed in setting. The effect of smoothness of surface and uniformity of diameter amid section is seen imi tests made with cold rolled shafting and tool steel. Tile average 1)011(1 developed with cold rolled shafting and tool steel was 147 pounds per square inch of contact surface, as compared with about 400 pounds for ordinary plain, round, mild steel rods. It should be stated that not only was there a very noticeable difference in the smoothness and finish of time surface of the rods, but the section of the cold rolled shafting and tool steel was very uniform, the diameter not varying more than 0.0001 or 0.00002 in. at one—quarter inch intervals throughout the length, while mild steel nods will vary as much as 0.0015 in. It is to be expected that tile smoothness amid uniformity of sect ion of drawn steel wire will operate to give low values of bond resistance, though, of course as the section of wire is small compared with the circumference. the bond stresses developed when wire is used are relatively small Attention is called to the fact that in the reinforced concrete beams tested at the University time bond stresses developed in beams failing by tension of the steel diagonal tension of the concrete or other similar methods, amounted to from 78 to 198 pounds lien square inch
+
+In these tests the liars began to slip when the maximum load was reached. After slipping began, the resistance to motion was still considerable. This runmug friction, taken When the liar had moved about one-quarter inch, amounted to 54 to 72 pen cent, of the bond developed in the case of mild steel bars, and to 32 to 49 per cent. in the case of time cold rolled shafting.
+

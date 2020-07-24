@@ -1,0 +1,38 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+of arithmetic, with algebra up to simple quadratic equations, and geometry, and he able to calculate many things mentally. Land surveying is desirable so that buildings may' be set out with facility, and quantity surveying is an absolute necessity. These two subjects can either he acquired under a private tutor, or at any technical school like the one in Toronto. A practical knowledge of estimating is also absolutely necessary, but this can only be acquired by learning the actual cost of materials and the actual cost of the labor that is required in order to use these materials in a building. You should take a fair supply of building journals in order to keep in touch with current building events and improvements, and should stock your library with a good assortment of standard works on building matters, and above all keep a copy of the "Canadian Contractor's Hand-Book and Estimator" on your desk for daily reference. This work, along with Hodgson's "Estimating Brick and Frame Buildings," will give you an insight as to the proper methods of taking out quantities, and making estimates for all kinds of buildings. Experience alone, however, will be necessary in rounding off your fitness to become a successful contractor.
+
+FIG. 2   A COSEY READING NOOK.
+
+From "Builder"—I have a segment to lay out, the chord of which is 28 feet, and the rise 3 feet; how can I get the curve without going to a great deal of trouble?
+
+ANS. :—There is no royal way to solving questions or this kind ; more or less knowledge of mathematics and geometry in particular is required in matters of this sort. However, here is a method that is about as simple and reliable as can be, and is employed, we believe, in ship building establishments for getting curves in many instances. Lay off the baseline AB, Fig. 3, for instance, 28 feet. At center, C, erect the perpendicular CD, representing the height or spring which, for example, in this case we make 3 feet. From G as center, with CD as radius, describe the arc DE, which divide into three equal parts. Also divide the space GE into three equal parts. Then draw lines cutting the points thus established, as shown in the sketch by 12 and 3 4. Divide each half of the baseline AB into three equal
+
+parts. Set the bevel to the angles I 2 C and 3		C,
+
+and apply as shown at 6 C and 7 8 C.	Repeat	the
+
+same operation in the other half of the base. Draw lines 5 6 and 7 8, on which set off respectively the distances 1 2 and 3 4, as shown. Repeat this operation in the opposite half of the figure, then a thin piece of wood, sprung from A to B in such a manner as to touch the points just determined, will give the line of the arch.
+
+
+
+From "Contractor"—I have taken a contract to
+
+
+
+build a stable in which the horses are to be stationed on the second floor, and I would like a little information regarding the concrete or cement floor which I have to put down under the horses feet. Will you kindly give me a few hints on the subject ?
+
+ANS. :—The floor, should, of course, be one slab of cement with the necessary gutters worked in to carry away the water. It should have iron ribs embedded in the correct position to give the greatest tensile strength to the slab, but being completely encased on every side by the concrete of the floors. The thickness of the floor and the weight and section of the iron ribs would be determined by the span, but the quantity, and therefore cost, of the iron would bc very much less than the usual quantity and cost of the ordinary and bad system of heavy iron girders, which cut into pieces
+
+
+
+FIG. 3.—SHOWING HOW TO DIVIDE A LARGE SEGMENT
+
+OF A CIRCLE.
+
+
+
+and reduce the strength of the concrete, and leave iron flanges exposed to the action of rust and fire. The concrete floor, with iron ribs, will be strongest, most fireproof, and dampproof, will have no lateral thrust to he counteracted, as in the case of brick arches and girders, and will also be cheaper. The surface can be finished with a coat of (asphalt) asphalte, paving bricks set in cement or smooth cement. We know of cement stable floors that have resisted the wear of heavy horses for over 15 years without repairs or injury. It is important that the work should be executed by persons thoroughly conversant with the method of construction, and experienced in the selection, treatment, and manipulation of the materials, particularly the cement.
+

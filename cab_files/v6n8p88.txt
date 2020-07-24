@@ -1,0 +1,204 @@
+	<doctype type="text">88	CANADIAN ARCHITECT	August, 1893
+
+<article title=" HANDY TABLES OF DIMENSIONS OF JOISTS AND RAFTERS " author="">
+
+HANDY TABLES OF DIMENSIONS OF JOISTS AND RAFTERS.
+
+FOR ready use in the office the following tables, submitted by H. Maack, Principal Academy of Architecture and Building, St. Louis, through the Southern Architect, will he found practical and time saving. No development of formula is required, but simple multiplication of the clear span in feet by the factor hereafter given will give the desired width of joists or rafters for any span for 2" joists. For 2½"or 3"joists, it will be required to use the formula, but in the common buildings 2' joists are generally used and the free bearing length or span can be readily taken from the plans. It will therefore only be necessary to find the varying width or breadth, and this will vary according to the load or span.
+
+The tables are computed from the formula:
+
+xl	x 3
+
+h =
+
+k XtX 4
+
+in which the letter
+
+
+
+h = height, breadth or width of joists or rafters in centimeters. l=length or span of joists or rafters between support in centimeters.
+
+t=thickness of joists or rafters in centimeters.
+
+k=safe load, for yellow pine 60 kg., and for white pine 50 kg. per square cm. of section area, with a safety factor of 10.
+
+kilogram (kg.)= 2.2 pounds
+
+meter (m)=3' 3 3/8" = 3.28 feet 100 centimeters(cm.)= woo millimeters (mm.)
+
+
+
+TO FIND THE BREADTH =-H.
+
+For ready use of the tables the value" I "is already transformed into feet, and the clear span or length of joists or rafters between supports=l, must be used therefore in feet only.
+
+OWN WEIGHT OF CONSTRUCTION, AS JOISTS, CEILING AND FLOOR .
+
+Per square foot—2" X 10" joists—16" to center 12 lbs., 12" to center 15 lbs.
+
+Per square foot—2" x 12" joists --16" to center 15 lbs., 12" to center 18 lbs.
+
+Per square foot—2" X 14' joists—i6" to center 18 lbs., 12" to center 20 ths.
+
+Per square foot—2" x 6" ceiling joists and I" plaster and lath, x 16" to center 15 lbs.
+
+Per square foot—horizontal measurement of roof, including wind and snow, 50 lbs.
+
+The loads given in the tables include the load of the construction.
+
+TABLE I.
+
+FOR DWELLINGS AND FACTORIES USING TIGHT MACHINERY.
+
+Supposed load on the square foot floor space 8o pounds.
+
+2" joists 16" to center ; h 1 ft. x .75 3/4 " yellow pine or x .8 (4.5)" white pine.
+
+2 JOISTS 12" to center ; h = 1 ft. x .66 (2/3)" yellow pine or X .7 (7-10)". white pine.
+
+TABLE II.
+
+FOR STORES.
+
+Supposed load on the square foot of floor space 110 pounds.
+
+2" joists 16" to center ; h 1 ft. x .9" for yellow pine.
+
+2" joists 12" to center ; h =1 ft. x .77" for yellow pine.
+
+
+
+TABLE III.
+
+
+
+FOR DANCING HALLS, HAY AND FRUIT STORES.
+
+Supposed load on the square foot of floor space = 150 pounds.
+
+2" joists 16" to center; h= ft. x 1" for yellow pine.
+
+2" joists 12" to center h—1 ft. x. 9" for yellow pine.
+
+
+
+TABLE IV.
+
+FOR SALT WAREHOUSES AND WORKSHOPS USING HEAVY
+
+MACHINERY. 
+
+Supposed load on the square foot of floor space- 175 pounds.
+
+2" joists 16" to center ; h=l ft. X 1.13" for yellow pine.
+
+2" joists 12" to center; h=l ft. x .98" for yellow pine,
+
+
+
+TABLE V.
+
+FOR GRANARIES.
+
+Supposed load on the square foot. of floor space - 200 pounds.
+
+2" joists 16" to center ; h =1 ft. x 1.2" for yellow pine.
+
+2" joists 12" to center ;	h =1 ft. x I." for yellow pine.
+
+TABLE VI.
+
+FOR WAREHOUSES IN GENERAL.
+
+Supposed load on the square foot of floor space= 220 pounds.
+
+2" joists 16" to center ; h=1 ft. X 1.25" for yellow pine.
+
+2" joists 12" to center ;	h =1 ft. x 1. 1" for yellow pine.
+
+TABLE VII.
+
+
+
+CEILING JOISTS.
+
+Supposed load of construction, i. e., joists and plastering= 15 pounds per square foot.
+
+2" joists 16" to center h -1 ft. x 24" ¼)" yellow pine, or x 3 (1/3)" white pine.
+
+2" joists 12" to center ; h=l ft. x ,¼" white or yellow pine.
+
+TABLE VIII.
+
+FOR RAFTERS OF FLAT AND HIPPED ROOFS.
+
+
+
+Supposed load on the square foot horizontal=5O pounds; this includes the construction, snow and wind loads. Measurement taken from roof plan, independent of slant of roof.
+
+2 rafters 24" to center ; h = 1 ft. X .6381 (2/3)" for yellow or white pine.
+
+2 rafters 20" to center ; h=l ft. x .583 (3.5)" for yellow or white pine.
+
+2" rafters 16" to center ; h=l ft x .5 (½(" for yellow or white pine.
+
+Collar beams must be inserted for hipped roofs, if rafters are longer than 12 feet ; make same one-half the thickness of rafter, but the same width.
+
+APPLICATION OF THE TABLES.
+
+1st Example.—In a dwelling where joists have a clear span (1)=16 feet, What is the proportionate width (h) for yellow and white pine, for 16" to (-enter and for 12"?
+
+1st Answer.—16" to center, yellow pine considered ; Table I shows for h = I x 3/4= 16 x 3/4 12". Thus 2" X 12" yellow pine joists placed 16" to center would answer our case.
+
+ 2 nd Answer.—12 to center, yellow pine considered Table I., gives—lx.66" or 1 x"= i6 x 2/3"= 10 2/3" . In this case 2" X 10" yellow pine would suffice, spaced 12" to centers.
+
+3rd Answer,.—16" to center, white pine considered ; again taking from Table I., our factor given for white pine 16" to centers we find h= 1 x .8" or 4-5"--16X.8"=12.8"; therefore 2"X 12", although a little weak, will do.
+
+4th Answer.—12" to center, white pine considered ; Table I., shows us h=l x.7" or 7-10 =16"x.7"= 11.2"; 2"X 12" should be used, 12" to centers.
+
+We should not forget to arrange one row of cross-bridging for every 7 ft. of span. In case we get results like answers 2 and 3, one additional row of bridging will make up for the fraction of an inch we neglect to make use of the nearest stock-joists. The bridging does not increase the strength of the joists, but mainly acts to hold them upright and from turning over sideways. In a later paper we will see how bracing with 1" strips will increase the strength, sometimes employed for wide spans and when the time is too short to get special thicknesses cut by the mills.
+
+2nd Examplee.—Find the dimensions of ceiling joists required for the span of 15 feet.
+
+From the Table VII. we obtain the formula
+
+h=l x ¼" yellow pine, or 1x 1/3" white pine, 16" to centers ; i. e., 15 X ¼" yellow pine, or 15 x 1/3" white pine, 16" to centers.
+
+Thus 2" x 4" yellow pine, or 2" X 6" white pine would be right. If we try on 12" centers, Table VII. shows h = 1 x ¼" for white  pine - 15 X ¼ " -2 X4" white pine, 12" to centers will answer this case satisfactorily.
+
+3rd Example A hipped roof ½ pitch ; find the rafters required. Table VIII. is needed. We find lx 2/3", or lx 3-5", or 1 x ½" for the distance to centers, of 24", 20" and 16" respectively. The house may have a width of 26 feet To find the length of the rafters we use the Theorem of Pythagoras. "In a right angled triangle the longest side (hypothenuse) is equal to the square root of the sum of the squares of the two small sines," or c= a2 + b2, developed from c2=a2+b2, where c- the longest side or hypothenuse, a and b the other two small sides (catheti.)
+
+In our example ½ of width of the building= ½of26 + 13 feet is one cathetus and the other also 13 feet by ½ rise roof ; thus the formula c= a2 +b2 becomes when b=a, c= a2 + a2
+
+2a2 =a This last
+
+expression is convenient if a is an irregular number, for the 2 is found in most any hand-book like
+
+
+
+Kidder's on page 8, gives:	2= 1.4142, this x a(=13) = 18.38
+
+
+
+feet length of rafters. The formula c= 2a2 would have been
+
+more convenient here for 2a2=2 X 13 X 13=338 and the 338 18.38 ft. found on page 13 of Kidder.
+
+If only an approximate answer for the length of rafters is desired which would fully satisfy our figuration, we may use the improper fraction 7-5 and multiply one, the equal small sides of our right-angled triangle, thus 7-5 X 13=91-5= 18 1-5 ft., near enough for our purpose, as we take only the nearest full feet (18) into consideration. h 18 x 2/3"= 12", or 2" X 12" rafters, 24" to centers. h 18 x 3-5"= 10 4-5", or 2" x 10" rafters, 20" to centres. h 18x ½" = 9" or 2" x 8" rafters, 16" to centers.
+
+The rafters being over 12 ft. in length, it will be required to insert collar-beams. If we get sufficient tie at the foot of the rafters to the joists, we may design the collar-beams 8 ft. above floor. On supposition that outside wall and top of rafter meet in floor height, we obtain the length of the collar-beams as follows:
+
+Whole height of roof 13 ft., less 8 ft to bottom of collar-beams = 5 ft. multiplied by 2 = 10 ft., the length of the collar-beams ; for twice the rise = span by ½ pitch roofs. This last holds good in this particular case only, but proportion will solve it under all circumstances. Entire height to entire span as is partial height
+
+to collar-beam, i. e.,	13	26=5	X
+
+	Xx	13=5x	26
+
+		5 x	26
+
+	13
+
+	= 10 feet
+

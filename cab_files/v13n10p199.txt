@@ -1,0 +1,58 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER  199
+
+
+
+hot water at a temperature of 170 degs. we shall have a lower heat transmission than in either.
+
+It is therefore possible to effect economy of heat, and therefore fuel, by working heating apparatus at low temperatures.
+
+This is doubtless one of the items that tend to the economy given by the atmospheric heating system, upon which we had a recent paper from our president, but even then the steam system upon those lines is only able to obtain temperatures approaching those at which hot water systems are worked, and not to get beneath them.
+
+Therefore, on this head, I place hot water in the premier position for economy.
+
+Secondly, heat is transmitted from a radiator or other heating agent by three well-known methods
+
+Conduction, radiation, convection.
+
+CONDUCTION. This is affected by the thickness and the nature of the metal, and can be taken as alike for all.
+
+RADIATION. The heat units given off per square foot of surface is given us by Dulong and Petit for cast-iron for a difference of temperature of 90 degs., 115 by radiation against 100 by convection, and at 180 degs., 120 by radiation against 100 by convection.
+
+These radiant heat rays pass through the air without being absorbed or raising the temperature of the air to any appreciable extent, giving up their heat to the object in the direct line of passage.
+
+In the catalogue of one of the heating and ventilating engineers there is a quotation to the effect that '' Heating should be done by means of radiant heat," but on this head I am not in agreement with them, unless they wish to infer that rooms should only be heated by open fires.
+
+If a room is warmed by means of an open fireplace, the heat by convection is largely passed up the chimney, and therefore the radiant heat is a large and predominant factor in the heating of the rooms.
+
+After leaving the fuel, it is, on striking the walls, furniture and individuals, at a greater temperature than that of the rooms, and capable of imparting heat, since it starts at a high temperature from incandescent fuel but in the case of a steam or water apparatus the temperature of the source of heat is only counted in hundreds of degrees, instead of in thousands, and the radiant heat correspondingly lowered.
+
+As the walls of a room are always absorbing and passing the heat through them, and are at a lower temperature than the air of the room (at times when heating apparatus is required to be in use), it follows that those rays which reach the walls are there absorbed, passed through, and are not utilised in warming the air of the room.
+
+If this be so, the more we can reduce the ratio of radiant heat emission, the more economical will our apparatus be, and one of the ways of doing so is to keep the temperature of our radiating surfaces low, and thereby to lower the heat units given off by radiation in proportion to those by convection, and in this item low pressure hot water is the most favourable.
+
+CONVECTION.—Air in motion rubs against its other particles, and against objects with which it is in contact, and it is upon this method that we rely for the removal of heat from the heated surface to the air of the room.
+
+The name of "radiator" is misleading, as it is through convection, and not radiation, that its duty is fulfilled.
+
+Radiators should be of a pattern giving freedom of air access to all parts, so that the movement of the air is unimpeded.
+
+
+
+The form of the radiator has also bearing upon the two items of radiation and convection, patterns with the radiating faces parallel with each other as much as is possible being the most efficient as regards conservation of radiated heat, but all the patterns of that description upon the market at the present time have a greater disadvantage in connection with convection, in having such faces far too close together. If the distance were doubled or trebled the effect would be much improved.
+
+We all doubtless have read the paper of Mr. M. O. Kasson, from which the following is taken
+
+Select a room which is heated by a single radiator well out from the wall, and make the following experiments under the same conditions of outside temperature, or as nearly so as possible. After it has been ascertained what maximum temperature can be obtained in the room in a given time under the normal condition of the radiator, cool off the room to the temperature at which you started. Then cover the top of the radiator with a board, and turn on the steam again. You will find that it takes about 25 per cent. more time to reach the maximum temperature with the radiator handicapped in this manner, although you have covered only a small portion of its radiating surface. Then repeat the operation, covering the top and three vertical sides of the radiator, when, even though the boards do not touch the radiator, you will find that it will take about twice as much time to heat the room as in the first instance.
+
+To prove these two experiments, cover four sides of the radiator, leaving the top exposed and space for the air to enter at the bottom. In this case you will find that the temperature of the room is raised even more rapidly than when the radiator was not covered at all, because by boxing in the radiator, as just described, you have created a draft of air up through the heating surface, and thus materially aided the convection of heat."
+
+Unfortunately he does not give us the data as to the amount of steam condensed, Out if you try the experiment yourselves, you may be prepared to find that in the one in which the convection was assisted, the amount of steam condensed to do the same work would be the least.
+
+The various makes of radiators on the market are listed at their exterior heating surface, but take one of each pattern, ascertain the actual heat duty, and how varied the results will be. We have far too many which are well described by Mr. Kasson's experiment of having a board on top—far too many with the inner surfaces boxed in to such an extent that the convection is slow.
+
+I wish to point out to you, in closing, that the opportunities I have pointed out are small in themselves, doubtless, but multiply them by the total surface of the apparatus, and add the saving in the heat emission due to the reduction in temperature of the mains in positions where heat is wasted, and the result for the season will turn out to be an appreciable one after all
+
+
+
+Too many advertisers consider their advertising as an adjunct to their business. Here is where they make the fatal mistake; advertising is not an adjunct, but a part of the business, as much as is the buying and selling of goods.—The Advisor.
+

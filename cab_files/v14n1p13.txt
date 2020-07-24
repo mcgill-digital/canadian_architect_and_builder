@@ -1,0 +1,120 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	'3
+
+
+
+When suspension rods are used instead of posts, the small struts which stiffen the principals will take their bearings upon the tiebeam instead of upon shoulders cut at the feet of king or queen posts. It is then usual to employ small straining pieces, with ends cut to receive the tenons of the struts, as shown in fig. 3, the straining pieces being secured to the tiebeam with two
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in. bolts. The direction of the thrust from each strut coincides with its centre line, as dotted in the diagram. The two centre lines should intersect not lower than the head of the iron suspension rod. When this is the case, as it is in fig. 3, the extra transverse strain thrown upon the tiebeam is so slight that it can safely be disregarded.
+
+PURLINS 
+
+<article title=" PURLINS " author="">
+
+In calculating the scantlings of purlins, they must of course be regarded as beams uniformly loaded, the amount of the load being estimated by the extent of the roof surface, including the allowance for wind and snow, carried by each purlin, the span being the distance between the trusses. As the principles of calculation have already been sufficiently explained, we give
+
+ instances between
+
+the following table of scantlings the d
+
+the purlins being measured on the slope of the roof and the trusses being assumed to he 10 ft. apart
+
+TABLE. —PURLINS.
+
+	Distance apart.	Scanning.
+
+	6ft.	....	6in.by4in.
+
+	7 ft.	 .	7 in. by 4 in.
+
+	8 ft.	....	8 in. by 5 in.
+
+9 ft.	.. 9 in. by 5 in.
+
+
+
+Sometimes it is convenient, in exceptional circumstances, to place the trusses as far apart as 20 ft., in which case the principals, struts, etc., must be made proportionately stronger ; or it may be that trusses can be dispensed with altogether, the purlins taking their bearings upon walls. Heavy timbers would he required for purlins, and hence it would be desirable to substitute iron for wood. Rolled '1' irons are suitable for this purpose, the table or flange being placed downwards and bolted to the backs of the principals or to blocks of stone bedded upon brickwork. The common rafters are then made in short lengths, bearing from purlin to purlin upon wood blocks or plates screwed to the iron. With trusses 20 ft. apart, the rolled 'f-iron purlins should be as follows
+
+T~BLE.—ROLLED T-IRON PURLINS.
+
+	Distance apart.	Size.
+
+	6 ft.	....	 in. by in. by 1/2 in.
+
+	6 ft. to 8 ft.	... .	5 1/2 in. by 5 3/4 in. by 1/2 in.
+
+
+
+The above sections of rolled iron are usually kept in stock. When the distance between the purlins exceeds 8 ft., specially rolled sections are required, or steel sections can be used.
+
+COMMON RAFTERS.
+
+
+
+The scantlings of common rafters depend upon the distance between the purlins, or between the purlins and the wall plates and ridge. The ordinary rule for
+
+the depth of common rafters is sufficiently near for practice -viz., to allow 1/2 inch depth for every foot of bearing. Thus, with ft. bearing we should have rafters 412 in. deep ; but no rafter should be less than 3 1/2 in. deep. As regards thickness, 2 in. is a common dimension. We do not, however, recommend less than 2' in. or 2 1/2 in., to allow for the proper fixing of slate
+
+1/4
+
+battens or boards.
+
+
+
+THE STRENGTH OF NAILED JOINTS UNDER A SHEARING LOAD.
+
+By WILLIAM KENDRICK Hatt A. M. c E
+
+<article title=" THE STRENGTH OF NAILED JOINTS UNDER A SHEARING LOAD " author="Kendrick, William">
+
+Associate Professor of Applied Mechanics Purdue University.
+
+
+
+Many determinations have been made of the force necessary to withdraw nails, spikes and screws from timber, a good summary of which will be found in Kent's Mechanical Engineer's Pocket Book. Of these tests, the principal are:
+
+(a) Those of Professor W. H. Burr made at the Watertown Arsenal in 1893. The direct tensile adhesion of cut and wire nails driven in spruce arid pine was determined; and cut nails showed superior resistance to the wire nails in the proportion of 3.2 to 2 in the harder wood, and in the proportion of 2 to in softer wood, the resistance being compared on a basis of the number of square inches of surface of the nail in the wood.
+
+(b) Those of F. W. Clay; described in Engineering News, Jan. 11 1894 The results may be summarized as follows: In resisting a pulling force directly along the length of the nail, the out nail was superior to the wire nail both per unit of weight and surface; the relative holding power in different woods was as follows:
+
+White pine, 1.0: yellow pine, 5: white oak, 3.0; chestnut 6 beech, 3.2; sycamore, 2; elm, 2 basswood, 1.2; laurel, 2.8; a sharp point increased the resistance of the nail; the surface of nail should be rough; barbing a nail decreased its strength +:; the length of the nail should he about three times the thickness of the thinnest piece nailed; the resistance decreased slightly with time. Mr. Clay observed that when a wire nail was being pulled out from the wood, the decrease in resistance was gradual but that the resistance of a cut nail suddenly fell off after the nail was start ed. It thus would seem that the above comparison of results from steady tests would be somewhat changed in case of nails subjected to vibration.
+
+Tests were also made to determine the strength of nailed joints under a shearing load. Mr. Clay deter— mined the force required to cause a relative sliding of the surface of two sticks which were nailed together. The nails, which were not driven up to the head, were tinder an action partly of the nature of shearing and partly of bending. Under this kind of test the cut nail was superior- to the wire nail both per unit. of weight and per unit of surface; the greatest tenacity was had when the length of the nail was at least twice the thickness of the piece nailed; the strength per unit of area of surface in the wood of different sizes of nails was approximately constants, and equaled 900 pounds when driven into yellow pine through an oak cleat; the greatest resistance was obtained when the nail was driven perpendicular to the surface of the wood.
+
+'Reprinted from the Proceedings of the Indiana Engineering Society.
+
+
+
+increase of efficiency when barbed is also shown in Watertown Arsenal Report for 118 shown also for shearing load tests at Purdue University
+
+
+
+Shown also in tests at Purdue University.
+
+
+
+Thus in h cleats were nailed to chestnet with six six-penny nails. The resistance when driven straight in was 1725 pounds; slanting in direction of shear 910 pounds slanting against shear, 1400 pounds. Shown also in tests at Purdue University.
+

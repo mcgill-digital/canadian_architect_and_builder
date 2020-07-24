@@ -1,0 +1,3 @@
+<doctype type="plate">NEW <building>LIBRARY, McGILL UNIVERSITY, MONTREAL</building>.
+
+<person>A. T. TAYLOR</person>, F.R.I.B.A., ARCHITECT.

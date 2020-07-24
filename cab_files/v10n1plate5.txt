@@ -1,0 +1,3 @@
+<doctype type="plate"><building>Holy Trinity Church, Winnipeg</building>
+
+<person>Charles H. Wheeler</person>, Architect

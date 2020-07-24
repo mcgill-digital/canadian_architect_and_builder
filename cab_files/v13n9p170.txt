@@ -1,0 +1,88 @@
+	<doctype type="text">170	 THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+ple in some shape or other as essential to the best economy in steam heating. This may be proven as follows
+
+Given, for illustration, that the B.T. U. (British Thermal Units) in one pound of coal are 15,000 and that 1,000 B.T.U. arc required to evaporate one pound of water; given also an ordinary steam boiler with an evaporative efficiency of  10 lbs. of water to one of coal consumed In burning each pound of coal to evaporate 10 lbs. of water we have utilized 10,000 B.T.U. of this 15,000 burned and allowed the remaining 5,000 to go to waste at the flue, In the return water heating plan when carried to its full extent the piping is arranged so that the water of condensation may after having parted with its heat in the houses, return to the boilers at 60° This can be and has been (lone with the return pipes lying in the lower and colder parts of the houses. Now in using our otherwise waste gases to raise this water from 60° (F.) to 212 (boiling point) or over, before re-entering the boilers, we are unable to capture from such gases about 150 B.T.U. per pound of water so raised. (15,186 B.T.U. being according to Peabody's tables the amount of heat required to raise lb. of water from 60° to 2120 F.) Practically equal to 1,500 B.T.U. for each to lbs. of water evaporated or pound of coal consumed. So that in the burning of a pound of coal by this system we have captured 11,500 B.T.U. in place of 10,000 by the other, giving a proportionate saving in fuel consumed, that is to say, 10 tons with return heater as against 11½ tons without. This calculation refers to steam at atmospheric pressure or zero on the steam guage; any pressure carried above this admits of the returns being brought to higher temperature and a correspondingly larger amount of beat units to be saved by this plan.
+
+In installing economizers at Brampton it was found that not only is the feed or return water raised to steam temperature before entering the boilers, but also an additional amount of steam was made, requiring special piping to carry it away representing a saving to be credited to ret urn heaters over and above that already shown.
+
+Having thus shown means for overcoming in a steam heating plant this fundamental disadvantage, we will now consider a point in greenhouse heating where steam has the advantage over hot water. Such advantage consists in the ease by which the steam heat may be regulated and controlled.
+
+In hot water heating the radiating pipes arid boilers are necessarily full of water, the pipes usually being of large size and necessarily of larger size than those employed in steam heating. In order to bring the piping to a working temperature by a stated time (a point that has to be determined in advance), earlier fires are required for the evening or night than in a steam apparatus which has only the smaller and empty pipes to bring to such temperature. This, with other causes not necessary here to enlarge upon, causes a comparative waste of furl in the hot water system. This can be met to a certain extent, bull to a certain extent only by making the water pipes as small as possible consistent with necessary freedom of circulation, remembering, however, that if you are depending on a large reservoir of hot water for maintaining an even temperature you are detracting from the reliability of your system in this respect.
+
+With steam heating you can depend for this reliability on the steam pressure which will automatically regulate the fire, so that the necessity for any objectionable reservoir for heat no longer exists, outside of the necessity of placing sufficient fuel in the furnaces to run tile plant for the length of time desired. Therefore in order to obtain the full advantage of steam heating in this respect, as small a reservoir of heat as possible should be employed. By encumbering a steam plant with boilers containing an unnecessary amount of water and steam space part of the advantage possible in steam heating will not be obtained even though the boilers when working may show the highest evaporative efficiency.
+
+This principle in economy further applies to the fires themselves. In explaining this point it will be necessary to refer to the different methods employed in firing which will vary according to varying conditions and requirements. For a small plant and to obtain the best results of an all night fire, hard coal, being the slowest burning fuel and the cleanest, is recommended. The writer has not experimented with soft coal for this purpose. In order to obtain the effect desired in all night fires the area of grate surface should be carefully proportioned to the work to be done. Therefore in planning a heating apparatus some standard of measurement for the work to be done is first required. This has often been a difficult matter to obtain, but may be calculated approximately on the quantity of piping or radiating surface to be employed 10 obtain a temperature of 60° (F.) The temperature
+
+has to be considered because the same proportion of piping will do more work and consume more steam in a colder house; while the reverse is of course the case in a warmer one. For instance to raise the temperature an extra 20' about double the quantity of radiating pipe will be required, while it will be found approximately correct to assume that 5022676nly of additional steam will thereby be consumed, thus discounting the work done by the whole 25 12393928ke reasoning calls for a corresponding advance in duty for radiating pipes in a temperature of 20' below the standard average assumed of 60° (F.) The amount of radiating surface in the heating pipes then being hi-ought to the common basis of what it would be were the piping all of one inch internal diameter, for all night fires a grate surface of one half a square foot is required to every 100 feet of pipe or with night fireman a one fourth square foot will supply the same amount of radiation. This basis of calculation assumes that tile boilers used are of a certain standard in evaporation efficiency.
+
+It will be noticed that no reference to the size or power of the boilers is here made though generally the first question asked is,
+
+
+
+Will some certain sized boiler heat my place?" It has already been shown how half a proper sized boiler may heat a place if the proprietor is able to stand a 25aste of fuel, With this kind of boiler a proportionate amount of grate surface will, of course, need to be added to burn that waste fuel, but the real basis of power is in the measurement of the grate surface, and rate of fuel combustion, the proportions of the boilers affecting mainly the economy and efficiency in absorbing and conveying the heat of combustion to the houses to be heated.
+
+
+
+This part of my subject will not be complete without reference to tile burning of slack or low-priced coal smell as screenings, with automatic stokers, and smoke consuming devices. And
+
+
+
+trust it may be charitably conceded that it is for the sake of brevity, rather than personal conceit, that I confine my remarks rather to the narrow bounds of my own experience than to attempt to embrace the whole field.
+
+
+
+It being proposed to burn under a greenhouse plant soft coal screenings, to the grower's requirements originally referred to must be added the absence of smoke, or the heavier portions thereof, that by falling on the glass would shut out the sunshine, which is more valuable to the grower in winter than the fuel he consumes. The engineering requirements to prevent this smoke as also tile waste of gases that produce it and can be burned, are the mixing of such gases with sufficient air, and then bringing the whole to such a high elevation of temperature in tile combustion chamber that the gases, more particularly the less volatile, may become ignited and consumed therein. This necessitates a higher rate of combustion than in hard coal burning, and was accomplished after several experiments by reducing the grate area, and proportionately increasing the rate of combustion per square foot of grate per hour. These values may be broadly placed as follows: For all night fires with hard coal 2½ lbs. per square foot of grate per hour With night fireman 5 lbs.; soft coal screenings with automatic stokers to 12 lbs. or over. Other proportioning of the heating plant must be adjusted to correspond on the lines already indicated. In order to illustrate as plainly as possible, exactly what has so far been accomplished, and for the purpose of furnishing a comparative guide to florists in the use by them of the system of measurement by evaporation tests already refer red to, the following tests with hard coal, and soft coal screenings, taken by the writer from plants, while in ordinary operation, are submitted
+
+
+
+BRAMPTON.
+
+	Test, "A'	Test "B'
+
+December 30, 1896. June 3, 1897
+
+Heating surface in boiler, square feet,	450	 450
+
+Grate surface	 1412	 9.4
+
+Percentage of ashes	 12 1/3	20
+
+Duration of test in hours	 19	  6
+
+Steam pressure in pounds	 2
+
+Temp're feed water 3015 lbs. at 60° F'
+
+                 8835 " at 50° F		60 F
+
+Total coal used from pile	1302	 475
+
+Coal consumed combustible	1142	 378
+
+Coal used per hour	68	  79
+
+Coal used per square fort grate per
+
+   hour	4.7
+
+Total water evaporated	 11850	3367
+
+water evaporated per hour	624	 561
+
+Water evaporated per lb., coal used	9.1	7.08
+
+                      consumed	10.3	8.09
+
+	''	"	'' from and
+
+	at 212 F	12. 12	10.31
+
+
+
+Test A. Best hard coal hand fired. Stack 40 feet high.
+
+Test B. Soft coal screenings --not dried—" King" automatic stokers under same boiler and stack.
+

@@ -1,0 +1,96 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+Note A. Nos. 1, 2, 5, and 6 showed very coarse fractures.
+
+Note B.—Test 7 could not be completed. At a pressure of 4,300 lbs per sq. in., no signs of failure were noticeable.
+
+Note C.—In the case of Nos. 12 and 13, the upper block became separated during transportation and only the remaining
+
+prisms of the specimens were tested.
+
+Note D.—The mortar for binding together the three artificial blocks into one prism was mixed 1:2 for Nos. 12 to 14 inclusive, 22 to 24, 34 to 37, 42 and 43, 48 to 51 56 and 57. These joints were four months old in the case of' Nos. 34 and 35, and 5 months in all other cases.
+
+Note E.—Nos. 25 to 28 were cubes measuring about 16 inches on each side.
+
+
+
+Laboratory tests made by Building Councillor <person>Hanisch</person> on some SANDSTONE cubes of the same quarry, 2.4 inches on each side, gave an average breaking resistance of 10,900 pounds per square inch, white analogous tests made on granite gave completely different results. The latter tests gave the average breaking resistance of granite as 19,400 pounds per square inch But it must be stated that the granite used in the laboratory tests was very fine grained. The specific weight of the sandstone was found to be 2.55 and that of the granite 2.57.
+
+
+
+The ashlar masonry of granite was tested under an eccentric pressure. These tests of No. and 6, as well as the analogous test of quarry-stone piers, No. 12, proved to be of great interest.
+
+joints could not be crushed. Owing to some accidents the test piers of sandstone masonry No. 7 could not furnish data for the ultimate strength of the same. But referring to the uniform behavior of Nos. to 4 it may be assumed that the ultimate strength of sandstone masonry is about the same as of granite masonry, Nos. and 6.
+
+The behavior of quarry-stone masonry is characterized by tests of piers Nos. 8 to 15. They show a certain uniformity, inasmuch as the piers having mortar in the proportion of 2 gave better results than those with mortar of The higher age of the mortar in Nos. 12 to 15 proved to be of no influence, counteracted as it was by worse workmanship; No. 15 especially showed, after failure, poor stone laying.
+
+Cracks appeared in the stones independently of the joints, Figure 8, and increased in number with increasing pressure, and final failure took place independently of the joints. As shown in Figure 9, upper and lower wedged-shaped pieces remained standing after failure. These wedges were completely destroyed in themselves It follows from this behavior of the quarry-stone masonry at the first appearance of cracks, as well as at final failure, that the masonry may be considered in the above cases as a homogenous body of uniform elasticity and breaking resistance. Similar behavior was also shown by the brick masonry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIAGRAM ILLUSTRATING THE Austrian REPORT ON TESTS OF PIER MASONRY.
+
+(Dimensions are in meters except in case of Figures 11 and 12.)
+
+
+
+It is commonly assumed that according to the distribution of pressures the body fails either through the crushing of the edges or the opening of the joints, somewhat in the manner indicated in Figure 6. This did not take place at all. Failure occurred more in the manner characterized by Figure 7, and the opening of joints took place only in case of No. 6. No. 12 did not show even a flaking off of the mortar finish.
+
+It hence follows that the failure of the masonry took place by a simultaneous shearing and crushing of the shaded area, and that in order to determine the breaking resistance the area on which the pressure was exerted directly must be taken in account. The results obtained in this way are very satisfactory the tests, No. 12 especially, well agree with values determined for central pressures. The behavior of masonry under eccentric pressure shows that while at small pressures the common theory of distribution of pressures in the joints and the values deduced from it for the computation of arches seems to be correct, the conditions are totally changed at the time of failure, and that the eccentric pressure is then uniformly distributed over the immediate area of contact. The remaining portion of the masonry exerts then no longer any influence, as otherwise the joints would undoubtedly have opened in all the cases tested, and failure of the mortar by tension would have taken place. Interesting as these tests under eccentric pressure proved to be, they were later dropped, because the determination of ultimate strength from central pressures furnishes more reliable data.
+
+In all cases it was proved that the thin layer of mortar in the
+
+The elasticity and the breaking resistance are, of course, dependent on the materials the stone and mortar, but in no case is the strength of the masonry exclusively determined by the strength of one or the other of its constituents only.
+
+The test piers of concrete, Nos. 16 to 24, gave uniform and quite unfavorable results. Failure took place rapidly and almost simultaneously with the first indications, and the tests of the poorer proportions of the concrete showed an almost complete disintegration of the body. The more favorable results of Nos. 23 and 24 are due to the higher age of the concrete.
+
+The great influence of iron netting imbedded in concrete is shown by the test of the Monier piers, Nos. 25 to 27. The piers of type A, with vertical rods extending from plane of pressure to plane of pressure proved to have a very great resistance, and it was not possible to attain the complete failure of the same. In all cases the vertical rods yielded first, then the external covering material gave way, and only then the failure of the inner portion could begin. The latter showed wide vertical cracks, but complete failure was never observed, owing to the excellent quality of the concrete used, It should be noticed that the horizontal rings which surrounded the vertical rods were held together at their ends only by thin wire, With the use of thicker horizontal rings and the welding together of their ends the yielding of the vertical rods, and with them the failure of the whole body, will be pushed much higher up. The shorter age of the cubes, Nos. 25 and 26, appears in the less favorable results. The tests on prisms of type B, Nos. 34 to 37, were, notwithstanding
+

@@ -1,0 +1,6 @@
+<doctype type="plate">
+
+<person>Frederick C. Law</person>
+
+<building>Church of Our Lady of Lourdes, Toronto</building>
+

@@ -1,0 +1,112 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" STANDARD PORTLAND CEMENT TESTS " author="">STANDARD PORTLAND CEMENT TESTS.
+
+
+
+All experiments shall be carried on, as nearly as possible, at a uniform temperature of 65 deg. Fah., except when tests are being made for the PURPOSE of ascertaining the comparative strength of cements required for winter use.
+
+
+
+(1) PROPORTIONS.
+
+
+
+All proportions shall be determined by weight.
+
+
+
+(2) FINENESS OF CEMENT
+
+
+
+For the present, a maximum residue of 10 per cent on the 100 x too mesh sieve shall be the test for fineness, and the whole of the cement shall pass a 50 X 50 mesh sieve The gauge (Stubb's) of the wire shall be No. 35 for the 50 x 50 sieve, and No. 40 for the too x too sieve. A mechanical sifter, working automatically by jig motion, and thus eliminating personal error, is recommended.
+
+
+
+In the case both of hand mixing and sifting with the mechanical mixer, the process shall occupy a definite time, depending upon the weight to be sifted, and the diameter of the sieve. For example, with a weight. of 10-oz. of cement, and sieves 8-in. in diameter, the sitting shall he continued 2½½ minutes ott No. ½ sieve,, 1 minute on No. 100, ¾¾ minute on No. 60, and ½ minute on No. 50.
+
+The introduction of small weights such as washers into the cement, while ½ sifted, is to be deprecated, as they tend to push an undue proportion of the cement through the mesh, to stretch the wires and to increase to some extent the grinding. Such practice should not be allowed, excepting on works of construction, where there may he a necessity for ordinary rough tests.
+
+
+
+The sieves shall be periodically examined with great care, as moisture sometimes collects on the wire so that when a residue test is made this moisture mixes with the cement, causing a coating on the wires, and often appreciably diminishing the area of the mesh.
+
+
+
+The sand for standard tests shall be quartz, crushed so that the whole can pass through a 20 x 20 mesh sieve (wire No. 28 Stubb's gauge), but sufficiently coat se to allow of the whole being retained by a 30 x 30 mesh sieve (wire No. 21 Stubb's gauge).
+
+
+
+(3) SPECIFIC GRAVITY
+
+
+
+The specific gravity is for the purpose of determining the degree of calcination of a cement with certainty, and is therefore of great importance. The specific gravity of a Portland cement shall he at least 3.09, and shall not exceed 3.25 for fresh cements, the term "fresh' being understood to apply to such cements as are not more than two months old. The gravimetric system is recommended for determination of the specific gravity.
+
+
+
+Portland cement improves with age, provided it is properly stored and kept in air-tight bags or barrels. Specifications, therefore, should not prescribe only fresh cement.
+
+
+
+The following description of the method of carrying out this test is taken from a paper on "Testing of Portland Cement," by Gary, Trans. Amer. Soc. of Civil Engineers, October, 1893:
+
+
+
+''The determination of the specific gravity of the cement particles by the volume-meter of Schumann is a well known uniform method This consists of a glass bottle of about 200 en. cm. (12.2 en. in.) capacity, with a calibrated glass tube in its neck. The bottle is nearly filled with oil of turpentine, the tube tightly inserted and filled by a pipette with the same oil to the zero mark of the scale, of readings being taken that all air bubbles are removed. One hundred gr. oz.) of cement is put in through the tube, which is then closed by a cork. When the fluid becomes clear, the height of its top surface is noted on the scale. The weight of the cement divided by its volume, as determined by the scale of readings, gives the specific gravity. To secure precise results, it is necessary that the temperature should remain uniform throughout the experiment, and hence vessels, cement and oil must have been kept in the same room for some considerable time. In hot weather the apparatus can be put into water of a known constant temperature. It 100 gr. of cement are used, a rise of deg. Cent., between the two readings decreases the specific gravity 0.8 per cent.
+
+
+
+(4) BLOWING TEST (FOR FREE LIME, ETC.)
+
+
+
+The hot bath test for detecting tile presence of free time, etc., shall be carried out in the following manner Mortar pats, prepared of neat cement and thoroughly worked, shall be troweled upon ground glass plates (carefully cleaned, preferably with acid)
+
+*Report of special committee submitted to Canadian Society of Civil Engineers, January, 1902.
+
+about inches long by 2½ wide, and ¼ inch thick, so as to exclude all air and moisture.
+
+
+
+The pats shall be about ½-in. thick in the centre, and shall he worked off to sharp edges on the four sides of the plate. They shall then be covered with a damp cloth and allowed to retain in the air until set, after which they shall be placed in vapor in the Faija bath tank, in which the water is to be heated to a temperature of about 130 deg. Fah. After remaining in the vapor for 6 hours, including the time taken to set in air, they are to be immersed in hot water, and allowed to remain there for 18 hours Upon their removal from the hat It, the samples should not be curled up, should not have fine hair cracks nor be distorted, and should not have large expansion cracks. The samples, if separated from the glass, should break with a sharp, crisp ring. if these conditions are satisfactorily fulfilled, it is believed that no free lime is l)resent in a form that will prove detrimental. Cementines, when very finely ground even if slightly overlimed, are not so liable to blow.
+
+(5) TIME OF SETTING
+
+
+
+The time of setting shall be determined by noting the time required for a sample under test to hear a needle of 1/12 inch diameter loaded with one-fourth of a pound, and one-twentyffourth of an inch in diameter loaded with one pound, the mortar under test being of the consistency of rather stiff plaster or mortar The percentage of water used shall be stated in the report.
+
+(6) TENSILE AND COMPRESSIVE TESTS.
+
+
+
+
+
+The strength lb of Portland cement shall be determined by testing a mixture of cement and quartz sand. The tests shall be made in a uniform manner (both for tension and compression) with briquettes) of the same form and same cross section and with the same apparatus.
+
+Neat cement. Neat tests, except where fineness, specific gravity and hot bath blowing tests are also made, are misleading as to the value of a cement. Briquettes of neat cement, in which these characteristics have been determined and found to be satisfactory, shall bear a tensile stress of 250 pounds per square inch at the end of three days; 400 pounds per square inch at the end of seven days, and 500 pounds per square inch at the end of 28 days. All briquettes shall be one day in air, tinder a damp cloth or in a damp chamber, and submerged in clean water for he remainder of the time periods. Any cement which shows a decrease in strength on or before the 28th day is to be rejected. The decisive tests shall be considered as the average of five briquettes although for ordinary practice two or more briquettes may be sufficient, and, in the latter case, only the highest test of the group is to be taken as the strength of the cement.
+
+
+
+In determining the tensile strength of a briquette, the area of the broken surface shall be measured with great accuracy, as errors sometimes exceeding to per cent. are possible unless such measurements are insisted upon.
+
+Sand arid Cement. In sand test, the sand and cement must be thoroughly mixed together while dry. After the water has been added, either for neat or sand tests, the mortar shall be thoroughly mixed for a uniform time suitable periods being two minutes for machine mixing and five minutes for hand mixing
+
+Briquettes made of one part cement and three parts standard sand, in the manner described hereafter, shall stand t 25 lbs. per square inch at the end of seven days, and 200 lbs. at the end of twenty-eight days.
+
+At the end of the same period the minimum compressive strength of a mixture of one part cement to three parts sand shall be 2,000 lbs. per square inch.
+
+Note. Quick setting cements generally show a lower strength than that specified above.)
+
+The tensile strength of briquettes mixed in time proportion of 3 to 1 or of other sand briquettes, shall not show a decrease either on the twenty-eighth day or subsequently.
+
+In every case the quantity of water used in mixing shall be stated in the report.
+
+The quantity of water to be used in neat tests varies with the kind of cement, fineness etc., and hence no arbitrary quantity y can be specified, the correct method being to bring all mortars to the same degree of plasticity. An apparatus similar to "Vicat's,' and consisting of a needle having an area of 0.4 square inches weighted to about t in ox., may be used.
+
+''The tests are made as follows: A ring, in ½ - in. in height and
+

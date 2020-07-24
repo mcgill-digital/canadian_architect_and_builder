@@ -1,0 +1,136 @@
+<doctype type="text">
+
+<article title=" THE COMPRESSIVE STRENGTH OF CONCRETE " author="">
+
+were made upon sand cement in order to compare it with the Portlands, and also to determine the best proportions in which to mix it in making concretes.
+
+This cement was " Cathedral" brand sand cement, made by the St. Lawrence Portland Cement Co., of Montreal. It is made of equal parts of Portland cement and kiln-dried pump sand. These are run together into a revolving cylinder half full of flint pebbles, where they are thoroughly mixed and ground to an impalpable powder.
+
+The conditions under which the tests were made this year were the same as those of the first series (published in paper No. 117, Trans. Can. Soc. C. E.), except that the blocks were made 9 X 9 x 12-in. instead of 12in. cubes, as the cubes were found, in some cases, to be too strong for the testing machine to break. The blocks were tested with their long edges vertical, and rested on a steel plate which was on a ball and socket joint, the plate above the block being fixed. Sheets of rubber were inserted above and below the block to give a more uniform distribution of the load. The blocks were allowed to stand in the moulds for about two days, and were then removed and placed in water, where they were kept until the time of testing.
+
+The results of all the tests made in 1898, and the more striking ones of other years, are here presented in tabular form
+
+
+
+RESULTS OF EXPERIMENTS ON THE COMPRESSIVE STRENGTH 
+
+OF CONCRETE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column 13 shows the relative quantities of cement in the different mixtures, and some attempt has been made to estimate the cost of the different mixtures on this basis. The relative costs are compared on the following two different assumptions —First assumption Column 14 shows the relative
+
+costs if it is assumed that the sand and stone can he secured on the spot and their cost ignored. The cost of different brands of cement is taken as below.
+
+Second assumption Column 15 shows the relative costs of the different mixtures and brands on the following assumed costs per cubic foot of materials:
+
+	English Portland	53 cents.
+
+German Portland                   
+
+	Sand cement	54
+
+	Broken stone	8
+
+	Sand	2	"
+
+The cost of labour is not taken into account, as it will be the same in every case, and these costs can at best be only a rough approximation.
+
+The main requisite for an economic and good concrete is to have just enough cement to completely surround every grain of sand, and just enough of this mortar to fill every interstice between stones. Column 12 gives the proportion of mortar to stone, and it will be seen that with each different mortar the strength increases as the proportion of stone increases, or as the volume of interstices between the stone decreases, because the mortar is not so strong as the stone. The strength also increases with the richness of the mortar in cement, so that the strongest concrete will be one with very little sand and a great deal of stone. Those with the 1-1 mixtures of mortar are very much stronger, though also more expensive than the others. The sand cements are found to be weaker than similar mixtures of Portlands by from 12 per cent. to 40 per cent. The manufacturers claim that with a mortar, such as a I-10, with a great deal of sand, this cement is stronger than the Portland. This remains to be determined.
+
+If the concrete is desired to have very great strength, a Portland cement and a rich mortar might be used, but if weight is the main consideration, with only moderate strength required, a concrete of sand cement will be much cheaper and quite efficient. Of course, much cheaper mixtures than the ones tested can be made, but they will be weaker accordingly after a certain limit is passed, which limit has not been reached in these experiments. One of the cheapest and a fairly strong concrete is No. 23. This mixture would seem to be the best one to use if excessive strength were not required.
+
+The loads given in the table are the actual crushing loads. The blocks showed cracks or signs of failure before this load was reached, but it was thought better to make the comparison on this basis. For purposes of comparison it is best to take the results of the four-week tests, as the concretes then show more uniform results than at one week, and the two-month tests are not complete.
+
+These tests are still very incomplete, and it might be profitable to make further tests with concretes containing more stone. The strongest of the sand cement mixtures is No. 26, and with this rich mortar it looks as if it would stand a good deal more stone, thus increasing both the strength and weight, and reducing the cost. Tests of this nature will likely be carried out at McGill University in future years.
+
+
+
+<article title=" CHARACTERISTICS OF GLASS." author="">
+
+CHARACTERISTICS OF GLASS.
+
+Glass is bent in a kiln. Glass melts at 2,300° ; the heat employed in bending is 1,800°. No pyrometer would stand long in that heat ; it might last an hour, but it would not last a day, and so the heat of the kiln is judged from the color of the flame and other indications. By long experience and observation the expert glass bender is enabled to estimate the heat in this manner with accuracy. Smaller pieces of glass are put into the moulds in the kilns with forks made for the purpose. The great moulds used for bending large sheets of glass are mounted on cars, so that they can be rolled in and out of the kilns. The glass is laid upon the top of the mould over the cavity and is bent by its own weight. As it is softened by the heat it sinks into the mould and so is \ into forms. It may take an hour or two to bend the glass, which is then left in the kiln from twenty-four to thirty-six hours to anneal and cool. Glass to be bent, of whatever kind or size it may be, is put into the kilns in its finished state ; the great heat to which it is subjected does not disturb the polished surface. Despite the exercise of every precaution more or less glass is broken in bending
+
+it.	Bent glass costs about 50 per cent. more than the flat.
+

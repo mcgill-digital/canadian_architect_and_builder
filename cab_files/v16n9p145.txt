@@ -1,0 +1,272 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+THE SCIENTIFIC BASIS AND COMMERCIAL FEASIBILITY OF HEAT RADIATORS, USING AIR INSTEAD OF' WATER OR STEAM.*
+
+<article title=" THE SCIENTIFIC BASIS AND COMMERCIAL FEASIBILITY OF HEAT RADIATORS, USING AIR INSTEAD OF' WATER OR STEAM " author="Aylsworth, George M.">
+
+By GEORGE M. AYLSWORTH M.D., COLLINGWOOD, CANADA.
+
+
+
+In the past many have thought that air could be used in radiators instead of water for the distribution of heat, and about twenty years ago a U.S. patent was issued covering the point.
+
+The scheme, however, proved a complete failure owing to the radiator being simply a square box many times the capacity of the conducting pipes. The current of air was so rapid that it passed through this box radiator in a straight line and an enormously large proportion of the air in the box was not changed in temperature at all. As a consequence the hot air parted with but a small percentage of its heat, while passing through this box form of radiator. The general appearance and construction of the radiator is shown in Figure r. The scientific reasons for the adoption of its peculiar form and the use of thin sheet metal in its construction are as follows
+
+The conditions requiring to be met were a distributing agent that would make the circuit of the furnace and radiators many times while water was making a similar circuit once. At the same time, the rapidly moving air would absorb much less heat from the furnace, bulk for bulk, than the slower moving water.
+
+
+
+The problem therefore was to evolve a radiator that would compel the air passing through it to part with all or neatly all of its heat to the air of a room without diminishing the rapidity of the travel of the confined air.
+
+
+
+Tire problem has been solved by the adoption of four devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. r.
+
+
+
+
+
+First, by increasing the distance the air has to travel within a short space.
+
+
+
+This was accomplished by the up and down or to and fro course the air is compelled to take in passing through the radiator. The distance from the centre of the inflow pipe to the centre of the outflow pipe is 2 feet, while tire air travels in the radiator four and a half times as far, or an average of feet.
+
+
+
+Second, by offering the least possible obstruction to the passage of the heat from the air within tire radiator to the air outside the radiator, but within the room.
+
+
+
+This was accomplished by using sheet metal as thin as is consistent with rigidity.
+
+
+
+Third, by compelling the volume of air to spread out into thin sheets so that all of it while passing through a radiator, should be kept as nearly as possible in contact with the enclosing metal.
+
+
+
+This is accomplished by having the conduit through each section of the radiator, 1 x 7 inches rectangular in form, instead of round or square. The method of piping consists in having the area of the conducting pipe equal to the areas of the conduit or conduits in the radiator' or radiators served by it. Also in having he volume of air necessary to serve a radiator, whether it have one or more sections, conveyed to the radiator in a single round or square column.
+
+
+
+It will he noted that this method causes the difference between the circumference of the supply pipe and the conduits in the radiator to increase with each section that is added to it. The conduit in a single section has nearly double the circumference
+
+
+
+*(Presented by request at the Summer Meeting of tire American Society of Heating arid Ventilating Engineers, Niagara Falls, N.Y. 1903.)
+
+of its round supply pipe, while the conduits in a four—section radiator have three and one-half times the circumference of its round supply pipe.
+
+
+
+The conducting pipes of a single section are round 3-inch pipes having a circumference of q inches and an area of 7 square inches, while the conduit through the section has a circumference
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 2.
+
+
+
+of 16 inches and air area of 7 square inches, or the same area as its supply pipe.
+
+
+
+A four-section radiator is served by a 6-inch round conducting pipe, having a circumference of 18 inches and an area of 28 square inches, while the sum of the circumferences of the four conduits is 64 inches and the sum of their areas is 28 square inches, or the same as their 6-inch conducting pipes.
+
+
+
+The extremely flat shape of the conduit through a radiator also prevents any part of the air' it contains getting more than half an inch from the enclosing metal, while the centre of the air current through a 3-inch round pipe is r inches away from the containing metal or three times the distance, arid in a 6-inch round pipe, 3 inches or six times as tar from the metal, arid so with each change in the number of the sections in a radiator.
+
+
+
+It is a well-known fact, which can be confirmed by observation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 3.
+
+
+
+of any stream of water, that fluid in contact with the wall of a pipe, on account of tire friction, takes on a revolving motion while passing through it, but the whole area of the Current does not partake of this revolving motion unless the pipe is extremely small. The part of the area of the current that is unaffected by this motion increases in proportion to the whole area of the pipe, provided the rapidity of the current remains the same. (See cut).
+

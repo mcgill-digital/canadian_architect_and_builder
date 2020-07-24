@@ -1,0 +1,111 @@
+<doctype type="text;ad">
+
+HEAT REQUIRED TO RAISE THE TEMPERATURE OF AIR.
+
+<article title=" HEAT REQUIRED TO RAISE THE TEMPERATURE OF AIR " author="">
+
+Air, in common with all other gaseous substances, possesses the property of requiring various amounts of heat to raise its temperature through a given range, according to the circumstances under which the heat is applied. This point is of so much importance, says a writer in Compressed Air, that an entire article would be needed to elucidate it properly ; but for the present it will be sufficient to say that the "specific heat" here given for air (i.e. the number of 0.238) assumes that the air that is to be heated is constantly at atmospheric pressure—that is, it assumes that throughout the entire process of heating, the air is never exposed to a pressure that is sensibly higher or lower than that of the atmosphere. This condition is often fulfilled in practice, and the specific heat here given will therefore be found useful. When other conditions prevail, however, some different value must be used for the specific heat - a value that can be determined only when the new conditions are fully given.
+
+In calculating the number of heat units required to warm a given mass of air from one temperature to another one, we proceed precisely as we did in the case of iron ; that is, we first calculate the heat that would be absorbed by an equal weight of water, and then we multiply by 0.238, which is the ''specific heat" of air (at constant pressure.) Air is usually estimated in cubic feet instead of in pounds, because it is much easier to measure its volume than its weight. If, therefore, we have a certain volume of air given, and we wish to find out how much heat will be required to warm it through a certain range of temperature, we must first find out how much it weighs. To accomplish this without too much labor we may make use of the accompanying table, which gives the weight (in pounds) of a cubic foot of air at various temperatures, but always s at atmospheric pressure.
+
+To illustrate the use of this table, and the method of calculating the number of heat units required to h eat a given mass of air through a given range of temperature, let us take the following problem It is proposed to heat a mass of air from 50 Fahr. to 100 Fahr., by passing it, at atmospheric pressure, over a coil of steam pipe. The proposed mass of air, when measured at 50
+
+Fahr., occupies 500,000 cubic feet.	How many heat
+
+units will be required ? To solve this problem we first find out how much the air weighs. By referring to the table we see that one cubic foot of air at 50 Fahr. and atmospheric pressure, weighs 0.078 of a pound. Hence 500,000 cubic feet (measured under these same conditions) will weigh
+
+500,000 X 0.078 39,000 pounds.
+
+
+
+having found the weight of the air in this manner, we proceed to calculate the amount. of heat required by first figuring it as though the substance to be heated were water. Thus the initial temperature is 50 and the final temperature is 110 and the difference between these is 110 —50 —60, which is the number of degrees through which the temperature of the mass must be raised. There being 39,000 pounds of the air, we should have
+
+to communicate
+
+
+
+39,000 X 60 = 2,340,000 heat units
+
+
+
+to it, if it were water, in order to heat it from 50 to 110 . To take account of the fact that the substance is air instead of water, we multiply this result by 0.238 (the "specific heat" of air at constant pressure), just as
+
+in the case of iron we multiplied by	0.117 Thus we have
+
+2,340,000 X 0.238 = 556,920 heat units,
+
+
+
+which is the quantity of heat that would be required to raise 500,000 cubic feet of air from 50 to 110, the air being measured at 50 Fahr., and its pressure remaining equal to that of the surrounding atmosphere throughout the operation.
+
+WEIGHT OF A Cubic FOOT OF AIR, AT ATMOSPHERIC
+
+
+
+PRESSURE (.0 to 600 F.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green grey woodwork may have medium robin's egg blue with a frieze of deeper blue, a cornice of bluish green, greys and silver, a ceiling of tight bluish and green grey, arid the upholstering and draperies of citron yellow.
+
+
+
+
+
+Canada Foundry Company
+
+	TORONTO, ONT.	Limited
+
+(SUCCESSORS TO ST. LAWRENCE FOUNDRY COMPANY OF TORONTO)
+
+
+
+
+
+
+
+Engineers, Founders and Machinists
+
+
+
+STRUCTURAL IRON AND STEEL WORK
+
+Beams, Channels, Angles, Tees and
+
+Cast Iron Columns always in stock.
+
+WRITE OR 'PHONE FOR ESTIMATES AND PRICES

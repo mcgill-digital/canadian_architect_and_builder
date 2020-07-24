@@ -1,0 +1,116 @@
+<doctype type="text">	THE CANADIAN ARCHITECT	BUILDER
+
+
+
+CONCRETE CONSTRUCTION—ITS PRACTICAL APPLICATION. *
+
+BY ERNEST L. RANSOME.
+
+<article title=" CONCRETE CONSTRUCTION—ITS PRACTICAL APPLICATION " author="Ransome, Ernest">
+
+THE practical application of concrete may be conveniently divided into four divisions, viz. 1st. False work. 2d. Materials. 3d. Tools. 4th. Labor.
+
+The second division can be usefully divided into four sections, viz.:	A. Cement. B. Aggregites. C. Iron. D. Water.
+
+DIVISION 1.—False Work.—Concrete, in respect to false work, is unfortunate in comparison with other masonry because it not only needs more expensive centering whenever centering is necessary, but it also usually requires cribbing, whereas other masonry does not. This characteristic entirely prohibits its rise in many cases where in all other respects it would be desirable, and it is therefore an obstacle to the more extended use of this valuable construction that should be minimized as much as possible. Of late years I have met with considerable success by adopting systems of standard centering and cribbing, which, while not of universal application, are of great use. permitting. as they have done, of the construction of floors and buildings that otherwise could not have been attained but as this is of interest to the contractor rather than to the architect, I will not enter into a detail description thereof.
+
+Great difficulties have often arisen from the swelling of the sheeting of the centering or cribbing, caused by the wood absorbing the moisture of the newly placed concrete. From this cause many arches have been lifted and broken, floors cracked and walls thrown out of line. By using sheeting boards of a moderate width, say six to eight inches, and beveling one edge slightly, the boards may be put close together and when expansion occurs the only effect will be to slightly crush the sharp outer edge of the bevel, without lifting or disturbing the concrete abutting or resting upon it, the widest side of such boards being of course placed facing the concrete.
+
+This is a very inexpensive, simple and unfailing remedy that from its conception I have used in all cases, and since its use I have never had any trouble from swelling of the timber. Some such device as this is especially necessary in dry climates, also in light constructions, such as floors of but an inch or two in thickness. or hollow walls.
+
+For standard centering or cribs, if of wood, it is advisable to make them of planed lumber. The surface of the wood should be thoroughly coated with common thick kerosene oil before it is used for the first time, and before each subsequent use it should be brushed over afresh with the oil, or else with a paste made of castile soap and water. Fish oil is objectionable as it is apt to injure the surface of the concrete, and linseed oil is generally too gummy for this purpose.
+
+It may be accepted as a general rule that false work of light sheeting, well braced, is more economical than heavier planks with braces farther apart. I am aware that this is not the usual practice.
+
+The ornamental effects can be much more cheaply produced by recessed than by projected work.
+
+Materials.—Under this head cement, by reason of its greater cost and active qualities, stands out preeminent. I will limit my remarks under this subdivision to Portland cement, with the exception of the following observation, viz:
+
+That where rapidity of construction is not a great object, and aggregates are unusually cheap, by the use of common lime, with or without some of the cheap naive cements, properly handled, work of good quality and of astonishing cheapness can be made—one part of lime to forty parts of aggregates not being considered too little in some cases.
+
+Portland cement, a giant from its birth, is striding rapidly along in, the way of improvements in quality and price, so that formulas of tests that were thought severe a few years ago would not be considered sufficiently exacting at the present time to ensure as first-class the cement that would successfully pass them.
+
+The current technical literature teems with methods of testing, so that we can hardly go astray in the selection of a good cement. The three principal requisites for a first class cement are as follows
+
+tat. That it sets or hardens without undue expansion or contraction.
+
+2d, That it be sufficiently finely ground.
+
+3d.	That its tensile strength be high.
+
+The usual methods of ascertaining these points are:
+
+1st. The cake test. This test is so well known that a description of it here is unnecessary. When time is an object, by the use of hot water the test may be hastened. Under expert supervision the 'boiling test'" is by many considered superior to the cake test, but the difficulties in the way of carrying it out and some uncertainties in the results that yet linger about this new test. prevent me from advocating its substitution for the older test.
+
+2d.	The test for fineness. Ninety per cent, of the cement should pass through a hundred-mes screen having 10,000 holes to the inch. It would he better to use a yet finer screen for testing. but for the difficulty of obtaining finer screens. The practice of using coarser screens is to be condemned because they pass much that is inert. The screenings should feel soft and silky to the touch. The residue on the screen should be hard, black, angular grains. The economic importance of fine grinding has seldom been exaggerated. It is usually unduly disregarded, yet it has been established beyond reasonable doubt by repeated experiments that the sand-like grains if the cement are practically inert and useless. Still, unlike the first qualifications. this is an economic question, and the ill effects of coarse grinding. if nut apparent in the first test, can be overcome by making due allowance for the coarse portion in proportioning the cement to the aggregate and then but little harm will follow the use of coarse ground cement in ordinary work.
+
+3d. Tensile strength. This test is usually and best made by the aid of the ordinary testing machine. Several first-class cements will now develop tensile strength of 6oo or 700 pounds per square inch in seven days, and while this may be too high a standard to insist upon, yet the cement that will not furnish a strength of 450 pounds in seven days ought not, in my judgment. to be graded as first-class, unless it is exceptionally fine ground.
+
+With regard to the aggregates not so much has been published.
+
+Sufficient interest is not usually taken in these inert materials, which, nevertheless. have a powerful influence upon the character of the concrete, so much so that a good aggregate with a poor cement will sometimes give better results than a good cement with a poor aggregate.
+
+A first-class aggregate should be made of a hard, tough rock, tree from clay or dirt and having a rough surface and sharp angles when broken it should be so graded from the finest grains to the largest pieces admissible in the work it is for. as to give, while retaining the largest proportion of large sized pieces, the smallest proportion of voids.
+
+If the aggregate is all of one material, the desired aggregation can be determined by weighing a given measure. That proportion which, while retaining the maximum amount of large pieces. weighs the most, is the best.
+
+If, on the other hand. the aggregate is composed of different materials,
+
+
+
+A paper read at the Twenty-eight Annual Convention of the American Institute of Architects, held in New York October, 15, 16 and 17, 1894.
+
+then that proportion which in a given measure and under the same limitations as just given, will permit of the introduction  into the filled measure of the least quantity of water is the best.
+
+In making such teats the larger the measure the better a round measure is better than a square box, and it should not contain less than two cubic feet. The material also ought to be shaken down into the measure. It is desirable, when time will permit, to make these tests with .t mixture of one of cement to three of sand, but ordinarily with cements of equal fineness the relative strength of different brands will remain about the same as under the test with neat cement.
+
+For fireproof work care should also be taken to avoid such aggregates as contain feldspar. and where the possibility of the concrete being subjected to a long continued red heat is sufficiently probable as to he worthy of precautions being taken to meet its effects, limestone also should be rejected from the aggregate.
+
+To those who have studied the matter practically, it is evident that in the large majority of cases the prejudice against the use of the dust and fine particles created in crushing brick or stone is unfounded, and the practice of prohibiting these and substituting therefor ordinary sand is strongly to be condemned. Lient. Innes found that both limestone dust and ground, burnt clay, gave stronger results than the purest sands, and tests and works carried out under my supervision thoroughly corroborate this.
+
+
+
+The largest stone does not necessarily make the beat aggregate. For instance, finely crushed granite is for some purposes inferior -to finely crushed limestone, although as a rule the granite is the harder of the two. One reason for this is not hard to seek: Owing to the brittle quality of granite, in crushing it is not only broken into small pieces, but many of these pieces are so bruised and contused that upon a little pressure being exerted upon them, such for instance as can he applied by the finger or thumb, they will crumble. With limestone and many other softer rocks, by reason of their greater toughness and elasticity, this is not the case.
+
+Again, some stones, as quartz and the like, have surfaces of such smoothness that the adhesion of the cement thereto is not so good as that between cement and other stone, such as basaltic lava, sandstones and the like, which, when fractured, present a rough surface. Such stones as these latter usually make first-class aggregate. Broken stone, as a general thing, is a better aggregate than gravel. Sometimes a mixture of the two is preferable to either alone. Usually the use of nile or the other has to be determined by the economic side of the question and the local supply. When from such causes gravel is selected, its quality can be greatly improved, at small cost, by running it through a crusher that will break the larger pieces as they pass.
+
+The common practice of limiting the maximum size pieces so that they will pass through a three-inch ring is, I think, open to question. In massive work, stones much larger may advantageously be used, not, however, if the late fashionable practice of "dry concrete" be adhered to.
+
+The experiments carried omit by Mr. Elliott C. Clark tend to show that the presence of a small amount of clay in the concrete is no detriment to the strength of concrete, even with clay, as much as ten per cent. of the aggregates and cement combined,
+
+In corroboration of this I would instance the Niagara gravel, which, whilst it contains a marked quantity of clay, yet makes most excellent concrete.
+
+Having determined the aggregate, the next important question is. what is the proper proportion of cement to use for any given work?
+
+When first-class materials, in round figures and within the limits of proportions between the cement and the aggregates of from to 4, to  15, the crushing strength of concrete, when skillfully made, at a month old may be taken as follows in tons per square foot : Multiply the constant number 700 by the number representing the proportion of cement used, and divide it by the relative number representing the amount of aggregate used; for instance, a concrete composed of 1 part of cement to 14 parts of aggregates should, when properly seasoned, have a crushing strength of 700 X 1 50 tons when three months old the strength will have increased
+
+14
+
+some twenty-five per cent., and when twelve months old it will have increased some fifty per cent.
+
+Under this rule a concrete composed of s of cement to 14 of aggregate would he about on a par with good brick work when a month old, and be about fifty per cent, stronger when twelve months old. The rule reduces the strength of the concrete too much as the proportion of aggregate is increased. but it is reasonably correct and quite safe to act upon.
+
+SECTION C.—Iron.—The tensile strength of concrete is comparatively little, and by reason of the gradual though slight shrinkage that takes place in all concrete structures that age in dry situations, should not be relied upon in any important work.
+
+For giving tensile strength to concrete, all modern workers of note now use iron in some form or other.
+
+Angular iron bars, cold-twisted, commend themselves in many ways, and on this continent they have been more largely used than any other form in concrete iron construction.
+
+The advantages of this cold twisting are many; they may be summed tip as follows
+
+1st. The tensile strength of iron is largely increased, viz., from 20 to 50 per cent,, dependent upon quality of iron used.
+
+2d. Its elongation under strain is considerably lessened, a very important advantage in concrete-iron construction.
+
+3d.	It forms a continuous key with the concrete, both longitudinally and also athwart the bar, The effect of the twist is to grip the concrete in every direction, amid in fireproof flooring and other work where light construction is desired, the importance of this universal key is very great for it contracts the tendency which the bar otherwise would have to split the concrete along the line of tension,
+
+4th. The cost of twisting is nominal, and the royalty for its use not prohibitory.
+
+In placing these bars care should be exercised in putting them in position where they will best exert their strength. They should be straight and laid directly in the line of strain Any deviation from this rule should be such that the tendency to straighten, which invariably occurs upon the application of the strain, will do little or no damage, such a deviation, for instance, as laying the bar of a floor beaul with a slight sag in the centre. In such a case when the strain takes place the tendency to straighten would have the effect of thrusting the centre of the bar upward against the downward thrust of the load, and it would be harmless. If. on the other hand, the bar was laid crowning in the centre, upon the floor being loaded, the tendency of the bar to straighten would be in the same direction as that of the downward thrust of the floor load, and the consequences would be detrimental, if not fatal, to the integrity of the structure.
+
+Concrete is an excellent conservator of iron. Von Emperger states that he knows of a case where iron rods were found perfectly rust free after having been imbedded in concrete below the water level for forty years. (T. A. V.
+
+C.	E., Vol. XXXI. - p. 447.)
+
+W. G. Triest, Jr., states that a wrench that had been buried in concrete
+

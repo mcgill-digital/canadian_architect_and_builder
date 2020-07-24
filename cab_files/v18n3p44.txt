@@ -1,0 +1,82 @@
+<doctype type="text">44	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+become mixed with the fresh gas issuing from another. A gas fire should have a supply of air in addition to
+
+that which is supplied through the mixer It is impossible to supply enough air through the mixer to secure complete combustion, and one of the most common errors in setting gas burners is the attempt to exclude all other air.
+
+On the other hand if an excess of air is supplied it will unduly reduce t he temperature of the products of combustion 
+
+It is a mistake to attempt to hold the heat hack," by tightly closing the damper in the smoke—pipe. When this is too tightly closed the poisonous products of combustion are retained too long in the furnace and poison the fresh gas issuing from the burner. The way to avoid loss of heat to the chimney is to take the heat out of the products of combustion and then let them escape freely When the heat has been extracted, the sooner they are carried away the better. By actual test, with careful measurement of the heat units utilized in the air, I have found that more heat units were utilized with a free outlet to the chimney than  with the damper tightly closed, In the latter case the smoke—pipe was cooler, but the total number of heat units developed per thousand feet of gas was less, showing that much of the gas was unburned.
+
+Considerable scientific knowledge, skill and common sense are required to properly adjust a burner and mixer so as to secure the proper mixture of gas and air and the proper pressure in the burner. .\ three-quarter inch mixer will, in some burners, carry in more air than an inch and a half mixer in others. No rule can be given. I have secured a perfect fire with a three—quarter inch mixer, using one hundred feet of gas an hour, and I have had other cases where not more than fifty feet of gas an hour could be burned with an inch and a quarter mixer. A burner adjusted for one locality may not work properly in another as the command the pressure mains
+
+The supply pipes should be of liberal dimensions, especially if long, as the friction in the pipes will reduce the pressure, and a low pressure at the mixer means an imperfect mixture of gas and air, and, in consequence, imperfect combustion.
+
+
+
+THE SURFACE 
+
+
+
+It is impossible to give any hard and fast rule in regard
+
+ to the amount. of heating		 required, as
+
+there is much difference in the efficiency of surfaces, and so much depends on the quantity and temperature
+
+of the air carried over these surfaces.		The problem is
+
+to extract the heat from. the products of combustion, and no amount. of surface will do this unless that surface is exposed to a constant current of air at a temperature considerably below 2
+
+	I 2 degrees In general
+
+I have Found that, with a liberal air supply, there should be about one square foot of surface for each cubic foot of gas burned per hour.
+
+
+
+AIR SUPPLY
+
+
+
+This is not so difficult to estimate. Natural gas is a product of uncertain chemical composition, and this statement is even more true in regard to most artificial gas, but a good quality of natural gas should contain about one thousand B.T. U. to the cubic foot. This would heat about five hundred and fifty cubic feet of air one hundred degrees. It would therefore appear that the amount. of air passed over the heated surfaces should be from three hundred to five hundred cubic
+
+feet for each cubic foot of gas consumed.			The greater
+
+the amount of air and the lower its temperature when passing over the heated surfaces the more complete
+
+will be the exhaustion	of the heat.
+
+This raises an interesting question as to what disposition should be made of this air after it is delivered to the room which I will consider later.
+
+
+
+DISPOSING OF WATER OF CONDENSATION.
+
+
+
+This is one of the most difficult problems in connection with the use of gas as fuel. A thousand cubic feet of gas weighs about thirty-seven pounds, and if of high quality contains from nine to eleven pounds of
+
+hydrogen, but as each pound of hydrogen in the gas, combines during combustion with eight pounds of oxygen from the air there is a production of nine pounds of water for each pound of hydrogen contained in the gas, and a thousand cubic feet of good gas will produce from eighty to one hundred pounds of water when burned. To allow this water to escape in the form of steam at a high temperature, involves, as already shown, a great waste of heat. To utilize this heat by cooling the products of combustion to the point where the steam will be condensed, involves the problem of disposing of the water of condensation.
+
+By proper construction of the burner and regulation of the air supplied to the fire, a large portion of this water can be mechanically carried off through the chimney in the form of mist which is suspended in the air after the latent heat has been removed but some of it. will under some conditions form into drops, run down the inside of the chimney and drop from the furnace.
+
+Therefore every chimney used for a gas fire should be perfectly straight arid lined with tile, and provided with an opening at the bottom for the escape of the water.
+
+In several cases I have provided for a gas furnace a special chimney made of gas pipe from three to six inches in diameter, according to the size of the furnace, with an inch and a quarter pipe at the bottom connected with a drain.
+
+The furnace itself should be provided with some small openings to drain off the water, though, of course, the arrangement of these will depend on the construction of the furnace. I have been called to ''sick furnaces" where the trouble was that the lower flues had become completely filled with water. 1 was called to one case where the furnace was connected with the chimney by means of a smoke—pipe thirty-five feet long. This pipe near the chimney was close to a window. I found the trouble was due to a careless janitor who had left this window open and the pipe at this joint had become completely closed with ice.
+
+Most natural gas contains sulphur, and this when burned in connection with hydrogen produces sulphuric acid. The water of condensation is, therefore, usually
+
+quite corrosive. It will eat the mortar out of chimneys, hence the necessity for lining them with tile. It will corrode iron, so the smoke—pipe should be of heavy iron and coated inside and out with some acid—resisting paint. It should be kept. in mind that the products of combustion of natural gas are not corrosive while hot. Corrosion begins only when these are sufficiently cooled to cause condensation of the steam. The more perfect the operation of your furnace, the more trouble you will have with condensation. Complete absence of trouble from this source is usually an indication that the furnace is ineffective.
+
+I referred to the problem of disposing of the large amount of air which, in using gas, is required to extract properly the heat from the products of combustion. With a Furnace burning one hundred cubic feet of gas per hour this would require from thirty to fifty thousand cubic feet of air per hour. The large amount is  preferable. 
+
+But a Family of six persons would require for the most perfect ventilation but ten thousand eight hundred cubic feet of fresh air per hour, so if all this air that is poured into the house is allowed to escape at a temperature of 70 degrees through the windows or drawn oil' by a ventilating stack, there will be an enormous waste of heat.
+
+To my mind, there is but one proper solution of' this problem. Return to the furnace all the air supplied in excess of the amount required for thorough ventilation.
+
+This would require additional expense in the installation of the system. But any system of hot—air heating is detective which does not provide means for the exhaust of the waste air as well as means for the supply of warm air. A perfect system of hot-air heating should include double piping, that is to say, one set of pipes fur the supply and another set of pipes for the exhaust. 
+

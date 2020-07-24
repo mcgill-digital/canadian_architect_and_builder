@@ -1,0 +1,130 @@
+<doctype type="text">12	THE CANADIAN ARCHITECT AND BUILD
+
+
+
+possibly be employed for finishing purpose ? Any information will be appreciated.
+
+
+
+W. D., London, Ont., writes '' Can you give me the names of some good hooks on gothic architecture which would be of service to a student and draftsman ? I would prefer books giving details and construction with necessary explanation, rather than long treatises on the theory and aesthetics of gothic art."
+
+
+
+Jas. N., Aurora, Ont., asks if there is any method of making a pitch board for outside stair work so as to obtain the tread pitch without the necessity of resorting in common with most carpenters, to the preparation of a pitch board as for ordinary stairs, and after the work is laid out take off 1/4 or 1/2 inch as the case may be ? This method besides increasing the possibility and probability of errors, contracts the rise just the amount that is taken off and thus destroys the proper proportion between tread and riser.
+
+<article title=" ROOF FRAMING " author="Blagrove, George">
+
+ROOF FRAMING.
+
+By GEORGE H. BLAGROVE.
+
+
+
+A king post, we must remember, is upheld between the heads of two principal rafters, which are mortised or joggled into projecting shoulders cut for the purpose in the upper part of the post. It the post does not give way by rupturing at its smallest section—i.e., at the middle it may do so by having the two sides of its head sheared off by the upward thrust of the principals. The shearing resistance at the shoulders should therefore he equal to the tensile resistance at the smallest scantling. As the tensile resistance of fir is about seven times its shearing resistance, the united depths of the two upper shoulders should be seven times the smallest breadth of the post, or the depth of each shoulder should be three and a half times that breadth.
+
+Two other shoulders are commonly formed near the foot of the post to receive a pair of struts, which help to stiffen the principals. The depth of these lower shoulders ought, for security, to be as great as that of the upper ones. But another consideration may necessitate their being deeper. We cut into the lower part of the king post in order to obtain a fixing for the wrought-iron stirrup which upholds the tiebeam, and the post being thus weakened at this place its full scantling should be carried up well above the point where this fixing is made. The well-known gib-and-cotter arrangement is the most approved fixing for the stirrup now-a-days, and its security depends upon its being sufficiently high up in the post not to rend its way through the latter. If fixed 12 in. above the tiebeam we find by a simple calculation that there need be no fear of its giving way. even when the beam carries a ceiling and a floor. Of course, if the tiebeam is cambered, the stress upon the stirrup will be increased, but we do not advise the cambering of tiebeams, because when a cambered beam settles, it tends to thrust out the walls.
+
+The head of a queen post is supported upon one side by a principal joggled into its shoulder, and on the other by a straining beam, which frames into it horizontally. Under these circumstances it is doubtful if the full tensile strength of the post becomes available. Certainly, the scantlings habitually employed for both king and queen posts allow for more tensile strength than is requisite; and this is just as well, because stress of wind and other causes will often bring slight transverse strains to bear upon such posts. With regard to iron straps being used for connecting the heads of the
+
+posts with principals and straining beams, as is usually the practice, we are inclined to think that they are of very little service. The straps are not subjected to a direct tensile strain, such as they are best fitted to bear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+but often to a transverse strain which may injure them. Moreover, if the timbers shrink, these straps may be subjected to a compressive strain, which they are neither intended nor fitted to sustain. They are chiefly of use in holding the timbers together when a tenon breaks, and for this purpose bolts would be equally efficacious and safer, while capable of being drawn up tighter, which is not the case with straps. To obviate the necessity of using either, cast-iron heads may conveniently be employed either in king or queen trusses. They may be 5/8 in. thick or upwards. Fig. 1 shows an iron head for a king truss, and fig. 2 one for a queen truss.. The dotted lines show the boxings to receive the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+heads of the timbers, and the vertical holes for the suspension rods, which are substituted for king and queen posts. The following tables show the scantlings ordinarily in use for king and queen posts (exclusive of shoulders for struts and principals), with the diameters of wrought-iron circular suspension rods, which may he substituted for them if desired. it is assumed that there are ceilings to be carried in the king trusses and ceilings and floors in the queen trusses
+
+TABLE.—KING POSTS AND Suspension Rods.
+
+	Span.	  Posts.			Rods.
+
+	20 ft.	4 in.	by 3	in.	7/8 in.
+
+	22 fi.	in. by 3 in. 1 in.
+
+	24 ft.	5 in. by 3 1/2 in.	in.
+
+	26 ft.	5 in. by 4 in.	1 1/8 in.
+
+	28 ft.	6 in. by 4 in.	1	in.
+
+	30 ft.	6 in. by 4 1/2 in.	1 1/8 in.
+
+
+
+TABLE.—QUEEN Posts AND Suspension RODS.
+
+	Span.	  Posts.	Rods.
+
+	32 ft.	4 1/2 in. by 4 in.	1 1/4 in.
+
+	34 ft.	5 in. by 3 1/2 in.	1 3/8 in.
+
+	36 ft.	5 in. by 4 in.	1 3/8 in.
+
+	38 ft.	6 in. by 3 1/2 in.	in.
+
+	40 ft.	6 in. by 4 in.	1 in.
+
+	42 ft.	6 in. by 4 1/2 in.	in.
+
+	44 ft.	6in.by5in. 1 1/2
+
+	46 ft.	6 in. by in.	1 1/2 in.
+
+	48 ft.	6 in. by 5 1/2 in. 1 1/2
+
+	50 ft.	6 in.by 6 in. 1 5/8
+

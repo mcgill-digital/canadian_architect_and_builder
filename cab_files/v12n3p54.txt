@@ -1,0 +1,156 @@
+<doctype type="text">
+
+<article title=" MODERN SYSTEMS OF INTERIOR WIRING." author=" CHUBBUCK,L.B.">	
+
+54	CANADIAN ARCHITECT AND 
+
+
+
+afterwards inserting the wires they are run to the furthest outlet, and, working back, a loop is left at each of the oilier outlets, to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 6.—Loop SYSTEM.
+
+
+
+which the wires from the fixture are connected. Thus in this "loop system" (Fig. 6) the branch wires are not cut at any place between the panel board and the furthest outlet, so that if larger wires are afterwards required, the different fixtures MAY be disconnected, the old wires pulled out from end to end, and the larger wires inserted.
+
+Some details of the conduit work on branch circuits are shown n Figs. 7 and 8. It will be noticed that the conduit is run on the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 8.—DETAILS OF BRANCH CIRCUITS.
+
+
+
+brick flooring and not across the ceilings. This is because the plaster on the ceilings is not thick enough to cover the iron armored conduit, and since the brick flooring is afterwards covered by two to four inches of cinders, over which asphalt or the floor boards are laid, the tubes are completely concealed. In both these figures outlet boxes are used, into which the ends of the conduit at the outlet are sealed. These outlet boxes are made of iron, with a lining of the same material as that used iii the conduit. Two common forms are shown in Figs. 9 and 10, the first of
+
+	FIG. 9.—OUTLET Box.	FIG. 10.—OUTLET Box.
+
+
+
+which is an outlet box shaped to act as a receptacle for a flush switch. Fig. 10 gives a form used at a bracket outlet, showing the nipple on the cover by which the bracket is supported. In many buildings, however, outlet boxes are not used, especially for bracket and ceiling lights, the conduit being trimmed off nearly flush with the plaster and the fixture connected up in the usual manner. When one or more branches are to be tapped off the mains for an electrolier, etc., a "junction box is used. These are very similar to outlet boxes and often contain a branch cut out, making them practically a distribution box on a small scale
+
+The wiring in the basement is usually run open, i.e., not concealed in the plaster, and is often run in flexible conduit or on porcelain knobs, though for fireproof work the iron armored conduit is continued to the switchboard. A very useful support, made from gas pipe, for carrying the conduit in the basement is shown in the upper portion of Fig. 11. This figure also shows a form of switchboard suited to the feeder system in Fig. 3, each pair of feeders being controlled by a double pole switch.
+
+It is not permuted when installing the conduit to run cords in the stretches as they are put up, to facilitate pulling the conductors through afterwards, as this might make poor construction possible; that is, it would be an easy matter to pull even large wire through a conduit having rough, poorly made joints, which would abrade the insulation on the wire. When the wire is run through the conduit properly, it is practically a guarantee that the conduit has been well installed or the conductors could not be inserted. For this same reason, it is important to have all necessary curves as gradual as possible or difficulty will be had in running the wire afterwards. In making a correct joint in iron armored conduit, a wheel pipe cutter is used to cut merely through the outer iron armor, a hack-saw being used to saw through the lining. A reamer is then used to trim up the end of the conduit before it is threaded. A jack-knife is often used instead of the reamer, but a poor job is generally the result. Care should also be taken that the white lead used in sealing the joint does not get between the ends of the conduit. This can be prevented by giving the coupling a turn or two on the conduit, and then applying the lead to the thread on the outside of the conduit.
+
+The actual wiring of the building by running the conductors through the conduit is not done till all the plastering, flooring,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 11. SWITCHBOARD.
+
+
+
+
+
+etc., is over and the building is nearly finished—in fact, the wires are often run and the fixture work done at the same time.
+
+There is not much difficulty in running the risers or feeders, as the conduit is large, and the wire, where larger than No.6, is generally a stranded conductor. On the horizontal branch circuits, however, with many turns and using twin wire, the problem is not so simple. The inside surface of the conduit is first rendered smooth by blowing some powdered soapstone out of a horn through a section of the conduit. A steel tape about 3/16" wide and as thick as a clock spring is then passed through the conduit, after which the wires may be run. The tape is always run downwards if possible from a higher to a lower outlet. An ordinary stretch for a run is from fifty to eighty feet with three or four turns, though it is sometimes possible to thread the steel tape nearly two hundred feet on a horizontal run.
+
+In conclusion, it may be stated, that on account of the high standard of insulation now used on wire, any system of wiring is practically perfect where the insulation is protected from mechanical and chemical injury. The system to be employed in any special case depends on the circumstances. In some cases one system may be perfect, while in others it is expensive and unnecessary. In the best practice iron armored conduit is used in fireproof buildings or where the wiring is embedded in plaster or brick work. For the ordinary class of buildings with wooden joists, etc., where there is no liability of mechanical abuse, porcelain work is perhaps as good a system as can be used. In any case, where the wiring is properly done, the incandescent electric light—in contrast to the explosive and poisonous character of ordinary lighting gas—is probably the safest method of illumination yet devised by man,
+

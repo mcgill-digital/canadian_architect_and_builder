@@ -1,0 +1,70 @@
+	<doctype type="text">120	CANADIAN	ARCHITECT AND BUILDER.	November, 1893
+
+<article title=" SANITATION	HEATING " author="">
+
+	SANITATION	HEATING
+
+<article title=" DISCONNECTING PLUMBING FIXTURES " author="">
+
+
+
+DISCONNECTING PLUMBING FIXTURES.
+
+
+
+Disconnecting house fixtures from the soil pipe is sometimes practiced with us with good effect, says the National Builder, and the principle may, we think, be extended with good results inside our houses. A recent adaption in the bathrooms of a block of flats consists in placing a small sink in the tiled floor, which in turn is laid on a span of plank like the "mill floors." Beneath the floor a " "puro" tap is placed on the waste pipe of the little sink towards which the tile floor is slightly graded. The sink is so placed that the wastes of a porcelain lined iron bath and oval basin drip into it with the least possible length. These short wastes are of three-fourths inch nickeled pipes connected to the fixtures by simple means and simply movable. fly this means only two holes are made in the floor for waste pipes, one for the closet and one for the sink. This little sink takes care of any overflow that may take place, and the wash of the floor as well. The basin, so apt to lose its seal by self-siphonage, is disconnected, and the usual cumbersome and expensive wastes of the bathtub are done away with. The small open waste pipes of the bath and basin have only small fouling surfaces, and these are easily scoured out by the rapid flow of the hot waste liquids. The number of soil pipe connections is lessened and the work generally simplified by the means taken to disconnect them. Practically the plea is that it is only a little evil, and by tolerating it things will look as much better. The sanitary engineer everywhere finds people objecting to good work because "it looks so." Show the architect or owner how some favorite trick of construction is dangerous to life and health and suggest that the work should not be concealed. The reply is "but it will look so to have it exposed." With a properly arranged bath and basin there is no difficulty in going through a tiled floor with a single opening in addition to that for the water closet.
+
+"The number of soil pipe connections is lessened and the work generally simplified by the means taken to disconnect them." There is no possible excuse for having small fouling surfaces of this character. In the ordinary well constructed bathtub the trap is within the length of a union from the tub, and the distance inside of the bathtub from the surface of the seal scarcely exceeds three inches, and is sometimes less. In many of our best forms of basin the whole length of pipe from the seal up to the basin can be reached for cleaning. The idea that "hot waste liquids will clean out a pipe three-quarters of an inch in diameter" is a matter of faith rather than of works. Every architect should be firmly imbeud with the idea that the plumbing work is the most honorable of all that goes inside the house; there is no excuse for sacrificing it to any other requirement of construction or convenience. Its perfection is of a paramount importance.
+
+
+
+
+
+It has been found by careful experiments that one square foot of wall space will transmit from 70 to 1.25 units of heat per hour for every degree difference in temperature between the inside and the outside, the difference being caused by the action of the wind. In order to ascertain the amount of heat that will be transmitted through one square foot of wall space it will be well to take the lowest probable outside temperature and the highest transmitting capacity of the wall. Then from the desired temperature of the room subtract the lowest probable outside temperature and multiply the remainder by 1.25. This will give the number of heat units transmitted by each square foot of wall space for the space of one hour, multiply that amount by the area of the wall exposed in square feet, and the result will be the total heat units for one hour.
+
+To find the heating surface we proceed as follows: — From the temperature of the steam subtract the temperature of the room square the difference and divide by 100, which will give the number of heat units for each square foot of heating surface. Divide that into the total heat units required, and the quotient will be the number of square feet of heating surface for that pressure of steam. A three foot length of one inch pipe equals one square foot of heating surface. When a whole building is to be calculated the roof must also be included. All steam pipes act as heating surface. The diameter of the main in inches should be one-tenth the square root of the heating surface in square feet. It is as well to use one inch pipes for heating with live steam. For heating with exhaust steam two inch pipes are preferable. Return pipes should never be less than three-fourths the size of the mains.
+
+METHODS OF MAKING HARD BRICKS.
+
+In the western parts of Monogolia there are such rapid alterations of temperature that ordinary bricks and even the usual building stones disintegrate very rapidly. The inhabitants of that country have a process for making extremely hard bricks, sonorous, and having the appearance of trrchyte. The article by E. Blane in Dingler's Polytechnisches Journal, describing the process, does not inform us as to the exact constitution of the clay. The brick kiln is in the shape of a vertical cylinder, surmounted by a dome. There is a rather wide dome, and during the first part of the process the hole is left open. Three draught chimneys built inside the furnace open outwards at the height of the dome and are kept closed with clay at the beginning of the operation. The kiln is heated for three days during the first part of the process, and then the hole at the center of the dome is gradually reduced in size, by means of blocks of moistened clay. The flame is allowed to die down and the small hole remaining covered with wet felt. The felt is covered with sand which is continually kept moist. The three lateral chimneys are then opened and the fire lighted again. '[he draught is thus reversed and the second stage of the process thus commenced lasts for four days. During this time the water from the felt is heated and fills the kiln with an atmosphere of superheated steam. At the beginning of the second part of the process the bricks have light red color and this changes to uniform dark gray. At the end of four days the bricks are completed.
+
+
+
+
+
+PUBLICATIONS.
+
+A feature of the Cosmopolitan Magazine for November is the portion of the magazine given up to color work, no less than ten superb color illustrations being presented for the first time in magazine history, accompanying an article by Mrs. Roger A. Pryor on Changes in Women's Costumes.
+
+
+
+The By-Laws of the Toronto Builders' Exchange have been neatly printed in book form and enclosed in flexible cloth covers, with the name of the Exchange in gilt thereon. In addition to the By-laws the book contains a copy of the Declaration of Incorporation, and a list of the members of the Exchange. We are endebted for a copy to the Secretary.
+
+
+
+Mr. H. E. Haferkorn, of Milwaukee, has just published a handy list of books on Fine Arts and Architecture, Painting Sculpture, Decoration, Ornament, Carpentry, Building, Art Industries, etc. This work is an alphabetical reference catalogue, arranged under authors and subjects, and including analytical references to the contents of important works and as such, furnishes in compact form a key to all the literature of value on the subjects named, and is calculated to save the seeker after information a great deal of time which without its aid must be spent in searching through numerous catalogues. The price of this handy list in paper covers, is $3.25; cloth. $3.50; leather, $3.80.
+
+
+
+
+
+USEFUL HINTS.
+
+CEMENT FOR GLAZED SURFACE — This cement was invented by Prof.
+
+Alexander Winchell, the noted geologist. It adheres perfectly to glazed surfaces, and is excellent for mending broken minerals or fossils. Pulverize two ounces of gumarabic and dissolve it in the quantity of water a laundress would use for the same bulk of starch. Dissolve half an ounce of fine starch and half an ounce of white sugar in the gum solution; cook the mixture in a vessel set in boiling water till it becomes clear. A little gum camphor, oil of cloves or sassafras, will keep it sweet. A little alurn adds to the effectiveness and helps preserve the cement.
+
+
+
+MAKING BRICK IMPERVIOUS TO MOISTURE. — In reply to H. G. G.,"
+
+
+
+Galt, Ont. who asks, is there any cheap and reliable way to make bucks water-proof, so that they will be able to resist a water pressure of say 75 to 100 pounds? the Manufacturer and Builder says —The only safe course to pursue in a case like this, would be, in our judgment, to saturate the bricks before laying up, by immersing them in hot asphalt (or a composition containing asphalt), and to bed them in the same material, so that joints as well as bricks would practically form a single homogeneous body of asphalt. Such a wall would, if laid with care, be perfectly impenetrable to the en-entrance or exit of water. It would not be a cheap way of doing work, but would be efficient in fully answering this inquirer's purpose. A cemented wall would not be water proof, and especially not where it was required to withstand considerable pressure.
+
+
+
+THE T GIRDERS USED BY THE ROMANS. — In discussing the use of iron on a large scale by the Romans, Mr. Gradner writes: From Pompeii we might infer the total absence of constructive ironwork in Roman architecture, yet Prof. Aitchison claims that in the Baths of Caracalla large ceiling was supported on iron girders." This fact might be stated less doubtfully than these words would imply, since some tons of broken iron T girders were found a few years ago during the excavation of the great cella soliaris of the Therma of Caracalla. These girders had been cased in bronze, and they were arranged so as to form square panels, which were well filled in with concrete decorated with mosaic and delicate stucco reliefs, all colored and gilt, thus forming a strong and richly-decorated flat ceiling, with a span of enormous width.
+
+The effect produced on the character of cement for mortars by the size or form of the sand employed has been the subject of investigation by M. Feret, a French expert, who prepared artificial sand out of crushed quartzite, with a view to determine its strength as compared with sand of natural formation. The sand as received from the crusher was graded into three degrees of fineness. The first consisted of such grains as would pass through a sieve containing four meshes to the square centimetre, and were retained on a sieve of thirty-six meshes per square centimetre; the second consisted of grains passing through a sieve of thirty-six meshes to the square centimetre, and retained in one of a much finer mesh, while the third consisted of the grains passing this last sieve. Measured dry, each of these samples had practically the same specified weight, the second being slightly the lightest. Mixed in various proportions, it has found that the mixture having the highest specific weight was one comprising six parts of the first sand and four of the third, the weight of this being thirty per cent, more than that of number two.
+

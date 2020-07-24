@@ -1,0 +1,84 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	43
+
+two thousand pounds. The deflection was barely 1-25
+
+
+
+of an inch. A big fire of cord wood and oil was started on lower floors and kept at full intensity far an hour, and although the heat developed was 1,800 degrees F., yet the temperature on the floor above the fire only increased about four degrees, she owing that merchandise would not have been injured in such a position. At the end of an hour the deflection of the heated ceiling had increased to one—half inch. Then the whole building was drenched with water, and two hours later the load was removed whereupon a rise of one-half inch took place showing no permanent deflection or injury to the construction.
+
+The construction of reinforced concrete is supposed by man
+
+y to be slow business while as a matter of
+
+fact in no system of construction can the materials he as promptly obtained or the work more rapidly pushed. The cement and rods can be obtained, if necessary at a weeks notice and the rough timber For forms is a stock proposition. A single half yard mixer and suitable crew can readily erect a with floor of 6,ooo square feet area including columns and beams in a week's time with fair weather.
+
+To the contractor who has vainly tried in our cold climate in winter to conglomerate parts of frozen sand and gravel with one part of cement plus ice water, and produce smooth concrete work, the idea of putting in satisfactory reinforced concrete in winter seems an impossibility. lie is respectfully referred to the paper of W. A. Rogers, read before the Western Society of Engineers, who concludes from the tests that exposing freshly mixed Portland cement to a freezing temperature seems to effect its rate of hardening making it slower, but eventually the concrete will be just as good as if it had not been exposed to the cold. A conclusion in accord with the writer's experience.
+
+The question is frequently asked will reinforced concrete stand the test of time? Buildings built by Hennebique have been iii use For twenty years and are claimed to be stronger today than when first built.
+
+
+
+<article title=" GAS AS A FUEL FOR HOT-AIR HEATING.*" author="Thompson, R. S.">GAS AS A FUEL FOR HOT-AIR HEATING.*
+
+By R. S. THOMPSON.
+
+
+
+For cleanliness, convenience of management and economy of labor, gas is the ideal fuel. I believe the day is not far distant when the householder would no more think of filling his cellar with coal in order to supply his house with heat than he would of putting a slaughter house in his cellar in order to supply his family with meat.
+
+So obvious are the advantages of gas as fuel that on the introduction of natural gas, most people in the gas regions who had hot—air Furnaces made haste to have I lie grates taken out and gas-burners put in. They had their cellars cleaned up and their coal—bins taken away.
+
+In a large proportion of cases, after a trial for a single season, they made equal haste in having the gasburners taken out, the grates put back and their coalbins fitted up again.
+
+So generally unsatisfactory was the result of the attempt to use natural gas in hot—air furnaces, that it became a generally accepted idea throughout the gas regions that gas was adapted only for use in stoves and was entirely unsuited to hot—air furnaces.
+
+And vet there is no scientific reason why gas cannot be as successfully used in hot—air furnaces as in any other form of heating apparatus.
+
+The difficulty arose from lack of proper consideration of the conditions requisite in using a new fuel. Furnace men were putting new wine into old bottles. The result was that the old bottles (furnaces) were spoiled and the new wine (natural gas) was wasted.
+
+There is a wide difference between a gas fire and a coal fire, each developing the same number of heat units per minute.
+
+With coal, there is a bulk of intensely heated carbon throwing off radiant heat in great quantity; consequently the fire-box and combustion—chamber. or the
+
+* Paper read before the American Society of Heating and Ventilating Engineers.
+
+furnace become intensely heated by that radiant beat and a comparatively small amount of this highly heated surface will heat a large amount of air.
+
+There is comparatively little radiation of heat from the pure blue flame produced by the perfect combustion of natural gas. The heat produced is principally contained in the gaseous products of combustion. Owing to the dilution of these products with the nitrogen from the air and with the excess air usually admitted, this temperature is not very high. One of the principal products of the combustion of gas is water in the form of steam, and this contains in latent form a large amount of heat.
+
+In the combustion of one thousand cubic rect. of natural gas there will he produced from eighty to one hundred pounds of water in the form of steam. This steam will continue from eighty to one hundred thousand B.T. U. * as latent heat which cannot he utilized until the steam is condensed into water by lowering its temperature below 2 1 2 degrees.
+
+The attempt to heat a building with steam, allowing the live steam to escape uncondensed into a chimney, would he no more extravagant or unscientific than the. attempt to heat with gas while allowing the live steam produced by the combustion of the gas to escape uncondensed into the chimney.
+
+In order to use gas successfully and economically in hot—air heating, the following- points are necessary
+
+A burner which will secure combustion of all the gas which passes through it and will not permit the production of carbon monoxide, or, as it is commonly called carbonic oxide gas."
+
+2.	A sufficient amount of surface exposed to the products of combustion on one side and to air at a
+
+very considerably
+
+temperature	below 2 1 2 degrees on
+
+the other, and so arranged that the products of combustion will be reduced to a temperature below 21 2 degrees before leaving the furnace.
+
+3. .\ sufficient quantity of air passing through the furnace to take the heat from the products of combustion without itself becoming sufficiently heated to impair its power in extracting heat.
+
+4. Provision for getting rid of the water of' condensation.
+
+We will consider these points in order.
+
+There has been much insufficient talk on this subject. The heat is in the gas, not in the burner. If a burner secures the combustion of all the gas which passes through it without the production of carbon monoxide, it. has done all that. can be done. Talk about burners which burn large quantities of air is all nonsense. A cubic foot of gas in complete combustion combines with a fixed quantity of oxygen. This quantity can be neither increased nor decreased. If the quantity of air supplied is insufficient, part of the gas will he unburned If the air is supplied in excess of requirement, the excess of air will not be used. If more air is' mixed with the gas than required, combustion will be imperfect. and part of the gas will be unburned.
+
+A perfect gas flame is a clear blue and perfectly transparent. A white or yellow flame, or a milky—blue flame indicates imperfect. combustion. Sometimes a gas flame seems blue_ but by holding an object on the other side it will be found it is not transparent. This indicates imperfect combustion.
+
+If the dame '' blows " or lifts " away from the burner it shows too much air and consequently imperfect  combustion 
+
+If the fire '' streaks up " in long, ragged flames, there is imperfect combustion.
+
+If any portion of the burned gas mixes with the fresh gas, it poisons the latter and there is imperfect combustion for a small amount of carbon dioxide mixed with gas renders the whole mixture incombustible.
+
+The best gas fire is obtained by a large number of small jets so arranged that each jet will be fed with pure air and that the burned gas from one jet cannot
+
+British thermal unit.
+

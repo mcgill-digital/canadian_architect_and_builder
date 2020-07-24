@@ -1,0 +1,98 @@
+	<doctype type="text">84 THE CANADIAN	ARCHITECT AND August, 1891
+
+
+
+good plan, also, to remember that 10 per cent. profit on material and labor represents on a job of from $200 to $1,000 simply the shop expenses, allowing nothing for the master's expenses and time, and no plumber known to the writer ever made any money and kept it and stayed in business without getting from 25 per cent. upwards on contract work, including profits on extras of course.
+
+Another thing, don't worry if some patent-leather plumber seems to be getting all the contract work in sight at cost or near it. He may dazzle your eyes with his new wagon and gilt sign; the travelling men may tell you that Skinner is a hustler; that he runs thirty-six men that he has the Skylight flats and sixteen tenements in a row don't let that sort of talk move you a peg. Do what little job work you can get, make your customers your friends, and make it a rule that if you cannot get the cost of work with your living added, to let that job go and try another job. Discount your bills and remember the railroad rule in taking contract work In all cases of doubt take the safe side. Don't contract a job if you have any doubt whatever about getting your money. Don't imagine the mechanics' lien law will get you your money it is little more than a bluff. A slippery lawyer and a slight technicality will put you in the position of the fellow that drove the hearse lie was not in it. Finally, the writer invariably goes over his work when it is finished to find out what the job did actually cost him. I believe that plumbers get tangled up, and into the clutches of the sheriff, for the reason that they get half way through a lot of work they are losing money on, and get a lot more at the same price; without knowing they are meeting their Waterloo when settlements become due.
+
+
+
+<article title=" HEATING BY HOT WATER " author="">HEATING BY HOT WATER.
+
+WHEN the quantity of air to be heated per minute has been ascertained, says a writer in the <firm>Plumber and Decorator</firm>, the quantity of pipe that will be necessary to heat the room may be found by the following:
+
+Multiply the excess of temperature of the flow-pipe above that of surrounding air by the difference between the temperature at which the room is purposed to be kept, when at its maximum, and the temperature of the external air, and divide this product by the difference between the temperature of the pipes and the purposed temperature of the room then, the quotient thus obtained when multiplied by the number of cubic feet of air to be warmed per minute, and this divided by 222 (the number of cubic feet of air raised 1 deg. per minute by ft. of 4 in. pipe) will give the number of feet in length of pipe 4 in. diameter, which will produce the desired effect.
+
+When 3 in. pipes are used, the quantity of pipe required to produce the same effect will, of course, be different. To obtain it, the number of feet of 4 in. pipe obtained by the above rule must be multiplied by 133. If 2 in. pipe be used, the quantity of 4 in. pipe must be multiplied by two.
+
+
+
+A well known company who make the manufacture of steam and hot water heaters a specialty, now advocate a different method of figuring greenhouses to the one heretofore employed; namely, by exposure that is, counting in the entire exterior surface, glass, sides and ends. The old method was simply a consideration of the "glass surface ' alone, and was liable to error through varying differences in the construction and location of the sides and ends. A table which is conservative and based on a large number of actual trials, shows the amount of square feet of pipe necessary to heat my given number of square feet of exposure to a maximum night temperature of 50 degrees, and also what will be necessary to heat the same amount of exposure to a higher temperature of 60 degrees ; this latter being the highest that florists generally want. In computing the total exposure of the greenhouse, one-third of the square feet of the ends and exposed outside wall surface is added to the actual square feet of glass. After finding the number of square feet of piping that will be necessary to heat the house to the given temperature, then it is easy to transfer the square feet of pipe into linear feet of whatever size of pipe may be chosen.
+
+—Master Steam Fitter.
+
+
+
+Mr. <person>Harry G. Powell</person> has opened an office as architect at Stratford, Ont.
+
+<article title=" CLAY FOR SHINGLES " author="">CLAY FOR SHINGLES.
+
+WE reproduce from the Clay Worker cuts of a new shingle tile or "clay shingle" as it is called, which seems to be a great improvement upon the ordinary form in use here. Its general upper surface is depressed, leaving a raised rim wider on one side and grooved to receive a lip on the adjoining tile. The underside of the tile has two ribs, giving strength with lightness, and a groove near the bottom edge forming a drip. It is claimed that these tiles so securely lock that the heaviest winds cannot lift them. The size is 7 x to inches, with an exposure of 6 x 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inches. We would be glad to have an expression of opinion from our subscribers who are in the roofing business, or other practical men, as to the merits or otherwise of this tile.
+
+There is little doubt but that a snow and waterproof tile of light weight and great strength would fill a long felt want. Slates are utterly unreliable as a protection against fire, even a moderate heat cracking them and exposing the wooden roof beneath, while wooden shingles are not durable enough for a first-class building, and unless laid on a bed of good mortar more dangerous in case of fire than slates.
+
+
+
+ASPHALTE VERSUS TAR AND GRAVEL PAVEMENTS.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR,----Asphalte pavements are in danger of falling into disrepute, not because asphalte has been found wanting in any property necessary to the making of a good and durable pavement, but owing to a pernicious habit, either the outgrowth of ignorance or carelessness. 1 refer to the misleading statements to be met with daily in the columns of our newspapers, as furnished to them by corporate bodies and others to the effect That an asphalte pavement is to be laid on such and such a street, when in reality the pavement is to be constructed of tar and gravel. It is not my intention to go into the respective merits of asphalte versus tar and gravel, as I think it would be an insult to the common sense \ your readers to attempt to draw such a comparison, but simply to point out the injustice done to asphalte in general by having such inferior materials as tar and sand dignified by its name.
+
+There are many brands of asphalte on the market, some of them I am sorry to say of an inferior quality therefore I consider that it is quite sufficient for the genuine article to have to answer for the sins of these brands without being compelled to adopt those of such a primitive and out of date mixture as 'tar and gravel.'
+
+Yours truly,
+
+JUSTICE.
+
+
+
+JOINTS FOR CAST-IRON PIPES.
+
+THE ordinary method in this country for putting cast-iron water or waste pipes together is by a lead caulked joint. This answers very well when the pipes lie quietly in the ground. But pipes do not lie quietly in all cases. And in houses where hot and cold water is alternately passing through the pipes, expansion and contraction come into play, and the result to the joints is anything but satisfactory. If a steam drip enters one of these pipes, the lead ring forming the packing of the joint will work out upon the pipe within a few months.
+
+Pipes underground are liable to disturbance from a variety of causes. Leakage usually results from any movement of the pipe; with water-pipes these leakages are annoying and costly. If a cast-iron pipe happens to be carrying gas instead of water, the leakage at once becomes costly and dangerous.
+
+The lead-caulked joint is costly, and at the same time difficult to make well in confined locations, In plumbing work it is no uncommon thing to
+

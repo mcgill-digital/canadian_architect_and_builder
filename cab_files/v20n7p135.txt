@@ -1,0 +1,44 @@
+<doctype type="text">
+
+is 4 feet, and for 2 inch plank is 5 feet. Studding generally varies from 2 x 4 inch to 4 x 6 inch, according to the character of the work and the distance between the horizontal braces or walling.
+
+The best contractors have definite rules for the minimum time during which the forms must be left in ordinary weather, and then these times are lengthened for changes in conditions according to the judgment of the foreman. As a guide to practice, the following rules are suggested :—Walls in mass work: one to three days, or until the concrete will bear pressure of the thumb without indentation.
+
+Thin walls in summer, two days; in cold weather, five days.
+
+Slabs up to 6 feet span: in summer, six days; in cold weather, two weeks.
+
+Beams and girders and long span slabs: in summer, ten days or two weeks; in cold weather. three weeks to one month. If shores are left without disturbing them, the time of removal of the sheeting in summer may be reduced to one week.
+
+Column forms: in summer, two days; in cold weather, four days, provided girders are shored to prevent appreciable weight reaching columns.
+
+Conduits: two to three days, provided there is not a heavy fill upon them.
+
+Arches; of small size; one week; for large arches with heavy dead load, one month.
+
+All of these periods are, of course, simply approximate, the exact time varying with the temperature and moisture of the air, and the character of the construction. Even in summer, during a damp cloudy period, wall forms sometimes cannot be removed inside of five days with other members in proportion. Occasionally, too, batches of concrete will set abnormally slow either because of slow setting cement or impurities in the sand, and the foreman and inspector must watch very carefully to see that the forms are not removed too soon. Trial with a pick may assist in reaching a decision.
+
+Beams and arches of long span must be supported for a longer time than short spans because the dead load is proportionally large, and therefore the compression in the concrete is large even before the live load comes upon it.
+
+The general uncertainty and the personal element which enters into this item emphasize the necessity for some more definite plan for insuring safety. The suggestion has been made that two or three times a day a sample of concrete be taken from the mixer and allowed to set on the ground under the same conditions as the construction until the date when the forms should be moved. These sample specimens may be then put in a testing machine to determine whether the actual strength of the concrete is sufficient to carry the dead and construction loads. Even this plan does not provide for the possibility of an occasional poor batch of concrete, so that watchfulness and good judgment must also be exercised.
+
+
+
+<article title=" PRODUCING POLISHED EFFECTS ON CONCRETE WORK " author="">
+
+PRODUCING POLISHED EFFECTS ON CONCRETE WORK
+
+Concrete slabs and brick are now being produced in Europe, that are as fine in grain and structure as high grade porcelain, showing an equally fine polish.
+
+The secret of the progress consists in grinding the aggregates to as fine a powder as the cement. The mixture, one of cement to as high as twelve of aggregate, is then dampened just sufficient to pack well when pressed in the hand. It is then subjected to high pressure in strong iron moulds, up to 5,000 pounds per square inch. The best results are obtained in slabs or plates slightly under one inch thick. The pressure is applied in four or more strokes. After each stroke the pressure plate is removed to permit the air to escape. After each stroke the pressure is increased. The object of grinding the aggregates to the same fineness as the cement is to prevent forming an arch in the stone, which always takes place where high pressure and coarse aggregates are employed. Then again if the pressure applied to the concrete exceeds the crushing strength of the aggregates, the aggregates will grind at the contact point in the mass, leaving powdered contact points which weakens the concrete. This defect is entirely overcome by using a fine powdered aggregate. It will be seen that high pressure and coarse aggregates are inconsistent for fine work. Coarse aggregates can, however, be used where the mould produces forms in the shape of an arch, and the pressure applied is below the crushing strength of the aggregates. It is extremely bad practice to use high pressure in moulding concrete blocks over 4 inches high. on account of the danger of the arching of the aggregates. Tamping square or hollow concrete blocks is always to be preferred for sound work.—Cement and Engineering News.
+
+
+
+<article title=" CLINKER CONCRETE BUILDING " author="">
+
+CLINKER CONCRETE BUILDING
+
+A description has been published recently of some blocks of workmen's dwellings erected in Liverpool to the designs of the City Engineer, Mr. J. A. Brodie, M. Inst. C E. These buildings are three storeys high and are built entirely of clinker concrete slabs, made in sizes up to 16 feet by 11 feet. The outer walls and party walls are 14 inches thick throughout, with steel reinforcement strips in both directions, so that no areas equal to a square yard are left without reinforcement. Mr. Brodie wished originally to make these slabs only 7 inches thick, but the authorities failed to support him, and consequently the buildings were far more costly than they need have been. The interior walls were made of similar slabs, 6 inches; and 4 inches thick, and up to 16 feet by 11 feet. Mr. Brodie states that the cost of making these large slabs, 7 inches thick, is under 3s. per square yard exclusive of subsequent handling. This is under 15s 6d. per cubic yard. The reinforcement is put in chiefly to facilitate handling without damage, and is not relied upon to support loads, although it does, no doubt, stiffen the structure.
+
+The economy of using these large blocks of concrete (weighing from 4 to 10 tons) depends upon the total amount of work to be done, being sufficient to justify the provision of powerful plant to erect them. In large blocks of buildings or long rows of small ones, there would be a great saving over brickwork, but for a few small cottages it would not pay, and in such cases 9 inch brickwork with ferro-concrete bond courses will be hard to beat. In tall steel frame buildings big slabs of concrete could be used without any serious difficulty, and the rapidity of erection would astonish most people.
+

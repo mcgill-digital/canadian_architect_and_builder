@@ -1,0 +1,66 @@
+<doctype type="text">
+
+
+
+The horizontal measure of a conical or other curved roof shall be made at its base.
+
+Measure openings of ten square feet or less as though the roof were entire.
+
+Measure larger openings as though two feet narrower each way than the actual openings and deduct all but this allowance.
+
+Valleys, flashings, etc., to be measured at the actual surface of metal used.
+
+METAL ROOFS.
+
+
+
+Measure the actual surface of metal used, including flashings.
+
+Measure all openings of ten square feet or less as though the roof were entire.
+
+Measure all openings of more than ten square feet as though one foot narrower each way than the actual opening and deduct all but this allowance.
+
+PITCH AND GRAVEL ROOFS.
+
+
+
+Measure the actual surface covered.
+
+Measure all openings ot one "square" (100 square feet) or less as though the roof were entire, and all openings of more than one squares' as though one foot smaller each way than the actual size, and deduct the openings thus measured.
+
+Deduct nothing for fire walls in the roof.
+
+Allow the actual metal used in flashings.
+
+
+
+<article title=" ELECTRICITY IN BUILDING OPERATIONS " author="">ELECTRICITY IN BUILDING OPERATIONS.
+
+FROM the Electrical World we learn that temporary electric lighting installations have proven to be an almost indispensable aid during the construction of the modern many-storied buildings. With such artificial illumination, work is carried on throughout the entire 24 hours with many resulting economies. It is interesting to note that in almost every case when current can be obtained from the street electric supply service, or sometimes from adjacent isolated plants, both arc and incandescent lights, and in some cases electric motors, are temporarily used. As the building progresses temporary wiring is extended from floor to floor, and in some cases supplies quite a large number of lights.
+
+A number of New York "sky scrapers" now in course of construction are wired for from 50 to 100 arc lamps and 200 to 300 incandescence. In one of these buildings a pipe cutter and a drill press are being operated by electric motors, and in another several electric tile polishing machines are in use. Other applications will readily' suggest themselves. Originally the wiring is usually in fairly good condition, but as the work on the building progresses, constant overhauling and changing is necessary. One or more men are continually employed in watching the work and making the alterations in the location of the lights.
+
+In the present temporary installations of this nature ordinary single and twin rubber insulated conductors are used, supported on porcelain insulators fastened to the iron or brick work. In some cases lead-armored conductors are used without insulators. It would seem advisable to adopt some special conductors and fittings for this work. There also seems to be an excellent field here for compact, portable electric generating plants, consisting of vertical boiler, high-speed engine, and direct-connected dynamo, mounted on a single bed-plate or separately. The use of such portable plants would certainly be productive of particularly
+
+economical results. A compact gas engine and dynamo combination on the same lines might also be suggested if the necessary continuous running could be guaranteed.
+
+Aside from the importance of proper illumination and power appliances, the necessity for frequent intercommunication between distant parts of these 15 to 25 storey buildings, would seem to warrant the installation of a temporary telephone system with stations perhaps upon each floor. The temporary installation of such systems is to be expected in future large buildings during construction.
+
+
+
+<article title=" THE TECHNICAL TRADE JOURNAL AS AN
+
+EDUCATOR.
+
+" author="">THE TECHNICAL TRADE JOURNAL AS AN
+
+EDUCATOR.
+
+THE value of a well-conducted trade journal to a man who is engaged in the industry represented by that publication cannot be over-rated, writes Mr. Thos. P. Pemberton in the Master Steam Fitter. Nearly all trade papers, as the term is understood, are more or less technical in character, giving information not only of the general condition of special industries, but also of the changes and improvements made by manufacturers in design, process and construction. When these can be presented to readers by means of outline drawings and finished engravings the usefulness of the trade paper is still further increased. The daily newspapers pay little attention to the multitudinous details which are of interest to manufacturers. They may announce new inventions, the erection of large works, peculiarities in mechanism and operation, or great scientific discoveries, and these, undoubtedly, interest general readers and satisfy the public mind in its eagerness to know, at least, something of all current developments and events. But when the manufacturer desires minute information regarding his own special industry, he has recourse to technical and trade journals, which give him information of what others are doing and how they are doing it. The industrial press, when it performs its functions properly, does precisely that which the daily press leaves undone. In saying this we do not forget the wonderful enterprise of some of our large American dailies in giving illustrated descriptions of many new inventions and discoveries, but these, however satisfactory for general readers, are incomplete for manufacturers who may be particularly interested in all the details of design, construction and operation.
+
+But how is the technical trade paper an educator? Its mission and purpose are, in its successive issues, to cover the whole ground and to confine its information to the particular field in which it operates. It reports and explains many new processes, whether they be developed at home or abroad; it illustrates and describes important new machines and apparatus; it records the progress of invention and improvement in different branches of industrial art and applied science; it announces what is being made and sold the organization of new firms the award of contracts ; the construction and Operation of large plants; and gives special information on special subjects for manufacturers of specific articles. All this and much more is in the routine and absolute requirements of business education.
+
+The advertising pages in such a journal are not a mere dreary and uninviting series of puffs and boastings. They are an illustrated catalogue and chronicle of the supplies which are required in particular branches of industry. They indicate the most advanced state of ingenuity; they present to the eye and the mind qualities and forms ; they tempt the manufacturer and the consumer, as a matter of self interest, to examine them. Those who do not examine them exclude themselves from information for which, if they comprehended their own interests, they would be willing to pay handsomely.
+
+Trade journalism in this country has acquired dignity and importance; and in this field, as in all others, popularity, success and rapid growth are the portion of journals which prove their possession of brains, enterprise and sincere devotion to the interests of which they are representatives They are educating mediums for the advancement of civilization, the progress of commercial enterprise, manufacturing industry and mechanical ingenuity. They are the exponents of taste, design and utility, and an inestimable benefit to producers and consumers, to both employer and the employed.
+

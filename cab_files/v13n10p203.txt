@@ -1,0 +1,61 @@
+<doctype type="text">	THE	ARCHITECT AND BUILDER	203
+
+
+
+<article title="Chimney Construction" author="Philip, E.J.">CHIMNEY CONSTRUCTION.*
+
+BY E. J. PHILIP.
+
+
+
+THE construction of chimneys (toes not give us much thought, like many other things we have to deal with, until we have to construct one, and when you begin to look up facts it wilt surprise you how little real information there is to be had on the subject.
+
+In the old country, where there are many large chimneys used for alt purposes, there is on record much information both in reference to building, straightening and taking down. Most of the very high chimneys are used for other purposes than producing draft to burn coal, such as carrying off the poisonous gases from chemical works, etc. There is a book published called "Tail Chimney Construction," which gives the general details of many stacks built in the old country, and from these records you can make formula to guide you in designing a new stack.
+
+Let us consider what is the proper method of designing a chimney for any given purpose. The first question is, "What is the chimney for, or what is it to do?" for this will govern some details of the shell For instance, if it is to produce draft for ventilation, it will not require to be lined with fire-brick, nor will there be any benefit in putting in a loose lining.
+
+We will suppose the chimney under our consideration is to induce draft to burn coal, as that is the most likely duty of any chimney that we will be connected with.
+
+The size of the flue is the first dimension you will require, and it will depend on the quantity of coal to be burned and the velocity of the gases up the shaft. It is easily understood that as chimney powers increase, the dimensions do not increase proportionately. To illustrate this I will take some figures from a table in a reliable work
+
+A chimney	70 ft. high, 30" diameter = 100 h.p. 200ft. " 66in. " 1000 h.p.
+
+That is, the high chimney with five times the area equals ten times the power and while I am not sure that this proportion is right, it seems to illustrate the way the formula works. The only correct way is to calculate the number of cubic feet of gas going up the chimney at the average velocity, and the area of this column is the area of the chimney. The rate of combustion depends on the draft, and the draft depends on the height of the chimney and the temperature of the gases. The height of the stack is nearly always determined by the surroundings, as the stack must of necessity be above any buildings or hills, and I might say that the average stack is higher than is necessary. However, when there are no buildings or hills, the following formula will establish the height. This is known as Gale's formula:
+
+
+
+
+
+After getting the height, the area may be obtained by Kent's
+
+.06F.
+
+formula, which is: A =	In this rule the effective area is obtained and is two inches less all round than the actual area. This
+
+two inches is to make up the friction of shaft. We now have area of chimney and height of it. I might say that experience has shown that to burn hard screenings requires 175 feet stack, for buckwheat 150 feet. and for soft coal 80 to 100 feet. This is a pretty fair basis to start from. We will suppose our chimney is, say, too feet high and 40 square feet area. It looks a simple matter to construct a stack having this information, and so it is, only you must go about it in the right way. To continue your calculations after getting the size, you start a the too and work down. Authorities say that a chimney having a flue over five feet in diameter shall be 1 1/2 brick thick at the top; from three to five feet in diameter, one brick and under three feet, half a brick. A chimney five feet or over would have this size for the first 25 feet down and would increase brick for each 25 feet. This, according to calculations, is almost too much. It can run 30 to 40 feet each stage, but will depend on kind of material, that is, whether hard or soft brick, and whether built ;n cement or lime; 30 to 40 feet will work with good material and
+
+Paper read before the Canadian Association of Stationary Engineers.
+
+workmanship. Having laid out the different thicknesses of wall, and knowing the batter, which varies with different builders and conditions from 1/16 to of i inch, having this you can get the weight of shaft or chimney proper. In large chimneys it is usually specified what they shall weigh per cubic foot. After getting weight you can decide how much bearing surface you will require for the kind of soil you have at the foundation. Various bearing powers of soil are given as follows: Hard rock, native bed, 100 tons sq. foot; clay, dry, 4 to 6; moderate dry, 2 to 4; soft, to 2; gravel and coarse sand, 8 to 10; sand compact and well cemented, 4 to 6; clean dry sand, 2 to 4; quicksand and alluvial soils, 1/2 to ton per square fool.
+
+When the ground is soft you would require piling or timbering, and to spread it out over a considerable surface. The weight in tons divided by hearing power of soil gives surface required. Wind pressure is also an important factor in getting the area of the base. I will not go into the rules affecting wind pressure, but experience has shown that at the base of shaft proper its diameter shall be 1/10 th of height for square chimney, 1/11 for octagon, and 1/12 for round. In considering wind pressure it is usually figured at from 25 to 56 lbs., by different authorities. This must be resisted by foundation, as you can see that if the chimney rocks over with wind it will throw its entire weight on one side of foundation. In considering wind pressure it is necessary to take into account whether chimney is protected by buildings or standing in an open field. If the chimney is built into a building, windage may be almost disregarded except for piece above the roof.
+
+There has been a great deal written and many discussions as to the merits of different shaped flues, but experience and tests have shown that a parallel flue is the best or as good as any shape. The arguments for taper flues are something like this, that the gases slow down due to cooling as they go up, and consequently they require more room, an(t the flue should get larger; others say that the gases cooling down contract in volume, and therefore the flue should get smaller so as to take the same shape as the column of gas. Experience has shown that both are correct The gases contract and get smaller and consequently need less room, but they also slow down in velocity, due to their greater weight and therefore need more room, In this way they just balance up and require a parallel flue. Authorities say a round parallel flue is the best for all purposes, and the nearest approach is the next best.
+
+The chimney should be finished with a cap of some material that will stand the weather. I like cast iron best, but a cap can be moulded of Portland cement, and if the stack is for smelting work, of fire clay. These materials stand well, and if there is a ladder on the chimney they can be kept in repair. A ladder should always be built on the shaft, as it makes a means of examining it at any time, and if repairs are needed they can be done easily.
+
+lightning conductors are also approved and disapproved; but if a chimney is the highest object in its vicinity it is likely to take the discharge from a storm over it, and a properly erected conductor will carry it off, although many stacks are standing without any.
+
+
+
+PUBLICATIONS.
+
+The Engineering News Publishing Company, of New York, have issued the second of a series of Engineering Studies, by Charles Evan Fowler, M. Am. Soc., C. E. This part is devoted to illustrations and descriptions of notable Roman stone arches.
+
+Progressive Carpentry is the title of a book of 90 pages, prepared by E. D. Meloy, architect and builder, Waterbury, Conn., and published by thc David Williams Co., New York. The book, which is illustrated with numerous diagrams, is chiefly devoted to describing methods of roof construction.
+
+Mr. D. A. Hewitt, of Toronto, has prepared and published in convenient book form, skeleton specification suggestions for architects, arranged in constructional order with index. The object of the author has been to provide the architect with an easier method of collecting data required in making a specification.
+
+THE SOLAR PRISM COMPANY---CLEVELAND, OHIO, U.S.A.
+
+THE N. T. LYON GLASS COMPANY, LIMITED----TORONTO

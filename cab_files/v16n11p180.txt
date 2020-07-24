@@ -1,0 +1,78 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+illustrates the building 30 ft. wide. The purlin posts are set in from the outside posts 6 feet, which is one fifth of 30. The outside posts extend above the second floor 6 ft. (one-fifth of 30), and the height of the inside or purlin posts above the top of the outside post is 8 feet. being one-fifth of 30 (6 feet) plus one-third of 6 feet (2 feet), making 8 feet. After determining the pitch of the lower section of the roof in this manner, make the upper section one-quarter pitch. Set the middle posts hack, bracing under the root. By this construction they are out of the way, affording more room in the upper story, all of which is clearly illustrated in the sketch, and which it followed, will give excellent results.
+
+
+
+From "Puzzled": I would like to know if the bevels for a valley ratter are obtained in a similar manner to the bevels for a hip-rafter, only of course, reversed ?
+
+
+
+ANS.—The method of getting bevels for a valley is somewhat similar to the method for obtaining bevels for a hip-rafter. The manner is shown at Fig.5. Let AB-BC be the ridges and BI) the valley, draw BE square to BD and equal to the height of the root, draw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 5.
+
+
+
+DE from D describe the arc EF and continue DB to F; through D draw ABC square to DB, draw AF and EC; to apply the bevels, draw a square line across the top of the valley; apply the bevel BFA to one side and BEC to the other side on the top edge; the bevel at E is the side cut at top end and the bevel at D is the foot cut, BE is the length of the valley; when the roofs are unequal pitch as at Fig.5., shift the foot or the hip or valley a little out of the centre until the edges of the hips or valley come to the line of spars on both sides, so that it is never necessary to bevel the top edges.
+
+
+
+<article title=" BRICKLAYING IN WINTER " author="">
+
+BRICKLAYING IN WINTER.
+
+In the course of a report to the Foreign Office the British consul at Stockholm (Mr. Stewart MacGregror) makes some interesting statements as to bricklaying in winter. He says
+
+In winter-time one hears much about the want of employment for bricklayers and others in the United Kingdom on account of frosty weather. Yet anyone residing in Stockholm during the winter months can see bricklaying carried on in hard frost as an everyday occurrence. This, from a British point of view, is so unusual and important that I have endeavoured to obtain full particulars as to how it is done, hoping that these details may perhaps he useful at home. I have to thank Mr. P. Graham, a fellow countryman long resident in Sweden, for the following account of the system here adopted, and will just add that the art of building stands very high in Stockholm, much of the work done being both ornamental and of excellent quality.
+
+A few years ago a series of experiments were carried out here with a view to deciding the lowest temperature at which bricklaying might safely be carried on. Three
+
+different temperatures were decided on, namely first, 23 degs. Fahr. ; second, 14 degs. Fahr. ; third, 6 degs. Fahr. The bricks and mortar were, as to quality and conditions, such as are commonly used here. The walls thus erected during winter were allowed to stand till the following autumn, when they were torn down and the following results noted :—Nos. and 2. Perfectly satisfactory. The mortar was quite hard and sound, and had to be scraped from the bricks. No. 3. Unsatisfactory. The mortar did not adhere at all to the bricks, which lay loosely embedded in it. These results tend to prove that, without any special precaution as to material or labour, bricklaying can be carried on in Stockholm at a temperature as low as 14 Fahr.
+
+For lower temperatures it is necessary to heat the sand and water used in making the mortar, and for this purpose very simple apparatus is employed. First, for the boiling of the water, all kinds of contrivances are to be seen in use, including primitive as well as modern boilers. Second, for heating the sand, the common arrangement consists of a circular iron tube 18 in. to 24 in. in diameter and 6 ft. to 8 ft. long. This is closed at one end with bricks or an iron plate. On the top at this end there is a chimney 8 ft. to 10 ft. high and  in. to 6 in. in diameter. The fuel, which is generally refuse wood from the building under erection, is fed in at the open, or partly open, end of the cylinder. This cylinder is often formed of an old boiler tube or a piece of an old iron chimney, etc. For burning coal special grate and chimney arrangements would be necessary, but in no case need they be elaborate or expensive. After placing the cylinder on the ground the sand is heaped on and around it to a depth of 18 in. to 24 in., and allowed to remain until it gets hot, when it is taken away from where it is hottest and replaced by fresh sand. The mortar should be made in a room where the temperature is kept well above freezing. This temperature should naturally be regulated according to the frost that has to be counteracted. Generally, the builders here make a room of this kind by roughly boarding in a part of the scaffolding, simplicity and cheapness being the prominent characteristics of all the arrangements.
+
+When building in Frosty weather the following precautions should be observed :—(1) In laying the bricks care should be taken to avoid shifting them after they have once been set in the mortar. (2) Never use old or stale mortar, but arrange supply to correspond with demand. (3) it should be understood that the brick used here is of a light or porous character, which readily absorbs the moisture from the mortar. hard pressed or calcined bricks and stonework generally are not suitable for building during frosty weather, but edgings, or ornaments, etc., of such material can easily he dealt with by slightly warming them before bringing them into position. This can be done by keeping them a few days in a wooden shed heated by an open coke stove. In some cases it is found advisable to cover in with rough boarding the part of the wall where such stonework is extensive. In some cases a very small coke fire is found sufficient to keep the temperature high enough to prevent any damage to the mortar. (4) Although brick building can thus be carried on safely under any of the temperatures already named, this does not apply to plaster or cement work, which should not he done at or below freezing point unless proper heating arrangements are made.
+
+Whereas in Stockholm fifteen or twenty years ago almost all building was suspended during four to five months every winter, it is now the exception that such operations are hindered by frost more than a few days or a few weeks annually, and this though there is much more stone and ornamental work in the buildings now being erected than in those of an earlier period. What twenty years ago was considered practically impossible has now become everyday practice. To sum up shortly: (1) The bricks should be porous and perfectly dry, so that they may readily absorb the moisture in the mortar. (2) The water, sand and bricks must all be heated.
+

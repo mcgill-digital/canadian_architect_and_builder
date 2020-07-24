@@ -1,0 +1,50 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" PRACTICAL LESSONS FROM THE BALTI
+
+MORE FIRE
+
+" author="">PRACTICAL LESSONS FROM THE BALTI
+
+MORE FIRE
+
+At last we have got a report upon the Baltimore fire which is of undoubted value, coming from a disinterested and authoritative source, the British Fire Preventive Committee. This body is publishing a quarterly journal* of which Number I. is occupied entirely by the special subject of the Baltimore fire. This utterance, which is called a Record of the Baltimore Conflagration is the work of Mr. Edwin 0. Sachs, who is the chairman of the five Prevention Committee. it is a compilation from American documents and a summary of his own opinions. The remarkable thing is that out of the enormous crop of published utterances, supplemented apparently by a flood of information, opinions and theories from correspondents in the United States, he has been able to select only three reports that he considered honest. These are :—I. The report of Capt. Sewel, of the Corps of Military Engineers at Washington, which may be called the official report of the U. S. A. Government upon the catastrophe. 2. The Report of the Boston Mutual Experiment Station, called the insurance Engineering Experiment Station, which is under the direction of Mr. Edward Atkinson the first mover in the Field of Fire Prevention. The report is by Professor Charles Norton who is in charge of the Station and is approved by Mr. Jos. P. Gray, consulting Engineer. 3. The Report of a Special Committee of the National Fire Protection Association of the United States. Of the rest, some reports are said to be the wilfully distorted accounts of local officials on their defence, of local architects and contractors interested in the various buildings affected, of purveyors of fireresisting materials desirous of proving the value of their wares, of Commissions and Commissioners with a specific purpose and that in the interest of some party or parties financially concerned in the fire, such as, for instance commissions of the lnsurance Companies who had to keep an eye on the reduction of claims made against them and were inclined to take an optimistic view of damage done. Even experts of high standing Mr. Sachs finds are turned into special pleaders by
+
+those far- reaching financial influences that appear to dominate every thing American." ''The extraordinary power" he says ''of certain sections of the so—called "fire -proofing' trade of America is an extraordinary factor that has to he considered when dealing with the Baltimore fire, for that specialist trade stands in very close relation to the great contracting companies, and these again are in close business relationship with the great financial corporations, insurance, and other institutions that have money to place in real estate, and may thus be said to be directly or indirectly in touch with parties with whom relations would seem very unlikely in this country."
+
+These comments on the nature of most of the conflagration literature explain the smallness of the portion of it that Mr. Sachs has taken for his record. They are. also worth noting for the consideration of readers of fireproofing literature in general.
+
+The reports included in the record and Mr. Sach's summary, deduced from his whole studies of the subject, come to conclusions so much in agreement and mutually supplementary that it will be useful to bring these conclusions together under subject heads, first to consider the evidence given of the behaviour of different building materials in the fire, and secondly, to consider more generally how the planning and construction of buildings can be made to contribute to their safety if attacked by fire.
+
+
+
+<article title=" MATERIALS.
+
+" author="">MATERIALS.
+
+HOLLOW TERRA COTTA Tile.- As a protective covering this has proved unsatisfactory in every situation. The principal trouble is that it breaks. It breaks in a heat less than that in which it was baked originally so that this cannot be due to chemical
+
+
+
+*journal of the British Fire Prevention Committee, Waterloo Place, London, 5. W. Single numbers 5 shillings. Annual subscription for the four numbers of the journal and occasional supplements 16 shillings (post free).
+
+change in the material. The explanation given is the difference of expansion between the part exposed to the fire, (which is constantly called the web in these reports) and that which runs in at right angles to the field of exposure and has one side adjacent to the dead air within the block. The consequence is a rupture at the junction, and the outer web, (the protecting flange) drops off. In the case of column coverings and partitions, the resulting instability appears to be sufficient to destroy the further usefulness of tile protective covering and complete its ruin. Good work and good mortar in the first place would greatly increase the stability of this material and its value as a protection. The reports lay emphasis upon the extent of the losses in the Baltimore fire which are really due to bad workmanship.
+
+The cure suggested is greater thickness of the ''web". It is not the material which is at fault so much as its form. The web is now rarely more than in. thick and soon gets red hot. Prof. Norton questions " whether arty floor, containing so little material on its other faces as did these hollow blocks, could remain sufficiently cool in this fire to avoid serious injury by expansion." Capt. Sewell suggests that the web should have a minimum thickness of 1½ in. (Mr. Sachs says 2 in.) "So that the entire variation in the temperature would occur within the thickness of tile exposed web." Then he thinks "if made porous and "of good clay "the material "would probably be about equal to brickwork."
+
+In the case of floor construction of this material Prof Norton thinks the rupture of the protecting flange is hastened by the constructive form—a segmental arch, expanding on its lower surface and crushing tile members of that surface. The National Fire Protection Association give another reason for preferring flat arches to segmental ; viz, that the lower face is further removed from the strain-curve of the arch, and the breaking of the lower face will not impair the strength of the arch, as it would if the arch were segmental.
+
+All coverings for the lower flanges of beams and girders appear to have failed under intense heat flange tiles held by the skew-hacks of tile arches broke, as did shoe tiles for girders ; sheet metal clips failed
+
+tile which was only held in position by mortar dropped off. In some instances tile failure of the shoe-tile also permitted the tile protection to the web plates of the girders to fall off.
+
+The National Fire Protection Association adds to the floor question the following "conclusions" :—"The space between the floor and the floor arch should be filled with concrete of a good quality. It is important common cinders without any cement should not be used for this purpose. It has been found that, due to lack of a hard permanent filling for this space, large safes have fallen a distance of about six inches before striking the arch. This gives them some momentum, which adds to the shock which the arch is called upon to sustain.''
+
+BRICKWORK.—For an efficient fire resisting and protective material it is agreed there is nothing like well burned ordinary brick of good quality not vitrified, and well laid ---in cement mortar for perfection. This Capt. Sewell says, will stand the application of both fire and water many times without damage to itself.
+
+The 4 in. brick protection used on exterior columns and also on interior columns was without exception practically intact and as firm as before the fire. This coincides with the experience in former fires. Brickwork combines rigid construction and the necessary fire-resistive qualities.
+
+As an external facing, where the question of appearance is involved, brickwork is not free from chipping but it is in pressed brick facing that this was most noticeable. As a preventive of spalling, Capt. Sewell recommends round corners.
+
+Prof. Norton found no fault with red bricks but says "where brickwork of a lighter colour, ornamented with terra cotta, was used, considerably more damage was noticeable, especially after the slight snow storms of the week following the fire."
+

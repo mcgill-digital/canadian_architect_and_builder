@@ -1,0 +1,64 @@
+<doctype type="text">42	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+	<article title=" ADDRESS ON REINFORCED CONCRETE.
+
+" author="Turner, C. A.">ADDRESS ON REINFORCED CONCRETE.
+
+By C. A. TURNER, M. AM. Soc. C. E. Minneapolis,
+
+
+
+The industry and enterprise of the American Portland cement manufacture has now placed at the disposal of the enterprising engineer or builder, a thoroughly reliable material when properly handled which bids fair to replace timber and structural steel in buildings and short span bridges.
+
+In treating the subject from the popular standpoint, the writer would first say a few words as to the relia— of the construction as compared with steel or timber. Ignorant abuse will render dangerous the best material which the engineer uses, for example, some months ago the writer was called on to inspect, sonic coupler pockets forged out of 1 1/4x4 inch bars made by a Pittsburg company. They were worthless, the writer was told, and going to the pile and selecting four, they were placed on the ground and struck a few sharp blows with a sledge, a single blow fractured 10 square inches of metal in two cases. In normal condition this area would carry 600,000 pounds in tension. Taking the shank to a steam—hammer, the center was bent flat on itself without fracture, proving that the smith had burned the steel in forging, until it was worthless at the bend.
+
+ Similar inexcusable ignorance in working concrete will likewise result in inferior work, but by no means such an extent as that instanced in the case of the steel.
+
+The mistake that is made by many in fabricating reinforced concrete is the endeavor to get strength with a cheap concrete. A common proportion is cement ,3 sand, 5 stone a mixture much too poor to secure the best results or the greatest strength for a minimum cost. A mixture of cement to 2 sand and 2 broken stone of size From a pea to that which will pass a three— quarter inch screen is to be preferred. The stone should be screened, if limestone, otherwise the dust such as that of trap rock or granite may be used in lieu of sand. By making this mixture wet enough to how slowly and require no tamping whatever, the question of poor workmanship when the material is mixed by machine in exact proportions is entirely culminated; any laborer you may employ who can dump the car and level off the cement will do as good work as can be done.
+
+Such concrete three months old should give a value in compression of 2,500 pounds per inch, or more, without reinforcement. In the form of a column, if constrained laterally, Considered has shown that this crushing strength can be increased five—fold, or more, dependent on the reinforcement.
+
+The principle of this reinforcement is this If we take a light sheet metal cylinder and fill the same with sand, the cylinder will support a load on the sand much greater than it would empty, since the metal is in tension and the filling with the lateral restraint carries the load.
+
+Now were the metal shell square, evidently the ides of the shell would bulge sidewise under the internal pressure similarly any attempt to hoop a reinforced column with a square hoop is an amusing absurdity, the slightest lateral bending removing the necessary restraint.
+
+At first thought it might seem that a continuous eyelindrical shell would be the best means of reinforcement, , but the vertical metal being more rigid than the concrete, would be strained to its limit before being brought into action in its capacity of lateral reinforcement hence the undesirability of attempting to make the vertical reinforcement used continuous, i. e. , without some concrete between ends where this principle is to be employed, or making the reinforcement in form of a spiral coil as recommended by Cosidere.
+
+The criticism that may be urged against some of these forms of reinforcement appears to the writer to lie in the failure to make a good connection to the beams. For that reason the reinforcement advocated by him is in the form of a grill of vertical rods banded at intervals by a strong' riveted hoops with one of the rods bent outward into each beam, connected to and
+
+supported by the column, and the whole wrapped or hooped with netting.
+
+As in this country the use of concrete construction is in its earlier stages, it is not surprising perhaps, that many of its advocates are imitating the methods of framing required for construction in entirely different materials, rather than forms and proportions peculiarly adapted to reinforced concrete.
+
+In the structural line we have attempts to reinforce structural steel with concrete, to put in beams as thick as required for the old fashioned wood framing, attempts to reinforce in one direction only, forgetting that in a monolithic mass of the size with which we are dealing, temperature stresses must be provided for in the reinforcement of the work so as to make it stand without cracking.
+
+In designing reinforcement of beams, advantage should be taken of the principle different community, since with the constant section have to provide only for 2—3 the moment of a simple beam and we have but one— fifth of the deflection for the beam fixed at both ends that we would have for a simple beam.
+
+This system of design calls for the major section of the metal for flange reinforcement over the support and furnishes ample provision for shear.
+
+In constructing work in this line it is well to bear in mind that centering is a considerable item and that each additional beam is an extra expense. While we may not discard beams for heavy work for light, loads, such as two to four hundred pounds per square foot, we may make a simple slab from column to column spacing 16 to 18 running main lines of reinforcement. From column to column directly and transversely with lighter fabric between these lines, all buried in a slab of uniform  thickness.
+
+A few words regarding the interesting peculiarities of reinforced concrete. We will shortly illustrate a panel which under 82 tons load showed absolutely no deflection whatever. Now the materials with which we deal in engineering work are elastic, why then such deportment of these beams? In setting up, the concrete shrinks and the rods reinforcing the bottom of the beam are actually in compression, also the top of the beam in tension due to internal stress. Until this condition is counterbalanced we could then expect no elastic deformation. This feature of the deportment of reinforced concrete is worthy of serious consideration by those who contemplate using shapes of irregular form as rein forcing members.
+
+In crushing concrete usually shears at an angle approximately forty-five degrees to the direction of pressure, hence plain reinforcement, either parallel or at right angles to the line of pressure has a marked influence on its strength
+
+To return to the more popular phases of the question of reinforced concrete Can it be figured with accuracy? And do we know enough about it to use it with safety ? The answer is emphatically in the affirmative. The engineer can figure the strength with the same degree of precision certainly, that lie can timber construction while if the tensile value of the concrete is disregarded as is the case in good practice, the error is invariably on the side of safety.
+
+How does reinforced concrete compare in cost with
+
+styles of construction? For heavy building
+
+older	we
+
+can compete with wood when the working load is 500 pounds per square foot. or more.
+
+For lighter loads we can compete at a good profit with any of the older forms of fireproof construction, saving the owner the cost of the entire steel skeleton.
+
+For loads greater than 800 pounds per square foot. it is cheaper than timber if both are made of equal strength.
+
+As regards its fireproof properties there is nothing in use which equals it.
+
+At the Paris Exposition the Hennebique Company erected a cement concrete building in which to test both the strength of the floors and their resistance to fire when loaded. The first floor was loaded to three thousand pounds per square yard. The upper floor to
+

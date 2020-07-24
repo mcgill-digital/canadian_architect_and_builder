@@ -1,0 +1,6 @@
+<doctype type="plate">Entrance
+
+The <building>McGill College Students' Union, Montreal</building>.
+
+<person>Percy E. Nobbs</person>, M.A., and Messrs. <firm>Hutchison and Wood</firm>, Montreal, Conjoint Architects.
+

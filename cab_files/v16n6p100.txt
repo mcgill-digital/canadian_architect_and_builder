@@ -1,0 +1,156 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" TEST OF A CAST-IRON HEATING SURFACE IN CONNECTION WITH A FAN SYSTEM OF HEATING " author="">
+
+TEST OF A CAST-IRON HEATING SURFACE IN CONNECTION WITH A FAN SYSTEM OF HEATING.
+
+At the ninth annual meeting of the American Society of Heating and Ventilating Engineers a paper was read
+
+spaces between the tubes, all as shown in the accompanying sketch. Each section has a surface of 6.7 square feet giving a total for the whole heater of 1,692 square feet.
+
+The fan drew the air over the heater and discharged
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sketch of Heater Section.
+
+
+
+by Prof. R. C. Carpenter on a test made at Sibley College, Cornell University, of a cast-iron heating surface used in connection with a blower fan for heating the air. The data and record of the test in slightly condensed form reprinted from the Engineering Record, are given
+
+it into a small chamber, to remove eddies, and thence through a delivery pipe and nozzle, where its velocity was measured, into the room. The fan used was made by the American Blower Company and was of the following dimensions Height over all, 80 inches ; diam-
+
+
+
+	a	Number of RESULT OF			TESTS.
+
+			1	3	5	6	8	10	11
+
+	b.	Number of heater units	1	1	1	2	2	2	3
+
+	c.	heating surface, sq. ft	282.	282.	282.	564.	5(4.	564.	846.
+
+	d.	Steam press., lbs. abs	24.69	24.81	24.81	24.69	24.87	24.77	24.81
+
+	c.	R. P. M. of fan	161.	303.	500.8	155.4	304.1	501.5	205.3
+
+	f.	Static head, ins. water	0.207	0.797	2.294	0.203	0.774	2.21	.314
+
+	g.	H P. consumed by fan	0.387	1.182	4.178	.0997	1.122	4.17	.3269
+
+	h.	Vel. disch. head, ins. water	0184	0.780	2.29	0.193	0.763	2.18.	.291
+
+	i.	Steam per sq. ft. heat. sur. per hi., lbs	0.293	0.361	0.721	0.22	0.334	0.408	0.196
+
+	j.	Temp. air received	73.0		72.3	81.0	81.	83.0	74.1
+
+	k.	Temp. alr delivered	123.1	124.6	118.8	143.7	150.4	146.1	158.9
+
+	l.	Rise in temp. of air	51.5	51.2	46.5	62.7	79.4	63.1	84.8
+
+	m.	Temp. water leaving coils	211.7	189.4	186.7	215.6	203.	209.	207.4
+
+		Wt. of air disch. per min, lbs	109.	214.	318.	132.	163.	233.	134.
+
+	o.	B. T. U. per sq. ft. heat. sur. per hr	285.3	536.	750.	208.5	325.	397.	190.5
+
+	p.	Air disch., ft. per min., meas	1992.	3529.	5813.	2015.	2330.	5900.	2473.
+
+	q.	Air enter'g coils, ft. per min., meas	234.	412.	083.	233.	401.	675.	273.3
+
+	r.	Cu. ft. air per min., calc	1605.	3150.	4700.	1940.	2400.	3720.	1970.
+
+	s.	Ratio of expansion of air	1.095	1.097	1.090	1.116	1.128	1.120	1.159
+
+
+
+RESULT OF TESTS.—(Continued.)
+
+	a...	12	14	15	17	19	2()	21	23	24	26	28
+
+		3	3	4	4	4	5	5	5	6	6	6
+
+		846.	846.	1128.	1128.	1128.	1410.	1410.	1410.	1692.	1.092.	1692.
+
+	d..	24.81	24.81	24.69	24.75	24.47	24.84	24.75	24.79	24.09	24.77	24.77
+
+		302.	502.	159.6	301.5	502.4	203.	304.	501.	154.1	302.08	493.
+
+	f...	.746	2.167	0.173	0.733	2.08	0.32	0.74	2.07	0.197	0.743	2.08
+
+		.864	3.774	.2249	1.003	4.12	.367	.778	3.38	..
+
+	h..	.733	2.15	0.167	0.724	2.05	0.28	0.72	2.04	0.193	0.718	, 2.04
+
+		0.251	0:33	0.123	0:195	0:284	0:140	0:174	0:25	0:09	0.163	0.232
+
+		79.1									77.0
+
+	   ·	159.1	160.3	159.4	169.4	164.4	172.3	177.6	177.8	174.1	182.3	179.2
+
+	l. .	80.0	74.1	79.4	85.5	84.4	102.6	91.	80.4	89.7	105.3	103.2
+
+		200.3	203.4	219.6	203.9	203.	199.6	204.2	216.4	216.2	215.1	212.3
+
+	p.	3560.	5890.	1992.	3500.	5960.	2518.	3570:	5980.	2022.	3560.	5960.
+
+	q	398.	666.5	221.	389.	662.5	270.5	393.3	663.5	'222.	382.	640.
+
+	r.	2680.	3710.	1730.	2320.	3830.	1960.	269.0.	3980. . 1650.	2560.	3610.
+
+	s.	1.150	1.134	1.148	1.157	1.156	1.198	1.164	1.158	1.168	1.196	1.198
+
+
+
+herewith The heating system was arranged specially for the experiment by the American Radiator Company and consisted of twelve radiators placed side by side in two rows of six each, one row above the other and extending parallel to the flow of the air. Each radiator was composed of 21 sections, each of which was a single casting 9 X 36 inches, in the form of four nearly triangular tubes, slightly staggered, with half-inch air
+
+eter of wheel, 48 inches ; width at periphery, 17.5 inches; inlet diameter, 30 inches; outlet, 27 x 27 inches. The fan was driven by a 6 x 6 inch vertical engine and was arranged to run at different speeds. The individual radiators were controlled independently so that it was possible to make tests with different amounts of heating surface.
+
+The general results of the test are shown in the
+

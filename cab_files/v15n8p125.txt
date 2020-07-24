@@ -1,0 +1,43 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" VOLUME OF WATER IN HOT-WATER HEATING APPARATUS " author="Mackay, M.">VOLUME OF WATER IN HOT-WATER HEATING APPARATUS.
+
+Paper by Mr. <person>M. Mackay </person>read before the <assoc>American Society of Heating and Ventilating engineers</assoc>
+
+
+
+The volume of water required per square foot of radiating and heating surface, in the radiators, mains and heater of a hot-water heating apparatus, for best results in heating and greatest economy of fuel in operation, is a question which has received some attention in the past, but judging from the differences of opinion, as expressed in their various constructions, by manufacturers of heaters which have been used for heating by hot water during the past twenty-five years, and which are being offered and used at present for that purpose, we are still far from a standard, particularly in the volume of Water required in the heater per square foot of heating surface exposed to the fire or heated gases.
+
+
+
+In the manufacture of radiators, particularly when they have been constructed with a view to their being used for hot-water heating, the standard aimed at, and finally accepted by the leading manufacturers of radiators in this country, has been one pint of water to the square foot of surface—being approximately the volume of water contained in one square foot of surface of one-inch, ordinary thickness, wrought-iron or steel pipe.
+
+
+
+Some radiators have been constructed which contained less than this volume of water, and some which contained considerable more, but in either case these radiators have gradually gone out of use, while new designs in hot-water radiators which have been brought out during the past six years, have largely conformed to this standard, which seems in practice to be the best suited for this purpose for all classes of buildings except, perhaps, all-glass constructions, in which I have found it to be an advantage (On account of the greater and quicker cooling effect in such constructions, and the variable temperatures at which the water in the system is sometimes maintained, on account of' irregular firing, lack of fire-box capacity or lack of capacity in the heater, and on account of friction due to the long lines of piping usually employed in placing the required radiating surface in this class of building) to use a surface that contained from fifty to one hundred per cent, more water, although were a uniform temperature maintained in the water in the heater, and the same arrangement of radiating surface utilized that is at present used for the heating of other buildings with this system, with short circulations, and an ample arrangement of mains, it would not be necessary to increase the body of water in the radiating surface above One pint to the square foot of surface.
+
+
+
+At our last annual meeting, during a topical discussion, when this question was under consideration I mentioned an experiment or test made some years ago, in two green-houses of uniform construction, size 16 x 100 feet. Each house contained approximately 2,000 square feet of glass and had about 650 square feet of surface or running foot of 4-inch greenhouse pipe; each house was heated by a separate heater located in the same pit, with separate brick flues 8x12 inches, extending 20 feet above the ground. To these flues each heater was separately connected by 10-inch wrought-iron pipe; each had about 4 square feet of grate area and about 90 square feet of fire and flue surface (about half fire and half flue.) The radiating surface was arranged in the usual way for such constructions in 4-inch greenhouse pipe on each side of the house, below the benches, with one flow and two return pipes on each side, an open expansion tank at the extreme end of each line, and each side connected separately to the heater with 4-inch flow and return connection. In one house the 4-inch pipe was left regular and had an internal area of about o square inches, in the other house 2x2-inch oak strips were inserted in the center of' the pipes, reducing the waterway about 40 per cent., while retaining the same external surface. In a six-hour test maintaining a 60
+
+degree temperature in each house with an outside temperature of from 25 to 30 degrees, an average temperature of 160 degrees was maintained in the flow mains and 130 degrees in the return mains at each heater. The consumption of fuel was 130 pounds of anthracite coal, stove size, for the house with full waterways in the radiating surface, and 110 pounds of the same coal for the house with reduced waterways, while the temperature on the flow main on the heater with reduced waterways was frequently 5 degrees higher than on the other heater, and the dampers on this heater had to be partially closed to prevent a higher temperature. Later this house was lengthened 25 feet, Or 25 per cent., and piped in the same way, and the temperature maintained with the same average consumption of fuel as that used in the other heater with 25 per cent. less surface and glass area.
+
+
+
+Since that time I have used largely 1¼-inch pipe, with a little over one pint of water to the square foot of surface, in small conservatories 1½-inch pipe, with about 1½ pints of water to a square foot of surface, in medium-sized conservatories and a 2-inch pipe with about One quart of water to the square foot of surface, in large conservatories and greenhouses in preference to 4-inch greenhouse pipe with about half a gallon of' water to the square foot of surface. I have found that I obtained better and quicker results, a greater possible variation of temperature, and greater economy from the use of 2-inch pipe, with manifolds, than from any other size of pipe, either larger or smaller.
+
+
+
+In arranging the mains of a hot-water heating apparatus the area of the main has to be determined from the number of square feet of radiating surface to be supplied and the nature of the surf'ace, whether direct, direct indirect, or indirect radiation, and from the length of the main also, whether the main is to be used as radiating surface or covered, so that no standard as to volume of water per square foot of surface supplied could be adopted in regard to the mains in a hot-water heating apparatus without being subject to considerable variation At the same time I have found cases in hot - water heating where the area of the mains was from 25 to 50 per cent. larger than was necessary, and they could have been reduced with beneficial results, being made large to insure a uniform temperature in the main, which could have been obtained in a smaller main with a different arrangement of taking off branch connections.
+
+The greatest difference of Opinion as to the volume of water required per square foot of surface in hot-water heating seems to exist in the heater, or source of supply.
+
+Beginning with boilers of the Cornish type, which are used in some sections for hot-water heating, they contain about three gallons of water per square foot of boiler surface; then the ordinary horizontal and vertical tubular boilers, arranged for hot-water, have about 1½ gallons per square foot, a number of cast iron one-piece and sectional heaters have about One gallon per square foot, some have three quarts and others half a gallon then some heaters of this type, and water-tube heaters, contain from three pints to one pint per square foot, and in some heaters constructed of one-inch pipe, while the volume of water to the foot of surface is not materially reduced, the friction is increased by inserting a sheet of metal, as a circulating division, reducing the pipe to half its area. Now, it we do not consider the Cornish boilers, which are more largely used in other countries, and begin with the horizontal tubular boiler, which is largely used in this country, we have a variation in hot-water heaters of all the way from gallons to 1 pint of water per square foot of surface, and while all of these different constructions, with their varying amounts of water, will accomplish certain results with more or less efficiency and economy, certainly some will produce better results than others, and on that account would be considered a proper standard and while the arrangement and location of the surface relative to the fire and heated gases would make some difference as to the volume of water which
+
+<building>CANADIAN PAVILION, WOLVERHAMPTON EXHIBITION OF ARTS
+
+AND INDUSTRIES</building>.
+
+<article title=" CANADIAN PAVILION, WOLVERHAMPTON EXHIBITION OF ARTS
+
+AND INDUSTRIES " author="">

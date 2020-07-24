@@ -1,0 +1,54 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title="Concrete Floors" author="">CONCRETE FLOORS.
+
+
+
+THE subject of concrete opens a wide field for investigation and discussion, but a series of articles on the subject, in the Contract Journal, Mr. <person>G. H. Blagrove </person>confines himself to the consideration of its uses in the construction of floors. Slabs of concrete, he says, supported upon girders or rolled joists of iron or steel, form a species of floor which is coming more and more into general use, and it is our present purpose to indicate as accurately as possible the capabilities of the material so employed and the best means of turning those capabilities to advantage.
+
+It may he premised that the concrete referred to here is composed with Portland cement, not with lime. As regards the quality of the cement for this purpose, much that is instructive may be gathered from the writings of scientific experts. Practical men usually adhere to a few plain rules which occasionally receive modification when some newly-discovered fact meets with general acceptance. Thus, for instance, the specification for a recent contract required that the cement used in making concrete should be of such a degree of fineness that a sieve of 2,500 meshes per square inch should not reject mole than 12 per cent. of the powder when gently shaken. Scientific tests have shown that great additional strength is obtainable with higher degrees of fineness, but anything beyond the ordinary degree seems rarely to be insisted on in practice. We shall assume that the cement with which we deal is of the quality stated, that it weighs at least 112 lbs. per stroked bushel, or nearly 90 lbs. per cubic foot, and that a briquette of neat cement will have an ultimate tensile resistance of 400 lbs. per square inch after six days immersion in water. To prevent any possibility of its being used hot, and so being liable to crack after setting, it may be required to be kept for a month or six weeks after being mixed, and may be spread out upon a floor and turned over daily during the last two or three weeks. The question of chemical analysis is rarely approached in ordinary practice. It is generally admitted, however, by experts, that the cement should contain about 6o per cent. of lime about 24 per cent. of silica, and about 11 per cent. of alumina, the remaining 5 per cent. being made up of magnesia and alkalis.
+
+Supposing the ingredients to be thoroughly mixed, we should obtain a concrete upon which some reliance could be placed for its resistance to transverse stress. But this thorough mixing embraces the requirement often insisted upon that every particle of sand and coarse aggregate shall be completely coated with cement. If there should be an absence of cohesion in any part of the mass, all calculations of strength may be at fault.
+
+The question of the nature and proper proportions of the ingredients for making Portland cement concrete is indeed a wide one. As bearing upon the construction of floors, valuable information is afforded by the results of Mr. <person>Darnton Hutton</person>experiments. described in course of the discussion of Mr. <person>John Grant </person>paper on " Portland Cement' at the Institution of Civil Engineers.* Mr. Hutton experimented with bars of concrete 4 ft. long and ft. square, supported upon a 3 ft. span and broken by means of a load hung from the center. The general proportions of cement to other materials was to 9, though sometimes higher. With cement, 5 shingle, and 4 sand, the central breaking weight was 2,656 lbs. With cement, shingle, and 3 sand, or a proportion of to 8, the breaking weight was increased to 3,023 lbs., an increase of about 14 per cent. But on reverting to the proportion of I to 9, with 9 parts of shingle only to of cement, the breaking weight was increased to 9,590 lbs. The inevitable conclusion is that for transverse resistance sand is a source of weakness, and should he omitted. But everything would appear to depend upon the careful mixing of the ingredients. Without sand, and with an unequal admixture of cement and water, the cement might have a tendency to honeycomb in the interstices between the particles of aggregate, and this would be less likely to occur if sand were used. As a general rule, therefore, with ordinary workmanship, it would seem safer not to dispense with sand. As might have been expected, experiments generally show that the greater the proportion of cement the greater is the transverse strength, and of course the tensile strength of the cement is an important factor. It is remarkable, however, that in some of the experiments of
+
+See Proc., Inst. CE., vol. lxii.
+
+See Proc., Inst. C.E., vol. cxiii., or Contract Journal, August 23, 1893.
+
+Mr. Alexander Fairlie Bruce, to which further reference will be made a higher degree of strength in the cement was accompanied by a lower transverse resistance in the concrete when the proportions of sand and coarse aggregate were unaltered. This is only one of many instances that could be cited of the capricious behavior of concrete under transverse stress.
+
+Among several kinds of aggregate employed by <person>Mr. Bruce</person>he found gravel to he the least absorbent, and therefore the most economical. But as regards transverse strength, the general results of his experiments tell in favor of hard sandstone. It is probable that the cement obtains a better hold upon an absorbent than a non-absorbent substance.
+
+It is difficult to lay down any rule which would govern the proportion of thickness to span in concrete floors. But apart from the theory of transverse resistance, we may suggest that the proportion of the thickness to the size of the coarse aggregate ought to have an important influence upon the strength, especially if it be assumed that fracture is most like to take place in the joints between the cement and the aggregate. Other things being equal, the thicker slabs ought to show a higher degree of transverse resistance, as being relatively more homogeneous than thin slabs in which the pieces of aggregate are few In depth and have but little chance of breaking joint.
+
+Among some of the earliest recorded experiments upon the transverse strength of concrete floors is one mentioned by Mr. Potter in his work on "Concrete Its Use in Building." A slab of concrete, made with two bushels of Portland cement and nine bushels of crushed slag, was tested one month after manufacture. The slab measured 6 ft. by 4 ft. 9 in. and inches thick, and its two longer sides were supported upon 2 in. solid bearings, the other two sides being left free. It was loaded with 550 bricks, and also subjected to considerable impingement, but did not give way, the weight supported being equivalent to about 140 lb. per square foot. In this case the thickness of the slab was Jess than one-tenth of the clear span, a proportion that would hardly be thought safe in practice An ordinary proportion for small spans is 11-sixths, as in the case of a 4 in. thickness for a 2 ft. span, or a 6 in. thickness for a 3 ft. span. With larger spans and greater thickness, the proportionate thickness might be reduced according to the load to he supported. If the laws if transverse resistance are to be applied to concrete slabs, it will follow that the strength will vary inversely as the span and directly as the square of the thickness. But when there is a certain stated load per square foot to be carried, the total amount of load will vary as the span, and the strength must be made to vary in the same proportion. Hence the square of the thickness should vary as the square of the span, or, in other words there should be a constant ratio between thickness and span for any stated load per foot.
+
+
+
+<article title="Correspondence - The New Legislative Builders, Victoria, B.C." author="Rattenbury, F.M.">THE NEW LEGISLATIVE BUILDINGS, VICTORIA, B. C.
+
+
+
+VICTORIA, B.C., Aug, 24th, 895.
+
+Editor CANADIAN ARCHITECT	AND BUILDER.
+
+
+
+SIR,—Your reference in this month's CANADIAN ARCHITECT AND BUILDER in respect to the foreign oak used in the above building, rather exaggerates the case. As a matter of fact the whole of the numerous offices and rooms of the new <building>Parliament Buildings, Victoria, B.C.</building>are paneled and finished in British Columbia lumber
+
+—cedar, maple, alder, spruce and fir—except only two small rooms, which are partially paneled in oak and also, when the rooms are finished in cedar, some of the doors which will be subjected to rough usage are of oak—the oak harmonizing with the cedar better than any wood I know of, the cedar itself being too soft for hard wear and tear. You will thus see that the amount of foreign wood used is comparatively trifling.
+
+It has been the earnest desire of everyone connected with our new parliament Buildings, to utilize as fax as possible local and native materials and we have done so to an extent rarely equaled, I should think, in any building of similar importance.
+
+Yours faithfully,
+
+<person>F. M. RATTENBURY</person>, Architect.
+
+
+
+THE <firm>Don Valley Pressed Brick Works</firm>have just turned out their first kiln of paving bricks, which are considered by experts to be equal, if not superior, to any made on the continent.
+

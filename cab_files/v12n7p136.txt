@@ -1,0 +1,88 @@
+<doctype type="text">
+
+<article title=" FIREPOOFING MATERIALS." author="BULMAN, J.A. PROUDFOOT">
+
+THE CANADIAN ARCHITECT AND BUILDER.
+
+
+
+FIREPOOFING MATERIALS.
+
+To the Editor of the CANADIAN ARCHITECT AND BUILDER:
+
+
+
+SIR: Mr. Gagnon's letter published in your issue of June is a decidedly strong arraignment of concrete systems of fireproofing and the methods used by these companies to introduce their systems after being practically prohibited in the city of New York ; and all who study this question, or have even a secondary interest in it, should feel under an obligation to him for having the courage to publish the information at his command, and for opening up a question of intense interest to the architectural profession.
+
+These companies placed under the law, after a fair trial by the Building Commissioners of New York, rehabilitated by means which were decidedly shady and questionable, are now attempting to persuade Canadian architects that their systems are superior to all others. Their agents, by specious arguments, endeavor to catch the uninformed and unwary, dwelling upon the lightness of construction, saving of weight, and tile great tensile strength of concrete, but avoid as much as possible the important question of its ability to resist tile action of fire and water—THE CRUCIAL POINT of any system which aspires to be fireproof.
+
+Of what avail the lightness of construction, saving ill cost, etc., if the material advocated cannot stand the test of fire and water? Unless it can fulfill THIS condition it becomes useless for the purpose for which it was designed.
+
+One agent, when pressed upon this point, will show photographs of the Pittsburg fire, the Methodist Book Company's building (concrete with suspended wire and iron pipe) and the Home store (hard tile construction), with the remark "Look and judge for yourself; photos never lie." He carefully suppresses all reports published, and omits to produce a photo of the Phipps building (porous terra cotta). Evidently the latter will not suit his purposes, hence the omission.
+
+2nd. The report of a fire test made by the British Fire Protection Society, London, Eng., which I purpose comparing with the Denver tests before I finish this letter ; and finally a test made by the Pittsburg Testing Laboratory, Ltd., which as a test is the most ridiculous I have ever read
+
+"A slab of concrete, in the lower part of which expanded metal was embedded. 24" X 24" x 3" thick, was supported on iron pegs driven into the ground, leaving 15" clear underneath. A fire was built underneath of small pine wood and greasy waste. The fire started clear and sharp at 10.57, and kept burning 40 minutes. Dry wood was then applied on top, so the slab was completely surrounded by a sharp fire. It was quenched by a solid stream from 5/8" nozzle, which continued for 10 minutes. The underside of the slab was damaged but slightly. After three days we discovered recrystallization that would seem to indicate that the composition was getting hack to its original set."
+
+To ask any intelligent man to accept such a test is but little short of insulting. A small slab is placed in tile open, so much fire as a space 24" X 24" X 15" will admit is kindled and fed for 40 minutes, and we are asked to believe that intense heat was generated and that the slab successfully withstood it, as well as an application of water after. What amount of heat was generated and what portion was concentrated 011 the slab? It is self-evident that all tests other than official must be looked upon with great suspicion.
+
+
+
+As I understand the question of fireproofing, the idea is to keep the steel or iron from being heated, no matter how great the fire, and this seems to me the principle sought for by the majority of inventors for the past eighty years. While the strength of steel is not reduced by a moderate heating, if it be heated beyond 600° Fah., the factor of safety is rapidly reduced, and it BECOMES DANGEROUS, UNIESS PROTECTED BY A MATERIAL WHICH IS CAPABLE OF RESISTING THE EFFECTS OF HEAT. Will concrete or clay best serve tile purpose sought? That is a question (until something superior to either is found) which each and every architect must study and solve for himself. A heavy responsibility rests on his shoulders, and it is for him to ascertain if the advice he gives his client is sound or not. I will go one step farther and state, that the architect who has failed to thoroughly grasp all the details of this subject, yet advises his client to use some system of which he has no knowledge (other than that obtained by an agent), not only fails in his duty to his client, but is morally, if not legally, responsible should failure or disaster occur.
+
+Will concrete or clay serve the purpose sought If we accept Professor Dobie's and Mr. John Webster's, M. Inst. C. E., England, tests, concrete WILL NOT stand the action of FIRE AND WATER. The Pittsburg fire and other serious conflagrations have proved that the conclusions drawn by them were correct; and the follow-
+
+ing tests, which it must be admitted are unbiased, and which I quote for the sake of comparison, will, I think, convince the most skeptical that concrete and metallic lath systems are not satisfactory, and are very much inferior to clay productions:
+
+(I) Test by the British Fire Protection Committee, London, England. "The object of this test was to record the effects of a smouldering fire of 15 minutes duration of a temperature not exceeding 600° Fah., followed by a fierce fire of one hour, gradually Increasing to a temperature of 2000' Fah., followed suddenly for 3 minutes by a stream of water and the consequent rapid cooling." The arch tested was constructed by the Expanded Metal Fireproofing Co.
+
+After one hour's fierce firing we read. "At 4.10 the gas was shut down and tile door opened. A SLIGHT DEFLECTION of the soffit was noticed. From 4.13 to 4.16 a jet of water was applied, the pressure varying from 40 to 20 lbs. gradually. On application of the water to tile ceiling the portion of the plaster struck immediately fell down. The concrete of floor was slightly and superficially cracked. Two days afterwards the deflection of tile centre joist was measured and found to be 1 3/8'. The fire did not pass through the floor."
+
+The first thing that arrests one's attention when reading the report is (I) the shortness of tile duration of the test—one hour, followed by three minutes application of water. It was certainly not sufficient to thoroughly test the materials used. (2) That when the door was opened it was noticed that tile centre joist. had deflected .This deflection was afterwards found to he 1 3/8". It is evident that the expanded metal lath ceiling had not fulfilled its function, which, I take it to be, is to protect the concrete and steel from the heat, or why this deflection? (3) On application of water, the portion of tile plaster struck immediately fell down, conclusive proof that the ceiling is of little, if any, use. The concrete was now exposed, and if the gas had been turned on for another hour, followed by another application of water, what would have been the results ? Tile question needs no reply. (4) Three minutes were allowed to elapse between the opening of the door and the turning on of the water—the result, possibly, of carelessness. Evidently every latitude as to time and conditions were allowed in this test, yet as a fireproof test it proved an titter failure.
+
+Compare the severe Denver tests with tile foregoing, and say whether concrete or clay is most reliable ? These competitive tests were made by Messrs. Andrews, Jaques and Rantoul, architects, of Denver, assisted by Tholnas, Shepard & Searing, mechanical and electrical engineers, of the same city. The conditions imposed on the competitors were
+
+1.	By still load, increased until the arches were destroyed.
+
+2.	By shocks, repeated until arches were destroyed.
+
+3.	By fire and water alternately until the arches were destroyed.
+
+4.	By continuous fire of high heat until arches were destroyed.
+
+
+
+RESULT.
+
+
+
+r.	The porous terra cotta arch sustained a load of 15,145 lbs., or 757 lbs. per square foot, for two hours without breaking, when the load was discontinued.
+
+2.	The porous terra cotta arch withstood four blows from a height of 6 feet, and 7 blows from a height of 8 feet, each arch dropping at the last blow.
+
+3.	The porous terra cotta withstood eleven applications of water alternately with extreme heat. Time of test, 23 hours.
+
+4.	The porous terra cotta arch, after having a continuous fire under it for 24 hours, was practically' uninjured, as it afterwards supported a weight of bricks of 12,500 lbs. on a space 3 feet wide in the middle of the arch.
+
+In my opinion, there can be no question as to the relative merits of the two materials or systems. Clay' products are fireproof, concrete is not. Which of you having a furnace or oven to build would specify concrete?
+
+
+
+Yours truly,
+
+
+
+J.	A. PROUDFOOT BULMAN,
+
+	Montreal, July 13, 1899.	Architect.
+
+
+
+
+
+The Church of Our Lady of the Rosary, Vancouver, B.C., will be heated with two Robb hot water heaters of 3.000 square feet capacity each.
+
+
+
+A strike of the granite critters and polishers ill the employ' of the Victoria Granite Company', and Messrs. Epps, Dodds & Company at St. George, N.B., took place last month. The difficulty arose out of the fact that tile employers decided, without consulting the workmen, to close down their mills on Saturday' afternoons during the summer months.
+

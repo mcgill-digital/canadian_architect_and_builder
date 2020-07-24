@@ -1,0 +1,58 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+pencil at C and G is just as far from G as that point is from C. The pencils should fit tight in the spools by wrapping paper around them, a screw may be inserted to hold them, but it is not necessary. In setting the instrument it is always necessary to have the pencils and the hole in which the fulcrum is placed perfectly in line. For this purpose a piece of wood the size of an ordinary lead pencil about four inches long, with a knitting needle driven into the end, so as to be in line with its centre, is very useful, as by placing it in the carriage at C, and then sighting across the point of the pencil at G to the point in B, they may be adjusted perfectly in line. The distance from B to C represents the original, from B to G the reduced copy by varying either any amount of reduction may be made. Instead of two pencils a piece of hardwood the size of a pencil, made sharp at the point may be used with advantage at C, when reducing, and in G when enlarging. At A, on the underside of the piece A B, and just beyond the block tinder the screw, is glued another block 2 1-8 inches long, of the form shown, and at its lower extremity is fastened by a screw, a small wheel, readily made out of a coat button and projecting below the bottom of the block to which it is fastened one-eighth of an inch. When passing from point to point of the original and not wishing to make a mark on the copy, the pencil may be raised from the paper by raising the point at F' a sufficient height. The method of using the instrument is very simple. If you wish to enlarge a drawing you place it under G and move the pencil or tracing point along its lines. New lines will then be traced by the pencil at G, and the drawing at C. Trace the drawing and the point G will define a reduced copy." There are several styles of this instrument but the principle in them all is the same. Every dealer in mathematical instruments keeps them for sale and the price varies from fifty cents to ten dollars. One good enough for ordinary purposes can be bought for about
+
+$2.	Any clever carpenter can make one if he follows the directions given in the foregoing.
+
+
+
+From " Carpenter" I am building a good sized stable and barn combined, and rafters are 28 feet long and I am obliged to put a purlin under them about half way up, and as the roof is "hipped" it will require to have the purlins mitred at the angles. How can
+
+find the lines on the timber to cut this mitred joint ?
+
+
+
+ANS.—See Fig. 2 and follow the directions below and you will get the lines desired. Draw C E equal to the pitch of the roof, draw C D perpendicular to C E, and C D, H E equal to a section of the purlin. From D and E draw D A and E B vertical, and from C draw C B horizontal. Now take your purlin and square over two sides as A' B". Make A' C' equal to C A and B" C" equal to C B; connect C' G and C" G. This will give the cuts on the bottom and inside sides. The cuts on top and outside sides may either be obtained
+
+with a bevel, as they have the same bevel on opposite sides, or make C' B' equal C B, and C" A" equal C A, from B" and A" square over to F, and connect as shown. The dotted lines are supposed to be on the opposite side of the purlin. This will give the mitre for all equal and different pitches if the building is a rectangular one.
+
+
+
+From ''Cautious" Is it better to use a single timber for a girder or bressumner, than to make one or other of built up timbers ?
+
+ANS Wherever possible, solid timber should be used. Built-up timber that is timbers which are formed of a number of flat short pieces spiked, bolted or screwed together. In long stretches perhaps built up timbers may have some advantage, as the whole length of timber can be so constructed as to seem all in one length.
+
+
+
+From '' Stonecutter" Will you kindly describe (and illustrate) the proper method of laying out a segmental arch and oblige ?
+
+ANS If our correspondent will carefully follow the
+
+
+
+
+
+FIG. 3. LAYING OUT AN ARCH.
+
+
+
+
+
+sketch, Fig. 3, ---given herewith, he will see how all joints are made or set out. He must also see how the pocket pieces over the arch stones 4 and 5 are made. '[he lines for the bevels of the stones are obtained from the common centre 0, the dotted lines showing the direction of the bevels. Care must be taken to free the key-stone from the blocks above so as to equally distribute the weight and pressure.
+
+
+
+<article title="Toronto Builders' Exchange" author=""><assoc>TORONTO BUILDERS' EXCHANGE</assoc>.
+
+
+
+According to the reports presented at the annual meeting held on the 19th inst. the Exchange has enjoyed a prosperous year. the following officers were elected for 1903:—President, <person>Joseph Russell</person>; First Vice-President, <person>R. G. Kirby</person>; Second Vice-President, <person>John Hoidge</person>; Treasurer, <person>David Williams</person>; directors, Messrs. <person>Mr. Nelson</person>, <person>Mr. Weller</person>, <person>Mr. Crang</person>, <person>Mr. Martin </person>and <person>Mr.  Smallwood</person>; Auditors, Messrs. <person>Mr. Clay </person>and <person>Mr. Holmes</person>; Representative on Technical School Board, <person>j. M. Gander</person>; Representative on Exhibition Board. <person>J. B. Thomson</person>.
+
+
+
+
+
+The Industrial Publication Co., of New York, have recently issued a second edition of 100 cloth bound pages of <person>Fred. T. Hodgson</person>'s book "The Hardwood Finisher," containing rules for preparing wood work for the finisher and for finishing hardwoods, as well as pine and other domestic woods. The price of the book is one dollar.
+

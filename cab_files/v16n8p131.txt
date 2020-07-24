@@ -1,0 +1,94 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+PROPOSED STANDARDS OF FIRE RESISTANCE.
+
+<article title=" PROPOSED STANDARDS OF FIRE RESISTANCE " author="">
+
+The executive of the British Fire Prevention Committee, having given their careful consideration to the common misuse of the term "firepoorf," consider the term "fire-resisting" more applicable for general use, and that it more correctly describes the varying qualities of different materials and systems of construction intended to resist the effect of fire for shorter or longer periods, at high or low temperatures as the case may be, and they advocate the general adoption of this term in place of" fireproof."
+
+Further, the executive, fully realizing the great variations in the fire-resisting qualities of materials and systems of construction, consider that the public, the professions concerned, and likewise the authorities controlling building operations, should clearly discriminate
+
+temporary protection implies resistance against fire for at least three quarters of an hour. (b) That partial protection implies resistance against a fierce fire for at least one hour and a half. (c) That full protection implies resistance against a fierce fire for at least two hours and a half.
+
+The conditions under this resistance should be obtainable, the actual minimum temperatures, thickness, questions of load, and the application of water can be appreciated from the annexed tables by all technically interested, but for the popular discrimination which the executive are desirous of encouraging—the time standard alone should suffice.
+
+It is desirable that these standards become the universal standards in this country, on the Continent and in the United States, so that the same standardisation may in future be common to all countries, and the pre
+
+<article title=" STANDARD TABLE FOR FIRE-RESISTING FLOORS AND CEILINGS " author="">
+
+
+
+STANDARD TABLE EOR FIRE-RESISTING FLOORS AND CEILINGS.
+
+	Classification.	Sub-	Duration of	Minimum	Load per	Minimum	Minimum Time for
+
+Class. Test at Least. Temperature. Superficial Foot Superficial Area Application of Water
+
+					Distributed,	under Test,	under Pressure.
+
+	( A	45 mins.	1500 F.	Optional	100 sq. ft.	2 mins.
+
+Temporary protective class j B	6o mins.	1500 F.	Optional	200 sq. ft.	2 mins.
+
+Partial	class.	J	A	90 mins.	1800 F.	1 cwt.	100 sq. ft.	2 mins.
+
+      protective			B	120 mins.	1800 F.	 cwt.	200 sq. ft.	2 mins.
+
+Full	class	f A	150 mins.	1800 F.	2 cwt.	100 sq. ft.	2 mins.
+
+	protective	B 240 mins.	1800 F.	21/2 cwt.	200 sq. ft.	5 mins.
+
+
+
+
+
+
+
+STANDARD TABLES FOR FIRE-RESISTING PARTITIONS AND SINGLE DOORS, WITH OR WITHOUT FRAMES.
+
+
+
+
+
+Minimum Super- Minimum Super-
+
+					ficial Area	ficial Area	Minimum Time
+
+	Classification.	Sub- Duration of	Minimum	Thickness of	under Test.	under Test,	for Application
+
+Class. Test at Least. Temperature. Material, _______________ _______________ of Water
+
+					For Partitions.	For Doors.	under Pressure.
+
+Temporary protective	A	45 mins.	1500 F.	z in. and under	80 sq. ft.	20 sq. ft.	2 mins.
+
+ class.	B	6o mins.	1500 F.	  Optional.	80 sq. ft.	20 sq. ft.	2 mins.
+
+Partial protective f A	90 mins.	1800 F.	254 in. & under	80 sq. ft.	20 sq. ft.	2 mins.
+
+	class.	B	120 mins.	1800 F.	Optional.	So sq. ft.	20 sq. ft.	2 mins.
+
+Full protective class	A	150 mins.	1800 F.	254 in. & under	80 sq. ft.	25 sq. ft.	2 mins.
+
+	j	B	240 mins.	1800 F.	Optional.	So sq. ft.	25 sq. ft.	5 mins.
+
+
+
+
+
+between the amount of protection obtainable or in fact requisite for different classes of property. For instance, the city warehouse filled with highly inflammable goods of great weight requires very different protection from the tenement house of the suburbs.
+
+The executive are desirous of discriminating between fire-resisting materials and systems of construction affording temporary protection, partial protection, and full protection against fire, and to classify all building materials and systems of construction under these three headings. The exact and definite limit of these three classes is based on the experience obtained from numerous investigations and tests, combined with the experience obtained from actual fires, and after due consideration of the limitations of building practice and the question of cost.
+
+The executive's suggested minimum requirements of fire-resistance for building materials or systems of construction will be seen from the standard tables appended for—I. Fire-resisting floors and ceilings. II. Fire-resisting partitions. Ill. Fire-resisting doors, but they could be popularly summarized as follows: (a) That
+
+liminary arrangements for this standardisation are already in hand.
+
+<article title=" FAILURE IN A BUILDING CARRIED ON COLUMNS " author="">
+
+FAILURE IN A BUILDING CARRIED ON COLUMNS.
+
+Some interesting and instructive data are given in the appendix to a recent report by Sir Win. Garstin of the Public Works Department of Egypt regarding the failure of a four storey prison building in Cairo, and the method employed to repair the same. The ground, first, and second floors provide accommodation for 250, and the third floor for 200 persons. The corridor-wall of the top floor is carried by two cast-iron columns, one above the other, having a total height of 35 feet 6 inches, and transmitting a load of 58 tons to the stone base of the columns. The building is founded on a float of pozzuolana concrete, 4 feet in thickness, laid at permanent infiltration level. This form of foundation was adopted because the excavation showed that the whole area covered by the foundations had at one time been a deep depression which, many years previously, had been filled up with earth, stones, and rubbish.
+

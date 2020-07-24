@@ -1,0 +1,44 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER.
+
+
+
+screened before mixing with the cement, should always be used. The mortar for floors or vitreous tiles, should be composed of equal parts of cement and sand, and for wall tiles one part of cement and two parts of sand. The mortar should not be too wet, but should he rather stiff, and should always be fresh ; as mortar when allowed to set before using, loses a portion of its strength. Tiles must always be thoroughly soaked in water before setting, which makes the cement unite with the tiles.
+
+
+
+<article title=" EXCAVATING CELLARS " author="">
+
+EXCAVATING CELLARS.
+
+
+
+IN estimating the cost of a building, about the first thing we are confronted with is the digging or excavating the cellar and trenching for foundation walls. This work is generally estimated by the cubic yard, and the contents in cubic yards may easily be obtained by the following method First obtain the number of square feet on the surface and divide by nine, which will give the number of square yards on the surface, then multiply by one third of the feet in depth. The result will be the number of cubic yards. Thus, to find the number of cubic yards in a cellar 18 x 30 feet and 7 feet deep, there are 540 square feet on the surface, which, divided by nine gives 6o square yards. Multiplied by 2 1/3 which is of 7 feet, we have 140 cubic yards. The cost of excavating varies with locality, quality of materials to be removed, distance of hauling, and in other particulars, but the usual cost where all things are favorable, may be put down at from 20 to 30 cents per cubic yard, including hauling. To excavate clay costs more than to excavate sand or loamy soil, gravel still more and shale and rock very much more. Limestone rock, if blasting is necessary, may cost from $2.25 to $3.25 per cubic yard, according to conditions. Hard conglomerate may cost from 40 to 70 cents per cubic yard, and often more when it is naturally cemented together.
+
+
+
+<article title=" SETTING PARTITIONS " author="">
+
+SETTING PARTITIONS.
+
+
+
+IN setting partitions care should he taken to select straight studding for all door openings, as it will greatly facilitate the work of setting the door frames. All partitions should be set plumb, not near enough, but perfectly plumb. A partition that is not plumb is sure to cause trouble when the doors are being hung, as the outer point of the door will either strike the floor or will stand off at an unsightly angle when open ; but, in either case, the door will present an ungainly appearance to those who can judge good work. The setting of door jambs is a very particular piece of work if it is to be done in a proper manner. They must be level, plumb, square and out of wind, and the jamb must be perfectly straight to accomplish these conditions. The head must be level, or it cannot be made square with the plumb jambs. The edges of the jambs must also be plumb as well as the face, and if parallel, then both edges will be plumb. In case a partition is out of plumb, and it is too late to be remedied, the skilful carpenter will set his jambs in a way to overcome a part of this defect, and this is what he should do, but he must exercise considerable care in order to determine just the proper amount he can vary the jambs from the plumb to bring about the best results, all things considered. He can often overcome defects in bad construction in ways that will never be noticed.
+
+QUESTIONS AND ANSWERS.
+
+
+
+A subscriber at Calgary writes The purchase of a stone crusher is under consideration. It is expected to crush any size stone usually found in a gravel bed. I may say we have them as large as 14 inches in all directions, and they propose to use electric motive power. The only current available here is the alternating current, and the company are installing synchronous motors, which, of course, require to be brought up to speed by some outside agency, but even if they put in a direct current machine, will not the load be too variable? Will it be either profitable or practicable to run it by electricity, the load varying each time it strikes or completes the crushing of a stone from zero to full capacity of machine? Let it be understood that a heavy fly-wheel will be used.
+
+ANS.—The running of stone crushers can most emphatically be accomplished by means of electric motors. It is of course desirable that all the details of the proposed plant should be submitted for competent investigation, but the following are the main points: Alternating motors are preferable to the direct current type because of their ability, due to the absence of moving contacts, to successfully withstand very large temporary overloads, which will always be encountered in this class of work, owing to irregularity in the feeding of the crusher, the occurrence of hard heads, etc. On the other hand, a direct current type, unless having a horse power capacity very much in excess of that required to run the crusher under normal loads, in which case the installation will become unnecessarily expensive, will give more or less trouble from sparking at the commentator, though this can be partially avoided by careful handling of the plant. We would say that, generally speaking, induction motors would be preferable to the synchronous type, because they will work under much larger voltage variations than will the latter, are easier to look after under the extreme conditions of dirt and dust usually prevailing in such work, are more simple and therefore require less skilled attendance, and will probably cost you less than will the latter. it is of course highly desirable that large balance wheel capacity should be installed, no matter what the motive power, and it is also advisable in order to avoid as much as possible the disturbance of the line voltage incident to the starting of a heavy machine such as this, that the motor be started first, and, after it is running, the crusher brought up to speed by means of a clutch or tight and loose pulleys. The question as to whether it will be profitable to operate your crusher electrically is one governed entirely by local conditions, In the absence of the details obtaining we are unable to give you an opinion; the interest on the cost of the plant, the cost of attendance, the cost of repairs, and the cost of fuel will form the basis on which to calculate the expense of operating by steam or gas or fuel oil; the outlay for electrical operation will be made up of the same components, excepting that the price paid for current will be substituted for the cost of fuel.
+
+
+
+
+
+Among the new companies who have recently been granted charters of incorporation is thc Laurentian Stone Co., of Ottawa, capital $40,000.
+
+
+
+The big brick factory erected in the past year in Pugwash, N.S. and now being run by the Maritime Clay Works Co., Limited, will be illustrated and described in a future issue. This is by far the largest works of the kind in the Maritime provinces, and is one of the best and most modern in methods in Canada.
+

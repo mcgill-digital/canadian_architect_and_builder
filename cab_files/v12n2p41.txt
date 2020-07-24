@@ -1,0 +1,92 @@
+<doctype type="text">
+
+
+
+bricks slushed or entirely filled up with mortar. The inside of the flue should be well pargetted or plastered with a mortar that will adhere to the bricks ; simple lime-and-sand mortar will not be effectual, although used in common, if not almost universally. 'When the flue becomes heated, which it will at times, common mortar will peel and chip off and leave the joints exposed for the admission of smoke and fire, and at points where the woodwork, such as flooring or timbers sup porting the same, approaches too near the brickwork of the flue, will ignite, and the fire will extend between the floor and ceiling along the joists, and have control of the building before it is visible to outsiders or inmates of the house, and the building is either seriously damaged or entirely destroyed for the want of a little care and attention in the construction of the flue. Par-getting mortar should he made with a portion of cow's hair in it, in about the same proportion as used in mortar intended for the first coating of wall plastering. Horse manure, in about the same proportion as cow's s hair, thoroughly mixed with the lime-and-sand mortar, makes a very effectual pargetting, and when well put on will remain as long as the flue lasts. As a further safeguard, at the intersection of floors arid roof the thickness of the flue walls might be swelled out so as to give a thickness of walls at these points of not less than 8 inches. There is no constructional difficulty in this, and the chimney would be rendered doubly safe. A perfectly safe flue may be made by using ordinary glazed drain tiles of sufficient size for the flue, building them in as the chimney is being constructed. These may be obtained in suitable sizes, and T lengths can be had, which may be inserted in the flue, leaving the wing or third part to project through the wall for the reception of stove pipes, or for admission of air for ventilation purposes. A flue, constructed with tiles in the manner suggested, would be as near perfection as it is possible to build a flue.
+
+
+
+SOMETIMES builders are puzzled to find
+
+	Finding Some	and
+
+		s	shapes to suit the
+
+	Angles.	proper angle
+
+		work in hand.	A few little problems
+
+
+
+and their solutions given herewith may prove of material service sometimes. Suppose we want to find an angle bracket for a cornice, proceed as follows Let A, Fig. 1, be the common bracket; draw the parallel lines, ooo,
+
+and its edges will be in a horizontal line. In other words, if the cone stands on a floor, and E be bent around its base, the lower edge of E will coincide with the plane of the floor. To find the shape of horizontal covering for circular domes, the principle is the same as that employed in the last problem, but, supposing the surface of the dome to be composed of many plane surfaces. Therefore, the narrower the pieces are, the more accurately will they fit the dome. Draw the line A through the centre of the dome (Fig. 3), divide the height from B to C into as many parts as there are to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+be courses of boards or tin. Through 1 and 2 draw a line meeting the centre line at D ; that point will be the centre for sweeping the edges of the board G. Through 2 and 3 draw the lines meeting the centre line at E that will be the centre for sweeping the edges of the board K, and so on for all the other courses. Care must be taken in drawing the lines from the face of the dome to the central line A, SO that false centres are not obtained. To divide a line into any number of equal parts, let A B (Fig. 4), be the given line. Draw the line A B, at any convenient angle, to A C ; set dividers any distance, as from 1 to 2, and run off on A C as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+many points as you wish to divide the line A B into
+
+say 7 parts ; connect the point 7 with B, and draw the lines at 6, 5, 4, etc., parallel to the 7 B, and the line A B will be divided as desired. This is a very simple problem, and is absolutely correct. To find the cut for any angle where a moulding or other angle has to joint, proceed as follows Let A and B (Fig. 5) be the given angles ; set off from these points of the angles equal distances each way, and from these points sweep the arcs
+
+
+
+
+
+
+
+
+
+
+
+
+
+to meet the mitre line C ; square up on each line at C, and set the distances 1 2, 3, 4, etc., on the common bracket, from the line D, on the small lines from C through these points, 2, 4, 6, etc., trace the form of the bracket, and the work is done. To find the form of a base or covering for a cone, let A (Fig. 2) be the width of the base of the cone. Draw the line B through the centre of the cone ; extend the line of the side C till it meets the line B at D ; on D for a centre, with and 2 for radii, describe E, which will be the shape of the base required ; F will be the point for the same. When this (E) is obtained, it may be bent around the base at A,
+
+of circles, as shown in the figure. Then a line from the point of the angle through where the circles cross each other will be the cutting line requred. This is one of the most useful problems in practical carpentry and joinery.
+
+
+
+NOT very often, but sometimes, the
+
+Diagonal Bond
+
+in Brickwork.	bricklayer is called upon to "lay up a diagonal or a herring-bone wall, and
+
+and it is fitting he should he able to perform the work without much trouble. The following illustrations and
+

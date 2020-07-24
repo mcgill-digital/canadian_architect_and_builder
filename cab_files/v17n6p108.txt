@@ -1,0 +1,72 @@
+<doctype type="text">108	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+which would then he within the prohibited distances? The answer would be no. A legal act cannot become illegal by reason of a posterior fact.
+
+While the law speaks of adjoining properties, it does not mean to restrict the sense to properties immediately touching each other and so if there were a narrow strip of ground less than 6 ft. wide, over which there was a right of view, this would not prevent the proprietor of the following piece of property from complaining of views placed at less than 6 ft. from his land. Logically the same rule would apply where two properties were separated by a public road less than 6 ft. wide. All of the authors, however, make an exception at this case.
+
+In a case of Hotte vs. Fauteux R. J. Q. 5 B. R. 38, the question came up as to whether views could be established in a common passage when each of the neighbours had furnished half of the land required for such passage. In this particular instance the passage was 8 ft. wide, and each neighbour had furnished a strip of 4 ft. Under these circumstances the Court of Appeals decided that a servitude of right of way was created, and not a right of co-ownership, and that each neighbour remaned owner of the strip of land which he had furnished. The openings being thus within four feet of the neighbours property were ordered to be suppressed.
+
+Again, supposing for example that the proprietor have placed in the wall, which is not common, such openings as the law allows him to place, and that later on his neighbour acquires the mitoyennete of it, can he be forced to close these openings? The authors are divided upon the question, but it would seem fairer to consider that the neighbour acquiring common ownership should take the wall in the condition in which he finds it.
+
+Servitudes established by the act of man.
+
+These servitudes are divided into three classes
+
+1.	Urban and rural.
+
+2.	continuous and discontinuous.
+
+3.	Apparent and non-apparent.
+
+Urban sevitudes are those established for the use of buildings where ever situated. Rural servitudes are those established for the use of land.
+
+Continuous servitudes are those which can be exercised without the actual intervention of man, such as rights of view, etc. Discontinuous servitudes are those which require the actual intervention of man for their exercise, such as rights of way, etc. Apparent servitudes are those which are manifest by external sign, such, for instance, as a right of way made apparent by a gateway.
+
+In order that a servitude which is discontinuous and non-apparent shall he binding upon subsequent owners of the property, it must he registered in the registry office of the division in which the properly is situated.
+
+There is a good deal of jurisprudence upon this point in as much as the courts are called upon to appreciate questions of fact, thus for example it has been held that a right of way is rendered apparent by the existence of a gate in the fence which separated the dominant and servient tenements and consequently the registration of such right was not necessary. On the other hand, it has also been decided that a pipe, placed in the earth for conducting water, when it is covered with earth and especially when the earth itself is covered with snow, being non. apparent the servitude which might exist in respect of it is equally, at that moment non apparent. These questions, however, are matters of fact which must be left to the appreciation of the court.
+
+Servitudes are established by express title or by what called "Destination de pere de famille." As we have seen, no servitude can be acquired without a title and the principle that the acquisition of a servitude cannot have possession for its basis has been affirmed in the Supreme Court as well as in our own Provincial Courts. (Jones vs. Fisher, 17 Sp. C.R, 513.)
+
+Now what is meant by "Destination de pere de famille"? It may be defined thus, the disposition and arrangement that a proprietor makes and by reason of which one of the properties Or a part of one property, is destined for the service of the other. So for example, if there were two houses belonging to the same proprietor, the drainage from one of which passed over the land occupied by the other, and later on these two houses fell into the hands of different heirs, there would be a servitude established in favor of one of these properties over the other to allow such drainage to pass off in the manner in which it had done when they both belonged to the same proprietor.
+
+Two things then are necessary, possession of two properties
+
+by one proprietor, arrangement during possession and by that proprietor, which would constitute a servitude if the property belonged to two different owners According to the old custom this "destination de pere de famille" is equivalent to title."
+
+Generally speaking the establishment of a servitude implies the concession of all that is necessary to put it to practical use. Thus for example a servitude of drawing water would carry with it an implied right of way. So also the owner of the dominant tenement would have the right to make even upon the property of the servient tenement, all works necessary for its exercise and preservation, while on the other hand the proprietor of the servient tenement must do nothing which might tend to diminish the use of the servitude or render it more inconvenient; the owner of the dominant tenement must on his part do nothing which would aggravate it.
+
+The question of diminution or aggravation of a servitude is one of fact to be determined by the courts.
+
+Servitudes become extinct by confusion, that is to say, when one and the same person becomes owner of both the dominant and servient tenements. It is evident that a man cannot have a servitude over his own property.
+
+Non usage for 30 years will also bring about the extinction of the servitude. In respect of discontinuous servitudes having need for their exercise of the actual intervention of man, so soon as this intervention ceases there is non usage, so that the 30 years would begin to run from this last exercise of the servitude.
+
+As to continuous servitudes whose existence is independent of the intervention of man inaction could not constitute non usage. There must be an act contrary to the exercise of the servitude, that is to Nay, which would place the servient tenement in a condition of liberty. For example the servitude of right of view would not be interupted by the fact that you kept your windows closed for it consists in the existence of these very windows. But it, on the other hand, you filled in your windows or if your neighbor built a wall which completely obstructed the view, then there would be non usage and consequently extinction of the servitude if you allowed this state of affairs to continue for 30 years without action on your part.
+
+RISK.
+
+
+
+The second part of our subject to-night deals with "Risk". It is hardly necessary for me to point out how important this question is from a practical point of view. For example in case the thing be destroyed before acceptance by the master, upon whom does the loss fall, or if the master become insolvent before completion of the work, in what position is his estate, or if the master were married while a building destined for him was in course of erection, does such building fall into the community or not?
+
+The articles of our code which deal with the subject are 1683.
+
+4-5-6-7.	The general maxim of law which must govern all questions under these articles is this "Res pent domino', that is to say a thing perishes for the owner. Whoever was the owner of any particular thing at the time of its destruction must suffer its loss. This rule, of course, does not deprive the owner of his recourse against him who caused the loss, if fault is attributable to him. Now article 1684 says:— (1684.) "If the workman furnish the materials, and the work is
+
+to be perfected and delivered as a whole, at a fixed price, the loss of the thing, in any manner whatsoever, before delivery, falls upon himself, unless the loss is caused by the fault of the owner or he is in default of receiving the thing."
+
+This is practically a sale of the thing subject to verification by the owner It is a sale of a thing to be made—consequently the sale of a future thing and so a conditional sale. The sale is made under the condition that the object which will be presented by the workman will be properly made. This condition is fulfilled when the thing is verified and accepted by the master. From this moment the risk of loss falls upon the master and not upon the workman. While the code speaks of "Delivery" the authors are agreed that verification and acceptation are all that is necessary and that after that, the workman holds the thing for the account of the master.
+
+If the master be in default to receive it the risk also falls on him, as he has prevented the happening of the condition, because article 1084 C. C. says that a conditional obligation becomes absolute, when the party bound under the condition prevents the fulfillment of it.
+
+Articles 1685-1686 say:— (1685.) "It the workman furnish only labor and skill, the loss
+
+of the thing before delivery does not fall upon him unless it is caused by his fault."
+
+(1686.) "In the case of the last preceding article, if the work is to be perfected and delivered as a whole and the thing perish before the work has been received, and without the owner being in default of receiving it, the workman cannot claim his wages, although he be without fault; unless the thing has perished by reason of defect in the materials, or by the fault of the owner.
+
+When therefore the master furnishes the materials, then cases arise, (1) The thing perishes by the fault of the workman—he will owe its value to the master and may he held in damages. (2) The things perishes by fortuitous event—the master loses his materials and the workman loses his work. (3) The thing perishes through a detect in material, the master loses his material, I, but the workman has a right to be paid the price of his work. We must, however, make an exception to this rule, of the case
+

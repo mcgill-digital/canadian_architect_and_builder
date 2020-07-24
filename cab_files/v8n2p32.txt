@@ -1,0 +1,112 @@
+<doctype type="text;plate">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title="Electricity for Architect" author="Langton, John">ELECTRICITY FOR ARCHITECT
+
+
+
+By John LANGTON, TORONTO
+
+
+
+THE engineer or architect will find that, though the quantities dealt with in electrical work may he new to him, the ideas involved are largely the same as he is already familiar with in other branches of physical science '1 There is a common impression to the contrary, and this no doubt is partly doe to the peculiar names of the practical electrical units volt. ampere, &c.
+
+These are merely arbitrary names, agreed upon the international convention  to shortly express compound units, and so avoid the repetition of cootbersonie phrases. It is, for instance, as if it were agreed to call the ordinary British unit of fluid pressure a Newton, so that we might say shortly, hot with perfect definiteness, 75 Newton's instead of 75 pounds pressure per square inch above the atmosphere. Electrical units are in this manner named after eminent of science. The Volt, after Volts, the discoverer of the galvanic battery , the Ohms, after Ohm, the discoverer of Ohm s law the Ampere and Coulomb, after the French physicists of the same names the Farad, after Faraday, the Henry after Joseph Henry, and the Watt, the unit of power, appropriately named after James Watt
+
+iii	the common commercial uses for electricity for light and power, which the architect has ordinarily dealt with, the main ideas and phenomena present close analogies to the familiar facts of the pressure and the flow of water—so much so that the readiest way of getting a very fair general idea of commercial electricity is to consider the facts concerning it as being illustrated by the similar facts of hydraulics
+
+I	will endeavor briefly to present this analogy hut I must ask you to remember that it is of course nothing but an analogy I do not mean to imply that an electric current is in any sense a flow of a material fluid, merely that the results are very much as if it were a kind of fluid
+
+Referring to Table 1 ——-the 1st column gives the natures of the electrical units which measure the four electrical quantities involved in ordinary light and power work The 2nd column shows the letters by which they are symbolized in formulae The 3rd column gives the electrical quantities which the units designate The 4th column states the general ideas involved and the last column the hydraulic quantities which are analogous to the electrical quantities in the 3rd column.
+
+Power circuits supply current at a constant pressure. 250 volts in one usual pressure. If the current used is 3 amperes, the watts are 35x250=750 waits , practically I horse power. and costing 4 cents per hour. (in a 125 volt circuit, a 6 ampere current would mean t horse power. So that for a general rule, multiply together the average amperes. the volts and the hours. Divide the product by 746 and the quotient will be the horse power hours consumed.
+
+The resistance of an electrical conductor is analogous to the hydraulic friction in pipes . built  1st the mechanical friction in pipes varies according to the most complicated rules, the resistance of conductors is fortunately governed by very simple laws. It depends only on the material, the area of cross section and the length of the conductor. And fortunately again a cheap metal, copper, is one of the best conductors It is second only to silver, which is better stilt, but only on a small percentage. I be resistance of iron is between 6 and 7 times that of copper. Copper is therefore universally used for wiring, and we need only consider the effects of area and length, which are that the resistance of a wire varies directly as the length and inversely as the area
+
+Suppose the resistance of a wire 1 foot long and of a certain cross-sectional area is ohm , if 2 feet long it mould be 2 ohms if so feet. no ohms. Another wire of to times the sectional area and 1 foot long would be n-to of an ohm, or if no feet long ohm. There are plenty of published tables of the resistance per foot of copper wires, and by the aid of this simple relation between resistance, area and length, they may he extended to any actual case The question of resistance of direct concern to architects in the wiring of buildings, but its bearing will perhaps be plainer after considering as briefly as possible the three systems of lighting in general use
+
+I. The constant current system, which is generally used for lighting by arc lam a.
+
+II. The constant potential direct current system, used for incandescent lamps and for motors.
+
+III	The alternating current system used for incandescent lamps.
+
+These can all be very well Illustrated by analogous hydraulic systems, and for this purpose I have prepared diagrams 1 2 and 3
+
+Take first diagram s—the constant current system, Here the pump represents the dynamo, which maintains a steady flow circulating round the
+
+
+
+
+
+
+
+* Paper read an the fifth anneal convention of the <assoc>Ontario Association of Architects</assoc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As the flow of water is due to difference of level or head, so is a current of electricity due to a difference of electric potential And in both cases the amount of the flow through some path provided for it, is dependent—1st, on the head or pressure which causes it , and 2nd, on the frictional resistance which the provided path opposes to that flow, and in both cases the work expended in overcoming this resistance appears as heat. With the same resistance, the greater the pressure the greater the flow With the same pressure, the gicaler the resistance the less the flow.
+
+In electrical work, the relation between the pressure, the resistance and the current is a very simple one, and is expressed by Ohio's Law, which is that The current is equal to the pressure divided by the resistance," or that the current is equal to the ratio of the pressure to the resistance This is a definite numerical statement that the number of the amperes is equal to the number of the volts divided by the number of the ohms For instance, too volts applied to the ends of a wire whose resistance in 50 ohms, mill produce in the wire a current of 2 amperes. With moo volts and 500 ohms, the current would still be 2 amperes. And the same current of 2 amperes would be produced with to volts and 5 ohms
+
+Now as to the unit of power In a fall of water, the weight of the water in pounds multiplied by the number of feet fill or head, in its energy—that is, its capacity for doing work—in foot pounds. And consequently, the rate at which this energy is developed, the rate of doing work, that is to say the power of the fall, is measured by the rate of flow multiplied by the head. In mechanical units 33.000 foot-pounds per minute is t horse power Whether the flow in 33 pounds per minute under 1000 ft. head, or Coulombs per minute under 33 ft head, or 33 000 lbs. per minute under t foot head, the power in each case is the same, namely 33,000 foot pounds per minute. or t horse power
+
+S.mil-sriy in electrical units power is measured by the current multiplied by the E M. F. the watts equal the volts multiplied by the amperes 1000 volts and to amperes, 100 volts and 100 amperes, no volts and 1000 amperes, all give the same power, namely 10,000 watts or so kilowatts
+
+Since it is the same thing that is measured in both cases,—power—there must be a definite numerical relation between the electrical and mechanical units, which in that 746 watts equals 1 horse power
+
+In buying electric power at a rate of, say, 4 cents per horse power hour, it is a very simple matter to calculate the cost of the current consumed
+
+main pipe. At intervals in the main pipe are stop cocks, and round each of them a bypass consisting of a long pipe, which opposes a high frictional resistance to the flow, so that the pump must exert greater pressure to maintain the sane steady flow These by passes represent the lamps, in which the whole work done in forcing the current through them against their resistance, appears as heat raising the temperature of the carbons to such a degree that they give out light it is obvious that except for the constant resistance of the main pipe. a resistance which in made small, the work the pump must do increases directly with the number of the by-passes the flow must traverse, and, since the flow is constant, it follows that this increased work is due entirely to increased pressure
+
+Underneath the hydraulic diagram is that of the corresponding electric system, representing a dynamo and arc lamps. The amperes are the same no matter how many lamps are burning, but the dynamos must generate about 45 volts for each lamp burning
+
+Underneath this again, I have drawn a diagram of potentials, which shows graphically how the difference of potentials established by the action of the dynamo in consumed in different parts of the circuit It is as if the dynamo were a pump raising mater to a height from which it flows down through the channels offered by the different parts of the circuit back to the pump, which again raises it to retrace the same course, maintaining a constant circulation
+
+Starting at the highest potential established by the dynamo, the potential gradient falls gently, owing to the slight consumption of volts required to overcome the small resistance of the main conductor. When it reaches the first lamp there in an abrupt fall. by the amount of the volts consumed in forcing the current through the high resistance of the lamp. Then follows a gentle grade to another abrupt fall at the nest lamp, and so on to the last lamp, from which there is a last gentle grade back to the dynamo through the return wire.
+
+When the same current passes through one lamp after another the lamps ate and to be connected in series.
+
+Turning to Diagram 2—the constant potential direct current system hydraulic diagram is an ordinary waterworks system, with the addition all water used is discharged into a main return pipe which leads hack to the pump and from which the pump draws its supply. 
+
+The function of the pump is to maintain a constant difference of premises between the mains. Each cross pipe from main to main takes where
+
+flow its frictional resistance will allow the main pressure to produce. and it is obvious that as more cross paths are opened. the increased work the dynamo must do, is due to the increased flow , the pressure remain and stant.
+

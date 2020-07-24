@@ -1,0 +1,277 @@
+<doctype type="colophon">vi.	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+—THE—
+
+
+
+CANADIAN ARCHITECT AND BUILDER
+
+A Monthly Journal of Modern Constructive Methods,
+
+(With a Weekly Intermediate Edition-—The CANADIAN CONTRACT RECORD).
+
+
+
+PUBLISHED ON THE THIRD WEDNESDAY IN EACH MONTH IN THE INTEREST OF
+
+ARCHITECTS, CIVIL A ND SANITARY	ENGINEERS, PLUMBERS,
+
+	DECORATORS,	BUILDERS, CONTRA CT ORS, MANUFAC- 
+
+TURERS OF AND DEALERS IN BUILDING
+
+MATERIALS AND APPLIANCES. 
+
+
+
+The C. H. MORTIMER PUBLISHING CO, of Toronto, Limited,
+
+Publishers,
+
+Confederation Life Building, - TORONTO, CANADA.
+
+Telephone Main, 2362.
+
+
+
+Branch Office IMPERIAL LIFE INSURANCE BUILDING, MONTREAL.
+
+
+
+Bell Telephone 2299.
+
+
+
+
+
+SUBSCRIPTIONS.
+
+THE CANADIAN ARCHITECT AND BUILDER will be mailed to any address in Canada or the United States on the following terms Architect's Edition, $3.00 per year; Regular Edition, $2.00 per year. The price to foreign subscribers is : Architects Edition, 16 shillings ; Regular Edition, 12 shillings. Subscriptions are payable in advance. The Journal will be discontinued at expiration of term pa d for, if so stipulated by the subscriber; hut where no such understanding exists, will be continued until instructions to discontinue are received and all arrears of subscription paid.
+
+
+
+ADVERTISEMENTS
+
+Prices for advertisements sent promptly on application. Orders for advertisements should reach the office of publication not later titan the 12th, and changes of advertisements not later than the 5th day of the month.
+
+
+
+EDITOR'S ANNOUNCEMENTS 
+
+Contributions of value to the persons in whose interest this journal is published are cordially invited. Subscribers are also requested to forward newspaper clip. pings or written items of interest from their respective localities.
+
+
+
+
+
+Subscribers who may change their address should give prompt notice of same in doing so, give both old and new address Notify the publishers of any irregularity in delivery.
+
+
+
+
+
+
+
+ONTARIO ASSOCIATION OF ARCHITECTS.
+
+
+
+OFFICERS FOR 1901.
+
+	PRESIDENT	-	GRANT HELLIWELL, TORONTO.
+
+	1ST VICE-PRESIDENT	F. S. BAKER. Toronto.
+
+	2ND VICE-PRESIDENT	JOHN A. PEARSON, Toronto.
+
+	TREASURER	-	- W. A. LANGTON, Toronto.
+
+	REGISTRAR	-	- W. R. GREGG, 94 King St. West Toronto.
+
+
+
+COUNCIL:
+
+	FRED HENRY -		.		London.
+
+	A. H. GREGG			-	Toronto.
+
+	LAWRENCE MUNRO	-	- Hamilton.
+
+	EDMUND BURKE	-	Toronto.
+
+	GEO. W. GOUINLOCK	-	Toronto.
+
+
+
+
+
+
+
+PROVINCE OF QUEBEC ASSOCIATION
+
+OF ARCHITECTS.
+
+
+
+OFFICERS FOR 1901.
+
+	PRESIDENT	- -	G. H. TANGUAY, Quebec.
+
+	1ST VICE-PRESIDENT - J. VEENE, Montreal.
+
+	2ND Vice-President - W. E. DORAN,				Montreal.
+
+	SECRETARY - - G. A.					MONETTE, Montreal.
+
+	TREASURER - - J. S. ARCHILAND				 Montreal.
+
+			COUNCIL.
+
+	PROF. S H. CAPPER		-     		-     	Montreal.
+
+	C. DUFORT -					Montreal.
+
+	ALCIDE CHAUSSE		- 			Montreal.
+
+	D. BROWN		-			. Montreal.
+
+	A. H. LAPIERRE		- -		-	Montreal.
+
+	J.	P. OUELLET -	- - 	- 	 - 	Quebec.
+
+
+
+AUDITORS-C. DUFORT, Montreal ; J. H. LEBRON Quebec.
+
+
+
+
+
+TORONTO BUILDERS' EXCHANGE.
+
+
+
+BOARD OF DIRECTORS:
+
+Thos. CHRISTY, President.	JAS. GRANT;.
+
+JANIRS B. THOMSON, St Vice-President.	JOHN LOGAN.
+
+JOSEPH RUSSELL. 2nd Vice-President	GEO DOTHIE.
+
+DAVID WILLIAMS, Treasurer.	W. J. HYNES
+
+R. G. KIRBY	BEN. BRICK 
+
+3. M. FAIR LOTH	JOHN VOKES.
+
+JAS J. O'HEARN.	WM. PEARS.
+
+J.	C. GILCHRIST.
+
+
+
+
+
+LONDON BUILDERS' EXCHANGE.
+
+
+
+BOARD OF DIRECTORS
+
+THOS. JONES, President.	WM. TYTLER
+
+JOHN NOTKINS, 1St Vice-President.	E. FITZ ERALD.
+
+GEO. Howe, 2nd Vice-President.	ED. MARTYN. 
+
+GEO. S. GOULD, Secretary-Treasurer.	JOHN WHITTAKER
+
+	WM. JEFFERY.
+
+
+
+
+
+MONTREAL BUILDERS EXCHANGE.
+
+
+
+BOARD OF DIRECTORS:
+
+C. T. WILLIAMS, President.	II. R. Ives.
+
+J. W. HUGHES, Vice-President.	JAMES PATOR.
+
+G- J. SHEPARD, Secretary -Treasurer.	N. T. GAGNON.
+
+JOHN WIGHTON.	JOSEPH LAMARCHE.
+
+	WINNIPEG MASTER CARPENTERS	ASSOCIATION.
+
+
+
+BOARD OF DIRECTORS
+
+A.	MACDONALD, President.	H. ELLIOTT, Secretary.
+
+A G. AKIN, 1st Vice-President.	J. G. LATIMER, Treastirer.
+
+A.	SUTHERLAND, 2nd Vice-President.
+
+
+
+
+
+VANCOUVER BUILDERS' EXCHANGE.
+
+
+
+BOARD OF DIRECTORS:
+
+E. COOK, President.	C. P. SHINDLER
+
+A. E. CARTER, Secretary.	K. M. FRASER.
+
+H. A. BELL, Treasurer.	E. 0. BAYNENS
+
+T. BRADBERY	I). SAUL.
+
+
+
+
+
+RELATING TO PRESSURE OF AIR AND WATER 
+
+It appears that the relations of pressure to distance in the forcing of water do not apply in the ease of air, especially for long distances, although for short distances they may he taken as similar. Thus, if a certain head
+
+
+
+pressure be required to maintain an air current of a given volume and force through 1,000 feet, twice the head would not be sufficient for 2,000 feet This is because of the increase in volume due to reduction in pressure, or loss of head, by the time the cud of the first 1,000 feet has lit-en reached. Consequently a greater pressure must be used to counteract this increased volume, in addition to tile extra head required to maintain the force of the current beyond. The bulk of the pressure, however, is lost by leakage and by the bands and elbows of the tube, especially when the latter have too small a radius, the resistance or retarding effect increasing in some at present unknown proportion as the radius of the curve diminishes. In one cast- the loss of pressure, including leakage, was only two pounds of the initial 60 pounds required to transmit 875 cubic feet of air per minute through an eight inch pipe, 150 feet. long. In another case, the driving of the Jeddo tunnel, at Ebervale, Pa., the loss was only 0.002 pound in transmitting air through a six inch tube a maximum distance of 10,800 feet to drive two 3 1-4 inch drills. The volume of air required, however, for this purpose, 230 cubic feet per minute, was in small proportion to the size of the tube used. By careful consideration the transmission losses may be reduced to a minimum.— (R. Peel, Mine and Minerals, Pennsylvania, Vol. XX.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE IMPERIAL VARNISH & COLOR COMPANY, LIMITED
+
+
+
+TORONTO, ORTARIO

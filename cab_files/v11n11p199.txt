@@ -1,0 +1,70 @@
+<doctype type="text">
+
+<article title=" CAUSES OF FAILURE OF BRICKWORK." author="">
+
+CAUSES OF FAILURE OF BRICKWORK.
+
+WELL known British authority, writing on this subject, says: ''It would be tedious to refer to particular cases of failure of brickwork, directly and indirectly, in walls and piers. They may generally be roughly summarised under the following five categories: (1) Failures may have arisen from exaggerated ideas of the loads which may be safely imposed upon brickwork as derived from single-brick tests. (2) From want of discrimination between the tested strength of single bricks or brick cubes, and that of brickwork, and likewise between the difference in strength of different qualities and bonds of brickwork construction. (3) From want of appreciation of the weakening effect (a) of unhomogeneous construction, (b) of high ratios of height to thickness of walls, pilasters, imposts, and piers, and (c) of the weakening influence of wet weather during building upon the brickwork, and its perpetuating soft interior mortar used in levelling up the bed-joints throughout the courses, especially when hats and brick refuse form a hearting. (4) Want of recognition of all the external sources of abnormal and eccentric loads and strains, as from floor joists, floor girders, bearing upon one side, or upon two adjacent sides, or even upon opposite sides, but unequally, owing to unequal opposite loads from unequal spans, or unequal unit loads upon equal spans, or thrusts from roof trusses, wind force, or arising from the nature of the usage of the building, as in miscellaneous storage of warehouse goods, disturbing energy of oscillation and vibration of heavy running machinery, engines, machine tools, etc. (5) Want of recognition of associations of contributory weaknesses, as damp foundations not being reinforced by strong brickwork, but instead the weakness of the brickwork thereby becomes weaker still when not reinforced by strong foundations wrong use of the inverted arch in foundations.
+
+The greatly reduced strength of brickwork as compared with that of the component single bricks depends on the difference of the conditions prevailing in each case. These differing conditions may be distinguished as the ''critical conditions," and they may be summarised thus under transverse tension and shearing stresses peculiar to brickwork, which may be characterised as blockwork- i.e., composed of independent individual blocks cemented together— as distinguished from work of a homogeneous nature, such as concrete work. The critical conditions are caused as follows
+
+(a)	By uneveness of the supporting bed-joint area, which is broken up by prominences and vacuities of the cross-joints and of the filling spaces, which are caused by the exigencies of the lateral and cross-bonding arrangements of the bricks and joints in the adjacent courses of walling.
+
+(b)	By these vacuities being more or less filled, and frequently only partially filled, with compressible mortar, whereby the bricks are supported, really, only by a few isolated points and areas of the bedding joint surface. Those isolated areas are unevenly and variously distributed at different points, and may aggregate only a small fraction of the whole bed-joint area. When these supporting points are accumulated to a larger or less extent on one side than on the others of the cross-section, the conditions of eccentric loading are set up as effectually as if the load were placed eccentric to the axis of the pier. In such a manner the successive stages of the destructive process culminating in ultimate failure
+
+of brickwork may be traced with variations in details depending on the special conditions involved in any particular case. It may be assumed as a general condition that incipient defects of materials or of the mode of structure cause weakness of brickwork.
+
+The initial weakness in brickwork is always local, and in the case of piers the local weakness is very rarely equal all round the section. Such local weakness is equivalent to eccentric loading, which reduces the strength of a pier by one-half to two-thirds of the normal eccentric loading strength.
+
+A chain is said to be no stronger than its weakest link, so likewise in masonry the bed-joint mortar forms the link which has independent action in coursed masonry. Its main resisting function is that of compression. The destructive yielding of mortar in coursed masonry is not reinforced appreciably by its cohesive and adhesive properties, as these are inferior elements in lime mortar. The strength of brickwork therefore bears a close relation to the compressive resistance of the mortar in which it is laid. Portland or hydraulic cement gives larger results in proportion to its increased strength compared with lime mortar.
+
+Viewing these hints of the details of a destructive process may help to illustrate important points of difference in stress action, whereby the compressive strength only of single bricks gives exaggerated data inapplicable directly to the strength of brickwork. The principal exaggeration of the results of testing of single bricks is due to the avoidance of the "critical conditions" of failure by tension and shearing. These critical conditions are not allowed any place in the details of testing single bricks, or in their stead half bricks, or fractional brick cubes, by the customary methods of testing."
+
+
+
+PERSONAL.
+
+Mr. Samuel Gooding, a retired builder and respected citizen of Toronto, died suddenly in that city a few days ago.
+
+
+
+Mr. Hugh Ryan, the well known contractor of Toronto, who has recently returned from the Crow's Nest Pass, is dangerously ill from Bright's disease.
+
+
+
+Mr. James Brown, a well known contractor at Ottawa, died in that city a few days ago. The late Mr. Brown had been a resident of Ottawa for 40 years.
+
+
+
+Mr. William Tye, chief engineer of construction. Canadian
+
+
+
+Pacific Railway, was united in marriage on October 12th, at St.
+
+
+
+Peters Cathedral. London, Ont., to Mabel, only daughter of E.
+
+
+
+Maloney of that city.
+
+
+
+
+
+The new drill hall at Halifax, for which Mr. John E. Askwith, of Ottawa, is the contractor, is nearing completion. The building is 315 ~ 150 feet, with a drill space of 250 X 110 feet. Massive steel girders and heavy steel sheeting have been largely employed in its construction. The cost of the building will be about $275,000.
+
+
+
+Mr. Collingwood Schrieber, chief engineer of the Department of Public Works, has notified the contractors for the interprovincial bridge across the Ottawa river at Ottawa that in the construction of the piers opportunity must be afforded him of inspecting the concrete after it has properly set. This precaution is insisted upon in view of the height of the piers and of the recent accident at Cornwall.
+
+
+
+The Ottawa Art Association commenced its work for the present season on the 1st inst. under most favorable conditions. Following are the officers of the association for 1898 and 1899	Honorary president, Sir Wilfrid Laurier president, Rev. W. T. Herridge
+
+
+
+first vice-president, Mr. David Maclaren second vice-president, Mr. John Manuel treasurer, Major Gourdeau secretary, Mr. Frank Beard executive committee, Hon. J. I. Tarte, Hon. R. R. Dobell, I Hon. E. 11. Bronson Messrs. C. Ross, J. F. Taylor, F. Checkley, John Christie, F. A. Dixon, M. C. Edey, A. W. Flecke, A. Frechette. Warren Green, Geo. L. Orme, Warren Y. Soper and John W. H. Watts,
+

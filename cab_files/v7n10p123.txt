@@ -1,0 +1,84 @@
+THE CANADIAN ARCHITECT AND BUILDER.
+
+<doctype type="text">
+
+MR. CHARLES BAILLAIRGÉ.
+
+
+
+WE have pleasure in presenting to the readers of the ARCHITECT AND BUILDER the accompanying portrait of Mr. Charles Baillairge, the newly-elected President of the Province of Quebec Association of Architects. Mr. Baillairge was born in the city of Quebec, on the 27th of Sept., 1826, and received his early education at the Quebec Seminary. Subsequently he engaged in the study of surveying, architecture and engineering. Many of the principal churches and other public buildings in the city and province of Quebec were erected from his designs. In 1866 Mr. Baillairge was appointed City Engineer of Quebec, a position which he still holds. He has found time in the midst of a life of unusual activity to contribute to the technical societies and the technical press of this and other countries a number of valuable papers on a variety of subjects. He is likewise the author of several books.
+
+We are pleased to observe that Mr. Baillairge is keeping in view the important subject of the proper education of the rising generation of architects, and we hope to see some definite action taken during his term of office in the direction of providing the means of imparting to students the knowledge without which they cannot properly rank as architects.
+
+
+
+MEASURING AIR.
+
+<article title=" MEASURING AIR " author="">
+
+SPEAKING of the work of the Massachusetts State inspectors of public buildings, the Boston Journal of Commerce says that, in inspecting the means of ventilation in a school house, great care is taken by the inspectors to secure all the data for an accurate and intelligent report. The barometric pressure, temperature, and relative humidity of the outside air are first taken, together with the force and direction of the wind. The location of the building as to points of the compass, the position and direction of he fresh-air ducts, and location of the inlets and outlets in the rooms, are also noted. Upon entering the room to be examined, thermometers are placed in various positions, on the inlets and outlets, at the teacher's desk, at the breathing line and floor among the pupils, and near the outer door.
+
+Careful measurements are then	MR. CHAS made of the volume of air supplied
+
+to and removed from the room by
+
+the ventilating apparatus. These measurements are made by taking the velocity in feet per minute of the air at the inlet or outlet by a standard anemometer, and then multiplying this velocity by the average working area of the opening in square feet.
+
+For example: The inlets and outlets are usually covered by wire gratings or by ordinary register facings, which obstruct, to some extent, the flow of air, and it is seldom the case that the air is found to be flowing alike through all parts of the opening.
+
+Proper corrections being made for these variations, and for the running of the anemometer, a very close approximation to the actual volume of air passing through may be obtained.
+
+After keeping the doors and windows of the room closed for one hour, a test is made to ascertain the amount of carbonic acid in the air, the amount of this gas present being considered as a fair index of the other and more dangerous impurities in the air of the school room.
+
+This test, unless great accuracy is desired, is usually made with an instrument invented by Professor Wolpert, and called, for him, a Wolpert air-tester. This instrument is very simple, consisting only of a glass test tube, on the bottom of which is a black mark, an inner tube of glass, and a rubber bulb, all of a specified size, and a stand in which to hold the tube.
+
+The test tube is filled to a certain height—marked on the tube
+
+—with lime water, and by means of the inner tube and bulb air
+
+from the room is passed through the water until, by the formation in it of carbonate of lime, the water is rendered so opaque that the black mark or spot cannot be seen.
+
+A table, furnished by the inventor, shows by the number of times the bulk has been filled how many parts of carbonic there are in 10,000 parts of air.
+
+There are various sources of error, both in the measurement of the volume of air and in determining the amount of carbonic acid, which have to be carefully guarded against by the inspector.
+
+This has been so well done in testing the air that in a large number of tests made with a Wolpert tester at the same time that samples of air were taken for chemical analysis, the average difference between the amount given by analysis and by the Wolpert test was only 67-100 of one part in 10,000.
+
+Tests to show the circulation of the air through the room are also made, usually by means of gunpowder smoke.
+
+The report of the inspector, when complete, gives, in addition to the outside conditions already noted, the volume and temperature of air supplied and removed, the temperature of the room, the relative humidity of the air, the amount of carbonic acid found in it, and the results of the tests for circulation.
+
+For determining the barometric pressure, relative humidity, and temperature, and also for measuring the flow of air into and
+
+out of the room, the very best and most accurate instruments to be procured are furnished to the inspectors by the State.
+
+These gentlemen by long practice and habits of close observation have become very expert in the use of the apparatus employed in testing air supplies to school houses and other buildings, and they are also equally expert in regard to methods and systems of heating and ventilation, their wide experience placing their knowledge and judgment in such matters far above
+
+those of men of limited experience in such matters, or mere theorists.
+
+
+
+PERSONAL.
+
+The death is announced of Mr. John E. Turnbull, Inspector of government Buildings, in the maritime provinces. Mr. Turnbull was a native of St. John, N. B., and
+
+BAI LLAIRGE	lived in that locality the greater part
+
+of his life. He established the first
+
+planing mill in New Brunswick. He
+
+had reached the advanced age of 76 years.
+
+The marriage is announced on the 18th September, at Rusholme Congregational church Manchester, England, of Mr. J. C. B. Horwood, architect Toronto Ont., to Mary Ethel, eldest daughter of Mr.
+
+John Jones, Manchester. The CANADIAN ARCHITECT AND BUILDER would express the hope that, to Mr. Horwood and his bride the perspective of life may never appear less pleasing than at present.
+
+
+
+In connection with the mention made in the ARCHITECT AND BUILDER for September of the materials which are being employed in the erection of the new Union Depot at Toronto, it should have been stated that Don Valley pressed bricks and terra cotta manufactured by Messrs. Taylor Bros., of Toronto, are being used in the building.
+
+
+
+THE test of steam-pipe coverings, says Heating and Ventilating, leads to the conclusion that it costs $15.48 to run one hundred of naked two-inch pipe at from 70 to 80 pounds pressure for one year of 3,000 working hours, with coal at $2 per ton. With the least efficient of the coverings used in the test, this loss could be reduced to $4, with the most efficient to $2.64. Striking as are these figures they are probably below cost of actual practice, for steam pipe is under pressure usually more than ten hours a day, and $2 per ton is below the average cost of coal. Prof. Charles B. Gibson, in some tests made for the Manufacturers Mutual Insurance Company some years since, reached the conclusion that with coal at $4 per ton and 3,000 working hours per year, the loss from a naked two-inch pipe was 64 1/2 cents per linear foot, considerably more than Mr. Dickinson's test would show even with coal at $4 per ton. However, the lowest of the estimates shows the importance of covering the pipes and it is a good thing to attend to before the present loss is increased by the coming cold weather.
+

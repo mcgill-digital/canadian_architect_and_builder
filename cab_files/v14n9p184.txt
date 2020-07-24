@@ -1,0 +1,92 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+From Young Bricklayer How can I find out the
+
+number of bricks required to build a wall of given
+
+dimensions, the thickness of wall being 4½½ x 8 X 14,
+
+or 18 inches in thickness ?
+
+Ans. Here is a good opportunity for some of our expert readers to answer an oft-asked question. As the rule for ascertaining the number of bricks in a wall, varies in different localities, we will take it as a favor if readers will consider this question, and send answer to this query, so that we may see what different methods there are in the country for ascertaining the number of bricks required to build a wall of given dimensions of any thickness.
+
+
+
+From J. P. 1 would like to know how to lay out a hole in a sloping roof so that a round stove-pipe or other cylindrical column would fit the opening ?
+
+Ans. An opening of this kind would, as a matter of course, be an ellipse, and the matter of laying out, may be performed in several ways. We give one, which will be a guide for all the others. We will suppose a 6 in. pipe is to pierce a roof having a pitch of two thirds. A line from 12 to 16 on the steel square represents the pitch. Now, with 12 as a centre, Fig. 3, and with radius equal to one-half the diameter of the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pipe, draw a circle and square up from the tongue to the pitch as shown at BC. Then AB represents one half the short diameter and AC one half of the long diameter. To make the illustration more clear, transfer these lengths as shown in the diagram, and the length of the opening is shown at CD, while the width, of course remains 6 inches in the centre. This is a very simple way of determining the shape of the opening.
+
+
+
+A correspondent of The Builder writes that building stones are not well represented in the Glasgow Exhibition, except in so far as Ireland is concerned. This is to bc wondered at seeing that the stone industry is one of the principal industries in Scotland The numerous excellent sandstones found in Dumfries near Edinburgh, and near Glasgow, are practically unrepresented. Scotch
+
+granites are in evidence on one or two stalls, but the best exhibit of them, includes also some foreign stones, which seem to be rather out of place English building stones are conspicuous by their absence.
+
+THE PRACTICE OF STACK BUILDING AND BOILER SETTING.
+
+By John G. Dunn (Instructor in Building Construction).
+
+<article title=" THE PRACTICE OF STACK BUILDING AND BOILER SETTING " author="Dunn, John, G.">
+
+There are three requisites to a chimney (1) Efficient draught ; (2) stability ; and (3) a satisfactory architectural appearance on elevation.
+
+We shall consider chiefly the stability. It is not always easy to retain the perpendicular in these great shafts. One of the chief causes for their going off the plumb is insufficient foundation, or starting- to build without ascertaining the nature of the underlying rock stratum and so causing unequal settlement ; with having one-half of the foundation on a compressible soil and the other on an incompressible, or less compressible, soil. In one instance within my knowledge a stack about 80 ft. high had to be erected at a colliery, and, without even examining the foundation, the builder started with regular footings. All went well until the stack was about 50 ft. high, and then it was noticed to be leaving the plumb becoming worse each day. The contractor, who was also the builder, wanted to stop and rebuild, but the company offered to pay for all damages if he would still try to complete the stack. He accepted the risk, and was building the stack hanging on one side and battering the other. The stack was completed and only the tackling needed to be taken down but when on the next morning they went to clear everything the stack was lying in the adjoining field. On examining the foundation it was found that at a good depth and along one edge of the foundation there was a large drain. While the stack was taking its hearings this side settled more than the other.
+
+In another instance of a stack leaving the perpendicular, the concrete foundation was put in as usual, excepting one part. This was filled in with bricks arid mortar (in the absence of inspection) because the cement was finished. Owing to unequal settlement the stack left the plumb when 10 ft. high. The soil was of a very sandy nature.
+
+Still another cause of stacks leaving the plumb is the prevalence of the wind in one direction while the stack is in course of erection, of perhaps a fierce gale which arises before the work has actually set, even though the actual building is completed. Another cause is the cutting of port holes at the bottom after the stack has taken its bearings. I have known this to be done without the consequent results being considered at all. Still another cause of stacks leaving the perpendicular is allowing courses of brick to pitch or be built off the level.
+
+There are many ways of bringing stacks, church spires, etc. , back to the plumb, the most common (and in my opinion the best) being to saw the horizontal joints on the round and bulging side, thus bringing back the weight ; or some of the bricks may he cut out and pinned up again (a very dangerous operation). Too much care cannot be given to the foundations. The same rules apply to these as to other buildings, except that the nature of the foundation should be considered for a greater depth, owing to the very great weight concentrated on a small area. A stack in a mining district should be as far as convenient from the pit shaft in order to avoid the vibrations caused by t he winding engines. Even though the foundation is of the host character, I would advocate the use of an artificial conglomerate such as Portland cement-concrete to
+
+*Abstract of a paper read before the Glasgow and West of Scotland
+
+Technical College Architectural	Craftsmen 's Society.
+

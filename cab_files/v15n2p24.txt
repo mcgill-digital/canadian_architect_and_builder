@@ -1,0 +1,68 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" NECESSARY PRECAUTIONS FOR HOLLOW WALLS " author="">NECESSARY PRECAUTIONS FOR HOLLOW WALLS.
+
+
+
+The builder of any hollow wall should bear in mind that mortar falls— a, during the bricklaying.
+
+b, afterwards during the building of the premises.
+
+c, as long as there is any mortar left in the sides of the cavity.
+
+The first-named (a) is wet mortar and is dealt with by precautions during the progress of the work as already described.
+
+I have always found it profitable to commence this work by promising the foreman bricklayer a bonus of, say, £1 or £2 if upon completion no trouble is caused by mortar on the ties.
+
+The second (b) is dry mortar and is chiefly dislodged during the laying of the floor boards. This is raked out from the bottom of the cavity just before the completion of the building, holes being left for this purpose at the ends of the cavities and at every change of their direction
+
+The third (c) should not be sufficient to fill up the 3 in. space left at the bottom of the cavity for the special purpose of its reception, but, if it should do so, it must be removed by cutting away and raking out as in the second case (b).
+
+The chief place from which the later mortar falls is the interior face of the mortar joints (not the ties), as from the nature of the work the inner joints cannot be properly struck, and when the weight of the wall above comes upon the mortar it must squeeze out a little and in the case of the outer casing certainly the effect of wet and frost will be to cause the over-hanging portion to fall to the bottom of the cavity
+
+In this connection I heard of a case a short time back where, "to make a thoroughly good job," a builder inserted lead over a long lean-to exactly as I have described it, but turned up 3in. inside the cavity, as in Fig. 5.
+
+The result naturally was that not only was the extra 2in. width of lead quite wasted, but that actually a whole course of brick had to be cut away in order that its superabundance might be turned close up against the outer wall in thc same position as a 1in. strip would have occupied ! He had of course laid the lead so that it just missed the inner casing, and the falling mortar could not in this case fall to the bottom and consequently quickly formed a bridge across where the lead obstruction did not allow it room to pass.
+
+The author's specification clauses for hollow walls may be of service ; they are as follows
+
+"Pick bricks used externally for colour and quality. The external walls to he built hollow (as shown)
+
+with a cavity 2½in. wide, with two 4½in. thicknesses to be tied together with approved double-twist wrought-iron wall-ties dipped in boiling tar.
+
+'' Great care to be taken that the ties are not laid with an inclination inwards, and to keep them free from mortar—a lath to be laid on the ties for this purpose and drawn up as the work proceeds—and holes to be left at the foot of the walls to extract any droppings after floor boards have been laid. Provide and lay efficient damp-course of felt—well tarred—in all walls 3in. above ground line at the least. In the case of hollow walls it is to be laid one course above the solid work so
+
+injury
+
+as to allow a slight drop of mortar without
+
+WORKING DRAWINGS AND THEIR USES.
+
+To understand plans the first really requisite knowledge is to find the scale to which the plan is drawn.
+
+It will be quite correct to state that the principal and most common scales used are 2 ft. to 1 in., or ½ in. equals 1 ft.; ft. to 1 in., or 14 in. equals ft. Of course it is obvious to anyone that the above scales can also be rendered one twenty-fourth, one forty-eighth, and one ninety-sixth full size ; but the first expressions are the most common. Knowing what the scale is, there should not be any difficulty on the part of readers to measure up the thickness of walls, height of storeys, &c.
+
+The next thing to know is the standard colors by which each material is represented. The mechanic or general foreman should consult his specification, and not trust entirely to the colorings of his drawings, as differences occur. The general colors are
+
+Concrete Generally neutral tint, or blue with black dots.
+
+Leadwork:	Light gray.
+
+The above names are not the technical ones for the different colours, hut this article is written for the
+
+learning," not the ''learned."
+
+We next come to the different plans, &c., of the building.
+
+The general drawings supplied on a contract are
+
+1. Block Plan.—This shows to a small scale the position of the building with respect to other buildings, &c, and frequently also is used as a drainage plan. From this plan the foreman in charge of the works is able to set out the position of his building Now, this measurement is, of course, to the finished line of brickwork, and the foreman will have to allow for his footings and concrete foundations.
+
+2. Ground Plan.-From this plan, together with reference to the section, he will be able to set out his various walls with the widths and thicknesses thereof, and the concrete foundations ; the position of the walls giving the size of the various rooms. The widths of the various door and window openings are also obtained from this plan. If the jambs of the doors have not reveals, they are lined, and have not, as a rule, solid frames.
+
+3. Plans of Upper Floors.—These plans give similar information to the last mentioned.
+
+4. Sections.—These are very important, and this is where the stumbling block occurs to many mechanics. A section is an imaginary line taken vertically through any portion of a building, and strictly speaking, only requires that portion of the building to be shown which the section line cuts ; but to make things more explicit, a "sectional elevation" is nearly always given. This latter differs from the former, inasmuch as the latter gives the elevation of everything seen beyond the '' line of section." To make this clearer we may give a simple illustration Take a square box and cut it vertically into two parts. Now to illustrate a section of same the simple outline with the thickness of the material need only be shown, but, supposing a sectional elevation is required, then, if any openings were in the side of the box, these openings would have to be shown in their proper positions. You will now see how valuable a sectional elevation is, It not only gives you
+

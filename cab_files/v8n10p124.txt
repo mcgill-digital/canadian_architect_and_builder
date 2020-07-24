@@ -1,0 +1,96 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+are about 2 feet square, or of an area of feet, which at once reduces the pressure per super foot to 320 tons; and if the foundation piers bearing these and transmitting their weight to the solid rock below were only 10 feet square, or 100 feet area, the weight per foot reduces to a little less than 13 tons; while if the pier be made 14 feet square, its area is doubled and the 13 tons reduced to 6 1/2 or 6 as set forth in table. As stated last year by the writer in his paper on the foundations of heavy structures, the question is not so much the number of tons which I foot of bearing surface is loaded with, as that (not to prevent settlement which is inevitable, but to render it equal throughout) the bearing surfaces of foundation be equally loaded— the whole front of the new Joliette church having to be rebuilt at a cost of some $100,000 because, while the side walls bear with only 2 tons weight or pressure on their footings, the tower and front wall bearing on their footings with a pressure of tons or double the weight. The tower, when I saw it three years ago, had torn itself and the portal away from the aisle walls and sank to a depth of more than 11 inches below the latter, completely dislocating  arid destroying this portion of the structure and requiring its entire demolition and reconstruction.
+
+One would think at first sight--that is, the popular idea may be and is—-that a solid structure or one of solid masonry like the pyramids is that which with the same height and weight of material, bears heaviest on its foundations, but such is by no means the case, the greatest pressure being generally borne by the piers of a domed church or other structure, each pier being loaded. in addition to its own weight and portion of dome bearing directly on it, with one quarter of such portions of the vaulted or arched structures as correspond to the archways or openings of the aisle and transept.  and which, as in the case of St. Peters of Rome, must be close upon 35 tons to every square foot of the supporting pier.
+
+Nor is there anything extraordinary even in this figure, as I believe some of the so-called chapter houses of churches in England support weights even in excess of this, where one-half the weight of the domed or stone groined vaulted ceiling is borne by a single marble column of only a few inches in diameter at the center of the structure. Another example of heavy weights borne by a small base is where a 100 ton gun, for instance, or ponderous piece of machinery supported by the jib or boom of a derrick, is thus transferred  to and supported by the derrick mast or upright post, which, if say of a 14 inches square piece of timber, giving a sectional area of only 2 feet or less, loads the bearer with a weight of 50 tons, together with the additional weight of the derrick itself, representative also the derrick post or mast of a column in any building and the boom or jib with its suspended weight, of the 100 200 or 400 ft. area of supported flooring with column at 10 -10' center, 10'-20' or 20'-20' distance apart, or (at 300 lbs. the ft.), 15 30, and 60 tons respectively.
+
+Now, even 60 tons, or 160 to a square foot of a solid stone pier, not monolithic, but made up of monolithic or large and closely fitting cut stones, is in no way excessive, since good cement brick work will bear i8o tons, while good ordinary cement stone masonry will bear twice that weight or 360 tons, and up to twice that figure or even more for the experiments made on a brick pier, for instance, are so made on one of only a foot square, and those on piers of masonry have also been made on comparatively small based areas, where there was no lateral support or resistance round about to prevent the giving away by lateral failure.
+
+Again, the strength of piers of stone masonry may be made to approximate almost indefinitely to that of the stone itself, as given in the ensuing table IV, where crushing powers arc recorded of as much as 1,200 tons and over to the square foot, or rather equivalent thereto, and which would be much greater if it were possible, which it practically is not, to test a foot of stone in the same manner instead of only a small cube of an inch or an inch and a half square and then reduced to inch for the small cube, as would also he the case with a larger one, must necessarily fail first at the angles or corners and along thc edges, while if the same weight or pressure were applied to an equal area at the center of a 12 inch stone or more, it is evident it would produce no effect, the tendency to crush and crack being counteracted by the lateral support given to the central portion by the strength and resistance of the outlying margin of the material experimented on.
+
+And not only would the crushing weight of masonry approximate to that of the solid stone, as determined by experiments upon the tiny cubes thus treated, but there can be no doubt of it, go far beyond such data and indefinitely so, for even if thc nucleus of the earth be fluid, and the crust only 40 miles in thickness as geologists pretend, and if the crust be stone and even if no heavier than granite, then would we have on each square foot of thc inner rim or area of base thereof, more than 200,000 cubic feet of stone, and at 160 lbs. to the foot, a crushing pressure of 16,000 tons, but which, were it ten times greater, a hundred or a thousand times, could never crush the stone, supported on all sides as is every foot of the crust or solid component masonry thereof by thc equally resisting power of every other foot hemming it in on all sides and preventing the possibility of its ceding or giving away to any other force than the disrupting seismic action of thc interior.
+
+I must, gentlemen, insist again, as I did in my last year's paper on 'Foundations in Deep and Unreliable Soils," on the necessity of a consideration, not only of absolute, but of comparative stresses to secure uniformity or prevent inequality of settlement—that being thc all-important desideratum.
+
+The very term ''the engineering portion of architecture, or rather the necessity for such a term, is a slur on the profession, an insult so to say to any architect who pretends he knows his business for if we are to call in the superior scientific acquisitions of the engineer in dealing with the foundations, then, a portion, shall we have to do so in dealing with the stresses, much more difficult of calculation, of a domed structure, for instance and surely it never shall be said that the architect has come clown from the high pedestal on which, long before the days of engineering science, stood and stand to this day the Bramantes and the Michael Angelos, the Perraults and the Mansards, the Jonts (Inigo) and the Wrens. Well may we hide our heads if ever that should come to pass, for, without thc aid of the engineer, we architects can do as they do, and thus make themselves appear more scientific than they really are. Can we not also call in the aid of mathematics, and direct a professor or expert at that science to calculate a stress of any kind, whether of direct weight, lateral pressure, or resistance to overthrowal by a cyclonic wind or pressure.
+
+If the profession would have that standing which it had of yore and still lays claim to in other countries, I must tell you, and I do so squarely—we must hear of no more such failures as those at Nicolet, St. Bastile, Joliet, Cornwall and elsewhere. Nor should there he any more roof failures, whether from rain saturated snow or clue to faulty construction. Montreal must not in respect to falling buildings emulate New York, where such accidents are the order of the day which are to the disgrace of the profession.
+
+But though or while giving you a table for calculating the component weights and strengths and costs of a building up to 20 storeys in height, I hope none of you will ever be called on to design such an ungainly, unaesthetic piece of construction, and at any rate that you will set your face against anything of the kind elsewhere than in but a purely manufacturing or suburban district, and not where its presence would mar the landscape and architectural effect of surrounding common sense structures and I
+
+here transcribe a most pertinent article from the ''London Surveyor." It reads as follows:
+
+A propos of a monstrous 'sky-scraper" apartment house recently erected at Washington, the American Architectural Record has a deservedly severe article on ''Architectural Aberrations," and puts forward the plea that city authorities should be allowed to veto plans for new buildings, not only if they sin against sanitary laws, but if they outrage the canons of art. As it pertinently remarks, "There is a patent absurdity in taking thought and spending vast sums of money for thc purpose of making a harmonious city, and then permitting any promiscuous private person who can get possession of a piece of ground, and raise money enough, to put a building on it, to nullify all your dispositions and vilgrise your town.' There is much in the protest, and though we do not suffer so badly as our cousins do from the piled-up monuments of bad taste and cupidily, still even London suffers from the tall-house mania, not to mention other hideous forms of architectural aberrations. Edinburgh, too, will note the timely protest with interest. But the task of acting as censor would be full of difficulties where mutable taste rather than positive science would have to he the guide."
+
+To this I would add that there should be no foolish rivalry in such matters, as it is as easy for one architect to outdo another in height as for a naval architect to beat the record in point of length and strength, or for an artillerist to design a target that will resist a shot a shot to pierce it, another target to resist the latter and again another shot to hole it, and so on, without end; but though there may be a reason for this when a nation wishes to retain its prestige over its neighbor and though engineers are forced into long arid still longer spans for bridges due to the widths and depths of rivers to be traversed and to conditions imposed by
+
+
+
+
+
+Type of steel-built column on which calculations of stresses, weights and prices are based, for computation of data in Table I.
+
+
+
+Scale. 1/4 inch to one inch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 1.
+
+
+
+Table of steel thickness and sectional areas, box built columns to support fire proof or iron, brick and concrete floorings in buildings from 1 to 20 stories high. Weight per sup. or square foot of roofing and flooring, partition walls, etc.. 300 lbs., including 90 lbs. live load. Factor of safety or 1/5 of crushing load
+
+the authorities—as in the 1,700 feet twin spans over the Firth of Forth in Scotland, the Brooklyn suspension bridge and now the 3,200 feet span structure about to be thrown over the Hudson between New York and Jersey City—no similar necessity exists for structures of the Eiffel tower type, which all Paris is clamorous to have demolished, though it certainly is not an outrage to artistic taste and merit in any way approaching the super-
+

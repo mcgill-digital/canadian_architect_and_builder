@@ -1,0 +1,6 @@
+<doctype type="plate">The Canadian Architect
+
+Proposed <building>Athletic Club House, Toronto</building>
+
+<person>E. J. Lennox</person>, Architect.
+

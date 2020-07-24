@@ -1,0 +1,230 @@
+<doctype type="text">	240	CANADIAN	ARCHITECT AND BUILDER
+
+<article title=" SAFE SPANS FOR WOODEN FLOOR JOISTS, CEILING JOISTS AND RAFTERS IN BUILDINGS " author="">
+
+SAFE SPANS FOR WOODEN FLOOR JOISTS, CEILING JOISTS AND RAFTERS IN BUILDINGS.*
+
+REALIZING the important part played by labor-saving devices in the economy of the industries of this age, the writer has for several years given much thought to the preparation of tables for the strength of building materials, which, while safe and reliable, can also be readily understood and used by any architect or intelligent builder.
+
+Even to those who are familiar with the formulae and data used in determining the strength of materials, such tables are of great help, as they enable one not only to determine more quickly the size required, but also to see at a glance the size which can most economically be used.
+
+Tables for the strength of beams are given in several handbooks, but as yet the writer has seen no tables which show at a glance the size of wooden joist to be used with the ordinary method of framing. To supply this want the following tables were prepared, and it is believed that they will be found applicable to nine-tenths of the buildings in which wooden joist are used.
+
+As the joist are sawn to regular sizes, and it is a very common custom to space them either 12 or x6 inches on centres, the span and load are the only variable terms.
+
+The following tables give the maximum span for which the different sizes of joist should he used with spacings of 12 and 16 inches, so that knowing the size of room to be covered, the size of the joist can be told at a glance.
+
+If, owing to the room being irregular in shape, the joists must be of different lengths, the spacing or thickness of the joists may be varied, so that the same depth may be used throughout.
+
+Values for the four different woods most commonly used are also given.
+
+The only precautions to be exercised in using these tables are in regard to the superimposed load and the actual size of the timbers.
+
+The superimposed loads for which the maximum spans have been computed are given at the head of each table. The load to be assumed for any given building is to a large extent a matter of judgment, as circumstances may demand a higher limit for one building than for another, even of the same general class. In general the tables may be considered safe for the classes of buildings indicated.
+
+In some localities framing lumber is often sawn a little scant in both thickness and depth, and wherever such is the case a corresponding reduction must be made in the safe span. A reduction should also be made for any cutting of the joist that may be required.
+
+Tables A to E, inclusive, were computed by the formula for stiffness, on the assumption that the deflection should not exceed 1-30 of an inch per foot of span. Tables F, G and H were computed by the formula for strength.
+
+No allowance has been made for partitions, and when they are to be supported by the floor joist additional joist should be used, or the span reduced according to the relative direction or position of the partition and joists.
+
+The spans given in these tables come within the requirements of the New York and Buffalo building laws, and tables A, C, D, E, G and H comply with the
+
+*	F. E. Kidder, in Architecture and Building.
+
+Chicago law, but to comply with the Boston law (which the writer considers very unreasonable) a reduction of about one-sixth must be made from the spans given.
+
+By Georgia pine is meant the long-leaf, yellow or hard pine.
+
+TABLE A.
+
+MAXIMUM SPAN FOR CEILING JOISTS.
+
+<article title=" MAXIMUM SPAN FOR CEILING JOISTS " author="">
+
+Superimposed load, pounds per square foot.
+
+Size of joist. Dist. on	Oregon Pine. Georgia Pin.
+
+	Centres. White Pine.	Spruce
+
+		In	Ft.	In.	Ft.	In.	Ft.	In.	Ft.	In.
+
+	2 X 4	12	9	11	10	7	10	11	11	10
+
+	2X4	16		0	9	7		911	11	1
+
+	2X6	12	14	7	15	7	16	1	17	3
+
+	2X6	16	13	3	14	2	14	7	15	10
+
+	2X8	12	19	0	20	6	21	1	22	8
+
+	2X8	16	17		18	8	19	3	20	8
+
+	2X10	12	23	6	25	2	26	0	27	11
+
+	2X10	16	21	7	23	0	23	10	25	7
+
+	2X12	12	27	0	28	10	29	8	32	0
+
+	2X12	16	25	0	26	8	27	6	29	7
+
+
+
+
+
+TABLE B.
+
+MAXIMUM SPAN FOR FLOOR JOISTS.
+
+
+
+DWELLINGS, TENEMENTS	AND GRAMMAR SCHOOL ROOMS WITH FIXED DESKS.
+
+Superimposed load, 40 pounds per square foot.
+
+	Dist. on
+
+Size of Joist.	Centres. White Pine Spruce. Oregon Pine. Georgia Pine.
+
+		In.	Ft.	In.	Ft	In.	Ft.	In.	Ft.	In.
+
+	2X6	2		10	10	6	10	10	11	8
+
+	2X6 16 90 9 7 9 11								10	8
+
+	2X8	12	13	0	13	11	14		15	6
+
+	2X8	16	11	11	12	10	13	2	14	2
+
+	2X10	12	16	2	17	3	17	11	19	0
+
+	2X10	16	14	11	15	11	16	5	17	6
+
+	3X10	12	18		19	6	20	2	21	5
+
+	3X10	16	16	10	18	o	18		19	8
+
+	2X12	12	19	5	20	8	21	5	22	8
+
+	2X12	16	17	10	19	0	19	7	20	11
+
+	3X12	12	21	10	23	3	24		25	6
+
+	2X	12		22	6	24	0	24	10	26	3
+
+	2X	14	16	20	8	22	1	22	10	24	2
+
+	3X		16	20	I	21	6	22	2	23	7
+
+	2 1/2 X 14 12 24 0 25 7 26 5 28 0
+
+					23	7	24	5	25	11
+
+	3X14	12	25	2	26	11	27	10	29	6
+
+	3X14	16	23	3	24	11	25	8	27	3
+
+
+
+
+
+TABLE C.
+
+MAXIMUM SPAN FOR FLOOR JOISTS.
+
+
+
+OFFICE BUILDINGS.
+
+
+
+Superimposed load, 70 pounds per square foot.
+
+	Dist on
+
+Size of Joist.	Centres.	White Pine.	Spruce.	Oregon Pine Georgia Pine.
+
+		In.	Ft.	In.	Ft.	In.	Ft.	In.	Ft.	In
+
+	2X10	12	14	2	15	2	15	7	16	10
+
+	2X10	16	13	0	13	11	14	3	15	5
+
+	3X10	12	16	1	17	2	17	8	19	1
+
+	3X10	16	14	8	15	8	16	2	17	6
+
+	2X12	12	17	0	18	1	18	8	20	1
+
+	2X12	i6	15	6	16	7	17	1	18	,
+
+	3X12	12	19	2	20	6	21	2	22	10
+
+	3X12	i6	17	7	18	10	19	6	20	11
+
+	2X14	12	19	10	21	1	21	10	23	5
+
+	2X14	16	18	1	19	3	19	11	21	6
+
+	21/2X14	12	21	1	22	7	23	3	24	11
+
+	21/2X14	16	19	5	20	8	21	5	22	11
+
+	3X14	12	22	5	23	10	21	7	26	3
+
+	3X14	16	20	6	21	11	22	7	24	1
+
+
+
+
+
+TABLE D.
+
+MAXIMUM SPAN FOR FLOOR JOISTS.
+
+
+
+CHURCHES AN]) THEATRES WITH FIXED SEATS.
+
+
+
+Superimposed Load, 80 lbs. per square foot.
+
+
+
+
+
+Size of Joist.	Dist on White Pine. Spruce. Oregon Pine. Georgia Pine. Centres.
+
+		In.	Ft.	In.	Ft.	In.	Ft.	In	Ft.	In.
+
+	2X10	12	13	8	14	7	15	1		2
+
+	2X10	16	12	6	13	5	13	10	14	11
+
+	3X10	12	15	6	16	7	17	1	18	3
+
+	3X10	16	14	2	15	2	15	8	16	10
+
+	2X12	12	16	5	17	6	18	1	19	3
+
+	2X12	16	15	0	16	0	16	6	17	8
+
+	3X12 12 18 19 11 20 6 1								21	11
+
+	3X12	i6	17	0	18	2	18	10	20	1
+
+	2X14	12	19	1	20	5	21	0	22	5
+
+	2X14	16	17	5	18	7	19	2	20	6
+
+	21/2X14	12	20	5	21	10	22	6	24	0
+
+	2 1/2X14	16	18	8	20	0	20	7	22	1
+
+	3X14	12	21	7	23	I	23	10	25	5
+
+	3X14	16	19	10	21	1	21	10	23	3
+

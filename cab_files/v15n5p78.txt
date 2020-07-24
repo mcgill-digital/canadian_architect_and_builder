@@ -1,0 +1,191 @@
+<doctype type="text;ad">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" LOADS AND WORKING STRESSES FOR BUILDING WORK " author="">LOADS AND WORKING STRESSES FOR BUILDING WORK.
+
+The committee appointed in 1899 by the <assoc>Austrian Society of Engineers and Architects </assoc>to report on "Specifications for the loading of structures, and the working stresses of materials of construction" has just (January, 1902) published the results of a two years labor. The following figures compiled from the report by Mr. F'.
+
+<person>C.	Kunz</person>, assistant to vice-president, Engineering Department, <firm>American Bridge Company</firm>, are of great interest for comparisons, says the Engineering Record, as they practically cover the same ground as our building laws. Items of local interest only, like data for special timber and for special stones, have been omitted. All figures are given in round numbers.
+
+
+
+The figures have been carefully revised and such changes made as were necessary to adapt them to Canadian materials. The tables may be safely followed being based on 2200 lbs. to the ton. The table of working stresses is a little mixed, particularly that portion relating to timber, as the kinds of timber are not shown. However this matters but little as the calculations seem to have been made with some of the weaker woods.
+
+<article title=" WEIGHT OF MASONRY " author="">		Lbs. per
+
+	WEIGHT OF MASONRY	 cu. ft.
+
+Common brick masonry, lime mortar	100-105
+
+Common brick masonry, cement mortar	105-110 
+
+Hard brick masonry, Portland cement mortar	100-110 
+
+Best pressed brick masonry, Portland cement mortar. . . 120-130
+
+Hollow brick, lime mortar	  80-90
+
+Porous brick, lime mortar	  70-80
+
+Rubble masonry, light	  140
+
+Rubble masonry medium	  150
+
+Rubble masonry, heavy	  175
+
+Ashlar masonry, sandstone	 130-195
+
+Ashlar masonry, limestone	 125-160
+
+Ashlar masonry, granite	  200
+
+Portland cement concrete, brick                   
+
+Portland cement concrete, lime or sandstone	  135
+
+Portland cement concrete, granite	  170
+
+	Lbs. per
+
+WEIGHT OF BUILDING MATERIAL.	CU. ft.
+
+Masonry debris	   90
+
+Sand	   90
+
+Slag	   45
+
+Coal ashes	  45
+
+Dry lime mortar	  95
+
+Dry cement mortar	  105
+
+Asphaltum	 125-130 
+
+Gypsum	  60-80
+
+Cinder concrete	  60-80
+
+Glass	  160
+
+Dry earth	   85
+
+Wet earth	  100
+
+Gravel	  125
+
+Clay	  95-110
+
+Turf	   10-25
+
+	Lbs. per
+
+	FLOOR LIVE LOADS	sq. ft.
+
+Mansard rooms		30
+
+Residences		50
+
+School rooms		6o
+
+Stairs, corridors, theatres, ballrooms, gymnasiums are
+
+	more assembly rooms	80
+
+Offices, light storage, above first floor	90
+
+Offices, light storage, first floor	115
+
+Ice storage (ice 3 ft. height)	155
+
+	Lbs. per
+
+WIND and SNOW LOADS.	sq. ft. Hor. wind pressure on vert. plane                        40 Snow pressure on horizontal plane                       15
+
+Only horizonal wind is to be assumed. If wind and snow loads are used combined, only two-thirds of the latter is to be considered.
+
+ULTIMATE BENDING STRESS OF PORTLAND CEMENT CONCRETE
+
+	Six MONTHS 01.1)	Lbs. per
+
+Cement	Sand gravel	sq. in.
+
+	3	600-710
+
+	3½	470-570
+
+	4	340-430
+
+
+
+PERMISSABLE WORKING STRESSES OF IRON, TIMBER AND GLASS.
+
+<article title=" PERMISSABLE WORKING STRESSES OF IRON, TIMBER AND GLASS " author="">
+
+In pounds per sq. in.
+
+Tension Comp. Pending Shear.
+
+Wrought iron and ingot iron. 14,200	14,200	14,200	11,400
+
+Cast iron	2,850	8,530	3,560	2,850
+
+Glass cast		1,000	850
+
+Glass blown		1,000	650
+
+All rivet holes have to be drilled. Maximum pressure on bearing surface of rivcts, 23,000 lbs. per sq. inch. For iron and wooden bridges special instructions exist.
+
+The working stresses of timber
+
+Tension, from	1,140 to 1,420
+
+Compression, from	850	to	1,000
+
+Bending from	1,140	10	1,420
+
+Shear, parallel to grain	140	to	210
+
+Shear, perpendicular to grain	280	10	420
+
+ Buckling and eccentric loading have to bc		considered.	(No
+
+
+
+formula given).
+
+
+
+PERMISSABLE WORKING STRESSES OF DIMENSION STONES AND PIERS. In tons per sq. ft.
+
+	I	IIa	IIb	IIc
+
+Hard granite                       100 60 50 
+
+Medium granite, hard limestone	70	40	30
+
+Hard sandstone medium limestone	50	30	25
+
+Medium sandstone, soft limestone	35	20	15
+
+Soft sandstone	15	10
+
+ I refers to single dimension stones, with a factor of safety				 of
+
+about 15; IIa to piers whose height does not exceed 6 to 8 times their least dimension IIb to piers whose height docs not ex-
+
+
+
+<firm>The Globe Paint Company, limited</firm>
+
+Toronto, Ontario
+
+
+
+<firm>The Milton Pressed Brick Company, limited</firm>
+
+Architectural terra cotta, high-grade bricks
+
+Milton, Ontario

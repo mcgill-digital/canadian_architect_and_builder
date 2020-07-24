@@ -1,0 +1,3 @@
+<doctype type="plate">Drawing Room in <building>House in Crescent Road, Rosedale, Toronto</building>
+
+<firm>Gordon and Helliwell, Architects</firm>

@@ -1,0 +1,92 @@
+<doctype type="text">120	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+be placed on file in the Bureau of buildings. They shall he open to public inspection, but need not necessarily bc published.
+
+(5)	For t he purpose of the tests, at least 15 samples or test pieces must be provided. Such samples must represent. the ordinary commercial product. They may he selected from stock by the superintendent of buildings, or his representative, or may be made in his presence at his discretion. The samples must be approximately 8 inches long, 4 inches wide and 2 inches thick. In eases where the material is made and used in special shapes or forms, full size samples may also be called for and tested in such manner as may be directed by the superintendent of buildings to determine the physical characteristic specified in Regulation 3.
+
+(6)	The samples may be tested as soon as desired by the applicant, but. in no ease later than sixty days after manufacture.
+
+(7)	The weight per cubic foot and specific gravity of the material must be determined.
+
+
+
+(8)	These tests shall he made in series of at least five, except that in the fire tests a series of two (four samples) is sufficient. The transverse test shall be made first on full-size samples (8x4x2 inches). The resulting half samples are then used for the compression and absorption tests but in no case must both halves of the same piece be used in any series. Half samples may also he used for the freezing and fire tests under the same restrictions. The remaining samples are kept in reserve, in ease unusual flaws or exceptional or abnormal conditions make it necessary to discard certain tests. All the samples must he marked for identification and comparison.
+
+(9)	The traverse test shall be made as follows: The sample shall be placed flat wise on two rounded knife-edge hearings set. parallel, 7 inches apart. A load is then applied on top, midway between supports, and transmitted through a similar rounded edge, until the sample is ruptured. The modulus of rupture shall then be determined by multiplying the breaking load in pounds by twenty-one (three times the distance between supports in inches), anti dividing the result by twice the product of the width (approximately four) in inches, by the square of the depth (approximately two) in inches.
+
+(10)	The compression test shall he made as follows The sample must first be thoroughly dried to a constant weight. It must be carefully measured, then bedded flatwise in plaster of
+
+Paris or blotting paper, to secure a uniform hearing in the testing machine, and crushed. The total breaking load is then divided by the area in compression, in square inches.
+
+(11)	The absorption test must be made as follows : The sample is first thoroughly dried to a constant weight. The weight must be carefully recorded. It is then placed in a pan or tray of water, immersing it to a depth of not more than 1/2 inch. It is again carefully weighed at the following periods: 30 minutes, 4 hours, and 48 hours, respectively, from the time of immersion, being placed in the water in each ease as soon as the weight is taken. Its compressive strength, while still wet, is then determined at the end of the 48 hours period, in the manner
+
+specified in Regulation to.
+
+(12)	The freezing test is made as follows : The sample is immersed as described in Regulation 11, for at least four hours, and then weighed. It is then placed in a freezing mixture or a refrigerator, or otherwise subjected to a temperature of less than 15 degrees Fahrenheit. for at least 12 hours. It is then removed and placed in water, where it must remain for at least one hour, the temperature of which is at least 150 degrees Fahrenheit. This operation is repeated twenty times, after which the sample is again weighed while still wet from last thawing. Its crushing strength should then be determined, as called for it Regulation
+
+10.
+
+(13)	The fire test must be made as follows : Two samples are placed in a cold gas furnace, in which the temperature is gradually raised to 1,700 degrees Fahrenheit in on hour. One of the samples is then plunged in cold water (about 50 or 6o degrees Fahrenheit), and results noted. The second sample is
+
+permitted to cool gradually in air and the result noted.
+
+(14)	The following requirements must be met to secure an acceptance of the materials : The modulus of rupture must average 450, and must not fall below 350 in any case. The ultimate compressive strength must average 3,000 pounds per square inch, and must not fall below 2,500 in any case. The percentage of absorption being the weight of water absorbed divided by the weight of the dry sample, must not average higher than 15 per cent. and must not exceed 20 per cent. in any case. The
+
+reduction of Compressive strength must not be more than 33 1-3 per cent., except when the lower figure is still above 3,000
+
+
+
+pounds per square inch, the loss in strength may he neglected. The freezing and thawing process must not cause a loss in weight greater than 10 per cent., nor a loss in strength of more than 33 1-3 per cent., except that when the lower figure is still above 3,000 pounds per square inch, the loss in strength may be neglected. The fire test must not cause the material to disintegrate. (Note—No great stress will be laid in this last test.)
+
+(15)	Time approval of any material is given only under time following conditions:
+
+
+
+(a)	A brand mark for identification must be impressed on, otherwise attached to, the material.
+
+
+
+(b)	A plant for time production of the material must be ill full operation when time official tests are made.
+
+
+
+(c)	The name of the firm or corporation, and the responsible officers, must be placed on file with time superintendent of buildings, and changes in sauté promptly reported.
+
+
+
+(d)	The tests must be repeated at any tulle when called for, on samples selected from the open market, when there is any doubt whether the product is up to the standard of these regulations.
+
+
+
+(c) in case time results of tests made under this condition (d) should show that t lie standard of these regulations is not maintained, the approval of this bureau will be at once suspended or  revoked. — The Improvement Bulletin.
+
+
+
+
+
+<article title=" SPECIFICATIONS OF FIRE-ESCAPES " author="">
+
+SPECIFICATIONS OF FIRE-ESCAPES.
+
+The following specification, prepared by a special Committee authorized by a meeting of Architects and Fire—Escape Manufacturers held some months ago, has been sent to us from the office of the Inspector of Factories for Ontario. A note accompanying the specification states that the provisions here laid down are prepared for discussion at a meeting to be held at an early date:
+
+BALCONIES. —Balconies must not be less than the full width of opening or openings leading to them, and are in no ease to contain less than twelve square feet of floor space or he less than 2 wide. There must be a clear floor space of at least twenty inches between the top of each flight of stairs and time railing opposite timid a clear floor space of at least 27 inches between the lowest tread of each flight of stairs- and the railing opposite. Balconies requiring a passage at side of stairways or well holes must have a clear passageway of at least 20 inches.
+
+Balconies shall have railings at least 2' 10" high on all sides excepting where stairs lead off end and at open ends of bottom balconies. Railings to have handrail and corner posts constructed of 1 1/2" x 3/16" angle iron and 1 1/4" x 1 1/4" flat iron standards between, not more than 2' o" apart, riveted to toll and bottom rails. The space between standards to have 1 1/4" x 1
+
+iron liars placed Crosswise and separately riveted to top and bottom rails.
+
+STAIRS. —All balconies are to be connected by stairways. The strings of these stairs shall be constructed of at least 4" channel iron, 5 1/4" lbs. per foot, and have steps of at least 6' tread amid not more than more" rise, riveted to strings with at least two 3/8" rivets at each end. Treads may be had of stamped or perforated steel 3/16" thick, having a 1 1/4" flange on all sides, or time treads may be constructed of a frame work of 1 1/4" x 1 1/4" x 1/4" angle iron with one or more 1 1/2" x 3/16" flat bars placed lengthwise in centre, the bars so spaced that there shall not be more than 1" open space between bars or between bars arid angle iron.
+
+
+
+All stairs shall he provided with an outer railing 2' 6" high, measured perpendicularly from nosing  steps, amid all stairs not
+
+
+
+placed close to wall must have an inner railing of similar construction. These railings shall have handrails of 1/2" x 1/2" x 3/16" angle iron, supported by 1 1/4" x 1 1/4" x 3/16" angle iron standards not more than o" apart, placed at right angles to strings, and railing to have an intermediate 1 14" x 1/4" flat bar halfway between handrail and string. All to he securely fastened together. There must be a clear head room for all stairways of at least 6' 9."
+
+BRACKETS.---Balconies to be supported by steel brackets spaced malt more than 4' 0" apart, except where space is required to get head room for stairs, or in other cases where special permission has been given by the Inspector mm writing. These brackets to be formed of angle steel of the sizes given in the fol
+

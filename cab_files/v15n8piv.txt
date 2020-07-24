@@ -1,0 +1,88 @@
+<doctype type="ad">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<firm>Sackville Freestone Company, limited</firm>
+
+Light brown or red stone
+
+Sackville, New Brunswick
+
+
+
+<firm>Amherst Red Stone Quarry</firm>
+
+Amherst, Nova Scotia
+
+
+
+<firm>Horse Shoe Quarry</firm>
+
+All kinds of stone
+
+St. Marys, Ontario
+
+
+
+<person>John Kline</person>
+
+Dealer in rough and dressed granite
+
+Halifax, Nova Scotia
+
+
+
+<person>Jos. Brunet</person>
+
+Red and Rose Pink Granite
+
+Montreal, Quebec
+
+
+
+<firm>James Brodie and Company</firm>
+
+Canadian Quinsy, Ebony, and Stanstead Granite
+
+Mount Johnston, Quebec
+
+
+
+<firm>D. Robertson and Company</firm>
+
+Lime and stone
+
+Toronto and Milton
+
+
+
+<firm>Thos. Samuel and Son</firm>
+
+Sand stone
+
+Montreal
+
+
+
+<firm>William Hood and Son</firm>
+
+Brown and olive free stone, and pulp stones
+
+Montreal
+
+
+
+<firm>Silex Stone Quarries Company</firm>
+
+Shelburne, Ontario
+
+
+
+<firm>Credit Forks Stone Company</firm>
+
+Brown stone quarries
+
+Toronto and Credit Forks
+
+
+

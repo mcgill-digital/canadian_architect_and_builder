@@ -1,0 +1,6 @@
+<doctype type="plate">And Builder [No. 10.
+
+<building>Residence for <person>M. D. Barr Fog</person></building>
+
+<firm>Proatt & Pearson </firm>Archt.
+

@@ -1,0 +1,142 @@
+<doctype type="text">	196	THE CANADIAN ARCHITECT 
+
+
+
+then thrown on this mortar, spread out, and the whole vigorously and very thoroughly' mixed. The fresh concrete was then placed into the moulds and rammed in
+
+to 2 inch layers.
+
+RAMMING.
+
+ <article title=" RAMMING " author="">
+
+The rammer was a block of hard wood 2 feet long by 2 x 2 inches, with a lathe turned handle. It was not very easy with this to ram uniformly, even throughout one block, and this is one of the main sources of discrepancies in this series of experiments.
+
+It was thought that a reduction of the breaking loads to a standard weight of the blocks would be only fair, and would slightly improve the results.
+
+<article title=" GROUPING OF TESTS " author="">
+
+GROUPING OF TESTS.
+
+
+
+The tests were made at one week, four weeks, and two months, and the results grouped accordingly, that is to say, the one week tests, with different per cent. of water, compare between themselves, four weeks and two months likewise. Parallels between the results, at different ages, cannot be drawn on account of some specimens having been prepared under widely different conditions. For instance, the results at two months are exceedingly low as compared with those obtained at one and four weeks. This is due to the fact that these two months specimens were the first prepared of all, and this before the cemented trough in which they were to be immersed was completed. Consequently, they were kept 8 to 10 days longer than the others in the dry air of the laboratory, which seems to have had a disastrous effect on them. But in spite of these slight drawbacks, the annexed table shows that up to 24 per cent., the percentage of water has not a very great effect on the strength. This is an important point, for below 20 per cent. the mortar obtained is rather dry and very difficult to handle.
+
+
+
+But beyond this limit of 24 per cent. a greater proportion of water seems to weaken the concrete considerably.
+
+This limit is very sharply defined in the adjoining table, where an additional 2 per cent of water from 24 to 26 per cent. weakens the concrete by almost one-halt for the one-week tests. It is, however, interesting to notice that strength is almost completely recovered with time, the four weeks test showing the weakening limit to be between 26 and 28 per cent., and the two months between 28 and 30 per cent. So that if immediate strength be not required of the concrete structure, 28 per cent. of water will not affect the ultimate resistance it allowed to stand two months.
+
+In the parallel sand and cement tests the weak line is not so sharply defined, but yet it is sufficiently so to show that the same statement applies. The tests in this case show a marked weakening between 14 and 16 per cent. of water for the one week, which strength is ultimately recovered, as is shown by the four weeks and two months test.
+
+The low limit of 14 per cent., as compared with 24 for the concrete, is probably due to the fact that the stones of the concrete, on account of their porosity, absorb a part of the water.
+
+The table shows that the great density is obtained with 16 and 18 per cent. The weights of the cubes beyond this decrease up to 24 and 26 per cent., where they are again nearly equal in density to the 16 and 18 per cent. of water. Therefore this 24 and 26 per cent. seems to be the point where the best practical results
+
+are obtained, because 16 and 18 per cent. make up too dry a concrete to allow of easy handling.
+
+Another point incidentally comes up. Attention has been drawn to the poor results obtained by the same tests and reason of long exposure to dry air given. This shows up a very important point, namely, the necessity of covering up carefully all concrete and cement works exposed for any length of time to dry air and sun. The bad effect of these agents is plainly demonstrated, and it is doubtful whether much strength would ultimately have been recovered.
+
+It is also interesting to notice the results obtained by the concretes made of 1 part of cement, 2 of sand and 5 of stones, and cement, 2 sand and 6 of stones. The specimens of these compositions gave results equal to concretes 1, 2, 4, showing that for strength they are as good as the ones containing a less proportion of stones, while being much more economical.
+
+These experiments are as yet very incomplete. But it is hoped that the researches in this subject will be continued and that valuable information for the engineer in practice derived from them.
+
+	CONCRETE	TESTS--COMPRESSION 
+
+
+
+Proportions by weight part cement, 2 sand, 4 stone.
+
+Crushing strength per square inch.
+
+
+
+Per cent. of water
+
+	by weight of Ce-	week.	weeks.	2 mos.	Average weight
+
+	ment and sand comp, tests.	of sp. per c. f.
+
+		792	677		382	141.5
+
+	18		679		507	143.0
+
+	20	746	626		507	139.5
+
+	22	620			670	139 5
+
+	24	679	542		559	141.5
+
+	26	— 362	545		500	141.2
+
+	28	326	340	I	823	138.0
+
+	30	245	331		361	135.5
+
+	Proportion by weight: 1 cement, 2 sand, 5				stone.
+
+	20			703
+
+	1 cement, 2 sand, 6				stone.
+
+	20			728
+
+
+
+CEMENT AND SAND TESTS.
+
+
+
+Proportions I cement, 2 sand.
+
+	10	825	800	1822
+
+	12	800	1311	i666
+
+	14	750	1Q00	1100
+
+	475	1389	1777
+
+	18	395	1110	1266
+
+	20	400	913	1633
+
+	22	330	844	1233
+
+	24	388		1230
+
+	26			1000
+
+*	Line of weakness due to excess of water.
+
+
+
+THEO. DENTS
+
+
+
+CARL REINHARDT.
+
+G.	G. HARE.
+
+McGill University, April, 1896.
+
+
+
+
+
+New machinery has been put in position at the cement works of the Rathbun Company at Napanee Mills, and the output of the mills will be greatly increased.
+
+
+
+A series of lectures on bridge designing has recently been delivered before the Applied Science Graduates' Society of McGill University, by Mr. J. A. L. Waddell, M. Am. Soc. C. E., a graduate of the civil engineering school of McGill, now of Kansas City, Mo.
+
+The following are the newly appointed examiners of the Province of Quebec Association of architects for the term commencing January, 1897: Messrs. Chas. Haillarge, F. X. Berlinguet, J. F. Peachy, of Quebec Stewart Henbest Capper, Professor of Architecture at McGill University; A. T. Taylor, F. R. I. B. A., and Jos. Venne, of Montreal.
+
+
+
+At a recent meeting of the governors of McGill University, Mr. R.
+
+J.	Dureey, B. Le., A. M. G. C. E., London, was appointed assistant-professor of mechanical engineering in the faculty of applied science, in the place of Mr. J. G. Guest, who resigned a short time ago to accept the position of professor of mechanical engineering in the School of Engineering at Worchester, Mass.
+

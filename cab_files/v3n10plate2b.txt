@@ -1,0 +1,3 @@
+<doctype type="plate">Accepted Design for <building>Sun Life Assurance Co.'s New Building, Montreal</building>.
+
+<person>Robert Findlay</person>, Architect, Montreal

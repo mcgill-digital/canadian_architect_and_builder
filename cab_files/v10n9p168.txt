@@ -1,0 +1,124 @@
+<doctype type="text">	THE CANADIAN	ARCHITECT AND BUILDER
+
+
+
+<article title=" THE NATIONAL ELECTRICAL CODE " author="">THE NATIONAL ELECTRICAL CODE.
+
+THE National Board of Fire Underwriters of the United States have finally adopted a code governing the installation and construction of electrical apparatus. The rules of most interest to architects are as follows
+
+
+
+CLASS D. FITTINGS, MATERIALS AND DETAILS OF CONSTRUCTION.
+
+
+
+All Systems and Voltages.
+
+40.	WIRE INSULATION--
+
+
+
+a.	Rubber Covered——The insulating covering must he solid, at least three-sixty-fourths of an inch in thickness and covered with a substantial braid. It must not readily carry fire, must show an insulating resistance of one megohm per mile after two weeks' submersion in water at seventy degrees Fahrenheit and three days' submersion in lime water, and after three minutes' electrification with 550 volts. (See page 44.)
+
+b.	Weatherproof- —The insulating covering must not support combustion, must resist abrasion, must be at least one—sixteenth of an inch in thickness, and thoroughly impregnated with a moisture repellent.
+
+c.	Flexible Cord —Must be made of two stranded conductors, each having a carrying Capacity equivalent to not less than a No. 16 B. & S. wire, and each covered by an approved insulation, and protected by a slow-burning, tough-braid outer covering.
+
+1.	Insulation for pendants under this rule must be moisture and flame proof.
+
+2.	Insulation used for cords used for all other purposes, including portable lamps and motors, must be solid, at least one-thirty-second of an inch in thickness, and must show an insulation resistance between conductors, and between either conductor and the ground, of at least one megohm per mile after one week's submersion in water at seventy degrees Farenheit, and after three minutes' electrification, with 550 volts.
+
+3.	The flexible conductors for portable heating apparatus, such as irons, etc., must have an insulation that will not be injured by heat, such as asbestos, which must be protected from mechanical injury by an outer, substantial, braided covering, and so arranged that mechanical strain will not be borne by electrical connect ion.
+
+d.	Fixture Wire —Must have a solid insulation, with a slow— burning, tough, outer covering, the whole to be at least one— thirty—second of at inch in thickness, and show an insulation resistance between conductors, and between either conductor and the ground, of at least one megohm per mile, after one week's submersion in water at seventy degrees Fahrenheit, and after three minutes' electrification, with 550 volts.
+
+e.	Conduit Wire---Must comply with the following specifications
+
+1.	For insulated metal conduits single wires and twin conductors must comply with section (a) of this rule.
+
+Concentric wire must have a braided covering between the outer conductor and the insulation ot the inner conductor, and, in addition, must comply with section (a) of this rule.
+
+2.	For non—insulated metal conduits single wires and twin conductors must comply with section (a) of this rule, and, in addition, have a second outer fibrous covering, at least one thirty- second of an inch in thickness, and sufficiently tenacious to withstand the abrasion of being hauled through the metal conduit.
+
+Concentric conductors must have a braided covering between the outer conductor and the insulation of the inner conductor, and comply with section (a) of this rule, and, in addition, must have a second fibrous outer coverings at feast one thirty-second of an inch in thickness, and sufficiently tenacious to withstand the abrasion of being hauled through
+
+		the metal conduit.
+
+	41.	INTERIOR CONDUCTS	(For wiring rules, see Nos. 24 and 25.)
+
+a.	Each length of conduit, whether insulated or uninsulated, must have the maker's name or initials stamped in t he metal, or attached thereto in a satisfactory manner, so that the inspectors can readily see the same.
+
+Insulated Metal Conduits
+
+h.	The metal covering, or pipe, must be at least equal in thickness, or of equal strength to resist penetration by nails, etc., as the ordinary commercial form of gas pipe of same size.
+
+c.	Must not be seriously affected externally by burning out a wire inside the tube when the iron pipe is connected to one side of the circuit.
+
+d.	Must have the insulating lining firmly secured to the pipe.
+
+e.	The insulating lining must not crack or break when a length of the conduit is uniformly bent at temperature of 212 degrees Fahrenheit to an angle of ninety degrees, with a curve having a radius of fifteen inches, for pipes of one inch and less, and fifteen times the diameter of pipe for larger pipes.
+
+f.	The insulating lining must not soften injuriously at a tem
+
+temperature below 212 degrees Fahrenheit, and must leave water in which it has been boiled practically neutral.
+
+g.	the insulating lining must be at least one-thirty-second of an inch in thickness, and the materials of which it is composed must be of such a nature as will not have a deteriorating effect on the insulation of the conductor, and be sufficiently tough and tenacious to withstand the abrasion test of drawing in and out of same long lengths of conductors.
+
+h.	The insulating lining must not be mechanically weak after three days' submersion in water, and, when removed from the pipe entire, must not absorb more than ten per cent. of its weight of water during 100  hours of submersion.
+
+i.	All elbows must be made for the purpose, and not bent from lengths of pipe. The radius of the curve in the inner edge of any elbow not to be less than three and one—half inches. Must have not more than the equivalent of four quartet' bends from outlet to outlet, the bends at the outlets not being counted.
+
+Uninsulated Metal Conduits
+
+j.	Plain iron or steel pipes of equal thickness, or of equal strength, to resist penetration of nails, etc., as the ordinary commercial form of gas pipes of the same size, may be used as conduits, provided their interior surfaces are smooth and free from burs; pipe to be galvanized, or the interior surfaces coated or enameled to prevent oxidization with Some substance which will not soften so as to become sticky and prevent wire from being withdrawn from the pipe.
+
+k.	All elbows must be made for the purpose, and not bent from lengths of The radius of the curve of the inner edge of any elbow, not to be less than three and one-half inches. Must have not more than the equivalent of four quarter bends from outlet to outlet, the bends at the outlets not being counted.
+
+42.	WOODEN MOULDINGS---(For wiring rules, see No. 24.)
+
+
+
+a.	Must have, both outside and inside, at least two coats of waterproof paint, or be impregnated with a moisture repellent.
+
+b.	Must be made ot two pieces, a backing and a capping so constructed as to thoroughly incase the wire, and provide a one-half inch tongue between the conductors, and a solid backing, which, under grooves, shall not be less than three-eighths of an inch in thickness, and must afford suitable protection from abrasion.
+
+
+
+It is recommended that only hardwood moulding be used.
+
+48 SWITCHES	(See Nos. 17 and 22.)
+
+
+
+a.	Must be mounted on non-combustible, non-absorptive, insulating bases, such as slate or porcelain.
+
+b.	Must have carrying capacity sufficient to prevent undue heating. 
+
+c.	Must, when used for service switches, indicate, on inspection, whether the current be on " or '' off.''
+
+d.	Must be plainly marked where it will always be visible, with the name of the maker and the current and voltage for which the switch is designed.
+
+
+
+e.	Must, for constant potential systems, operate successfully at fifty per cent. overload in amperes, with twenty-five per cent. excess voltage under the most severe conditions they are liable to meet with in practice.
+
+f.	Must, for constant potential systems, have a firm and secure contact must make and break readily, and not stop when motion has once been imparted by the handle.
+
+g.	Must, for constant current systems, close the main circuit and disconnect the branch wires when turned off"; must be so constructed that they shall be automatic in action, not stopping between points when started, and must prevent an are between the points tinder all circumstances. They must indicate, upon inspection, whether the current be on '' or off.
+
+
+
+44.	CUT-OUTS AND CIRCUIT BREAKERS (For installation rules, see Nos. 17 and 21.)
+
+
+
+a.	Must be supported on bases of non-combustible non-absorptive insulating material.
+
+b.	Cut-outs must be provided with covers, when not arranged in approved cabinets, so as to obviate any danger of the melted fuse metal coming in contact with any substance which might be ignited thereby.
+
+c.	Cut-outs must operate successfully, under the most severe conditions they are liable to meet with in practice, on short circuits with fuses rated at 50 per cent. above and with a voltage 25
+
+per cent, above the current and voltage for which they are designed.
+
+d.	Circuit-breakers must operate successfully, under the most severe conditions they are liable to meet with in practice, on short
+

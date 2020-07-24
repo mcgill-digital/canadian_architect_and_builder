@@ -1,0 +1,52 @@
+<doctype type="text">98	THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" An Interesting Legal Point " author="">
+
+An Interesting Legal Point.
+
+BY special arrangement with the railways, workmen residing in this district will he carried to and from their place of employment at one quarter regular fares. The enterprise is expected to pay a small dividend. In New York model tenements have been erected by private enterprise to the value of $1,500,000. The results have been so satisfactory that it is proposed to invest  $1,000,000 more. These model tenements, while in striking contrast to the overcrowded buildings in which the poorer classes have heretofore lived, and are yielding satisfactory returns to the investors.
+
+
+
+The insurance companies holding policies on the Advertiser building, recently burned in Boston, contend that they
+
+are only bound to pay the amount of the policies or replace the building with one of identical character. The by-laws enacted since the time of the erection of the burned building, prohibit the putting up of such a structure. The owners of the building claim that the insurance companies under obligation
+
+	are	to put up a
+
+structure that shall comply with the existing law. To do this would involve a much larger expenditure than would be required to build a counterpart of the old building. An appeal will therefore be made to the Courts to decide the measure of the companies' responsibility. The verdict will have an interest for building owners and insurance companies everywhere.
+
+<article title=" THE EFFECT OF FREEZING ON CONCRETE " author="Rogers, Walter">
+
+THE EFFECT OF FREEZING ON CONCRETE.* By WALTER A. ROGERS.
+
+
+
+With the constantly increasing use of concrete, questions as to its qualities are continually arising. It has been a commonly accepted opinion among engineers that the building of concrete masonry, especially above ground, during freezing weather is bad practice and one to be avoided if possible. The writer has frequently found it necessary to put in Portland cement concrete footings during the winter months and considerable care has always been taken to protect the freshly-mixed concrete from freezing. There has, however, been a feeling of uncertainty as to the effect of freezing if it. should take place before the concrete has thoroughly set.
+
+ In order to determine as far as possible by experiment the result of freezing Atlas Portland cement concrete and Louisville cement concrete, which were taken as types of Portland and natural cements, eight 12-in. cubes of each kind of concrete were made and tested as described in the accompanying tables
+
+The gravel was composed of about two-thirds clean coarse sand and one-third small stones. The crushed stone was crusher-run limestone. The cubes were all made by the same man and those for the same kind of cement were made on the same or on succeeding days. The specimens were molded in boxes made of 1-in, boards, and left in these until taken out to be broken. Two of the eight cubes of each kind of concrete were mixed with salted water in the proportions of one pint of salt to ten quarts of water. The other six were mixed with ordinary hydrant water. Two of the latter were kept in a warm office until broken ; they were used for purposes of comparison. Four were placed out of doors as soon as mixed in a temperature considerably below zero, and left outside for 28 days, when two of them were broken and two taken into the warm office and left for 28 days
+
+
+
+A paper read before the Western Society of Engineers of U. A.
+
+more before breaking. The two cubes of each test which were mixed with salted water were placed outside as soon as made, and left to freeze and thaw until broken at the end of 28 days.
+
+Referring to table No. 1 showing the effects of freezing on the Atlas cement cubes, it will be seen that the two cubes which were kit in the office, Nos. 103 and 104, developed an average strength at the end of 28 days of over 185,000 lbs.— which was the capacity of the testing machine employed ; but probably the strength of these cubes did not much exceed this amount, as one of them began to fail at that load.
+
+The two cubes which were placed outside in temperature of about 15 degs. below zero immediately after being made, Nos. 147 and 148, developed an averaged strength of 115,000 lbs. The two cubes made at the same time and left out of doors for the same length of time and then kept in a warm room for 28 days more developed a strength of over 185,000 lbs., probably greater than that shown by the two cubes left in the office for 28 days, since no sign of failure by either of these cubes was manifest, indicating that freezing of these four cubes had the effect merely of causing the concrete to harden more slowly than it would have done under more favorable conditions of temperature. The two cubes mixed with salted water and then exposed to the cold for 28 days developed a strength of over 185,000 lbs., probably about the same as that of the two unexposed cubes.
+
+
+
+The deductions which may be made from these Portland cement tests are (1) Freezing before setting does not seem to injure the Portland cement concrete even if, after having frozen hard, the concrete is exposed to alternate freezing and thawing weather. (2) Exposing freshly-mixed Portland cement concrete to Freezing temperature seems to affect its rate of hardening, making it slower, it appears, but eventually the concrete will be just as good as if it had not been exposed to the cold
+
+(3) The use of salt seems to largely counteract the effect of the cold in causing slow hardening.
+
+Table No. 2 shows the tests of Louisville cement concrete cubes. It will be seen that the cube left in the warm room, No. 119, and broken at the end of 28 days developed a strength of 43,400 lbs., while cubes No. 153 and 154, which were placed outside in a temperature of 10 degs. below zero as soon as made, showed an average strength of 33,000 lbs. at the end of 28 days. Cubes Nos. 157 and 158 made at the same time as the last two and left out in the cold for the same length of time and then kept in a warm office For 28 days longer, had an average breaking strength of 52,500 lbs. The two cubes mixed with salted water and exposed for 28 days developed a strength of 35,000 lbs., being but little more than those treated in the same way and mixed with fresh water.
+
+
+
+The same deductions may be made from the tests of Louisville cement concrete as from the Atlas tests, with the exception that the use of salt seemed to have had little, if any, effect on the strength of the cubes exposed to the cold. The Fact that the extreme cold seems to have merely caused the hardening of the concrete to proceed more slowly than under more favorable conditions of temperature is brought out in a marked manner by the fact that the cubes left out in the cold for 28 days and then kept inside for 28 days developed a strength of 20 per cent greater than those which were kept inside for 28 days and then broken.
+

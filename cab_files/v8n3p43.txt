@@ -1,0 +1,68 @@
+<doctype type="text">not to cut rates, and Toronto has a Guild which, it is reported, requires a similar qualification for membership. This, however, governs only a few, and a movement which will cover the whole field is sadly needed. What is an architect to do, when one would be or erstwhile client, after another says, " Well, I should like to have you do my work, but Mr. offers to do it for one and one half per cent., and unless you can meet that I will employ him ? In England capitalists realize that it is false economy to employ a cheap rate architect, and fortunately many of our capitalists do the same, but the evil is a full fledged one and will he difficult to correct.
+
+in addition to the Royal Institute, London has an Architectural Association, and those students who are members of this have an opportunity of visiting works of importance, in company with competent lecturers, and many other advantages in preparing themselves for practice.
+
+In conclusion I cannot do better than to recommend every architectural student to include in his career a course of study in England of English methods; very few of then have been mentioned in this meager paper.
+
+
+
+
+
+<article title="Points on Acoustics" author="Baxter, David Gunn">POINTS ON ACOUSTICS.*
+
+By DAVID GUNN BAXTER.
+
+Acoustics, the science of sound and hearing, it is to be regretted, is but dimly understood. We are groping around in the dark, following a will-other-wisp that we seem seldom able to catch, and when we do catch it. it appears more by chance titan by a previous certainty of scientific fact.
+
+Instead of using acoustical science as the primary basis in constructing the design of a public speaking place, we too often leave it to a mere secondary place, letting it take care of itself, and apologizing for bad acoustics by an artistically proportioned or decorated interior.
+
+In this paper I shall not delve into theory, but rather glean over sortie of the principal points in practice. In designing a church, theatre or public hall, the first consideration should be proportion, length and breadth, with galleries. to seat our required audience, and proportionate height of ceiling to accommodate all. Saunders experiments give as a result that an ordinary speaker, in the open air on a still day, may he heard distinctly 92 feet in front, 75 on each side and 31 behind. Wren, however, claims less- -his observations giving 50 feet in front, 30 on each side and 20 behind. It will thus he seen that the circumscribed area will seat, roughly, about 1000 people. This area being enclosed, and galleries inserted, as many as 2000 persons might he accommodated; and allowing for conduction and retention of the sound waves, we might increase the area to accommodate 4000 or more.
+
+Large buildings may roughly be divided into two classes- 1st those in which 'the audience hears by direct radiation only, such as theatres or music balls, when light shallow rooms are advisable; 2nd, those in which the audience hears by conducted radiation, such as cathedrals or oilier large churches without galleries, when long low buildings are best, In either construction it is bad policy to have the auditorium contain any more air than is absolutely necessary. The more air there be, the more vocal exertion necessary to set it in vibration, and for ventilation have good quick circulation preferably from the speaker to the rear, or what is still better, use the plenum' system, which is exceptionally good, on account of the heavier sound wave produced in the slightly condensed air.
+
+In designing an auditorium to seat a given number of persons, a certain floor area is require-but bow to divide this required area into main floor and galleries, to come within a proper proportioned width rod length, and what shall be the contour and height of ceiling are indeed vexed questions, calling for is great deal of personal observation and ingenuity bounded by no iron rules, governed by few fixed laws, affected by the restrictions of site and finances, these limitations, together with the whims and caprices of the proprietors, makes the problem to the architect indeed a difficult one.
+
+For lecture and school rooms a height of 2, depth of 3 and breadth of 4, bas proven extremely satisfactory, the speaker being on the longest axis For small churches, court or other rooms, where the speaker is on the shortest axis, a height of 1 width of 2 and depth of 3 bas proven good.
+
+On account of the nodal points established by the columns in nave and aisle churches, a length of to 5 width of 2, and height of 1 to 1 3/4 works well ; this is for cubical contents, but on account of the lower ceiling in the aisles, the nave ceiling may he greatly increased it height over the above proportions. Ore account of limitations of site, no definite rules can be given for theatres; generally speaking a height of 3 breadth of 4 and length of 5 is satisfactory. Many successful Chicago theatres are of this proportion.
+
+In all buildings for public speaking, except perhaps cathedral churches, floors should be constructed on the is acoustic curve plan, straight slopes being as bad for sighting as a level floor, and if anything, worse for the passage of the sound curves.
+
+Ceilings greatly affect sound where flat, they should never join the walls at right angles, but in sweeping curves or coves, and are best lightly paneled ; skylights if introduced should have a sash at the ceiling line to cut off the contained air, which, starting in a sympathetic vibration of its own, would cause an echo, or if not, would furies an eddy, much to the detriment of thee free passage of the sound, If possible, it is well to bring down the ceiling on a regular curve or jogging slope, as low as possible above and behind the speaker. This considerably reduces the volume of air to be set in motion, eliminates all chance of echo caused by the eddying of sound vibrations at this point. and directs the waves out into the ball. In theatres, a line should he drawn front the top of the proscenium arch to the top of head room over the highest gallery at the rear wall, and the ceiling kept on
+
+
+
+"Paper read before the <assoc>Ontario Association of Architects</assoc>.
+
+this line—-of course not a straight slope ; cut the ceiling tip into stepping, coves and panels This helps artistically, and also breaks up the continuous reverberation which would cause echo from the rear wall. It is also advisable to have theatre ceilings follow the curve- of the proscenium arch for some little distance out, at least as fur as the last box. Vaulted ceiling churches are exceptionally good for speaking it. The ceiling breaks up continuous vibration and the columns help to direct the sound forward, by forming nodal points on which the sound curves turn.
+
+Walls have no mean part to play ire the acoustical properties of rooms. They should always be broken with slightly projecting pilasters or shallow recesses. In theatres it is advisable to draw in the walls at tire boxes, at an angle of say 45 degrees or- even longer ; this contraction at the proscenium, together with tire sloping ceiling, gives the interior a speaking trumpet or funnel shape, which is extremely easy to speak ire. Like the expansion of the circles produced on still water by the dropping of a pebble, so also do sound waves expand as they recede forces the speaker. In addition to this, all air space is cut off where it is not required arid where lines of sight die nut the less air to he set in motion the easier it must be ore the speaker.
+
+Galleries are never good when of excessive projection ; the greater the projection the higher they should be. The ceiling underneath and the floor below should on section be shaped like a wedge, riot generally as is tire ease, small end out and big end in but with wide end out and narrow end in. there is counteracting the absorption of sound by the soft clothing of the audience, and tire gradual lessening of power in tire sound as it recedes from its source. Besides, this shape is a great gain in structural strength the only objection being, of course, ventilation, which is extremely hard to perfect in this construction especially if thee gallery be low,
+
+The proper location for tire choir in non-ritualistic churches is heard to arrive at, aced varies with whims of the proprietors altogether too much In front and below the preacher is not admissible for several reasons. They should trot be behind him and rune nearly the same level, for a great deal of effect is lost from the discourse Icy the preacher being surrounded by a halo of becoming femininity; therefore I incline to believe that a choir is better when raised up above the speaker's head and placed in a grouted recess. This forth raises up the volume of choir sound above thee heads of the congregation, and there being a recess, the tendency would be for tine sound to travel in a greater volume and farther air.
+
+In designing ritualistic churches care should Ice taken that the chancel arch does nor project more than a few incites on each side of the walls on the chancel side. If the chancel width be contracted very much at this point, the sound therefrom will be greatly muffed and. appear flat and dead
+
+The orchestra in theatres should receive careful consideration, Around it resonant materials should be used, and thee shape must be such that the sound will be directed up and out over the audience.
+
+All buildings present obstacles and auxiliaries to the passage of sound and thee direction of it properly over the audience In designing, auxiliaries can often be introduced, but as they are of doubtful result----doubt, not only as to their proper working, but that they will nor prove formidable obstructions--- it is advisable to discard all experiments thereon and confine our attention to thee elimination of as may obstacles as possible
+
+A great deal might be said about what materials arc best in use ore the surface of our work, and what -are not. Thin pine boards in long lengths are exceedingly good ; or in plaster work, I know of nothing better than 'Adamant,' on account of its extreme hardness and uniform elasticity. Acey soft covering is never good, as it deadens sound by absorption Walls and ceilings vibrate inn unison with the vocal chords of the speaker, and any huing which is resonant and elastic enough to keep up a sympathetic vibration throughout the entire wall or ceiling length is only admissible for use, preference hieing given to such materials as arc capable of sustaining or augmenting the vibrations. Again, ice rooms where are echo is perceptible, while the room contains its frill capacity of auditors, a judictions rise of drapery or curtains will generally' remove it. If these be not admissible then some soft surface covering, over that part or surface which causes the trouble will have the desired effect.
+
+In rooms where the acoustical properties are poor, to improve them resonant materials for walls and ceilings are usually good in result ; often only a sounding board behind arid above thee speaker will have the desired effect, or it may be necessary to change the shape and contour of thee walls and ceiling. 
+
+
+
+<article title="Publications" author="">PUBLICATIONS.
+
+
+
+General <person>Lord Wolseley </person>makes a most important contributions to tire literature of lire China-Japan war in an article for the February Cosmopolitan.
+
+Toronto Saturday Night has grown to be more than a society paper, as that term is generally understood. As a literary, artistic and social weekly, it occupies with credit an unique position amongst Canadian publications
+
+The 1895 Catalogue of the <firm>Toronto Steel Chad Bath Co. </firm>contains descriptions and illustrations of thee various styles and sizes of baths manufactured by the Company arid numerous testimonials. The artistic appearance of the catalogue is worthy of mention.
+
+There has reached our table in pamphlet form a copy of a paper on Hudson Bay—Proposed Utilization of its Land rend Water Resources." by <person>C. Baillarge</person>, architect and C. E., President of the Province of <assoc>Quebec Association of Architects</assoc>, read before the Literary and <assoc>Historical Society of Quebec </assoc>of fine 7th inst. Tire paper sketches briefly the size, climate and resources of Hudson's Bay, anti prognosticates that before the end of the century railway communication will have been established between Quebec and this northern territory by the extension of the Lake St. John and Temiscamingue roads. A colonization scheme for Hudson Bay is also outlined. The paper will well repay perusal.
+

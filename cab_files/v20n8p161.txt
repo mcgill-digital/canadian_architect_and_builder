@@ -1,0 +1,112 @@
+<doctype type="text">CANADIAN ARCHITECT AND BUILDER
+
+
+
+Regarding the size of the tank necessary, it may be said that for an ordinary family a tank four feet long by three feet wide, and from thirty to thirty-six inches high, would be sufficient, while for hotels or other large institutions, one large enough to hold about twelve gallons for each inmate would be ample.
+
+The septic tank system has the endorsation of all scientific men who have given the subject of sewage disposal close study. It will not give any trouble if built according to the directions given, and, contrary to the general supposition, it will not freeze in winter.
+
+<article title=" HOT AIR FURNACE PIPING " author="">
+
+HOT AIR FURNACE PIPING.
+
+In order that furnace dealers and contractors may more clearly understand how two rooms (one on the first floor and one on the second) can be heated with one large basement pipe in place of two smaller pipes, the following table showing the difference in the number of cubic feet of air discharged per minute through a given sized pipe at different velocities is given in "The Improvement Bulletin."
+
+	5 inch	14 cubic feet	21	cubic feet
+
+	7 inch	27 cubic feet	401/2 cubic feet
+
+	8 inch	35 cubic feet	52½ cubic feet
+
+	9 inch	44 cubic feet	66 cubic feet
+
+	10 inch	55 cubic feet	82½ cubic feet
+
+	12 inch	79 cubic feet	118 1/2 cubic feet
+
+	14 inch	107 cubic feet	1601/2 cubic feet
+
+	16 inch	140 cubic feet	210	cubic feet
+
+	18 inch	177 cubic feet	2651/2 cubic feet
+
+	20 inch	218 cubic feet	327	cubic feet
+
+	22 inch	264 cubic feet	396 cubic feet
+
+	24 inch	314 cubic feet	471 cubic feet
+
+	26 inch	369 cubic feet	553½ cubic feet
+
+	28 inch	428 cubic feet	642	cubic feet
+
+	30 inch	491 cubic feet	736½ cubic feet
+
+	36 inch	707 cubic feet 1,060½ cubic feet
+
+	40 inch	873 cubic feet 1,309½ cubic feet
+
+It will be seen, therefore, that sufficient warm air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+can be supplied with a 12 inch round pipe connected to a No. 15 register, for heating two rooms, one above the other, that would require (with the 1837 method of installation) a 10 inch round pipe for the first floor
+
+room, and an 8 inch round pipe connected to a 3 1-4 by 12 or number 8 safety wall pipe for the second floor room. For instance, a 12 inch round pipe will discharge 79 cubic feet of air per minute, when the air is travelling at a velocity of 100 feet per minute, which is the estimated velocity when the basement pipe has an elevation of 1 inch in 12 inches, but when the elevation is increased, the velocity is also increased, and as the elevation is increased at the first turn
+
+in the elbow, it is reasonable to suppose that the air is travelling at a velocity of at least 150 feet per minute when it passes through the bottom of the register, inasmuch as it is travelling at a velocity of 300 feet per minute through the perpendicular or wall pipe. Then if the warm air is travelling through the bottom of a number 15 register at a velocity of 150 feet per minute, this register will take care of 1 1-2 times as much air as a round pipe of equal area would supply. The actual area of the bottom opening of a No. 15 register is 84 square inches; this register, therefore, will take care of (at a velocity of 100 feet per minute) 84 times 100 feet (1,200 inches) or 100,800 cubic inches of air per minute, which when divided by 1,827 cubic inches in a cubic foot, gives us 58 1-2 cubic feet per minute, but when travelling at 150 feet per minute, which is the lowest velocity the air travels when passing through the bottom of these registers—other conditions being normal—they would take care of 1 1-2 times 58 1-2, or 87 3-4 cubic feet of air per minute, and the 12 inch pipe can supply 79 cubic feet.
+
+By using one large basement pipe for heating two rooms, one on the first floor and one on the second, there is less loss of heat in the basement from friction and radiation, therefore cooler basements and warmer living rooms. The basement is not filled with warm air pipes as is the case with 1837 method.
+
+
+
+
+
+A Builders' Exchange has been formed in Victoria, B.C., with Thomas Catteral as president and J. E. Smart as secretary-treasurer. Already the organization has an excellent start and a large number of the best builders are enrolled.
+

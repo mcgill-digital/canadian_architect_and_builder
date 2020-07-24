@@ -1,0 +1,298 @@
+<doctype type="text">	134	THE CANADIAN ARCHITECT AND BUILDER 
+
+
+
+MAXIMUM LOADS.
+
+THE city of Buffalo has recently adopted a new ordinance governing the erection of buildings, embodied in which are the
+
+following stipulations regarding the maximum loads to be applied to soil, brick, concrete, iron, steel and wood
+
+
+
+Section 143. Soil, masonry or other martial shall not be loaded more per square foot surface than is shown in the following table, to wit
+
+Solid natural earth or dry clay not to exceed 3 1/2 tons per square foot.
+
+Concrete in foundation not to exceed 4 tons per square foot. Dimension stone in foundations not to exceed 6 toils per square toot.
+
+
+
+Dimension stone with the beds dressed to uniform surface not exceeding a 1—inch joint and laid in cement mortar not to exceed 7 tons per square foot.
+
+Rubblestone—work laid in cement mortar not to exceed tons
+
+Per square foot.
+
+Common brick laid in lime mortar not to exceed 3 tons per square foot.
+
+Common brick laid in cement mortar not to exceed tons per square foot.
+
+Hard-burned brick laid in lime mortar not to exceed 6 tons per square toot.
+
+Hard-burned brick laid in cement mortar, not to exceed 9 tons per square foot.
+
+Pressed brick laid in cement mortar, not to exceed 9 tons per
+
+
+
+square foot.
+
+Pressed brick laid in Portland cement mortar, not to exceed 12 tons per square foot.
+
+Section 244. If brickwork laid in cement mortar is push placed, walls may be loaded 20 per cent. in excess of the loads given above.
+
+
+
+Section 145. The loads permitted for isolated brick piers whose heights are greater than six times their least dimensions, shall be 20 per cent. less than those given above.
+
+Section 146. Cast-iron subjected to crushing strain only, as in bearing-plates, may be loaded to the extent of 15,ooo lbs. per square inch.
+
+Compression strain on cast-iron shall not exceed 13,000 lbs. per square inch.
+
+
+
+Tensile strain on cast-iron shall not exceed 3,000 lbs. per square inch.
+
+Cast-iron used for pillars shall be proportioned in accordance with the following formula
+
+
+
+For round cast-iron columns
+
+
+
+S=14,ooo A/ (1 + L2 / 600D3)
+
+
+
+S equals load ill pounds.
+
+
+
+L equals length of column in inches.
+
+
+
+D equals diameter of column in inches.
+
+
+
+A equals sectional area of column in square inches.
+
+For rectangular cast-iron columns
+
+S= 14,000 A / (1 + L2 / 850 D3)
+
+
+
+S equals safe loads in pounds.
+
+
+
+L equals same as above.
+
+
+
+A equals same as above.
+
+
+
+D equals the side of square column or the least horizontal dimension of other columns.
+
+Section 147. The minimum thickness of metal in cast-iron columns shall not be less than three—fourths of an inch, and no cast-iron column shall exceed in height thirty times its least horizontal dimension without having lateral support.
+
+Section 148. All cast-iron columns shall have their ends turned true and at right angles to their axis, and the ends shall be parallel with each other.
+
+Section 149. Cast-iron columns shall be thoroughly tested and inspected before being placed in position and they shall be drilled with one-fourth test holes, not less than two in length, one on the upper and one on the lower surface of the columns as cast.
+
+Section 150 All girders, beams, corbels, brackets and trusses, if made of steel, shall be so proportioned that the maximum fibre stress will not exceed 16,000 lbs. per square inch, or that if made of iron the maximum fibre stress will not exceed 12,000 lbs. per sq. inch.
+
+Section 151 Plate-girders shall be designed and constructed of strength at least equal to those developed by the following formulae
+
+For plate-girders
+
+Flange area equals maximum bending moment in toot-pounds divided by CD.
+
+D equals distance between centres of gravity of flanges in feet.
+
+
+
+C equals 13,500 for steel, 10,000 for iron.
+
+
+
+Web area equals maximum shear divided by C.
+
+
+
+C equals 10,000 for steel, 8,ooo for iron.
+
+
+
+Section 152. Maximum strain per square inch of rivet area (single shear) shall not exceed
+
+		Steel lbs.	Iron lbs.
+
+	For shop-driven rivets	9,000	7,500
+
+	For field-driven rivets	8,000	6,ooo
+
+	Maximum shearing strain, in webs	7,000	6,ooo
+
+	Direct bearing	15,000	15,000
+
+
+
+Section 153. The maximum loads allowed upon riveted columns shall not exceed those determined by the following formulae
+
+For rivetted or other form of wrought—iron columns more than 900 in length,
+
+L
+
+S= 10,600- 30R
+
+
+
+S equals safe load pounds per square inch.
+
+
+
+L equals length of column in inches.
+
+r equals least radius of gyration of column in inches.
+
+For rivetted or other forms of wrought-iron columns less than 90r in length
+
+S equals 8,000.
+
+
+
+S equals safe load in pounds per square inch.
+
+
+
+For rivetted or other steel columns more than 90r in length
+
+
+
+S=17,100- L
+
+
+
+S equals safe load ill pounds per square inch.
+
+
+
+L equals length of column in inches.
+
+
+
+r equals least radius of gyration of column in inches.
+
+
+
+For rivetted and other steel columns less than 90r in length
+
+
+
+S equals 12,000.
+
+
+
+S equals safe load in pounds per square inch.
+
+Section 154. No wrought-iron or rolled-steel columns shall have an unsupported length of more than 40 times its least lateral dimension or diameter, nor shall its metal be less than one-fourth of an inch in thickness.
+
+Section With regard to connections of all structural ironwork upon buildings erected in the city' of Buffalo, such work shall hereafter be in conformity with the practice of the Carnegie, Trenton, Phoenix, Pencoyd, or other first-class rolling-mills, as
+
+published in their standard books and sheets, and approved by the Superintendent of Buildings.
+
+Section 156 Where wooden pillars are used the maximum loads to which they are to be subjected shall not exceed those determined by the following formula, S representing the maximum loads as intended to be fixed by this ordinance.
+
+Section 257. For wooden pillars where the length is not more than twelve times the least thickness,
+
+S= AC/4
+
+
+
+
+
+S equals safe load.
+
+
+
+A equals sectional area of the post in square inches.
+
+
+
+C equals 4,000 for long-leaf yellow pine; 3,200 for oak or Norway pine ; 2,800 for white pine or hemlock.
+
+
+
+Section 158. For wooden pillars where the length is more than twelve times the least thickness.
+
+
+
+S=X-YL/B
+
+- 
+
+
+
+
+
+S equals safe load in pounds per square inch.
+
+L equals length of post iii inches.
+
+
+
+B equals breadth of least side of rectangular post or diameter of round host.
+
+
+
+X	equals 1,000 and Y equals 10, for yellow pine.
+
+
+
+X	equals 750 and X equals 75, for oak and Norway pine.
+
+
+
+X	equals 625 and Y equals 6, for white pine and hemlock.
+
+For oak or Norway pine posts, 75 per cent, of the loads in the above tables may be used.
+
+
+
+For white pine or hemlock posts, 62 1/2 Per cent of the loads in the above tables may be used.
+
+
+
+Section 159. The ultimate load to which timber used for girders may be subjected shall not exceed those determined by the following formula, to wit
+
+S=2CBD2/L
+
+ —
+
+
+
+S equals safe load in pounds.
+
+
+
+B equals breadth of beam in inches.
+
+
+
+D equals depth of beam in inches.
+
+L equals length of beam in feet.
+
+
+
+C equals 200 for long-leaf yellow pine, 150 for oak, 120 for white or Norway pine and hemlock.
+
+Section 160 The contents given in all the foregoing formulae
+

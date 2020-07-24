@@ -1,0 +1,38 @@
+<doctype type="text">140	CANADIAN ARCHITECT AND BUILDER
+
+
+
+the hole left by a pile of wood or metal. In some a sheet metal shell covering a removable wooden core
+
+driven into the ground and then the core withdrawn and the shell filled with concrete. These are often tapered. They are generally of larger diameter than wooden piles.
+
+Piles reinforced with steel are sometimes moulded at the site, and after setting and hardening are driver in the same manner as wooden piles.
+
+The foundations of tall buildings in Chicago arc now generally made on what might be called concrete piles. They vary from 3 to 12 feet in diameter and are sometimes 100 feet long or more, reaching down to hardpan or solid rock. The excavation is done by hand in depths of 4 to 5 feet at a time. This circular hole is sheathed with vertical lagging made of boards 2 or 3 inches thick planed radially on the edges and fitted tightly together. These are held in place by flat steel bands, segmental in shape and flanged on the ends, bolted together to form a complete circle. Then the excavation is made another 4 or 5 feet, and this is also surrounded by lagging. At the bottom, if the pile is to rest on hardpan, the well is belled out to twice the diameter. The piles are generally loaded to about 20 tons per square foot, and this would give a load of 5 tons per square foot on the hardpan. The holes or wells are filled with concrete, well tamped, which should preferably be let down in buckets, so as iiot to separate the ingredients and thus impair the uniformity of the concrete.
+
+The tops of these concrete shafts are capped with grillage beams or other means of distributing the load of the column uniformly over the concrete.
+
+The load allowed on concrete piles should not exceed 20 tons per square foot for those of large diameter. If there is any possibility of their acting as columns, as in the event of the surrounding earth being removed, the unit load should be less. Concrete is weak in columns, unless it is properly reinforced with steel. A better load on piles of small diameter is about 15 tons per square foot.
+
+Screw piles are sometimes made use of to distribute pressure and to anchor structures such as lighthouses, signal towers, etc. They are made of a shaft of steel or cast iron and an auger-shaped blade of about one turn. They are driven in by turning either by hand or other power.
+
+A brief description of the processes used in excavating for foundations will be in place here. The ordinary process of excavating for foundations where water is not encountered is simple and the problems are few. Apart from digging or blasting out the material and handling the same there is often the question of shoring up the sides against a cave-in. In a wide excavation in loose ground the shores should not be merely horizontal: struts, but these struts should be braced together diagonally and vertically to prevent displacement.
+
+There is a process of excavating through flowing soils known as the freezing process. It is expensive and not very much used. It consists of forcing into the soil just outside of the opening to be made refrigerating pipes, freezing the mass, excavating and then damning off the soil or building in the stone or concrete work.
+
+There are three methods of excavating for foundations in water. One is by making a cofferdam by driving sheet piling around the space to be excavated and digging out the earth. The water is kept pumped out as the excavation proceeds. Wooden sheet piling, called Wakefield piling, consists of boards spiked and bolted together in threes, the middle one being set back to form a tongue at one side and a groove at the other. Steel sheet piling has been found to be very useful for cofferdam work. It has greater strength than wooden piling, and there is less leakage. The piles can be used repeatedly.
+
+A second method is called open dredging. This consists in dredging out the earth in the inside of a casing, which sinks as the earth is removed. The casing forms a shell for the pier, being filled with concrete when sunk to the desired depth. The shell has a uniform outside diameter and is tapered from the inside to a cutting edge. The dredging is done by means of steam shovels, or clam shell, orange peel or other bucket dredges.
+
+Hydraulic dredging, used in different methods of excavation, is done by means of pumps. Where loose materials are to be removed by pumping out, a let of waater agitating the materials will cause them to be drawn up by the pump. Jets of water may be used to advantage in open dredging to loosen the soil under the cutting edge.
+
+Concrete deposited in deep water, as in an excavation made by open dredging, is apt to have the cement washed out. To overcome this it may be dropped through a tube or a tremie in as large loads as practicable. If put into jute bags, the cement will be retained; enough cement will ooze out of the meshes to cement the pieces together. Concrete mixed extra long or even retempered concrete, if it has not stood too long, is preferable to concrete in which the cement is too freshly mixed, where it is to be deposited in water.
+
+The other method of excavation is the pneumatic process. An airtight timber crib or caisson is made, having a space underneath large enough for men to work in, provided with a cutting edge around the periphery and supplied with air locks, etc., in the roof. This is placed in the position which the pier is to occupy and allowed to rest upon the ground. Men enter and leave through the air locks, and the excavated earth is hauled up in buckets through locks for the purpose. Air is continuously pumped in and it escapes below the cutting edge. Ordinarily this air pressure keeps the water out, but if the soil becomes dense or is clayey the air pressure can often be reduced below the hydraulic head of the cutting edge, greatly to the benefit of the workmen. In such case the water that leaks in may be removed with an injector.
+
+As the crib sinks the pier is built on it, and when suitable bottom is reached the working chamber is filled with concrete.
+
+In foundations for tall buildings in New York sometimes pneumatic caissons are required. These are sunk under the individual columns two or more columns in a group.
+
+The second requisite of a good foundation, namely, a uniform unit pressure on the entire foundation, has special force in foundations on soft soil. On such
+

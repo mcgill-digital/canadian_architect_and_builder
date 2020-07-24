@@ -1,0 +1,120 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER.	169
+
+TABLES FOR ESTIMATING AMOUNT AND COST OF MATERIALS AND LABOR FOR BUILDINGS.
+
+<article title=" TABLES FOR ESTIMATING AMOUNT AND COST OF MATERIALS AND LABOR FOR BUILDINGS " author="Brayton, Louis F.">
+
+By Louis F. BRAYTON.
+
+
+
+The following is an abstract from a thesis presented by the author for the degree of Bachelor of Science in Architectural Engineering, It is hoped that the method of presentation may be useful to architects.
+
+
+
+QUANTITIES FOR BRICK WALLS.
+
+
+
+Plate I gives the quantities 01 brick, mortar and labor required in the construction 01 100 square feet of brick wall varying from 4 inches to 24 inches, for different sizes of brick, Various thickness of joints several proportions of mortar, different quality of work, various prices of materials and labor, etc. The chart is based on data from Baker's Masonry Construction, Trautwine's s Pocket-book, and contractor's notes. One quarter of an inch mortar joint has been included for each 4 inches of thickness of wall. Five per cent has been allowed for breakage of brick. Prices for material delivered and no allowance has been made for scaffolding or profit.
+
+
+
+DIRECTIONS FOR USING THE CHART.
+
+
+
+BRICK.—To find the number and cost of brick, start with the thickness of the wall to be estimated (see the upper left-hand corner of chart) , follow upward along a
+
+From the tender plus the price paid for one mason. Thus to find the cost of the above labor continue the horizontal line to the left from the hours of labor required, to the
+
+
+
+price of the mason and tender, and from thence proceed vertically upward and read the amount of the cost of the labor.
+
+MORTAR—To determine the amount of mortar required, start at the upper part of the center of the chart with the thickness of the wall ; proceed vertically to the diagonal line giving the thickness of the joint to line used and thence horizontally to the right and read on the vertical scale the amount of mortar,
+
+
+
+SAND—If lime mortar is to be used, continue the horizontal line through the point on the scale giving the amount of mortar required to time diagonal line marked " lime," and thence proceed vertically down to the horizontal scale and read the number of cubic yards of sand required ; continue the vertical line through the number of yards of sand just. found, down to the diagonal line giving the cost of sand per yard, and thence follow a horizontal line to the left and read on the vertical scale the cost of the sand If cement mortar is to be used, . the sand is found in the same way, except the "cement" diagonal is used in place of the ''lime'' diagonal.
+
+LIME—To determine the amount of lime required, fol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLATE I.- Data Concerning LABOR AND MATERIALS for Brick Masonry
+
+
+
+vertical line to its intersection with thc diagonal line giving the thickness of the joint, then follow the horizontal line to the right to the intersection with the line giving the contents of one brick in cubic inches, then follow down the vertical line to the horizontal scale giving the number of brick required for 100 superficial feet 01 wall. Write this number in the proposed bill of materials. Continue down the vertical line to its intersection with the line giving the cost of the brick per thousand, and then follow a horizontal line to the left and read on the verti cal Scale the cost of the required number of brick,
+
+
+
+LABOR—To find the labor required, return to the point on the horizontal scale corresponding to the number of brick required, and follow a vertical line down to the number of brick a mason will lay in an hour, and from thence follow a horizontal line to the left and read from the vertical Scale the number of hours of labor required in raying the wall, One tender will conveniently make mortar and tend two masons consequently the total price per hour for labor is equal to one half the price paid
+
+low the horizontal line from the quantity of mortar required, to the "diagonal for lime," amid then proceed in the same way as in determining the amount amid cost of the sand.
+
+CEMENT.—To determine thc amount and cost of the cement, follow the horizontal line from the amount of mortar required to the right to its intersection with time line giving kind and proportion of cement to be used (at the extreme right hand edge of the chart) , amid then proceed in the same way as in determining tile quantity and cost of sand
+
+WEIGHT.—The weight of 100 superficial feet of wall of different thicknesses and different kind of brick, is given in the small table near the upper left-hand corner of the chart. This table is calculated on the basis of pressed brick masonry weighing 150 lbs. per cubic foot, common brick 125 lbs. per cubic foot, and soft brick 100 lbs.
+
+DATA FOR LATH AND PLASTER.
+
+
+
+Table I gives the quantities of materials and the amount of labor required for different coats of different kinds of
+

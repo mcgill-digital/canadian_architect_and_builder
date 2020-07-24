@@ -1,0 +1,56 @@
+<doctype type="text;plate">THE CANADIAN	ARCHITECT AND 
+
+
+
+<article title="Possibility of Simple and Safe House Plumbing" author="Bowman, Herbert J.">POSSIBILITY OF SIMPLE AIND SAFE HOUSE
+
+PLUMBING. *
+
+By Herbert J. BOWMAN, C. E., TOWN ENGINEER, BERLIN.
+
+
+
+MR. PRESIDENT AND Gentlemen In the Statutes of Ontario, 47th Victoria will be found "The Public Health Act, 1884, and appended thereto a bylaw, the enactment of which are in force in every municipality till altered by the Municipal Council.
+
+Sections 15 and 16 of this by-law are practically the plumbing regulations in force all over the Province, except in the cities and towns that have adopted plumbing regulations of their own.
+
+In order to see whether they are so framed as to admit of the "Possibility of Simple and Safe House Plumbing," it may be interesting to examine these enactment's, which are as follows
+
+Sec. 13. The following regulations regarding the construction  of houses shall be in force within this municipality
+
+Rule 1. No house shall be built in or upon any site, the soil of which has been made up of any refuse, unless such soil shall have been removed from such site, and the site disinfected, or unless the said soil shall have been covered with a layer of charcoal, coveted by a layer of concrete at least six inches thick and of such additional thickness as may be requisite under the circumstances to prevent the escape of gases into such proposed house.
+
+Rule 2.—The drain of every house which may be connected with a sewer or cess-pool shall be ventilated by means of a pipe extending upward from the highest point of the main soil or waste-pipe, and also by a pipe carried upward from the drain outside the walls of the house according to the principles shown in the appended diagram. These pipes shall be of the same dimensions as the said main soil or waste-pipe, and shall be constructed of the same material or of stont galvanized iron, and no trap shall intervene between the said ventilating pipes. In case a trap shall intervene between the sewer or cess-pool, and the ventilating pipes already described, then a four inch ventilating pipe of the same material as above described shall be carried from a point between such trap and the sewer. All such ventilating pipes shall he carried above the roof of the said house, and shall open above at points sufficiently remote from every window, door, sky-light, chimney or other opening leading into any house.
+
+No pipe carrying air or gas from any drain or soil-pipe shall be connected with any chimney in a dwelling house, unless the same be a furnace chimney used exclusively for the purpose of ventilating such soil pipe or drain.
+
+Rule 3.—Every house drain shall he constructed of vitrified earthenware or iron pipe; and every soil and waste pipe, of iron pipe rendered impervious to gas or liquids, the joints thereof being run with lead and caulked, or of lead pipe weighing at least 6 lbs. to the square foot and the waste pipe from every closet, sink, tub, wash-basin, safe or other service shall have as near as may be to the point of junction with such service a trap so constructed, vented and furnished, that it shall at no time allow of the passage of gas into such house. All joints shall be so constructed as to prevent gas escaping through them.
+
+Rule 4.- —The construction of any closet or other convenience which shall allow of the escape into the house of air or gas which has been confined in any part of it or from the drain or soil pipe, is hereby prohibited.
+
+Rule 5.——No refrigerator waste shall be allowed to connect with any drain.
+
+Rule 6.— No pipe supplying water directly to a water-closet or urinal, shall be connected with the pipe supplying water for drinking purposes.
+
+16. Every person who erects, or causes to be erected, any building shall, within two weeks of the completion thereof, deposit in the registry office of the registry division in which the building is situated, plans of the drainage and plumbing of the
+
+same as executed; and in the case of any alteration of any such plumbing or drainage, it shall be the duty of the owner of the house, within two weeks of the making of the alteration, to deposit in the same manner the plan and record of any such alteration ; if such alteration is made by a tenant, it shall be the duty of the tenant or lessee to deposit, or cause to be deposited the plan and record of such alteration.
+
+In examining these statutory plumbing regulations it must be remembered that they were compiled at least as far back as 1884, and that since that time considerable progress has been made toward simple and at the same time safe plumbing and the methods of good plumbing practice have become more uniform.
+
+Upon looking at the diagram appended to the Health Act, it will be seen that a trap is placed on the drain between the house and the sewer, but it is also indicted by the dotted lines that this trap may be Omitted. Thus it will be seen that the views of both the opposing schools of plumbing experts have been met, one insisting upon a trap on the house drain and the other insisting that no such obstruction should be placed there.
+
+The diagram, however, can scarcely be taken as illustrating a typical Canadian house, as comparatively few houses have two bath rooms.
+
+It would have been better to have shown the necessary arrangement for a kitchen sink on the ground floor and also to have shown the cellar excavated, as is now usually done under the greater part of the house, affording a convenient place for the laundry with its stationary wash tubs or the less expensive slop hopper.
+
+Rule 1, dealing with the soil of building sites, does not come within the scope of our present inquiry, so it may be passed over.
+
+Rule 2 requires the extension upwards of the soil pipe (a) through the roof, but goes on to state that this extension may be of galvanized sheet iron. A sheet iron pipe is a cheap and temporary make-shift and should not be allowed in connection with house plumbing. Nothing but cast iron soil pipe and lead or brass waste-pipe are now used in good plumbing. This rule requires an outside ventilating pipe (b), which is quite unnecessary where no trap is placed on the house drain, and where a trap is used, this ventilating pipe, then called the fresh air inlet, is not usually extended above the roof, but only about two feet above the ground. It is very unlikely that the fresh air inlet would act at all were it constructed bending over the roof as shown in the diagram. This rule calls for still another ventilating pipe (c) in case a trap is placed on the main drain. This pipe is to be cat carried from a point between the trap and the sewer and extend up above the roof, and is an outlay placed upon the householder to ventilate the public sewer. Any bend in this pipe, as shown in the diagram, will cause it to freeze up during our Canadian winters, and even a straight pipe will sometimes freeze up at the top. Partly on account of this, but perhaps more on account of the additional outlay, from which the householder receives no benefit, the pipe is usually omitted in Ontario.
+
+In most of our cities and towns having plumbing regulations of their own it is now required, or permitted, that a house have but one continuous iron soil pipe from the outer connection with the house drain at least three feet outside the wall, "p to the opening at least four feet above the roof, the trap and other ventilating pipes being dispensed with. This is certainly the simplest arrangement and quite as safe as any other. It would be better to cut out the proviso that closes this rule and leave it "No pipe carrying air or gas from any drain or soil-pipe shall be connected with any chimney of a dwelling house."
+
+Rule 3 requires that every house drain shall be constructed o vitrified earthen ware or iron pipe. By house drain is evidently meant the private drain connecting the house plumbing system with the public sewer, and vitrified clay sewer pipe is almost invariably used, as outside of the house it answers the purpose equally as well as cast iron pipe and costs less than one quarter as much. Inside the house, however, nothing but cast iron soil pipe and lead and brass waste-pipe should be used. The minimum weights per lineal foot for the different sizes of lead waste-pipe should be given, as nothing but drawn lead pipe
+
+now used. The old method of making lead waste-pipe by hand from sheet lead has been entirely discarded, so that the rule should be amended where it says "lead pipe weighing a
+

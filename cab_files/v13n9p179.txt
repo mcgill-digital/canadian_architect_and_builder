@@ -1,0 +1,92 @@
+
+
+
+
+<doctype type="text;plate">There is general misapprehension regarding the proper action of light-projecting glass, which needs a word of reference. It is assumed by many that the prismatic glass should be so constructed that all the exterior light transmitted from the interior boundary of the prismatic window, or canopy, should be directed in lines substantially parallel to the boundary walls, floor and ceiling of the apartment, and that the more nearly this condition is realized the closer will be the approach to the theoretically-perfect mode of operation. Some of the manufacturers of prismatic glass endeavor to realize this condition by varying the angles of the prisms uniformly from the center to the edges of the sheets, on the principle of the Fresnel lens.
+
+A little consideration of what is intended to be realized by prism lighting of interiors will suffice to show that this view is an erroneous one and liable to result, in practice, in a much inferior interior illumination than can be otherwise obtained.
+
+This criticism will be understood by stating the general proposition, that the objects of prismatic lighting are, first, to direct as much extraneous light into the interior as possible ; and, second, to direct it in such manner as to derive the largest possible benefit therefrom.
+
+In considering the relative merits of parallel and divergent light transmission by prismatic glass, it should be said that practically as much extraneous light can be directed into the interior space to be illuminated by the one as by the other arrangement of prisms or lenses. But when we come to consider the second portion of the proposition, it can easily be shown that the system of transmitting the light in parallel lines cannot possibly be as effective as the method of divergent transmission, and more especially, divergent transmission in both vertical and horizontal planes, and for the following reason
+
+It is well known that the best effects in interior illumination are realized when uniform diffusion throughout the apartment is obtained. This effect can be secured most effectively only when all shadows are obliterated by calling into requisition the action of the entering light reflected from all parts of the side walls, floor and ceiling of the apartment.
+
+By the method of directing the transmitted light in parallel lines, the ill effects of shadows cast by opaque objects in the path of the entering light will be realized in an extreme degree, as there will be no ameliorating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+influence to counteract and neutralize the shadows by reflection from the bounding walls and floor of the apartment ; and an inspection of the condition of an apartment thus treated will disclose this objection at once.
+
+By the method of divergent transmission, while quite as much or more extraneous light is thrown into the apartment as by the other method, its distribution is decidedly more advantageous, from the fact that the repeated reflections from the bounding surfaces of the apartment cause the practical obliteration of all shadows and a practically uniform diffusion of the light to all parts of the interior.
+
+Returning now to the descriptive portion of the subject, the modus operandi of the simplest form of a light-projecting prismatic window is shown in the plan views in Fig. 2, A and B, in which the light from an exterior source falling upon the plane, outward surface of the glass is refracted at the boundary of the interior prismatic surfaces and projected into the room to be illuminated.
+
+Fig. 2, A, which is a plan view of this construction taken on the line a b, exhibits the effect of the light distribution in the vertical plane from the effect of refraction from the terminal portions of the prism, where the influence of the more oblique rays is not counteracted by a modification of the angles of prism from the center line to the upper and lower edges of the glass. Fig. 2, B, is a plan on line c d, showing that the light rays are not distributed divergently in the horizontal plane, but are all directed in parallel planes.
+
+Figs. 3 and 4 represent the action of prismatic glass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of the second class, i.e., in which both surfaces are prismatic or lenticular.
+
+Fig. 3 shows a form of light projecting glass that has lately come into use, and for which certain advantages are claimed over the construction previously described. The sheets in this form of prism glass have one surface furnished with prisms—commonly placed towards the room to be lighted—and the other surface formed of a series of lenses of small curvature, distributed in panel form, parallel to the direction of the prisms. This construction, as well as that shown in Fig. 2, manifestly exaggerates in the vertical plane the divergent distribution of the transmitted light, and consequently operates, so far as it goes, in the correct manner, utilizing the reflecting action of ceiling and floor in diffusing the light.
+
+The construction shown in Fig. 3 possesses one obvious advantage over the several modifications of class I, namely, that the lenticular form of exterior surface arrests and directs into the dark interior to be lighted a certain amount of the exterior light, which, with the plane exterior surface of class I would be lost by total reflection from the exterior plane surface. Practically all of this additional light thus projected
+

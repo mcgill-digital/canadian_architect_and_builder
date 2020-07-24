@@ -1,0 +1,79 @@
+<doctype type="ad">The Canadian Architect and Builder
+
+
+
+<firm>Williams and Wilson</firm>
+
+Elevators and dumb waiters
+
+Montreal
+
+
+
+<firm>Toronto Foundry company, limited</firm>
+
+Soil pipe, fittings, and boiler stands
+
+Toronto
+
+
+
+<firm>The Roofers Supply Company, limited</firm>
+
+All kinds of roofing material
+
+Toronto
+
+
+
+<firm>The Bradstreets' Company</firm>
+
+Financial assessments, and trading
+
+Halifax, St. John, Quebec, Montreal, Toronto, Hamilton, London, Ottawa, Winnipeg, Vancouver, Victoria
+
+
+
+<firm>Quinn and Morrison</firm>
+
+Advocates, barristers and solicitors
+
+Montreal
+
+
+
+<firm>The Consolidated Plate Glass Company of Canada, limited</firm>
+
+Toronto, Montreal, Ottawa, London
+
+
+
+<firm>Maw's English Encaustic, glazed, and ornamental tiles</firm>
+
+Charles Lunn, agent
+
+Winnipeg
+
+
+
+<firm>The Canadian hardware and metal merchant</firm>
+
+Sellers of everything to retail and wholesale hardware
+
+Montreal and Toronto
+
+
+
+<firm>Beamsville Brick and Terra-Cotta Company</firm>
+
+Red, brown, and buff bricks
+
+Beamsville, Ontario
+
+
+
+<firm>W. A. Bradshaw</firm>
+
+Hollywood Paint, wood fibre plaster
+
+Toronto

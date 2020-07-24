@@ -1,0 +1,62 @@
+<doctype type="text">
+
+<article title="English Views on Hot Water Heating." author="Maguire, W.J.">
+
+	CANADIAN	ARCHITECT AND
+
+
+
+ENGLISH VIEWS ON HOT WATER
+
+HEATING.*
+
+W. J. MAGUIRE.
+
+
+
+IF the boiler is making a fuss, he will be suffering either from wind in his stomach, or from a stoppage in his circulating tubes or his inside, tending to choke him to bursting. If the noise be a soft and regular one— thump, thump, thump—heard all over the house where the pipes run, you may safely diagnose air lodgment as the complaint. If the noise be a succession of sharp, loud, irregular raps, as of iron struck with a hardwood mallet, you will probably be correct in deciding that a deposit is choking the flow or return pipe, or both, and you will apply prompt remedies to prevent fatal rupture. Every high pressure circulating boiler should be so made and fixed that no bubble of air can find an abiding place in the interior, or in other words, so that the boiler shall be always absolutely full of water in actual contact with the whole internal surface.
+
+The ordinary boiler, in section like a boot, is very often improperly
+
+formed	and	badly
+
+fixed.	Every	boot
+
+boiler should have the top of the boot—the instep — sloping upward from the front, or toe, to the back. When flat, some internal inequality of surface will be found to hold air, and thus create constant noise and be a cause of weakness where the boiler is exposed to fierce heat by keeping the water from internal contact with the iron or copper plate. The boiler toe next the fire should be rounded, not angular, and sharp angles CAREY CASTLE should be avoided
+
+where in contact with fire or flue heat. Every such boiler should have a perfectly smooth level top, or be otherwise formed to secure the easy exit of every bubble of air through the outflow pipe.
+
+Manholes should be provided both on the top of boot and on the front of the body of the boiler for efficient cleansing. In fixing the outflow, the end of the pipe should not he entered one hair's breadth below the inner top surface. A flange socket screwed down on the top of the boiler, into which the outflow pipe can be screwed, the hole drilled in the boiler being one-eighth of an inch smaller than the outer diameter of the pipe, will effectual prevent the pipe entering the boiler if screwed down too far in the socket. For the same reason, the outflow pipe should always be led from the top plate, as it is almost impossible to take it from the side or back without leaving space for air. I give diagrams of these methods to explain the dangers. For convenience of manipulation in fixing and cleansing, I prefer the return pipe carried through the top of the boiler also, and extended to within six inches of the
+
+* Registered Master Plumber. Condensed from Manchester Health Lectures.
+
+bottom inside by a short piece of pipe of the same diameter as the return pipe screwed on. The outlet and inlet pipes should be kept as wide apart as possible, to leave space for the flue damper to work between them, and also to allow the boiler to be set slightly out of level, the outlet end being say one-eighth of an inch higher that the inlet, to insure free escape of air bubbles; if the outlet is not drilled at the extreme end of the boiler, then the top must be set dead level, else the bubbles will lodge at the extreme end beyond the outlet and cause trouble.
+
+Every boiler should have a pipe taken from its lowest point with a plug stopper or locked valve for cleansing, but no pipe for drawing water for house use should be taken off the boiler direct.
+
+The intermediate hot cylinder system of circulating hot water pipes is now generally adopted ; it is safe, and certain to yield hot water when hot water is wanted. We know this is not the case with hot cisterns placed on the same level as the cold cistern, generally hidden
+
+away in a roof, where we have to creep on our hands and knees, as if we were exploring the recesses of the Pyramids of Egypt; have no light to see nor room to turn when we get there, and now and again succeed in setting fire to the house in striking matches or letting sparks fall from our taper. The interme-diate cistern of gal-
+
+	vanized iron or copper
+
+	may be placed in such
+
+	a position above the
+
+	boiler level as to allow
+
+	a quick gradient to
+
+	the circulating pipes,
+
+	within say 10 to 30
+
+VICTORIA, B. C.	feet from the boiler,
+
+	and where heat radi-
+
+ated therefrom may be utilized as in a linen closet. The hot cistern should be tested to stand double the pressure due to the head of water from the cold cistern. The best form of cistern to resist pressure is a cylinder, though any form capable of resisting the pressure is admissible; a cleaning door screwed down securely should be provided for each hot cistern. Five strong screwed bosses should be affixed to the hot cistern and galvanized over after being fixed—two on the top and three round the bottom—in proper position to receive the two circulating pipes, one supply pipe, one basement draw-off pipe, and one upward expansion pipe.
+
+In general practice no question of importance arises concerning the arrangement of these pipes, except as to the cold supply pipe. Some authorities contend that it should be led direct into the boiler, but I hold it to be bad practice to allow dead cold water to enter a very hot boiler which is in direct contact with the intense fire of a close range. Other authorities contend that the cold supply pipe should branch into the return pipe from the hot cistern, but here the same objection exists, with another added, for the junction, being subjected to sud
+

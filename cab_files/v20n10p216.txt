@@ -1,0 +1,54 @@
+<doctype type="text">216	CANADIAN ARCHITECT AND BUILDER
+
+
+
+nating vertical motors and 2-4 inch submerged centrifugal pumps and No. 2 consisting of 2-7½ h.p. alternating vertical motors and 2-4 inch submerged centrifugal pumps. Motors and pumps are automatically controlled by the rise and fall of the sewage in the reservoir.
+
+The shafts of the pumps are connected direct on to the armatures of the motors without any bevel gearing. thus practically eleminating all noise while operating.
+
+SEWAGE DISPOSAL WORKS
+
+<article title=" SEWAGE DISPOSAL WORKS " author="">
+
+The disposal works consist of three septic tanks and twelve bacteria beds, constructed from plans designed by the Cameron Septic Tank Company, and operated by the gear patented by them.
+
+The works are erected on the shore of the lake about
+
+200 feet from the water's edge, and are supported by
+
+10 inch piles driven 16 feet into the hard clay and
+
+surrounded by tongued and grooved sheet piling
+
+driven 14 feet.
+
+The construction of these works is of concrete in the proportion of seven of broken stone and sand to one of cement.
+
+The three septic tanks are each 100 feet by 14 feet by 7 feet 8 inches deep at the low end with a total capacity of 18:3.750 gallons. They are covered with a 3 in. concrete roof, made in the proportions of four and one-half of broken stone and sand to one of cement and reinforced with 3 inch mesh, 10 gauge expanded metal. At 6 feet inches centres are 9 inches 1w 6 inches concrete beams supporting the roof reinforced with 3-4 inch Johnson's corrugated steel bars. An inlet channel feeds the three tanks at the high end. each one of which can be operated independently from this channel.
+
+The distribution of sewage into the tanks takes
+
+place through 1-8 inch pipe thence through 4-12 inch openings. 8 feet above the bottom of the tank, which accomplishes a maximum flow of sewage with a minimum amount of disturbance. At the low end of the tanks 1 3-4 inch outlet pipes are built into the wall. 2 feet 7 inches below the water line, connecting with the cleansing chamber and outlet channel. From here the main effluent carrier is built into the wall of the bacteria beds in line with the outlet channel of the septic tanks and runs the whole length to the end of the beds and has three branches at regular intervals, each feeding one set of four beds.
+
+There are twelve bacteria beds, three sets of four each having a combined area of 1.860 square yards. Each bed is 50 feet by 28 feet by 4 feet 6 inches deep and is filled 4 ft. deep with furnace slag varying in size from 1-4 inch to 1 1-2 inches. On the floor is laid fourteen lines of 2 inch weeping the collectors, discharging into a 9 inch main collector; and 6 inches below the surface of the slag are six lines of 6 inch weeping the distributors fed by a 9 inch main distributor. All discharge pipes terminate in one common chamber from which a 15 inch main filtrate carrier is laid down to the lake, the last 30 feet being supported on piles.
+
+
+
+OPERATION.
+
+
+
+The sewage is raised to a height of 22.5 feet at pumping station No. 2 into the inlet channel, which is 12 inches by 1.2 inches below water line and extending to a point beyond the inlet to septic tank No. 2. From this inlet channel the sewage is admitted into each
+
+tank required to be operated through the submerged openings. The solid matter contained in the sewage on entering the tank is broken up, some descending to the bottom, the rest floating to the surface according to the specific gravity. The floating matter undergoing decomposition forms a scum on the top of the sewage on the tank. During winter this scum attains a thickness of 2 or 3 inches and forms a rough layer of considerable toughness, the surface of which becomes covered with a variety of fungoid growths. During the summer months, however. this reduces to about half the thickness. Light and air being excluded from the tanks the anaerobic bacteria originally present in the sewage increase to an enormous extent and attack all organic substance, the more complex of which are converted into simplex compounds by their action, the ultimate result of the decomposition being the production of ammonia, carbonic acid gas, considerable quantities of hydrogen and methane. These two, being highly inflammable, have in one or two cases been used for illuminating the works.
+
+The mineral detritus, together with the insoluble residue from the sewage solids, accumulate slowly in the tank, and are removed without draining off the liquid contents of the tank by line of 6 inch cleaning pipes laid from each tank with four 3 in. openings at the lowest end of the tank, each controlled by a separate valve. These valves are used not more than once every twelve months to prevent any great accumulation of this insoluble matter in the tank.
+
+The effluent, now free from solids in suspension, through the action of the anaerobic bacteria, flows through the submerged outlets and through the effluent chamber, this process arresting any solid matter which may find its way through the outlet pipes in time of excessive flow and thence into the outlet channel.
+
+The semi-clarified sewage now flows along the main effluent carrier and on to the automatic distributing gear from which it is distributed to each bed in turn through its admission valve. The discharge valve will be closed meanwhile so that the interstices of the filtering material will be filled with the tank effluent. The effluent remains in the contact bed for a period of about two hours, according to the rate of flow, during which the impurities present in solution are oxidized by the bacteria attached to the surface of the filtering medium. The discharge valve will then open, when the filtered effluent escapes, drawing down after it a supply of air into every crevice of the contact bed. The latter will then drain and aereate whilst the remaining contact beds of the set are filling, after which it will again be filled in turn. This method of working renders the contact beds self-cleansing, so that they retain their purifying power unimpaired.
+
+The alternate filling and emptying of the contact beds is effected automatically by means of the alternating gear in the following manner: As soon as bed No. 1 is filled, a small quantity of filtered effluent overflows from its discharge well into a float chamber, lifting the float and at the same time opening the admission valve and closing the discharge valve of bed No. 2. When bed No. 2 is filled this operation is repeated, the flow of tank effluent diverted into bed No. 3 and the discharge valve of bed No. 1 being opened and its contents allowed to discharge.
+
+The bacterial action which takes place in these
+

@@ -1,0 +1,62 @@
+<doctype type="text">
+
+<article title="Two Questions in Connection with Steel Construction in Buildings" author="Burke, Edmund">
+
+shown that the development of even a moderate amount of beat can be fatal to a structure dependent for its support on unprotected iron.
+
+One of the most remarkable cases occurred at Vienna where the canvas of a panorama caught fire, destroying in the shortest possible space of time the roof of the building. The fire itself was quite an unimportant one, from a fireman's point of view, and yet it demonstrated what a small quantity of inflammable material may wreck and destroy a large piece of unprotected ironwork.
+
+The entire framing of the light iron roof was found after the fire, lying, a not very distorted or dislocated mass, on the floor of the panorama building.
+
+The effect was evidently that of a gradual yielding to the heat, and the entire roof supports appear to have simply turned inside out in their fall like an old-fashioned umbrella, the ring at the apex of the roof finding a resting place on the centre of the floor below.
+
+A series of tests has recently been completed at Hamburg having reference to the behavior of uprights for warehouse purposes when subjected to the action of high temperatures. The conclusions reached are as follows
+
+1.	Wrought-iron uprights, if not protected, show but little resistance at a fire, and, in fact, may be said to collapse in temperatures exceeding that of 1,100 Fah., even if this temperature is of short duration.
+
+2.	Wrought-iron uprights, if protected by concrete, in such a manner as, for instance, by filling in the kernel of girder work framing, offer a somewhat greater resistance than if entirely unprotected.
+
+3.	Wrought-iron uprights, if surrounded by non-conducting materials, i.e., ''protected" in the manner so understood, show a considerably greater power of resistance than did the cases Nos. 1 and 2.
+
+4.	Cast-iron columns offer a slightly greater resistance than wrought- iron uprights, assuming that both are entirely unprotected, the collapse only taking place at temperatures above 1,400 Fah.
+
+5.	Cast-iron columns require considerable consideration regarding section and maximum load when intended for use in buildings of a dangerous character, as the time of collapse differs very materially according to the weight they are carrying during a fire, and their plan.
+
+6.	Cast-iron columns, if protected, as usually understood, by surrounding the shaft with non-conducting materials, show a greater resistance than wrought-iron uprights protected in a similar manner.
+
+7.	Wooden uprights, if unprotected, catch fire at temperature under 1100 Fah. but, though well alight, such greater resistance than unprotected wrought-iron or cast-iron uprights.
+
+8.	Wood, wrought-iron and cast-iron uprights, whether protected or unprotected, in no case give any sign of an impending collapse.
+
+
+
+Another very interesting series of tests has lately been prosecuted in New York with a view to discover the relative value of various methods of floor and beam protection.
+
+These tests were made at the instance of Mr. Constable, Superintendent of the Building Department of New York City. They were very carefully conducted under uniform conditions and included several methods of concrete as well as hard burned and porous tile construction. Accurate readings of temperatures and deflections were taken.
+
+The Engineering Record says, ''while this series of tests was especially designed to provide conditions thoroughly comparable with the severest conditions usually realized in actual conflagrations the circumstances governing them did not make it feasible to complete the parallelism by securing an endurance standard that would have been attained if it had been practicable to subject the constructions to repeated fires and quenchings, thus demonstrating how a structure that had endured throughout one cycle could withstand successive reapplications of fire and water after having been subjected to more or less deterioration from the first, a condition that is frequently realized by a fire breaking
+
+out anew after the firemen have once quenched it and attacked another part of the building."
+
+The rooms in each instance were specially built, approximately 12 feet square, and a uniform load of 150 pounds to the square foot was placed on the central bay of each. In almost every case the deflection of the beams was proportionate to the completeness and thick ness of their protection.
+
+Where the soffits of the beams were protected by metal lathing and plaster or by thin slabs of concrete or tile, the deflection was the greatest and but little of the protecting material remained after the test ; that which was not destroyed by the heat, was. washed away or badly broken by the application of cooling water at a pressure of about bo lbs.
+
+In the concrete constructions the material was damaged or washed out until the embedded rods, bars or wire mesh was exposed. In the tile constructions the lower thickness invariably cracked on the application of water and many of the pieces fell down, especially the portions covering the beams.
+
+The deflection in all but three instances ranged from about two to five inches at the time of maximum heat and in most cases the work returned to nearly its normal position after having cooled. The deflection was less than 1/2 inch in the best examples of beam covering, and floors having flush ceilings suffered less deflection than those where the beam construction was apparent.
+
+In the Gustavino construction, which was of arched form from wall to wall made up of several layers of flat tiles and without steel beam supports there was a slight elevation (about 34 inch) of the crown of the arch at the time of the highest temperature, supposed to be due to expansion of the material. The bottom lamination of tiles cracked and fell upon the application of water.
+
+Some months after the above tests were made another was inaugurated arising out of a challenge made by Messrs. Henry Maurer & Sons, manufacturers of fire proof materials of New York to manufacturers of fire proof materials to take part in a 24 hour test. The Roeblings, using a concrete system, (Fig. see illustration pages) accepted the challenge with the proviso that the tests should be conducted under conditions similar to those which governed the former ones, a 5 hour test being assumed to be sufficient to test the value of the two constructions as fire resisting material. It was further stipulated that the hard burned tile should be bought in the open market and not specially burned for the occasion.
+
+As the conditions named by Messrs. Maurer were modified they declined to have anything to do with the test, but it was proceeded with.
+
+The Roebling floor system consists of concrete arches sprung between floor beams on a centering of wire mesh. The ceiling is formed of wire mesh suspended a couple of inches below the bottom flange of floor beams and heavily plastered. As the arches are of segmental form quite a large air space is formed between them and the ceiling.
+
+This floor occupied nearly one-half the room. A corresponding space was devoted to the hollow tile floor consisting of a fiat arch with concrete filling above in the usual manner. (Fig. 2---see illustration pages).
+
+The result is thus described in the Engineering Record ''After firing for three hours, the greatest deflection of the tile arch was 3.65 inches and of the Roebling arch 14 inches. At this stage a large portion of the tile floor between the two tierods in the centre, representing an area about 5 x 5 feet, fell away, allowing the superimposed load to drop through into the chamber below. The temperature immediately reduced, and the test was practically at an end. The Roebling arch remained apparently intact, with shreds of the skim coat hanging to the ceiling, the brown coat remaining intact. The temperature from the time of firing rose uniformly until it reached 2,000 degrees, about an hour and a half after the fire was started. From that time on to the end of the test a temperature of 2,000 to 2,300 degrees was maintained."
+
+The Record also remarks that "although the concrete construction came out first in the test, there is not the
+

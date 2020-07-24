@@ -1,0 +1,52 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+nails in 12 cases out of 14; when driven into oak the wire nails hold more per pound than cut nails in 8 cases out of 13.
+
+Conclusions.—Summing up the various results of the investigation, the following conclusions seem to be justified within the limits of the tests, both as to size of nails and kinds of material:
+
+(1)	Wire nails hold somewhat greater loads than cut nails, when compared on the basis of the strength of one pound of nails.
+
+(2)	Cut nails hold somewhat greater loads than wire nails per unit of surface, and per pennyweight.
+
+(3)	Nails of small body hold more per pound than nails of large body, both in case of wire and cut nails.
+
+(4)	Common nails, both cut and wire, when driven into oak hold greater loads than when driven into yellow pine in the proportion of 1.5 to 1
+
+(5)	The strength of a joint varies directly as the number of nails used.
+
+(6)	The strength per inch of' length is constant for 16d nails cut to different lengths.
+
+(7)	The best angle of driving is a right angle or nearly a right angle.
+
+(8)	Joints diminish in strength with prolonged soaking.
+
+(9)	A decreased efficiency results from harbing the surface.
+
+<article title=" THE CONSTRUCTION OF A ROOF " author="Jones, George H.">
+
+THE CONSTRUCTION OF A ROOF.*
+
+By GEORGE H. JONES.
+
+
+
+In our climate the roof of a building is of the first importance, for however perfect the structure, however elaborate the conveniences and fittings, however artistic the decorations, and scientific the sanitary arrangements, unless the roof is well constructed and watertight, all the labour is in vain.
+
+The subject of roofing generally (embracing as it does construction and materials) is too large to be dealt with in a short lecture like this, but a few notes will probably be of use.
+
+I would urge upon those of our younger members, who have an ambition to become general foremen or clerks of works, the importance of studying the roofs of the carpenter. The iron roofs of our railway termini, markets, and other public buildings are also well worth the consideration and study of our members, though these structures are, as a rule, the work of the engineer rather than of the architect.
+
+The chief use of a root is, of course, to protect the inmates of the building from the extremes of temperature, from wind and rain. It must be designed and constructed in such a manner that it is a support to the walls that carry it, and unless it fulfils these requirements it cannot he considered a satisfactory, much less a perfect roof. In the designing of a roof there are many things to be considered—the span or width between the walls, the height of the ridge, the weight of the covering (whether lead, tiles or slates), and the relative strengths of the various timbers. If it is a high-pitched roof it is generally trussed on the king-post principle, or if low pitched, on the queen-post principle, or sometimes by a combination of both. Though the problem of designing does not devolve upon the clerk of works or the general foreman, it is essential that they should understand the principles of construction and proper framing.
+
+The simplest form of roof suitable to our climate is
+
+*Paper read before the College of Masons at the Royal Architectural Museum, Westminster, on October 23rd, 1900.
+
+what is known as the lean-to roof, that is, a roof that slopes only one way. This was probably the earliest form of roof constructed in this country. Then would follow the ridged roof, or the roof which slopes two ways, with the end walls called gables, carried up in brickwork or masonry. After this would follow the hipped roofs, sloping three or four ways. It would soon be discovered in the roof sloping both ways that the feet of the rafters had a tendency to spread and force out the walls. The next step was to tie the feet of the rafters together, and thus arose the tie beam. The sagging of the tie beams over large spans would next attract attention, and the remedy was found by suspending it from the ridge. Here then was the truss, the king-post truss. The queen-post truss is but the extension of the king-post truss. The latter is probably the earliest, as it is the simplest form of roof truss. The king-post holds up the middle of the tie beam, and the struts support the middle of the rafter ; they should be at right angles to the back of the rafter and should be tended and shouldered on the king-post. Nowadays, in roof framing, the tie-beam is frequently dispensed with, being replaced by a timber at a higher level than the feet of the rafters, sometimes as high as half the distance to the ridge ; this is called a collar beam, and when it is fixed at a high level it is framed to the feet of the rafters by braces. Any piece of timber in a truss on which the stress or strain is in the extension of its fibers is, and may he called a tie (sometimes brace). When the strain is in compression of its fibers it is a strut. Thus a king or queen-post is a tie, and not a strut.
+
+The cost of trussing every pair of rafters would soon lead to longitudinal framing and so came the purlin. The purlin is usually laid on the back of the principal rafter, sometimes at right angles and supported simply by a splay block spiked on the rafter, and sometimes fixed vertically and notched down over the rafter. When the principals are far apart, the purlin is sometimes strutted from the tie beam, or from the sides of the principal rafter in open roofs ; and these are called wind braces by some. They are of very little use when fixed to the side of the rafter, but some persons admire them in open roofs. If a roof is placed on inner and outer wall plates these should always be framed together by cross-pieces halved and dovetailed, and not mortised and tenoned as I once saw done. Roofing is, in my opinion, the perfection of the carpenter's art; and the open roofs of our churches are, in many cases, even more beautiful than stone groaning. To those of you who do not agree with me, I recommend a visit to Westminster Hall.
+
+Thus we have seen the truss or principal rafters carry the purlins and ridge, the common rafters being fixed on the purlins, ridge and wall plate. There is a German method of dispensing with the common rafters; this consists in fixing purlins at intervals from plate to ridge and then boarding them over to carry the slates or battens. I should think a roof like this would be less effective against wind pressure than one built in our usual way, though it would probably be less expensive to construct.
+
+When a roof is described as being framed in rough fir or oak it is meant that the timber is used as it comes from the saw ; when it is to be planed it is described as wrought ; the framing is the same in both cases. When the soffit of a common rafter comes below the back of the purlin it should be caulked into the sides of the lat-
+

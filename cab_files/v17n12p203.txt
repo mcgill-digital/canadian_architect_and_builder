@@ -1,0 +1,56 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	203
+
+
+
+	in.	of concrete well rammed down ; another of
+
+the bindings is put in, and the process repeated. The special functions of the vertical rods are
+
+	(a)	to aid the concrete in resisting the compression due
+
+to the load ; (b) to resist any tensile stress which may be set up in the concrete by unequal loading or by any want of homogeneity in the material itself, which tensile stresses cannot be safely left to the concrete to overcome. Almost all the makers of reinforced concrete constructions put their trust in the vertical rods of metal, as the special element adding strength to the concrete, if we may judge by the large proportion of metal so used, and by the rules employed to fix the sate load, which rules take no account of the binding.
+
+INITIAL INTERNAL STRESSES.
+
+
+
+If there were no initial stresses in the combination the load would be carried by the two materials on the inverse proportion of their rigidities—that is to say, if the concrete were ten times as easily compressed as the iron or steel, the iron or steel would be carrying ten times as much per square inch as the concrete. But the question is not so simple. Concrete setting in air shrinks, while concrete setting in water expands. Columns for buildings always set in air, and consequently the concrete shrinks. As the concrete adheres rigidly to the metal, the concrete is put in tension and the metal in compression—into a state of internal initial stress—before the load comes on. So strong is this action that the concrete may be at the limit of its tensile strength, and the metal at its elastic limit. No formula has so far been devised which takes this initial stress into proper account. The function of the bindings is to prevent lateral swelling and bursting.
+
+M. Considere's, was the first to give this its proper consideration and importance. In almost all columns, except M. Considere's, these bindings are usually about 6in. to 12in. apart, showing that the true use of the metal is not yet fully recognised. The author gave the results of some
+
+EXPERIMENTS ON CONCRETE IN COMPRESSION,
+
+
+
+armoured and unarmoured, referring: to those carried out by Professor Gaelana Lanza, and reported in the Transactions of the American Society of Civil Engineers" (1903, p. 487) ; by M. Gary, of the Ecole Polytechnique, at Charlottenburg ; by the Commission des Voutes de Ia Societe des Ingenieurs et Architectes Autrichiens, reported on in 1901 ; and others by M. Considere described in his papers on '' Resistance a Ia Compression du Beton Arme et du Beton Frette," in Le Genie Civil (November and December, 1902). Reference was also made to the test of a column made by Messrs. Cubitt and Co., and tested at Messrs. Kirkaldy's Testing Works in June, 1904. As regards
+
+FIRE-RESISTING PROPERTIES,
+
+
+
+from all the reports on the Baltimore fire, where as intense heat was experienced as will ever occur, the armoured concrete constructions appear to have stood best. Concrete and iron or steel expand at about the same rate under changes in temperature, and the permanence of the concrete covering in fires s no doubt due to this. There is now no doubt that iron or steel buried in ordinary concrete remains uninjured by rust for generations. When an architect decides upon adopting reinforced concrete for a structure, or part of it, he will probably put the work in the hands of a concrete specialist, who makes his own calculations for the strength of the members, and arranges the details of the construction according to his own ideas. But as the responsibility must always in some measure 1e with the architect, he will naturally want to check the specialist's work, particularly when the contract has been let in competition, and there is an object n the specialist endeavouring to reduce cost to a minimum.
+
+Mr. L. G. MOUCHEL followed with a paper, illustrated with lantern slides, entitled
+
+MONOLITHIC	CONSTRUCTIONS IN HENNEBIQUE
+
+
+
+ FERRO- NCR CONCRETE."
+
+It had, he said, been his fate to be the pioneer of the new
+
+material in Great Britain. Having explained in detail the general principles of Hennebique ferro-concrete construction, Mr. Mouchel said that it was to its great simplicity, to the common-sense which had presided at its conception that it owed its startling- success. Any labourer of ordinary intelligence could be made an apt workman in the material in a few days. He himself had had to form his own gangs of men when he introduced ferro-concrete into this country, and it took him very little time to drill them in the practice of arranging the various parts of a work in which robustness was combined with simplicity. Respecting the theory of the system of construction, it was evident that the laws, formulae and methods of calculation used for ordinary materials could not be applied in structures composed of such heterogeneous substances as concrete and steel. It had been objected that their formulae for ferro-concrete was empirical. It was not so, because they had not starred their work on formulae. It was only after many years' patient observation of the results obtained that they deduced the formulae which were the bases of all their work in this absolutely novel material. Ferro-concrete was
+
+AN ABSOLUTELY NEW MATERIAL,
+
+
+
+which has come in its time to enrich the engineering world. It could not be treated as a combination of steel and concrete in which the properties of the component elements could he considered and treated separately. It had its own laws of deformation. Experiment demonstrated that a rectangular bar of concrete, when subjected to tension, showed an elongation at rupture, of, say, 1/10 inch ; a bar of ferro-concrete, of the same external dimensions and made of the same concrete, showed at rupture an elongation of 1 inch ; that is to say, ten times greater, before showing any crack or trace of disintegration, than in the first case. The elasticity of the new material was well known ; it varied in notable proportions with the distribution of the steel in the mass of concrete. The so-called Hennebique's empirical methods could be relied upon with absolute confidence ; for they had been the basis upon which over 12,000 different works had been constructed, and which, in almost every case, had been subjected to severe tests, the results of which had been carefully recorded.
+
+TESTS.
+
+
+
+As regards tests, the age of a piece of concrete is a most important element. Good concrete goes on increasing in quality year after year. It is not advisable to test to destruction samples a few weeks or a few months old. No two results will ever be alike, even on two samples of the same age, unless they are composed exactly of the same materials, mixed in identical proportions and by the same operator. The adherence of concrete to steel increases with the age of the work. Unlike construction in ordinary materials, which, if left to itself, will deteriorate, ferro-concrete construction goes on improving endlessly in quality with age. Tests must be made on the structures themselves. The Hennebique practice is always to test their structures within a very few weeks after completion with loads 50 per cent. in excess of the calculated load. When the load is removed, it is found that the floor, owing to the elastricity of ferro-concrete, regains its former level, or, at any rate, that the deflection, if any, will be quite inappreciable. It could not be otherwise, for any stress applied to any part of a well-made ferroconcrete floor affects not merely the part under the load, but also a very large area of the floor surrounding the part under observation. This is due to the absolute monolithism of the work. Besides static tests, there should be severe dynamic tests ; without these the trials of a structure in which concrete and steel are combined are incomplete. The great security offered by ferro-concrete construction arises from the fact that it never collapses suddenly, but always gives, long be-forehand, unmistakable warnings. The author described a test on a Hennebique beam which lie had had carried out at Bermondsey. The beam was placed on two common concrete supports. Thirty tons—i. e..
+

@@ -1,0 +1,44 @@
+<doctype type="text">162	CANADIAN ARCHITECT AND BUILDER
+
+
+
+
+
+cement and congrete
+
+
+
+
+
+
+
+
+
+[note —Contributions suitable for publication in this Department are invited from subscribers and readers
+
+<article title=" TINTING A CEMENT HOUSE " author="">
+
+TINTING A CEMENT HOUSE.
+
+It not infrequently happens that in building a concrete house, the cement will dry out in several colors or shades, and it is found desirable to tint the entire surface of a uniform color, that shall not be paint, but practically a part of the house itself. This result may be secured, says Edward Hurst Brown in an article on "Painting" in the American Carpenter and Builder, by washing the whole house with cement, but their is a trick in doing this properly that is not always understood. The cement wash is made by mixing two parts of Portland cement and one part of marble dust with enough water to reduce it to about the same consistency of whitewash, and is applied with a whitewash brush. The wall must be thoroughly wet with water for several hours before the wash is applied and kept constantly wet during the application, and for at least a day afterward. The important thing to remember is that the wash must not be applied to a dry wall, as it will not adhere. This work will be worth at least a dollar a square yard, or more, according to the price of labor, but the result will fully justify the cost. 
+
+
+
+
+
+CONSISTENCY OF MORTAR AND
+
+CONCRETE.
+
+From available data on the consistency of mortar and concrete it may be gathered that a dry mixture is much stronger than a wet one up to the age of a few weeks, but that with the lapse of time the resistance of a wet mixture increases far more rapidly than that of a dry mixture.
+
+Among other recent experimental investigations into this subject, that of Mr. Brabandt is one of the most useful. For the purpose of these tests a large number of prisms of cement, mortar, and concrete, mixed in different proportions, were made and left to harden for the period of twenty-eight days. The results, published in the "Zentreblatt der Bauwerke," appear to demonstrate that the proportion of water corresponding to maximum resistance is invariably between 13 per cent. and 30 per cent. of the collective weight of cement and sand in the mortar, that the proportion increases progressively with the increased quantity of cement used, and that the gravel added subsequently to make concrete has no influence on .the proportion of water. It appears, further, that a small variation in the proportion of water may cause a considerable variation of resistance, particularly with mortars very rich in cement. In applying these and all other experimental results, it is, of course, necessary to bear in mind the essential difference between working conditions and those obtaining in the laboratory.
+
+BOND BETWEEN CONCRETE AND STEEL.
+
+As the result of a number of tests to determine the bond between concrete and steel made in the University of Illinois a university bulletin has been prepared by Professor N. A. Talbot, in which the following conclusions are presented
+
+Little difference is found in the bond resistance per square inch of surface of bar in contact with the concrete, whether the bar is imbedded in six or twelve inches. Evidently a length may be found beyond which the stretch of the steel would cause uneven distribution of the bond stress along the length of the bar and cause failure to begin at the point of the greatest stress in the steel and thus give results not representative of the real bond resistance. This limitation applies to length for use in experimental tests of bond. In simple beams the bond stresses are applied along the length of the bar, and stretch and bond exist together. The richer mixture of concrete gives somewhat higher bond resistance than the leaner, the values for the 1 :2 :4 concrete averaging, say, 10 to 15 per cent, higher than the 1 :3 :5 1/2 concrete. For plain round mild steel rods, the average for the bond resistance ranges from 350 to 450 pounds per square inch of contact surface.
+
+The value of bond resistance will depend upon the smoothness of the surface of the bar, the uniformity of its diameter and section, the adhesive strength of the concrete, and the shrinkage grip developed in setting. The effect of smoothness of surface and uniformity of diameter and section is seen in tests made with cold rolled shafting and tool steel. The average bond developed with cold rolled shafting and tool steel was 147 pounds per square inch of contact surface, as compared with about 400 pounds for ordinary plain, round, mild steel rods. It should be stated that not only was there a very noticeable difference in the smoothness and finish of the surface of the rods, but the section of the cold rolled shafting and tool steel was very uniform, the diameter not varying more than 0.0001 or 0.0002 inch at one-quarter inch intervals throughout the length, while mild steel rods will vary as much as 0.0015 inch. It is to be expected that the smoothness and uniformity of section of drawn steel wire will operate to give low values of bond resistance, though, of course, as the section of wire is small compared with the circumference, the bond stresses developed when wire is used are relatively small. Attention is called to the fact that in the reinforced concrete beams tested at the University the bond stresses developed in beams failing by tension of the steel, diagonal tension of the concrete or other similar methods amounted to from 73 to 193 pounds per square inch. Even at the breaking load,
+

@@ -1,0 +1,5 @@
+<doctype type="plate">Plans.
+
+Residence of Mr. <person>Robert Wightman</person>, B.A., Toronto.
+
+Messrs. <firm>Gordon and Helliwell</firm>, Architect, Toronto.

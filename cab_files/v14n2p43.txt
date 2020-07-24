@@ -1,0 +1,104 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	43
+
+
+
+They could he torn down or removed. Perhaps the Association would move in this direction of bringing forth a competition for laying out a scheme for the whole Exhibition, if properly brought before them.
+
+Mr. Langton I a in always opposed to puffing the Association simply for the sake of puffing it. .\s a matter of fact. the Association has been very weak for a few years for lack of support, but it has not been idle in matters where it could help the city. We have drawn up a complete and perfect set, of building by—laws (which were ignored), intervened in the case of the Market Buildings, and have done everything we could do. If the City Council did not know of the Association it is certainly strange, especially in connection with the market competition, for both the Mayor and the City Engineer received letters upon the subject and had an opportunity of perusing a copy of our conditions of competition. On a certain occasion in the days of the old Guild—of blessed memory (laughter), we had a meeting over laying out. the old Upper Canada Grounds, and had several schemes for laying them out. Why could not some of the monthly meetings be devoted to laying out the Exhibition Buildings in the grand style ; and Mr. Wickson has already denoted to the Association that the city is willing to do something in the direction of assisting the Association in carrying out the buildings.
+
+<article title=" WEDNESDAY AFTERNOON SESSION " author="">
+
+WEDNESDAY AFTERNOON SESSION.
+
+
+
+The convention having re-assembled, Dr. P. H. Bryce, Provincial Health Officer, presented his paper on
+
+Problems in Maintenance of Purity, Equability and Moisture of House Air.''
+
+PROBLEMS IN MATNTENANCE OF PURITY, EQUABILITY AND MOISTURE OF HOUSE AIR.
+
+
+
+GENTLEMEN :—It was with some diffidence that I complied with the request of your Committee to read a paper before a society composed of gentlemen who are daily engaged in dealing with the practical details of house building, and I must appeal to your indulgence if in my remarks I betray an ignorance of practical details which are to you hut the alphabet of your work. My excuse for attempting a paper at all has been due, however, to a conviction growing out of my observation, that we are, in matters of ventilation and heating, not living up to our knowledge. For instance, last summer the Ladies' Committee were arranging for the heating of a mission church, and I asked them what arrangements for ventilation were included with the furnace They answered that they did not know, but supposed that the furnace dealer would see to everything. However, I was asked to find out, and learned from one of our prominent makers that no provision for fresh air was in the proposed tender, and that it was intended to draw the air oil at the floor back to the heating chamber around the furnace. Villen I protested 1 hat. surety they were not going to make tile people rebreathe the air, I was told that not one furnace in five ill tile city nowadays provided for anything else. If such be the case, and if the term '' economy is to be applied to furnace heating performed after this fashion, then, indeed, it would seem high time that architects and sanitary officers place this matter in its true light before the public, and insist on the application of the true remedy.
+
+the problem of how to heat economically and yet efficiently has been, and is, both a complicated and difficult one, owing to the many circumstances of latitude, exposure, nature of employment of inmates, number of occupants of dwelling, and so on, and yet there are some primary principles which must be fully understood if even a moderate degree of success is to be attained. I shall attempt to outline these ill order of importance as they appeal to me.
+
+Owing to the constant atmospheric movements of external air it must be remembered that the external air is, even in cities, infinitely purer than the best house air under ordinary conditions. For instance, Dr. Paul Regnard quotes a table from Miquel giving the bacteria per cubic meter in air as fellows
+
+
+
+Air over the Atlantic	o.6
+
+Air of Paris at summit of Pantheon	200 in Rue de Rivoli               3,480
+
+in a new house	4,500
+
+""in the sewers	6,000 in an old house                36,000
+
+in the hospital de la Pitie	79,000
+
+Or as Regnard says, a patient in La Pitie inhales 790,000 bacteria daily.
+
+
+
+As regards chemical constituents, Dr. Angus Smith, Saussiure, Muntz, and others, have found that the carbonic acid of the purest and most impure outer air does not vary more than between 2 and 4 parts in 10,000, whether on mountain top or in the slums of great cities. To illustrate further, Pasteur and Tyndall both found that sterilized solutions of beef bouillon, could not be exposed a moment in a room without danger of infection by some floating microbe, while on the mountains outer air was practically sterile. Clearly, then, our problem involves the introduction into houses or living rooms of a reasonable amount of outer air if we believe that
+
+fresh air is necessary to health. Now it is quite apparent that we are at once confronted with the question of how to do it, and how to pay for it. After much consideration, I am convinced that it is possible, with reasonable economy, to keep house air fresh, but only by an appreciation of the several physical laws entering into the problem.
+
+First, the construction of a warm building.—this is our first point. But some one says, here again it is a matter of cost. Partly so, and only partly so. Practically we have three building materials stone, brick and wood. Speaking of refrigerating machines, Leask remarks, that a large percentage of the actual work done is required to make up for the transfer of heat through the walls, floors and ceilings, occasioned by poor insulation, which amount may be measured experimentally. Tables are given as illustrating the varying conducting powers of substances. Prof. Shaw, of  Cambridge indeed gives a formula for estimating the amount of heat lost in one hour by conduction through an area of one toot square of different substances of one inch in thickness, with a difference on the two sides of from one per cent. upwards.
+
+	Copper conduits. 3225.0 units.	Cork	0.90 units
+
+	Iron	477.0	''	Water	 5.82
+
+	Stone	 17.0	"	Air	 0.16
+
+	Brick	 4.3	"	Glass	6.66 "
+
+	Oak (across fiber) 1.70 "	Slag wool	0.314
+
+	Brick dust	1.00 "	Asbestos same as above
+
+	Coke	0.99	Paper	0.20
+
+
+
+It is thus apparent that enormous differences exist in the conducting powers of our several building materials, and that very important facts regarding the conducting powers of other sub— stances may become of practical service to us under many circumstances. Thus, Leask gives several examples, of which tile following illustrates the successful arrangement for a refrigerator wall.
+
+Outer wall, 14 of brick.
+
+Next inner wall, 4 of pitch and ashes.
+
+Next inner wall, 4 "of brick.
+
+Next inner wall, 4 " of air space.
+
+Next inner wall, 14 " of brick.
+
+
+
+But assuming that we are to build an ordinary 14 " wall, we must see that two points are well attended to (a) that tile mortar is laid so that the wall is not a seive, and (b) that its inner surface is grouted, and a good stripping is laid on tar paper, with an air
+
+
+
+space between this and the plaster, and thereby get at least some of tile non-conducting conditions we are seeking.
+
+But the question will be asked, what difference can tile wall make if the air is to be frequently changed? All example will probably best illustrate the case. Assume a room with two outer walls of 30 ft. each by 16 ft. in height, and one ft. in thickness. This represents 900 square ft. of external radiating surface. Assume that one inch thick with one degree of difference between outer and inner air means in heat a loss of 4 heat units, one-twelfth of this is lost with a foot in thickness, or 300 heat units per hour. Let tile difference in temperature he between 60 Fahr. and zero, and not only will there be a loss of sixty times as many units of heat, but the rate of loss of heat is directly proportional in rapidity to the difference between the internal and external temperature. But assuming that this most important matter of making a building warm compatible with moderate first cost, is accomplished we have still the problem of its heating. It is apparent that houses, essentially dwellings, must most concern us. Warehouses and similar large buildings, are usually filled with goods rather than
+
+
+
+people. but schools, workrooms and factories, as well as dwellings, must claim our attention.
+
+It has always appeared to me that the large buildings with many inmates is our simplest problem, since tile means applied may he mechanical and caretakers may be provided to supervise such But I think it will be common experience when I say that the idea of introducing adequate air while installing our heating apparatus has hitherto been given relatively but little thought.
+
+Take the heating of a school or church, for instance, and we have hot air furnaces, steam and hot water, to choose from. Suppose it be a hot air furnace which is chosen. Air is introduced into a school room at from 100 to 150 Fahrenheit at a single point, with its moisture reduced by expansion of the air to perhaps ten per cent. or less of relative humidity. It is delivered at one point often creating a draught, and a chimney register of a
+
+
+
+square inches area is usually the only exit. Analysis shows the carbonic acid relatively in excess. Windows, if open, again subject the inmates to the danger from draught, and so are only occasionally opened. If the heating be steam we have heat alternately in excess and defect, while the likelihood of getting a fair amount of moisture into the room, and a fair degree of purity, is seemingly very slight. In the case of hot water heating, we have in the regulation of the degree of heat in the rooms many advantages, but in the matter of air purity the same problem of how to maintain a reasonable purity of air is quite as prominent as in the case of steam. In hot It cases it is not uncommon to have fireplaces in rooms, and in such instances a fair degree of purity is naturally maintained by the chimney shaft, greatly increased, of course, if a fire is kept in the grate, although the air near the floor is relatively cold in consequence of the draught from beneath doors leading to cold halls and the outer atmosphere.
+
+The question, therefore, before us is: Can we with the ordinary means at our command, improve the air conditions in the living rooms of public or private dwellings without an increased expense? I believe that we can, and I propose to deal with some of the methods and explain the reasons for my opinion
+
+Suppose that we have to deal with an ordinary school building What methods should we pursue to effect the desired end? I shall assume that the walls have been made in a large degree nonconducting. In a school building of four rooms, each providing for
+

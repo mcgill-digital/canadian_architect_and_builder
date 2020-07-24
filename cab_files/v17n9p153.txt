@@ -1,0 +1,80 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" THE McCLARY MANUFACTURING COMPANY'S
+
+NEW WORKS AT LONDON, ONT " author="">THE McCLARY MANUFACTURING COMPANY'S
+
+NEW WORKS AT LONDON, ONT.
+
+
+
+These new works, situated on the north bank of the Thames river, at the corner of Adelaide and Trafalgar streets, and devoted exclusively to the manufacture of stoves and furnaces, contain many features in the way of special arrangement and equipment, a description of which it was thought would prove interesting and instructive to architects and engineers. The buildings consist of a moulding shop, a stove mounting shop, a storage warehouse and an independent power house.
+
+The new works have been laid out with the object of simplifying and expediting as much as possible the sequence of processes of the manufacture of stoves and furnaces, and the equipment has been arranged in such a way that the material in process of manufacture is received at one end and shipped from the other end of the works, thus avoiding the necessity of any piece in process of manufacture being carried back to any point it has once passed.
+
+One of the most important elements of the thorough
+
+process of stove construction takes place, is situated at the north-west corner of the property, and is 200 feet wide by 220 feet long, one storey high, built of white brick with concrete foundations and having a roof of the saw-tooth variety, as shown in Fig. 2, the glass sides of the roof being exposed to the north, giving all the light desired without exposing the workmen to the direct rays of the sun. The moulding shop has a concrete floor ; across the south end and divided from the moulding room is the milling room containing the tumblers and core ovens. A Colliau cupola having a melting capacity of 10 to 12 tons of iron per hour is located in the centre of the moulding shop, as shown in Fig. 4. The charging platform is constructed of steel and concrete to support a track from the cupola to the north wall of the building at which the pig iron and coke are received from the railroad cars which are taken in on a siding especially constructed for the purpose, the moulding shop being located in such position as to take advantage of a hill at the north side, thus enabling the railway cars to be shunted up to the level
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 1.-- VIEW OF POWER HOUSE, SHOWING RAILWAY SIDING FOR COAL DELIVERY.
+
+
+
+ness and efficiency of the plant is contributed by the electrical equipment, the various machines in the works being arranged in groups, similar machines being in one group driven by a single line shaft driven by an individual motor attached to the ceiling or placed in such position above the floor as to be entirely out of the way. The result of this distribution of power is that the line shafts have been placed in the most advantageous positions to give ample room, light, and convenience. The difficulty so frequently met with in industrial establishments, namely, the laying out of the line shafting and the counter shafting in such a way that all will form a unit driven by one or two engines, has been entirely dispensed with, with the result that the company have one of the cleanest, best lighted, best ventilated and most efficient industrial plants to be found anywhere.
+
+The buildings were designed by and erected under the supervision of Messrs. Moore & Henry, architects, London, Ont., and the power plant and electrical distribution system and equipment were designed by and installed under the supervision of Mr. Roderick J. Parke, consulting electrical engineer, of Toronto.
+
+The moulding shop or foundry, in which the first
+
+of the charging platform. The progress of the material and product through the moulding shop is direct and continuous, toward the mounting shop.
+
+The mounting shop, located about 200 feet east of the foundry, is 307 feet long by 32 feet wide, two storeys in height ; the walls are built of solid concrete, and the floors of steel and concrete, being of absolutely fire-proof construction. Between the foundry and the stove mounting shop is the pattern storage warehouse, 130 feet long by 40 feet wide, one storey high.
+
+All of the motors in the mounting shop are supported on or near to the ceiling so as to occupy as little useful room as possible. Each motor is controlled by a Cutler-Hammer motor starter with automatic no-voltage release. Push buttons are installed at various points so that a motor can be instantly stopped in the event of an accident occurring or a quick shut-down becoming necessary.
+
+Direct current is distributed throughout the buildings to the various motors and lamps, at 230 volts. The works are illuminated by means of Adams-Bagnall 3.5 ampere 230 volt arc lamps, and 230 volt incandescent lamps. Separate circuits are provided between the power house and the shops so that separ
+

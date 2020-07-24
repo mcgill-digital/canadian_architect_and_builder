@@ -1,0 +1,124 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	21
+
+
+
+not connected with an S-trap at or near its crown it will not protect it from self-siphonage. Hence the requirement in the Boston laws, which leads to a quick destruction of the seal by evaporation."
+
+
+
+There is also danger from the stoppage of the air-pipe for various reasons which do not disclose themselves, so that, the only effect of the presence of the air pipe is to give a false sense of security while the traps are being continually siphoned. The following are some of the causes of stoppage
+
+
+
+Clogging with grease is very common.
+
+At every quick bend under a vertical rim of iron vent-pipe rust is certain to collect. A comparatively small amount of flaking off of rust or sediment in such a place may suffice to destroy the efficiency of the pipe.
+
+Sagging [in a horizontal lead branch of the air-pipe] is another frequent cause of failure. Water and sediment collect in the sagged portion, and failure is again the result. Finally, hoar frost and snow often close the upper opening of the pipe above the roof, producing again failure.
+
+Moreover, the chances of leakage by had jointing are evidently increased in proportion to the increase of piping, and what is more important still, no water-flush passes through the vent-pipes, and there is, consequently, nothing to announce to the eye the presence of leaks, which may therefore do mischief before the leaks are discovered."
+
+
+
+The process of development has been through the pot-trap now discarded in favor of more scientific forms. The trouble with the pot-trap is that it is not scoured by the flow of water and becomes in time by the deposit of grease (Figs. and 2) converted into a S-trap.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+While they remain clean the pot-traps are not siphonable, and their power of resistance is directly proportional to their diameter and has nothing to do with their depth of seal. It is the supplemental water that is the source of safety not only from siphonage and back pressure but from such evaporation as is still possible in a system that does not require air pipes. The ideal trap must have a reservoir for water and yet must be no larger than the pipe in section, so that it may be scoured at each discharge of water. The first form of trap answering to these requirements is shown in Fig. 3. It is thus described by Mr. Putnam
+
+
+
+
+
+
+
+
+
+
+
+
+
+"It consists of a 1/2-inch S-trap-seal proper and a long horizontal body made of a plain round 1 1/2-inch pipe. Opposite the trap proper is the sewer-connection piece, also made of a bent 1 1/2-inch pipe. I call the long body the " reservoir chamber." The water lies along the lower half of this chamber, leaving room, under siphonage, for air to pass above it without disturbing the water below it, provided the siphoning action is not too severe. The action is shown in Fig.
+
+4. Less and less water is driven out of the trap at each siphoning action, because the air-space above the water is each time correspondingly enlarged, and the resistance to siphonage is accordingly increased until a point is reached where no further reduction of its level by siphonage is possible ; the water spray caused by the suction adheres to the long body while air escapes.
+
+Nevertheless, this form is too long and unwieldy to be practicable. Moreover, under strong siphonage waves are formed which, when they reach the top of the pipe, act like pistons in driving out the rest of the water. The wave may be broken up and the length reduced by bending the pipe back and forth on itself as shown in Fig. 5. This trap has been tested and found able to withstand indefinitely the most powerful siphonage which can be applied, namely, a strain which in a single discharge destroyed the seal of a fully vented S-trap with a new vent-pipe only 10 feet long. The same strain broke the seal of an unvented 4-inch pot-trap and siphoned out an S-trap having a seal 6 feet deep."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is the typical form of anti-siphon trap. Resistance to siphonage can be still further increased by adopting the form shown in Fig 6. In this form Mr. Putnam says, "friction is reduced and centrifugal force
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aids in the separation of the air from the water, leaving the latter in the trap while the former escapes." And as power of resistance is increased, the trap may he reduced in bulk. The paper continues
+
+
+
+"Should this trap be used under a fixture having a small outlet and therefore furnishing little or no scour, it will act like a straight pipe, and will, like it, in time suffer a diminution of its area, by accumulation of greasy or gelatinous deposit along its wall. But, as in a straight pipe, the accumulations will be substantially uniform throughout, because the scour and form is uniform throughout, and its resistance to siphonage will remain the same, because its principle of resistance thereto will remain unchanged. Indeed, the size of the trap in respect to its proportion to the sectional area of its waterway will increase and thus correspondingly increase its resistance to siphonage. Should it ever be completely closed, its closure will announce itself by the simple cessation of the waste-water to flow out and then the obstruction can be removed through the clean-out cap." .
+
+Having thus established a trap which, as he says, is ''vented through its own inlet pipe," Mr. Putnam goes on to consider the simplification of plumbing which results from this.
+
+
+
+"The champions of back-venting have, as a matter of fact, abandoned to-day their original claim that it served to protect trap seals from siphonage. They occasionally adhere to it, however, on the argument that it is needed to purify the branch waste-pipes by aeration.
+
+But it is now recognized that ample water-flushing
+

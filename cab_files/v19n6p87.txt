@@ -1,0 +1,76 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	87
+
+
+
+wall. One begins to tremble before the classic inviolability of this plan; but there is one point in which it is perhaps a little too classic for the kind of house. The verandah need not return at each end in the same manner, and we may project our larder to form a solid end on the north, under an extention of the verandah roof. In this way we leave the hail and cellar passage intact. The spare space at the east end of the pantry would make a cupboard—a most useful adjunct -for the living room.
+
+The verandah is undoubtedly a great feature in the design, but it is not likely to be built with brick arches, as drawn. It is worth noting therefore, as a question, whether the roof is not really the essential element in the effect, and whether the oblong brick piers do not show up in the perspective as being, if not too heavy for the house, at any rate unnecessarily heavy. It is partly a matter of the narrowness of the verandah, (which ought to be wider), and partly a consequence of the severe training to which we have been subjected all our lives, in the matter of skimpy building, which has accustomed our eyes to the smatter diameter of wooden posts in a verandah. Fourteen inch brick piers in this case, with a plate consisting of a pair of \joists set apart on the outer edges of the posts, would be substantial beyond the ordinary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One thing the perspective does show:	that the eaves of the house would hear lifting. The attic would bc better for it; for, as drawn, there appears to be no more than ft. vertical wall height, inside, at the plate. Another two feet inserted below the attic window sills, which do not appear to be more than 18 in. above the floor, would both help the attic and make a wider verandah roof possible. Even though the relation between the eaves and the apex of the verandah roof were unchanged the eye would acknowledge the extra attitude of the wall, and the building would probably get more of the snap of the elevation. But a verandah half as wide again would not, with the same pitch, rise more than a foot higher on the wall.
+
+
+
+
+
+The <firm>St. Johns Brick Company</firm>, Limited, has recently been
+
+generated incorporation to purchase and acquire the business of
+
+St. Johns Brick Company, manufacturers and dealers in brick,
+
+St. Johns, Que. The headquarters of the company will he St.
+
+Johns, and the capital $75,000. Among the promoters ale
+
+Messrs. <person>Joseph Simard</person>, <person>Ulric Normandin </person>and <person>Alfred Simard </person>The expansion or building operations in all parts of the country has so increased the business of <firm>W. H. C. Mussen & Company</firm>, dealers in railway and contractors supplies, Montreal, that they have been compelled to extend their premises. They have purchased the large warehouse situated at Nos. 21 and 23 Colborne street, Montreal. This will give them excellent facili.
+
+ities for handling their goods, as the new warehouse faces the canal, and has railway sidings within 100 feet of the goods entrance.
+
+<article title=" ILLUMINATION." author="White, Earnest C.">ILLUMINATION.
+
+By ERNEST C. WHITE,	Member <assoc>Illuminating Engineering Society</assoc>.
+
+
+
+In commencing a series of articles on Illumination, it is not the writer's intention to indulge in rhetorical generalities on the universal importance of light. A clear, and, it is hoped, an instructive description of a lighting problem and its solution will he presented in each paper, and it is only as an aid to the more thorough appreciation of these problems that an out-tine classification of the more important considerations in illuminating work is given below.
+
+It is realized that, to the Architect, the problem of lighting design easily resolves itself into the architecture of fixtures and their supports, plus some estimate regarding the light sources needed to produce the desired (more often a desirable) illuminating effect. Various rules have been employed to arrive at the number and size of lights; and judgment, good and bad, has been exercised in the disposition of these sources. But judgment is haphazard unless based upon accurate information, and a simple examination will prove the foundation of most '' rules " of lighting to be somewhat less reliable than shifting sand.
+
+What is meant by a '' 16 candle power " lamp ? The ordinary incandescent lamp of this rating gives less than 7 candle power in the direction of the tip. The lamp is rated at its maximum candle power, which is in a horizontal direction, the lamp being pendant. Some manufacturer makes a lamp giving about the same total flux of light and equips it regularly with an accurately designed reflector. This is rated as a unit at the maximum candle power in any direction. The direction may be in line with the tip and the candle power may be 50, and a result more suitable to the particular need might be obtained with the ordinary incandescent lamp fitted with the proper accessories. In each case the rating means less than nothing, for it is misleading.
+
+What is a '' 110 volt" lamp, and where should it be used ? If properly made and labeled by the manufacturer, it is a lamp that will give its rated candle power horizontally on a certain consumption of current for about a certain number of hours across a 110 volt circuit. If this lamp is put on a 104 volt circuit it will give only 11.5 candle power and will consume 24more watts per candle power. The voltage varies in nearly every installation and where the lighting companies do not supply renewals, the dealers stock lamps for the nominal voltage of the circuit. The customer can get nothing else and pays, in many cases, 25too much for the light produced. I would say ''for the light used", but the production and utilization of light are two very different things.
+
+What becomes, then, of the rule that specifies so many lamps of a certain candle power for a room of given dimensions? The discrepancies resulting from unscientific lighting become much more apparent, however, when we begin to investigate the different effects produced by the use of various reflectors, globes, etc., with the same lamp. It is a very common error to suppose that a given quantity of light will produce approximately the same average illumination in a given space, no matter how distributed. This is not true even though the pigment and color of walls and surroundings be the same. The
+
+*Engineering of Illumination, <building>Aikins Building, Winnipeg</building>.
+

@@ -1,0 +1,110 @@
+<doctype type="text">
+
+and 3 of pit sand, we have the calculated value of t at eight weeks 104, and the observed value 63; then with the same concrete we have the calculated value at 26 weeks = 141, and the observed value 204. Such variations in results should suffice to shake our confidence in calculations of this kind.
+
+
+
+PRACTICAL RULES FOR TRANSVERSE STRENGTH.
+
+<article title=" PRACTICAL RULES FOR TRANSVERSE STRENGTH " author="">
+
+There is often some considerable difference between the quality of' work specially prepared for purposes of experiment and that which is executed in large quantities with only a general Supervision, which cannot take note of every possible source of weakness due to imperfections of workmanship. Bearing this in mind, it would be rash to assume that the degrees of strength revealed in the experiments to which we have referred can be expected to apply in general practice when the conditions are nominally the same. Two things must, therefore, be done in selecting values off for practical use. First, the lowest values revealed in the experiments must be taken, because there is no certainty that the strength will rise above these in any given case. The custom followed by some writers of taking the average results of experiments is one that may lead to serious error. Next, a deduction must be made from these lowest values to allow for the difference in quality between ordinary work and samples made for testing.
+
+It is probable that large slabs of concrete would show a higher proportionate degree of strength than the isolated bars used in the experiments, since these latter are devoid of that lateral support which any section of a slab derives from the contiguous portions ; and this is a consideration that must influence us in fixing values off for adoption in practice. Looking generally at the records of the experiments mentioned, and proceeding upon the assumption that our concrete is to consist of about 3 or 4 parts of coarse aggregate and 2 parts of sand to of cement, we suggest the following values for f:
+
+	with concrete 1 week old f	30
+
+	4	 ''	'' f-=	58
+
+	8	 ''	  f=	100
+
+	12	'' f	140
+
+
+
+6 months '' f 200
+
+	year	" f 300
+
+
+
+These are rough approximate values, and it is pretty evident that any attempt at closer accuracy would be useless. The following table shows the strength of concrete floors for various spans, calculated according to the above figures
+
+
+
+CALCULATED STRENGTH OF FLAT CONCRETE FLOORS.
+
+<article title=" CALCULATED STRENGTH OF FLAT CONCRETE FLOORS " author="">
+
+
+
+
+
+Thick-	? Breaking weight distributed in pounds per square  foot for concrete of the undermentioned ages.
+
+In
+
+inches.	- 
+
+	I	26 I
+
+	week.	4	8	12	52
+
+weeks, weeks, weeks, weeks.  j weeks.
+
+	4	24	160	309	532	744	1,065	1,597
+
+	5	30	160	309	532	744	1,065	1,597
+
+	6	30	228	444	766	1,071	1,533	2,300
+
+	6	36	160	309	532	764	1065	1,597
+
+	7	36	216	420	724	1,014	1,449	2,173
+
+	8	36	282		946	1,323	1,893	2,840
+
+	8	40	228	444	766	1,071	1,533	2,300
+
+	8	48	160	309	532	744	1,065	1,597
+
+	9	48	201	390	675	945	1,350	2,025
+
+	9	54	156	303	526	735	1,053	1,580
+
+	9	6o	130	249	432	603	864	1,296
+
+
+
+
+
+The safe load should under no circumstances exceed one-third of the breaking weight, and one-quarter or one-fifth is preferable for moving loads.
+
+LONDON MASTER PLUMBERS' BANQUET.
+
+The Master Plumbers' Association of London, Ont., celebrated its inauguration on the 19th of May by a banquet at the Grigg House, at which about fifty persons were present. There were noticed, among others, Mr. Stephens, J. Haslen, Jun., Mr. Allen, James Haslett, sen., W. Skelly, jun., Wm. Joanes, John Law, C. W. Walker, Robert H. Geldart, Armon
+
+W.	Irwin, G. Craddock, Herbert Mathews, Wm. Smith, Wm. Skelly, sen. Frank Bickley Chas. Williamson, Thos. L. Partridge, E. Holland, A. Millan, C. Needham and Mr. Coleman, all of London. The guests from outside places were President W. J. Burroughes, vice-president Alex Fiddes, and Messrs. Andrew Mann and William Mansell, of the Toronto Master Plumbers' Association, and Mr. Flaherty, of St. Thomas. The city was represented by Aid. Skinner, t)r. Hutchison, Medical Health Officer, and Aid. Armstrong.
+
+An efficient chairman was found in the person of the president, Mr. R. J. Haslett.
+
+After the menu had received proper attention, the President made his opening remarks and proposed the toast of "The Queen," which was followed by that of
+
+The Governor—General " and '' Canada, Our Home all of which were fittingly responded to.
+
+The toast of ''The Mayor and Corporation of London was replied to by Aid. Skinner and Armstrong, who urged the necessity of sanitary improvement.
+
+The other toasts were " Master Plumbers' Association," responded to by Messrs. Boroughs Mansell, Smith and Fiddes ; "Board of health," acknowledged by Dr. Hutchinson and AId. Skinner ; '' The Manufacturers and Wholesale Supply Men," which brought responses from Messrs. Mann, Allen, Stephens and Coleman and '' Our Guests to which was coupled the names of Messrs. Matthews and Craddock.
+
+The members of the Association were well pleased with the success of their initiatory dinner, which it is hoped will become an annual affair. The local officers are :—President, R. j. Haslett ; Vice-President, W. Smith ; Second Vice-President, W. Skelly ; Treasurer,
+
+T.	Partridge ; Secretary, W. Skelly, jr.; Master at Arms, C'. W. Walker. Members J. R. Haslett, C. Needham, A. Milne, W. H. Heard, F. Bickley and E. Holland.
+
+The Association is making arrangements for the appointment of an inspector of plumbing.
+
+
+
+THE cubical outline gives the most volume and floor space for a given amount of material and expense. A floor 3ox3o gives 900 square feet of area to 120 feet of wall ; the same amount of wall arranged in an all of 30X30X15 give only three-fourths as much area, or 675 square feet. The cubical form can be worked up artistically by giving grouped windows, and by making the eaves, chimneys and roof bold and striking.
+
+Brick walls should be well bonded. The " English bond," in which courses of headers alternate with courses of stretchers, is probably the strongest. Tarred bricks soon blister and wash, and mortar does not take hold of them. Rough bricks, if laid with red or black mortar joists, are very picturesque. Stone trimmings for red brick walls should be of some warm color, as brown, red, buff or green. Terra cotta makes admirable trimmings for brick walls. The foundation stones should lie on their natural beds," and they will be stronger therefor.
+

@@ -1,0 +1,104 @@
+	<doctype type="text">May, 1892	THE	ARCHITECT AND BUILDER.
+
+
+
+rooms, and not having any contact at the sides with the external air. In a report to Congress the objection is thus met, "It is supposed by many that the inclosure of one building within another, the inner one being the hall, is a serious defect in the construction with a view to equable temperature and a healthy ventilation; on the contrary, it is a great advantage. If the hall approached the exterior wall it would be subject not only to all the internal changes of temperature and elements disturbing the ventilation, but also to all those of the external atmosphere and the weather. Almost every one of the disturbing elements that have been named would be greatly aggravated if the hall approached the exterior. External influences like those of noises, winds, and storms would make themselves felt disagreeably which are now altogether excluded. There is no doubt that the more perfect the ventilation is the more perfect the acoustic properties of the hall will be. A pure atmosphere being favorable to the speaker's health and strength, will give him greater power of voice and endurance, thus indirectly improving the hearing by strengthening the source of sound, and also enabling the hearer to give his attention for a longer period.
+
+In compiling the foregoing remarks, the various reports to
+
+Congress by <person>A. C. Stimers </person>Naval Engineer, General <person>Haupt, L.
+
+W.	Leeds</person>, Capt. <person>Meigs, E. Clark </person>and others, have been freely
+
+quoted, also reports of Select Committee on Ventilation of the
+
+<building>House of Commons, London</building>.
+
+After many years of study and experience I am strongly of opinion that the most efficient system of ventilation for halls for the assemblage of large numbers of people is by the introduction of fresh, pure air heated by passing over steam or hot water pipes in chambers and driven and exhausted by the most approved appliances, introducing the pure fresh air at the ceiling and exhausting at the floor, which may be termed the downwards draught and plenum system.
+
+
+
+<article title="Sanitary Plumbing" author="Marani, Cesare J.">SANITARY PLUMBING.*
+
+BY CESARE J. MARANI, GRAD. S.P.S.
+
+(Continued from April Number.)
+
+That in so far as it lies within our power, the waste pipe system be freed from any tendency to retain decomposing matter, giving off gaseous products known to be detrimental to health, or these very gases when generated elsewhere.
+
+From the mechanical side I should say, have the work done by a thoroughly reliable and competent workman, one who knows and realizes the importance of honest workmanship in connecting pipes. in ventilating traps, etc. To place the work in the hands of an admittedly good man, a thorough mechanic in himself, but one who always employs undermen to do his ' jobs," and then to rest at ease with the false idea that your share of the work has been performed, and that the workmanship will turn out as desired, reminds me of the story of that simple minded housewife, who, after placing her marketing of game and fowl on the table of her cottage, and then firmly securing the windows as against the ingress of eagles and other birds of prey, went oft leaving the cottage door wide open. During her absence, the fable goes on to say, bears, and other beasts, entered and carried the matketing away.
+
+It is the duty of the architect to determine whether the men actually doing the work are competent or not and further, he should insist that the work be done by competent men, and competent men only, otherwise all kinds of defects will crawl into the system and prove beyond detection when the work is finished.
+
+Recesses due to badly constructed joints, beads, and strings of solder, or the ends of gaskets in the pipe, all tend to retain filth. Bad connections between vent pipes and traps, destroy the efficiency of the latter. Unnecessary traps, or want of sufficient grade, are again, blunders for which the architect or designer of the plumbing system is alone to blame.
+
+The sizes of the soil pipe and waste branches have also an important bearing on this point. For unless they are so proportioned as to be self-cleansing. the interior surface of the whole system will coat over with a greasy slime, known to give off pestiferous gases ten times more abominable than those found in the main sewer.
+
+Ventilation, while indispensable as a diluter and safe remover of any gases forming or collecting in the system, tends furthermore to arrest, and to a great extent destroy, such a coating. T he free ventilation of the whole system, therefore, demands our most careful consideration. This brings up a point still at issue among leading sanitary authorities :—" The whether a tray should be placed on the house drain before it empties into the street sewer, or not. I am inclined to side with those who hold that, while there may be some doubt as to the policy of omitting such a trals in cities, for instance like Toronto, where in the first place the main sewers have been ill constructed, and still more badly ventilated that, even in the ca-e of only tolerably good sewers, such arguments are only valid that advocate the omission of such traps. It is a fact that such traps arrest the flow of the waste liquids along the pipes, and therefore destroy in a measure their scouring properties, besides reducing the efficiency of carriage of the said liquids.
+
+They also end to complicate the system by rendering it necessary to introduce a fresh atinlet pipe, on the house side of their water seals, in order in provide for :ventilation.
+
+At the be it his additional pipe, when brought a few feet above the ground, certainly does not add to the artistic effect of a building, and may sometimes prove dangerous to children who may be playing in its vicinity. For since we have the pressure of this obstructing trap on the one side, and sometimes a descending column of water in the soil on the other, any gases thus confined between the two, can only escape by this so called "freshair inlet pipe."
+
+Besides, I feel fully convinced that the best and most uniform ventilation for our lines of pipes and drains can only be secured when we open one end into the larger street sewer beneath the ground, and the other towards the starry firmament above the roof.
+
+That every part of the plumbing be visible, whenever possible, and conveniently situated as against accidents and repairs.
+
+It is not long since you could not find a single fixture in even the most costly of dwellings, that was not tightly cased in wood. This was particularly so with the water closet. Sanitarians pointed out the dangers to health arising from such a practice, and to-day one can judge of the general
+
+
+
+* Lecture delivered before the <assoc>Engineering Society of the School of Practical Science, Toronto</assoc>,
+
+improved tone of public opinion on the matter, by just simply looking though any of the numerous descriptive catalogues issued by manufacturers of plumbing fixtures, etc.' who, of course, study the demands of the market,
+
+The public taste is certainly tending in the right direction, when marble topped wash basins, supported merely by open brackets or brass legs, and water closets free from all woodwork save for an oak or mahogany tub, are being introduced into the better class of dwellings.
+
+Still we find that certain parts of our system, just as important to the efficient working of the whole, but because of less pretentious appearance than the wash basin and water closets, often seen to have been sadly neglected in the apportionment of the plumbing expenditures. I refer to the all important kitchen sink, and servants' hopper.
+
+One often finds that while care and judgment are manifest in the selection and arrangements of the other fixtures of a house, any cheap concern has been accepted to pass for the kitchen sink. But as if instigated by some secret feeling of doubt as to the justifiableness of such a course, and as if ashamed of the uncanny result, we find that the owner, or architect, has had it securely encased in carpentry.
+
+Not only are the waste pipes, traps, and joints thus off from view where they most require watching, hut as the dark foul space underneath the sink is invariably utilized for the storage of cooking utensils, mops, rags, old shoes, coal oil cans, scrubbing brushes, boot blackening, grease, and other matter certainly never calculated to aid sanitary conditions.
+
+The same might be said of the servants' hopper, which should be free from all wood work.
+
+It should be placed where a quantity of light and ventilation can be had at all times, and not carefully and gingerly confined to a little cubby hole somewhere beneath the staircase, or in a dark unventilated closet, where it works mysteriously in a mysterious darkness.
+
+A word with regard to the soil pipe in the basement. The best practice of the day is justly tending to do away with the burying of the soil pipe within the house, and underneath the concrete or wooden flooring of the cellar. That this was a pernicious habit it is needless to explain.
+
+Should an obstruction of any kind take place within the house, it might necessitate the tearing up of yards and yards of flooring. And then again, a line of pipes so placed could not be tested and examined as effectually as if raised clear of the floor, and open to view, leaks and other imperfections announcing their presence, and being detected much more readily, in the latter case.
+
+That all parts be of sound material, free from flaws, blemishes, or other defects and of/lie kind of material best suited for their special purpose.
+
+In the last few years wrought iron has been introduced in the plumbing of buildings, under what is known as the "Durham system of house drainage.
+
+T he great advantages claimed by <person>Mr. Durham</person>, a civil engineer, for his system ate that "wrought iron pipes are elastic and cannot be broken, and that when lengths are screwed together in a wrought iron coupling, the joint is as strong as any other part of the pipe furthermore, they will stand up vertically from a solid base to the height of any building without lateral support, and being much lighter are more easy to handle.
+
+Mr. Durham goes on to say -
+
+By the use of wrought iron pipes and screw-join s we construct a drainage apparatus within the building, which is gas and water tight as regards the joints; rigid, yet elastic entirely independent of walls or floors for support, and absolutely invulnerable. As a structure it will last as long as any building will stand, and without any delay for repairs " The thorough reliability of screw joints and the uniformity of thickness and strength which can only be secured by the use of wrought iron soil pipes, seem to be the chief points in favour of this system.
+
+Cast iron pipes, when of sufficient thickness, make good soil pipes. This is easily determined by their weight. and the only quality, known on the market as "extra heavy," can be safely recommended.
+
+Even this class of pipe sometimes displays a marked unevenness of thickness on he opposite sides of a cross section, and therefore being in its weakest part no better than light pipe.
+
+The bells on the "extra heavy" have sufficient strength to staid the caulking necessary to insure a trustworthy joint, which is not the case with the lighter class of pipes.
+
+Lead is of course unfit for soil pipes, and should not be used even for waste pipes when a diameter of over two inches is required. For smaller waste and vent pipes, lead can be used to great advantage, for it bends, cuts, and manipulates easily.
+
+The thickness of any lead pipe, or in other words the weight per running foot, should always be determined with reference to the work it is intended to perform.
+
+Cast lead traps are objectionable, drawn lead being preferable for that purpose.
+
+Traps and pipes made by hand of sheet lead are of course out of date. Brass is also used in ferrules and in the best forms of traps. It is also used, either polished or nickle plated, for those portions of the plumbing system that lie exposed in connection with the better class of fixtures,
+
+Cast brass traps, are among the very best and most efficient, and to my mind a great improvement on lead traps.
+
+Glass, when used as a position of a trap, is objectionable, as it is so liable to break by a number of causes.
+
+With regard to the fixtures of this system, I ought say that the water closet should be of earthenware or porcelain ware, in one piece. and connected to the so I pipe by the brass flange method. Any of the washout closets are good, though the more recent siphon closets, as for instance the Sanitas, and also such improved hopper closets as the "Tient wash down," are considerably better. For the respective advantages of these I must refer you to works on the subject. Baths and basins should be of porcelain ware. When a bath of this kind should be found too expensive, a "porcelain-lined iron bath" of the Imperial class will answer well; and hoppers and kitchen sinks should be preferably of English brown ware, or Yorkshire ware. Porcelain-lined wash tubs are good, though they do not last like the porcelain ones.
+
+That the whole system be put tightly together in the best approved manner, and possessing uniformity in strength and durability.
+
+This comprises a very wide and important field, for, not only must the mechanical part, i. e ,the cutting. bending, fitting, wiping, soldering, caulking, etc. (which go to make the Art as distinct from the Science of plumbing), come under consideration singly; but the whole work must be previously thought out, with a view to uniformity of strength and durability of the entire system. While the most approved practical methods may be understood by the scientist, it takes the practical workman to carry them out in part or in whole, and for this fact a good mechanic is indispensable. For the tightness and safety, then, of our system, we have to depend on the mechanical ability of the men we employ. No matter how scientific and commendable our plans, if the workmanship prove below the mark, miserable or defective, we must expect to meet with disappointment or failure, I therefore fail to see the force of the arguments seemingly based on the
+

@@ -1,0 +1,124 @@
+	<doctype type="text;plate">116	THE CANADIAN	ARCHITECT AND	BUILDER	October, 1889
+
+
+
+WAREHOUSES, MANUFACTORIES, BREWERIES, ETC.
+
+Height	Length up to ft.	Length up to 75 ft.		Length unlimited.
+
+up to 
+
+100 ft.	Base 26 in. thick.	Base 30 in. thick.		Base 34 in. thick.
+
+
+
+Height Length up to 6o ft. Length up to 70 ft. Length unlimited. up to
+
+	90 ft.	Base 26 in. thick.	Base 30 in. thick.	Base 34 in. thick.
+
+
+
+Height Length up to 45 ft. Length up to 6o ft. Length unlimited. UI) to
+
+	80 ft.	Base 21 1/2 in. thick.	Base 26 in. thick.	Base 30 in. thick.
+
+
+
+Height Length up to 30 ft. Length up to 45 ft. Length unlimited. up to
+
+70 ft. Base 17 1/2 in. thick. Base 21 1/2 in thick. Base 26 in. thick.
+
+
+
+Height Length up to 35 ft. Length up to 50 ft. Length unlimited. up to
+
+60 ft. Base 17 1/2 in. thick. Base 21 1/2 in. thick. Base 26 in. thick.
+
+
+
+height Length up to 40 ft. Length up to 70 fi, Length unlimited. up to
+
+50 ft. Base 17 1/2 in. thick. Base 21 1/2 in. thick. Base 26 in. thick.
+
+
+
+Height Length up to 30 ft. Length up to 6o ft. Length unlimited. up to
+
+	40 ft.	Base 13 in. thick.	Base 17 1/2 in. thick.	Base 22 1/2 in. thick.
+
+Height	Length up to 45 ft.	Length unlimited.
+
+tip to
+
+30 ft.	Base 13 in. thick.	Base 17 1/2 in. thick.
+
+Height		Length unlimited.
+
+up to
+
+25 ft.		Base 13 in. thick.
+
+
+
+The thickness of the top of walls of this class and for sixteen feet below the top to he 13 inches, except when the wall is not more than 30 feet high. when it may be 8 1/2 inches. Below this 16 ft. point from the top, the walls to be built solid, of the thickness of the base.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CROSSWALLS
+
+The thickness of a crosswall shall be two-thirds of the thickness described for the class of buildings to which it belongs, but never lest than 8 1/2 inches, and no wall subdividing any building shall be deemed to be a crosswall, unless it is carried up two-thirds the height of the outside walls, and unless the openings and recesses in it do not exceed one-half the vertical surface of the wall in each story.
+
+
+
+<article title="Personals" author="">PERSONALS.
+
+We regret to learn that Mr. <person>T. J. Heard</person>, marble dealer, London, Ont., has been forced to make an assignment It is said that this step was brought about by taking a contract at too low a figure in connection with the new public buildings at Goderich.
+
+Mr. <person>Thomas Hooper</person>, architect, of Vancouver, B. C., is at present on a visit to the east, for the purpose of examining the best models of church architecture. The knowledge thus gained he proposes to utilize in preparing the plans for a new <building>Methodist Church, Victoria</building>.
+
+
+
+The following is said to be a good recipe for plastering on the outside of a brick wall. Take of slaked lime 6o parts sand, 35 parts litharge, 3 parts knead and work the ingredients into a stiff mass with 7 to to parts of linseed oil use old oil or linseed oil varnish. It should be well worked to the consistency required and applied as other mortars well troweled down. Or, sand, 90 parts litharge, 5 parts plaster of paris, 5 parts, moistened and worked together with a small portion of linseed oil. Oil the brick three coats before applying the cement, and trowel down.
+
+The heavy fall rains bring the annual complaint of leaky brick walls and consequently the usual quota of ruined ceilings and plastering. The preservative for brickwork made by Samuel Cabot, of Boston, thoroughly waterproofs the brick for an indefinite time, and yet it does not change their appearance. Actual trial shows that one coat of this material is a better waterproofing than three coats of linseed oil. Besides this, linseed oil is injured by the lime of the mortar, at-id rendered useless by the weather, to neither of which objections is Cabots brick preservative open. It is cheap, lasts indefinitely, waterproofs bricks without changing their appearance, and is easily applied with a brush.
+
+<article title="Disposal of Sewage by Electrolysis" author="">DISPOSAL OF SEWAGE BY ELECTROLYSIS.
+
+A
+
+T a meeting of the <assoc>Ontario Provincial Board of Health </assoc>held in Toronto on the 3rd inst., <person>Dr. Covernton </person>read a paper on the above subject, in which the following description was given of the modus operandi adopted by Mr. <person>W. Webster </person>F. C. S., who is engaged in extensive experiments at Crossness,' England The dynamo is an Edison-Hopkinson capable of developing
+
+an energy of 43 horse power. From the dynamo the leads run through resistance frames by means of which the amount of current can be regulated without varying the speed of the engine. These are then connected with the iron electrodes in both the precipitancy tanks and shoot. The precipitancy tanks are used for taking experimental measurements, so as to discover the best mode of arranging the electrodes hereinafter called plates made of cast iron run direct from blast furnaces. The shoot is fitted with wrought iron plates, more convenient for experimental work. They are thinner and weigh less than if made front cast iron. The shoot is of wood, but in any permanent work it would be built of concrete, bricks or iron. The bottom would be lined with asphalt, or other suitable material. The sewage is discharged into the shoot front the pump connected with the main sewer. The shoot is fitted with plates. In travelling along the shoot every particle of sewage comes in contact with the plates, and finally the whole is received into one or other of the settling tanks. The plates in this shoot are divided into twelve sections. All the plates in each section are connected in parallel, and the sections can be connected either in parallel or in series, as may be most convenient. I find it best to run them arranged in six sections as series, as owing to the low tension of the dynamo it is convenient to split them up into a greater number. The dynamo should be near the center of the shoot, and practice has proved that it must be so constructed that as many sets of plates as possible may be arranged in series, but the space at my command in these works does not admit of the most effective arrangement being adopted. My experiments proved that with 27 h. p. it is possible to treat 1,000,000 gallons of sewage in 24 hours. These figures relate to average London sewage. As to the cost of engine power, the newest type of engines suitable for driving dynamos may be taken ho consume two pounds of coal per h. p. per hour. The experiments carried out with reference to the amount of iron consumed by this process tend to prove that the consumption in continuous working should not be more than two grains per gallon. Here, again, the cost depends entirely upon the position of the works, or, more properly speaking, the district in which the works are situated. The plates of pig iron are one inch thick, and, if used in sufficient numbers, would last for many years when once fixed. For instance I will take a town with a flow of 10,000,000 gallons of sewage per day, corresponding to a population of 300,000 at 30 gallons per head. To treat this amount of sewage, the consumption of iron should not exceed 464 tons per annum. On calculating the amount of mechanical power required per head of the population, I find it represents eight horse power per 1,000. It will be seen that the above plant is practically in lieu of mixing tanks, machinery and chemicals employed in the chemical processes for the treatment of sewage. If such electrical plant is designed to meet the peculiar requirements in any particular district, it must, in my opinion, cost less and have a greater efficiency than any other process known, for not only does the electrical method precipitate the matters in suspension, but it also removes organic matter in solution and forms a precipitancy and disinfecting process in one operation The cause of any successful precipitation of suspended matter in sewage is entirely due to the formation of flocculent particles by means of chemical action. In the ordinary processes used this is obtained by the introduction of chemicals in a liquid form, and a large amount per gallon of sewage must be used to produce the necessary flocculency.
+

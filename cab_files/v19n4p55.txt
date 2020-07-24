@@ -1,0 +1,136 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	55
+
+
+
+pressure, even though it be available, for at too high a velocity through the ducts a rush of air is distinctly audible, and air entering and leaving rooms at a hi
+
+velocity will be certain to produce uncomfortable drafts. Some device for cleaning the air supplied is also necessary, for no matter where the inlet is placed there is bound to be mixed with the entering air some dust and soot.
+
+We should then aim to keep a constant temperature at a constant humidity, and to supply pure screened air in positive quantities without creating perceptible drafts.
+
+The equipment at St. Paul's Hospital consists of a motor-driven fan; tempering coils and heating coils, with their supply and return pipes ; ducts for distribution of air, with deflectors for adjustment and dampers for control thermostats for control of temperatures, and a combined air washer and humidifier for cleaning and moistening the air. The fan is a three-quarter housing steel plate, centrifugal with double discharge. It is driven by a direct-current motor by means of a chain drive. At full speed it delivers 45,000 cubic feet of air per minute, and by means of a rheostat in the field circuit of the motor two lower running speeds may be used. The coils are of the mitre type, which are usually employed for hot water, as the resistance to circulation is very low, and in this case they are used with low pressure steam for the same reason. Tempering coils are placed between the inlet and sprays to bring the air at least above freezing point. A temperature of 50 to 55 degrees is found necessary in the spray chamber, because the temperature in this chamber affects the humidity, and because some air by-passes the heating stack on the discharge side of the fan, and therefore goes to the rooms without a further increase of temperature. The distributing ducts beginning beyond each heating stack carry separately hot air, which passes through the heating coils, and tempered air, which goes above them. These ducts are kept separate until the mixing damper is reached, of which a detail is shown in Plate 1. In each duct there is a balanced damper, and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the two are joined together by a link, so that when one is open the other is shut, and vice versa. Thus a constant volume of air is supplied at a temperature varying in such a way as to balance the heat losses from the building. In most rooms the dampers are controlled by thermostats, to give a constant temperature, but in some they are arranged for hand regulation.
+
+The air washer and humidifier is shown in detail in Figure 1. It consists of a number of spray nozzles in a plane at right angles to the course of the air, and a box of baffle plates, which remove the dust and water carried mechanically. The sprays are shown clearly in the drawing, and require no further description, but there are several novel features in the "dry box" which need explanation. In the fan room of the hospital space is very valuable for every foot is below the ground level, and excavation is expensive. If the cross-section of the dry box is to be reduced we must figure on a higher velocity of air in order to handle the same quantity. In this case a velocity of about 350 feet per minute is used, and the loss in friction is so small as to he almost negligible. Considering that each plate is but two inches long, and the total thickness of the box 12 inches, it seems impossible that the moisture can be completely removed. A piece of dry paper placed behind the box at any point will show no trace of drops of water, however, nor is there any perceptible moisture on the last bend of the plates. The first bends are purposely left without projection to allow a film of water to form, and it is this film which collects most of the moisture and all dust or soot. The first projection prevents most of the film from being carried through, and the remaining projections remove thoroughly whatever water may remain. While we may depend upon the film to remove all water carried mechanically, the moisture carried by absorption is, on the contrary, increased to an amount dependent chiefly on the velocity of air through the plates. At any given running speed of the fan this velocity is constant, and the
+
+relative humidity of air leaving the baffle plates at full speed remains nearly constant at 8o per cent., independent of the relative humidity of the entering air. If the temperature of the spray chamber is kept at 55 degrees, each cubic foot will carry 8o per cent, of 4.85 grains, or 3.88 grains of water, which will give a constant humidity of a little more than 55 per cent. when the air is warmed to 65 degrees. The temperature in the spray chamber is kept constant by a thermostat, which operates a by-pass damper below the tempering coils, admitting enough cold air to reduce the temperature as required. The air in the tempered air ducts will remain at 8o per cent. humidity, and the air in the hot air ducts will enter the room at a low relative humidity, but in either ducts 3.88 grains are carried by each cubic foot of air, which corresponds at 65 degrees to a humidity of 55 per cent., and if the rooms are kept at this temperature the humidity will be practically constant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Both hot and tempered air ducts are made of galvanized iron of the following gauges —All pipes of less than 5 feet circumference, of No. 26
+
+gauge ; 5 to 8 feet circumference, of No. 24 gauge 8 to
+
+10 1-2 feet circumference, of No. 22 gauge 10 1-2 to
+
+13 1-4 feet circumference, of No. 20 gauge ; 13 1-4 to 19
+
+feet circumference, of No. i8 gauge ; above 19 feet circumference, of No. 16 gauge.
+
+The cross-section at any point of the air ducts is designed to give a constant friction per foot of length, and each branch is designed to receive its proportionate supply, though the amount of air it receives will depend largely upon the angle at which it leaves the main duct, and at this point a deflector is installed to permit careful adjustment when taking anemometer test.
+
+'There are four separate buildings to be heated, and the ducts run through tunnels to three of them. hot and tempered air are carried in separate ducts from the coils and by-pass until close to the opening into each room, where mixing dampers are located as shown in the plate. As soon as possible after passing the dampers a gradual increase of 50 per cent. in the area of the duct is made, which makes the velocity of air entering so low that there is no perceptible draft. No register faces are used, hut the iron of the duct is flanged back against the wall and covered with a plain wood border. This arrangement gives a neat appearance, and by doing away with regis-flow of air.
+
+The vent flues all have dampers, which are, in most cases, kept partly closed to ensure a slight plenum in the rooms. All vent flues lead to the attic, in which there are two ventilating towers with moveable louvres. The louvres are made of a waterproof silk, with a rod at top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and bottom to keep its shape. The top rod is stationary in a frame, and the bottom rod is light enough to allow air to escape, but heavy enough to a back in place if there is a tendency for air to enter.
+
+It is noticeable that in such a ventilating system there are many adjustments to be made, but most of these are made when testing, and are then left permanently in a fixed position. After all deflectors are set no change can be made in the amount of air supplied except by varying the speed of the fan, and this can only be done from the switch-board. Thermostatic dampers in most rooms keep the temperature variation within one degree. Another set of thermostats placed in the fresh air inlet are adjusted to close off one coil of the heating stacks at 10 degrees above zero, a second at 20 degrees, and a third at 30 degrees. Similarly, one section of the tempering coils closes at 6o degrees. The temperature regulation is thus taken care of, and since, as already explained, the humidity is controlled automatically, the only attendance that is required is the occasional cleaning and oiling of motor, fan, and pumps.
+

@@ -1,0 +1,56 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<building>TOWERS IN THE GROUNDS OF MONTREAL COLLEGE, SHERBROOKE STREET</building>, PROBABLY THE OLDEST STRUCTURES IN
+
+MONTREAL, DATING BACK SOME 250 YEARS.
+
+
+
+
+
+<article title="Methods of Construction in Relation to Insurance" author="Laidlaw, John B.">METHODS OF CONSTRUCTION IN RELATION TO INSURANCE.*
+
+By <person>JOHN B. LAIDLAW</person>.
+
+
+
+The construction of buildings has ever been, and doubtless will ever be, a very important matter to the companies insuring property against loss by fire, and it affords me much pleasure to spend a few moments with the Architects' Association in discussing the standard of building construction adopted by the C.F.U.A. It is possible that in the past there has not been sufficient co-operation between those who supervise the construction of buildings and those who fix the insurance rate based upon the details of such construction, but whatever may have been the policy of the underwriters in the past, there is no question that to-day they stand ready to welcome any improvement in building construction and to assist that movement by means of discriminating rates as between buildings constructed according to their standard, and those in disregard of them.
+
+The Underwriters have always recognized some of the essential features of good construction, such as that the walls of the building should be of brick or stone; that roofs should be of incombustible material—but they have only to a limited extent given attention to the interior construction, except as regards buildings to be used as manufactories. For the latter there has been for years a fairly strict standard, which while not requiring a building to be of what is now called mill construction, demanded strong bearing walls ; limited the height and the area of the building; imposed serious extras in rate if there was a mansard roof; also required elevators to be in brick shafts outside a building, or be properly trapped at each floor; required stairways to be enclosed and have self-closing doors at each floor ; also called for double floors and of sufficient thickness to carry the machinery in the building.
+
+In accordance with this standard there was to be no inside sheathing of walls. The ceilings and joists were to be left open, and, speaking generally, an effort was made to avoid any concealed spaces in which dirt could accumulate, and fire not only originate, but be difficult to locate and extinguish.
+
+The standard required the heating and the lighting to be as non-hazardous as possible ; also the boilers for generating steam were to be in an outside separate building.
+
+These were the general requirements, in addition to which there were other special requirements for each individual class of manufactory, such as requiring dry rooms in laundries to be of safe construction ; shaving vaults and dry kilns in connection with woodworking
+
+
+
+*	Paper read before the Toronto Chapter of the <assoc>Ontario Association of Architects</assoc>.
+
+risks to be outside the building; painting and varnishing and upholstering in furniture factories to be in a separate section, and so on throughout the different classes of manufacturing risks.
+
+These requirements have had a marked effect during the last few years in alterations made to old factories and in the erection of new buildings. It is now intended to adopt a stricter standard for manufacturing risks in accordance with the most up to date requirements of what is called mill construction, the main difference between the new and the old being that under the new the floors are to be without joists and made of solid planking laid on edge, resting on wooden beams supported on strong wooden posts, with 10 foot bays as a standard; this solid plank floor to be covered by a wearing floor of at least one inch in thickness. Such a floor interposes several inches of solid timber between the stories of a factory and leaves on the under side an almost absolutely smooth surface in which, or upon which a fire has difficulty to secure a lodgment. If these floors are left absolutely intact, a fire can, with comparative ease, be confined to the floor in which it originates, and such is the purpose of mill construction, but it is well to bear in mind that everything depends upon that "if"—if the floors are left absolutely intact. I have in mind a factory not 50 miles from Toronto of such construction, where the floor was cut to bring up a stairway. They might just about as well have saved their money and put in an ordinary floor for all the benefit gained.
+
+Tonight however, it is proposed to ask your attention to the possibly more difficult subject of the construction of buildings intended for ordinary mercantile purposes in cities and towns.
+
+When building a factory the first consideration is the business or purpose to which it is to be put. There is usually plenty of ground. The factory can be of any size, or height, or shape that the business requires, and the question of external appearance is but a minor one; when however one comes to consider the construction of a building for mercantile purposes in the heart OF a city, say on King, or Yonge, or Queen streets in the centre of Toronto, there are a number of matters which cannot be overlooked, and it is well if any safeguards whatever against fire are introduced. The shape of the lot, the question of light, the business to be carried on, the question of access to the upper floors, must all be considered, and frequently the architect is forced to design a sort of general utility building when the tenant may not have been secured before the work commenced. These conditions have been recognized by the insurance companies and a standard has not been imposed which is too hard, but if anything rather lenient. It does not in any sense call for a fire-proof building, but rather for a well constructed building of joist construction with lath and plaster finish. In such however, there are many hazardous features which the architect can prevent being introduced, which it placed in the building will either induce a fire, or assist to spread it, and so must be charged for by the insurance companies. The standard reads as follows
+
+
+
+<firm>CANADIAN FIRE UNDERWRITERS' ASSOCIATION</firm>.
+
+
+
+MERCANTILE SCHEDULES.
+
+
+
+BUILDING STANDARD.
+
+
+
+A standard building is one having walls of brick or stone (brick preferred), not less than twelve inches thick at top storey (16 inches of stone), extending through and 36 inches above roof in parapet and coped, and increasing four inches in thickness for each storey below to the ground—the increased thickness of each storey to be utilized for beam ledges. Ground floor area not over 2,500 square feet (say 25 by 100) ; height not over three stories, or 40 feet; floors of 2 inch plank, (three inches better) covered by or one-inch flooring, crossing diagonally, with waterproof paper or approved fire resisting material between (if tin or sheet iron between, see deductions) ; wooden beams, girders, and wooden storey posts or pillars twelve inches thick, or protected
+

@@ -1,0 +1,25 @@
+<doctype type="text;plate">In the electric diagram underneath, the high friction cross tubes are replaced by incandescent lamps, and the water motors by electric motors
+
+The potential diagram shows that the pressure in the maids cannot be quite constant, since there must be some fall of potential in the main conductors, and the amount of this fall is less when there are fewer lamps burning, i.e., when the total current is less. The potential gradient is
+
+
+
+greatest near the dynamo where the conductor has to carry the total current, but the grade gets flatter and flatter as the current diminishes, by the amperes subtracted at each cross path These potential gradients are repeated in the reverse order in the return wire
+
+The form of gradient drawn is that for a conductor of uniform size But if the conductor is reduced at each cross path so that its area always bears the same proportion to the amperes carried, the potential gradient would be the same throughout, and a continuation of the first grade starting from the dynamo, as is indicated by dotted lines
+
+When lamps are connected side by side, so that each takes its own separate current the lamps are said to be connected in parallel, or in multiple.
+
+There remains the alternating current system shown by Diagram 3. The pump in Diagrams and 2 produces a flow always n the same direction representing a direct current of electricity. In Diagram 3 the pump is replaced by a movable piston in the main pipe, which being escalated from
+
+one side to the other, produces a pressure first in one pipe and then in the other, with an accompanying back and forth flow which will vary in amount according to the number of cross paths open This represents the primary circuit, to which the lamps are not connected The object of an alternating system is to save in the cost of main Conductors by transmitting power with a small current at a very high pressure. But for convenient and safe use, this power must be transformed into a larger current at a lower pressure, in a secondary circuit to which the lamps are connected. It is the peculiarity of the alternating system, that this can be done with very little loss and without any moving mechanism. The actual means by which this is effected In the 'transformers or 'converters," are beyond the scope of this paper, but a simple mechanical contrivance in the hydraulic system will give us analogous results. A sliding piston in the small primary cross pipe and another piston in the large secondary pipe are connected by a bar pivoted in the middle, so that the two pistons oscillate together and move equal distances. If the area of the secondary piston is, say 10 times that of the primary, a secondary pressure 1-10 that of the primary will balance the contrivance, whilst a secondary flow of 10 times the primary is produced by any oscillation.
+
+The electric diagram shows the alternator and primary circuit, feeding two separate secondary circuits through two transformers.
+
+The potential diagram for both primary and secondary is similar to diagram 2
+
+I may say parenthetically that the hydraulic analogy goes still further. The effects of the inertia of water represent excellently those of the electric quantity self-induction, whilst, if the pipes are made elastic the results would be very similar to those due to electric capacity But as inductance and capacity are inappreciable in such work as an architect will ordinarily have to deal with, I have not considered them in this paper.
+
+In wiring for incandescent lamps the object is to maintain as nearly as possible a constant difference of potential between the terminals of the lamps. But when, at different times, there are at different points on the same line, different numbers of lamps burning, it is impossible that the volts at all points should be always the same. And the question is, what variation  is permissible
+
+An incandescent lamp is simply a carbon wire of high resistance, which the current passing through it heats to incandescence. but the resistance of the carbon decreases as the temperature increases.

@@ -1,0 +1,72 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	155
+
+
+
+with by-passes and dampers arranged so that the economizer can be cut out of the smoke circuit at any time and the smoke turned directly from the boilers and through the induced draught fans to the stack. The induced draught fan engines and the stoker engine are controlled separately by two Foster automatic steam pressure regulating valves, so that when the steam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 5.—INTERIOR VIEW OF MOUNTING SHOP, SHOWING ERECTING DEPARTMENT AND "Hot BLAST" Heating CONDUIT.
+
+
+
+
+
+pressure falls below a given point more steam is admitted to the engines, and their speed is increased with a corresponding increase in the draught, with a reversal of this operation when the steam pressure goes above the pre-determined point for which the valves have been set
+
+The water used for condensing is drawn directly from the Thames River and is allowed to run to waste, as in view of the adoption of other methods of utilizing the waste heat the advantages of having a hot well are so small that its use is not warranted. Owing to the poor quality of the Thames River water for boiler feeding, the feed water supply is obtained from a creek across the river, this creek furnishing practically pure water. A special conduit was
+
+	the city water mains to	provide a
+
+reserve for use in the event of repairs being required for the regular
+
+	feed-water supply system.	 The
+
+Feed water is forced by the pumps, through the heaters, thence directly to the Green Fuel economizer, thence into the boilers. By-passes are provided in the feed water line so that any heater and the economizer can be cut out of service when required. A feed water thermometer is provided at the outlet of each heater, also at the outlet of the economizer and on the main feed water line between the heaters and the economizer., thus enabling the attendant to determine instantly and accurately the value of the work each individual heater is doing, as well as the net results of the combined operation of the feed water heating system.
+
+The engine exhaust is arranged as follows The 75 h. p. engine and 50 k. w. dynamo unit is used only when a melting-heat is in progress and when required for lighting the works. The exhaust from this engine
+
+is connected directly to its condenser, but a branch and valves are provided so that the condenser can be cut out of service and the exhaust turned directly into the works heating system. An automatic relief valve to the atmosphere is provided between the engine and the condenser, this valve being adjustable to give any desired back-pressure within ample limits when the steam is being supplied to the factory heating system. The exhaust from the 185 h. p. tandem compound engine can be turned directly into its condenser, or directly into the factory heating system, or to the atmosphere, as may be required. A branch is provided to the 200 h. p. feed water heater, which latter can be run under a vacuum or at atmospheric pressure or cut in or out of service, as may be required.
+
+The exhaust steam for the induced draught fan engine, the mechanical stoker engine, the condensers, and the boiler feed pumps, is run into a common exhaust pipe leading into the 8o h. p. heater, on the outlet of which is placed a vent pipe to the atmosphere, with an adjustable back-pressure valve on it. The exhaust steam from the auxiliaries is not condensed since it is utilized to better advantage in heating the feed water passing through the 8o h. p. heater. The temperature of the feed water from the small heater with the plant running under normal conditions averages 210 deg. Fah., and the temperature of the feed water passing through the 200 h. p. heater while the large engine is running condensing averages 110 deg. Fah. When the large engine is running non-condensing the temperature of the feed water averages 210 deg. Fah. It will be apparent from the above description that the auxiliary plant as designed affords full facilities for operating the power plant under the most economical conditions during the winter and summer season, in
+
+FIG. 6.—VIEW OF PORTION OF Boiler ROOM, SHOWING 100 H.P. INTERNAL FURNACE BOILERS WITH UNDERFEED STOKERS AND PORTION OF STEAM PIPING.
+
+
+
+
+
+addition to Permitting advantage to be taken of the exhaust steam for heating the shops in winter, and of condensing in summer.
+
+The switchboard equipment consists of two generator panels and a feeder panel, of blue Vermont marble, 65"x24"x2", with sub-panels 25 ½"X24"X2", each generator panel being equipped with an I-T-E " Dublarm" automatic double-pole 250-VOLT circuit breaker, con-
+

@@ -1,0 +1,64 @@
+<doctype type="text">
+
+How to Describe an Arc where the Centre is Inaccessible.
+
+generally used for this purpose soon shrink and become loose or rot away in a few years. In putting in
+
+"stepped flashing " there is really no necessity for cutting in a raggle," or even raking out the mortar from the joints, if the flashings are built in the wall as the work progresses ; but if the brickwork is all up before the flashing is done, then it will be necessary to rake out the mortar joints, insert the flashings in the joints one above another, lapping over each other like a flight of steps. This is a good way to insert the flashing, but not as permanent or as effective as building in the wall. The vertical joints lapping over each other will be apt to belly out some, and that will admit of wind and rain getting in between the flashings, and this defect should be remedied by being filled in with some sort of elastic cement or stopping made of " paint skins" and fine sand. When zinc is used for flashings of this kind, the metal should not be less than No. 13, sixteen ounce zinc. Tin and galvanized iron are both used for flashings, both in valleys and about chimneys and towers, and answers fairly well, but in a first class building it is always better to employ copper, lead or zinc. The question of flashing is a very important one, as the life of a roof often depends much on the efficiency of this work and the quality of the materials employed in the operation.
+
+
+
+It frequently happens that a segment of a circle has to be described, where the diameter is so great that the centre
+
+of the circle of which the segment forms a part, cannot be reached ; and it it could, it would be impossible to make use of it in describing the curve required. In order to meet a condition of this sort, the following method, which has been found adequate for the purpose, is submitted Suppose, for example, A B, Fig 1, to be the span or chord of the segment, and 0 0 the rise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+METHOD OF DESCRIBING A LARGE SEGMENT FOR CENTRES OR SIMILAR WORK.
+
+
+
+
+
+Prepare a piece of stuff as shown at Fig. 2, and describe on it a semi-circle with the radius 0 0, of Fig. 1., which is the rise of the arc. Set off from each side of 0 0, on Fig. 2, any number of equal parts, say four and in like manner set off four equal parts on each side of 0, on the chord or base line of Fig. 2 ; join the parts on base and circle lines as shown on at 11, 2 2, 3 3, on Fig. 2. These lines are extended to the upper edge of board. Now come to the chord A B, and set off on right and left of 0, four equal parts, bring upper edge of board Fig. 2 against the chord A B ; make line 1, through semi-circle, come opposite point 1, on chord A B, as shown ; extend the line by a straight edge and make distance 1, 1, on Fig. 1, equal to the distance 1, 1, on Fig. 2. Now move the board until the line 2, 2, on Fig. 2, IS opposite to 2, on the chord line of Fig. 1, then draw line 2, 2, on Fig. 2, in the
+
+same direction through the chord, and make 2, 2, in Fig. 1, the same length as 2, 2, in Fig. 2. Slide the board along in like manner to 3 on the chord line and mark line on the same angle as line on 3, 3, Fig. 2 and make the line 3, 3, on Fig. 1, the same length as the line 3, 3, on Fig. 2. 0 O in both figures will be at right angles with the chord line A B, and the distances will be equal. The points 1, 2, 3, o, etc., will be the points through which the curve of the segment will pass. Nails may be driven in the points found, and used as guides against which a thin strip of wood or metal may be bent in order to get the correct curve. The more divisions there are made in the semi-circle, the more nearly true will be the segment. The method IS simple and perfectly reliable for either large or small curves. The principle is based on a very interesting problem in geometry.
+
+<article title=" ENAMEL-LIKE BLACK COATING FOR METALS." author="">
+
+ENAMEL-LIKE BLACK COATING FOR
+
+METALS.
+
+It has been frequently tried to provide metals, especially steel and iron, with lacquered, bright coatings, but most attempts have been unsuccessful, since the lacquer covering did not possess the necessary elasticity and cracked off, says a Continental exchange. L. Sena now publishes a very simple and inexpensive process to provide metals, especially iron, with such a coating, which will neither peel off nor smell or stick in lacquering, but which can be applied so evenly, since no brush is used, that it may be styled enamel-like.
+
+To produce the coating proceed as follows: Cover the bottom of a cylindrical pot with coal dust ; 3 centimeters higher lay in a grate and now fill up the remaining space of the pot with the articles which are to be given the coating. Next close up the pot with a fitting cover and place it on a high fire below a well drawing flue. At first only the moisture contained in the coal evaporates, but soon charring commences, and light
+
+brown fumes escape, which excite to coughing. After the bottom of the vessel has been subjected to an incipient red-heat for one-quarter of an hour, whereby the enclosed articles are at the same time exposed to a rather high temperature, the carbonization is finished. The pot is now removed from the fire, and after about ten minutes the lid is taken off to let the fumes escape from the objects. The latter are now all covered with a
+
+bright black coating of high elasticity and great uniformity. The simplicity of the process and the practicability of its application for a large number of cast iron goods promise quite an extensive employment of the method.
+
+
+
+CAST IRON PIPE.—Cast iron was known to Holland in the thirteenth century and stoves were cast at Elass in 1400. But tradition has it, which an ancient Roman writer records, that the temple of the " Great Mother," at Sparta, is said to have been built by Theodorus, who first discovered the art of casting and making statues in iron. As with the metal itself, so its discovery in the form of cast iron was an accident which occurred at one of the early works in the Rhine provinces, where a part of the "running" one day was found to be of different texture, and it was a problem for some time what to do with the strange stuff.
+

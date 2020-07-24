@@ -1,0 +1,62 @@
+<doctype type="text">
+
+<article title="Two Questions in Connection with Steel Construction in Buildings" author="Burke, Edmund">
+
+TWO QUESTIONS IN CONNECTION WITH
+
+STEEL CONSTRUCTION IN BUILDINGS.*
+
+By EDMUND BURKE 
+
+
+
+HAVING been invited to introduce, by a brief paper, a discussion on steel construction by this convention, 1 have thought it well to confine my remarks to two points which seem at the present time to call for the most care and study, viz., protection from rust and protection from high temperature, caused by fire.
+
+The question of the protection of structural steel as used in buildings from the action of rust is one which has received too little attention in the past.
+
+Gen. Sooy Smith is authority for the statement that rolled steel subject to moisture will be disintegrated by rust to the depth of about one inch in a century.
+
+At this rate the lite of an ordinary high building of steel frame construction exposed to the action of moisture would not exceed thirty years.
+
+Moisture may reach the metal in mysterious and insidious ways, by leaky pipes, bad jointing of masonry or capillary attraction of the material encasing it.
+
+It is claimed that limestone in concrete, applied to iron or steel surfaces will cause deep corrosion wherever the stone comes in contact with the metal. Mr. Buck, the engineer of the Niagara railroad suspension bridge, stated, at a recent meeting of the American Society of Civil Engineers, that in the anchorages of that bridge, the strands of the main cables were embedded in a concrete made with limestone, and wherever the spalls touched the wires the latter were badly eaten and sometimes entirely severed.
+
+There is, of course, a difference in the nature of lime-stones, and some qualities may have a greater corrosive tendency than others. But in any event it shows how important it is that the greatest care should be exercised in the protection from corrosion of the structural metal work of large buildings, especially where the columns are supported on grillage footings embedded in concrete and also where the connections of columns, girders, &c., are protected from the action of heat with a like material. In such places the detection of corrosion is practically impossible.
+
+It has been suggested, as a precaution, that where it is necessary to use limestone it would be advisable to put a layer of pure cement concrete, or an extra thick coating of asphalt around the metal, thus excluding oxygen whether free or in combination with other elements.
+
+It is very important for the permanent exclusion of moisture from contact with the structural steel and iron of a building that it should be thoroughly coated with a reliable paint.
+
+It is well known that there is a great range of quality in paints designed for the protection of metallic surfaces, some being practically useless as a protection from rust.
+
+In a paper read by Mr. Max Toltz, before the Civil Engineers' Society of St. Paul, he reported results of chemical and practical tests of 22 varieties of paints. The tests discovered that some of the paints were entirely worthless as a permanent protection. One of the so called asphaltic paints when analyzed showed no asphaltum at all.
+
+Besides the chemical examination, the paints were subjected to a systematic practical test, to ascertain their real values as anti-rust paints. For that purpose comparative tests, by painting pieces of sheet iron, tinned iron and galvanized iron, wooden boards and shallow sheet iron dishes, were carried on. The iron dishes were about 12 inches in diameter and about 12 inch deep, having a capacity of about half a pint. The scale of skin was carefully removed before painting so as to have a clean surface of iron exposed next to the paint. Two dishes were painted with each kind of paint---one of them receiving one coat, the other two coats, the first coat having dried thoroughly (for at least a week) before the second coat was applied. After the second coat had completely dried and hardened, these dishes were exposed to the so-called waterpaper read at the annual convention of the Ontario Association of Architects,
+
+Jan., 1898.
+
+and-moisture test, in which a given amount of water is placed in the dishes and allowed to evaporate to dryness at the ordinary temperature of the room. This is repeated a number of times, till the inside of the dishes begin to show more or less rust. All dishes were carefully examined before each refilling. After most of the water has evaporated, there remains, at the junction around the edge, a thin film of water, which, in contact with the air and the carbonic and other acids in the air, acts on the paint in such a way that the iron under the paint begins to rust. The rust thus formed develops more and more after each evaporation, in some cases practically covering the whole dish in a short period. In actual practice and service the same thing will happen, the only difference being that the rust will extend under the paint and will not show as plainly as on the dish. This test is a most important and severe one for the purpose of determining in a relatively short time the weather-resisting power of a paint. If the paint is unable to resist this action of the water or moisture under these conditions, it cannot be desirable for iron and steel structures. But other qualities in the paint have to be taken into consideration in connection with this test before a correct opinion as to its merits can be formed.
+
+The dishes painted with true asphalt varnish and with the carbon paint were refilled fourteen times. The dishes painted with one coat showed very little deterioration, while the dishes with two coats showed none at all, the paint being as elastic and tough as when first applied.
+
+The behavior of the cheap and inferior so-called asphalt paints, applied on the surface of the dishes, was quite different. After the fifth exposure, the dishes with one coat showed considerable rust all over. Those with two coats, after the seventh exposure, showed not much better.
+
+Quite a difference was apparent in the test of the iron-oxide paints. On the average, after the fifth exposure, a good many rust spots or specks appeared on the surfaces of the dishes painted with one coat. The dishes with two coats were refilled six times and on them rust could be easily detected with the naked eye.
+
+The graphite paints so far examined acted much the same in comparison with one another.
+
+All the dishes with one coat were exposed 10 times to the water test all these graphite paints began to show a few specks of rust after the fifth evaporation, and the number gradually increased after each successive evaporation. After the tenth exposure some slight difference between them was shown, but not very much. All the dishes given two coats were exposed 13 times, and none of them showed any rust or indication of rust. The natural toughness and elasticity remained in the paint after the treatment.
+
+Other tests with reference to exposure to heat and gases of combustion were made but are not pertinent to our discussion, having reference more especially to railroad work.
+
+With regard to the use of red or white lead Mr. A.
+
+H.	Sabin, an expert chemist, says that the chemical problems involved in the use of paints having white or red lead as pigments, are very obscure. The lead probably combines with the oil to form a soap, the acid of the oil uniting with the lead of the oxide to form a salt.
+
+The addition of lead compounds to oil increases its rate of drying, whether heat be used to combine them or not. He questions whether this lead soap is a better binder than oxidized oil, and deems it to be very improbable that it is so even when red lead is used; white lead, he says, is notoriously converted into a crumbling soap which is washed off.
+
+A New York architect is reported to have solved the difficulty of knowing how many coats of paint the metal work in his buildings has received by specifying the use of two colors—one to be put on before the work leaves the shops, a different color after it has been assembled, and a coat of the original color just before fireproofing is commenced, thus securing a thorough covering of every portion of the work.
+
+Recent fires, both in Europe and America, have
+

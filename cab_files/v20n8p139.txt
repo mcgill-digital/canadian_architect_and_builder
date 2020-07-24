@@ -1,0 +1,42 @@
+<doctype type="text">	CANADIAN ARCHITECT AND BUILDER	139
+
+<article title=" NOTES ON FOUNDATIONS " author="">
+
+NOTES ON FOUNDATIONS
+
+
+
+The base of a steel or cast iron column or a bridge bolster or shoe resting on stone or other masonry should have sufficient area in contact with the stone to prevent crushing. It should be borne in mind that generally such bases do not have an ideal bearing, so that the unit employed should be low, that is, a large factor of safety should be used. The following are good units of safe pressure to allow on various classes of masonry, in pounds per square inch: Brick masonry in lime mortar, 150; brick masonry in cement mortar, 200; ordinary rubble masonry, 200; good bridge masonry, 250; granite, 400.—Condensed from a series of articles by Edward Godfrey in 'Technical Literature.''
+
+The requisites of a good foundation are: (1) The pressures per square foot on the soil must not exceed a certain safe limit. (2) The unit pressure on the entire foundation should be as near uniform as practicable. (3) The pressure should never be negative, that is, there should not be a tendency to lift the foundation which is in excess of its weight at any part. (4) The foundation must be sufficiently deep to have the underlying soil disturbed. (5) The materials must be practically indestructible in their respective places. (6) The integrity of the foundation itself must be assured; that is, it must be capable of resisting the forces upon it.
+
+To provide for the first requisite the safe bearing power of the soil must be known. This is not determined by experiment so much as by experience.
+
+The pressures allowed by the New York Building Code per square foot on various soils are as follows:
+
+Soft clay, one ton; ordinary clay and sand together, in layers, wet and springy, two tons; loam, clay or fine sand, firm and dry, three tons; very firm, coarse sand, stiff gravel or hard clay, four tons. The same building code allows for tests being made to determine the bearing capacity in special cases.
+
+In Baker's Masonry Construction the following are given as the safe bearing powers of soils in tons per square foot: Quicksand, alluvial soils, etc., 0.5 to 1; sand, clean, dry, 2 to 4; sand, compact well cemented, 4 to 6; gravel and coarse sand, well cemented, 8 to 10; clay, soft, 1 to 2; clay in thick beds, moderately dry, 2 to 4; clay, in thick, beds, always dry, 4 to 6; rock, from 5 up. This lower value is for rock equal to poor brick masonry.
+
+In the case of hard rock the area of foundation may sometimes be determined by the strength of the foundation rather than that of the rock. Thus, if concrete is used in a pier with a bearing power of 15 tons per square foot, this sets the limit, though the rock may be capable of carrying a greater load.
+
+Instability in a foundation, as regards the bearing power of the soil is exhibited in the sinking or settling of the superstructure. This may be the result either of compressibility of the soil or of lateral flow in it. The unit loads above given are those that will generally give a structure with little or no settlement. On soils other than rock, or solid gravel, or hardpan a little settlement is usually expected and sometimes allowed for in fixing the level of the floors.
+
+Compressible soils may have their bearing power increased (1) by ramming, (2) by driving in short piles to compact the soil by this means, (3) by driving in piles 6 or 8 feet and then withdrawing them and filling the holes with sand, slag, gravel, or concrete, well rammed in, or the holes may be made by driving a cast iron cone 20 or 30 feet into the soil and ramming the hole full of the materials named.
+
+The advantages of monolithic and reinforced concrete over all other forms of construction in foundations are seen in structures resting on yielding soils. The solid mass of concrete, as in a wall, tends to settle as a unit, and uniformly, even though the pressure may not be quite uniform on the entire foundation.
+
+Lateral flow in the subsoil is especially troublesome in soils of a clayey nature or in sand that is saturated with water. Quicksand is a saturated sand that flows very freely, but many saturated sands that would not be classed as quicksands are subject to this lateral flow; and foundations upon such require the utmost care. A good precaution is to drive sheet p11ing just outside of the foundation, so as to retain the sand or other soil, if flowing is anticipated. This will greatly increase the bearing power.
+
+The bearing power of gravel or other similar material may sometimes be greatly increased by the use of grout. Gravel not mixed with sand may readily be consolidated into a sort of concrete by forcing into the interstices cement grout. This has been done also where some sand was present in the gravel, by first pumping out some of the sand.
+
+When soil is deemed too soft to support the weight of a structure, piles are sometimes driven in. These support the weight either by virtue of their penetrating to hard bottom or by friction on the surrounding soil. Where a sub-stratum of rock can be reached, the piles should be driven to the same, and driving should cease as soon as this is reached. Further hammering may broom or split the pile or cause it to fail by diagonal shear and thus destroy its usefulness.
+
+By the New York Building Code piles intended to sustain a wall, pier, or post must be spaced not more than 36 or less than 29 inches in centers. They must be driven to a solid bearing if practicable to do so. Piles less than 20 feet in length may be 5 inches at the small end and 10 inches at the butt. Piles more than 20 feet in length must not be less than 12 inches at the butt. The maximum load allowed per pile is 20 tons.
+
+A rule quite general in Boston is to allow a safe load of 10 tons per pile when supported by friction. Piles reaching hard stratum may be loaded to 16 tons.
+
+Timber piles in permanent structures should only be used where always wet. The piles are usually sawed off at an even level, below low water line, and the earth is excavated around them for 2 feet or more. This is then filled with concrete and the pier footing of concrete laid upon the same.
+
+Concrete piles have recently come into extended use. These may be made by filling up with concrete
+

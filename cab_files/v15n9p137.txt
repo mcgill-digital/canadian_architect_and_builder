@@ -1,0 +1,54 @@
+<doctype type="text">	THE	CANADIAN ARCHITECT AND BUILDER
+
+
+
+held by straight-edges. The putty is made very thin, and the top plates are the first to be firmly bedded; next the riser plates, then the glazing fillets are screwed in place, and finally the case bottom is screwed up. After this the case is turned upon its base, when the flaps are fitted and hung and the case cleaned off for polishing. The interiors of the cases are usually fitted with trays, their rims being fixed to their bottoms by pegs, which can be cleaned off and ebonised with the rims, which are usually of American walnut This produces a fairly cheap and satisfactory tray. The bottoms are usually finished by covering them with cloth 
+
+When the case has circular ends the top rim for the end is built up laminated by means of three strips of black walnut and one strip of ebony, bent round a shaped block; after being cleaned off, a cover-piece of ebony is glued on the top. The rim end is then ready for fitting and working.
+
+All the fitting to the counter case is done with the ebony left flat, the rounding, or lipping as it is called, being done after fitting and before glueing up. The bottoms of these cases are usually of 1 ½ in. white pine and have 1 in. flush panels. After cleaning off they are very carefully covered on the top or flush side with calico, being afterwards lined with paper and blacked.
+
+
+
+<article title=" TWO KINDS OF TIMBER ROOFS " author="Balgrove, H.">TWO KINDS OF TIMBER ROOFS.
+
+Between two classes of roots—those with parapets and those with projecting eaves— important structural differences are noticeable, sax's Geo. H. Blagrove. We must pronounce in favor of the latter form of roof, as
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shown in section at fig. I. True there is a greater length of common rafter and a greater extent of root covering than in the parapet roof, as shown at fig. 2 but then, in addition to the advantages already enumerated, it will seen that in fig. the principal rafter
+
+instance, in a recent edition of Tredgold's ''Carpentry," by E. XV. Tarn, we find the tiebeam for a king-post roof of 20ft. span specified as 7in. by 3in., while, for the same kind of roofs, Hurst's "Handbook" specifies 9'2 in. by 4in. Before we can appreciate the value of these scantlings, we should know whether the tiebeam has to support the truss and, if so at what points, aid whether there is a ceiling to he carried. With a roof constructed as in fig. I, with no ceiling to carry, the tiebeam would only be required to resist the outward horizontal thrust of the principals. Let us see what the scantling must be for a king-pest roof of 20ft. span at quarter pitch, the trusses being 10 ft. apart.
+
+The horizontal thrust at the foot of a principal rafter depends upon the weight of the truss and the loads or stresses which it has to sustain. The weight of a king-truss of 20 ft. span may he taken approximately at 360 lb., and on each s de there is half this, or 180 lb., to be carried. With trusses 10ft. apart, each truss carries 10ft. length of roofing, which includes the whole roof surface on each side, from ridge to eaves, with the stress of wind and weight of snow that may occasionally come upon it. At quarter pitch, the outer measurement from ridge to eaves is just 14ft. The roof surface to be carried on one side is therefore 14 by 10 which equals 140 square feet. The weight of common rafters and purlins may be approximately stated at 71b. per square foot; boarding or battens, 2lb. slates, including nails, 8lb.; and snow, 3lb., making a total of 20lb. per foot. Stress of wind may be taken at 401b. p.r foot; but as this only acts upon one side of the roof at a time, it will be sufficiently accurate to estimate it at one half, or 201b., taking the entire stress at 40lb. We have, therefore, 40 x 140 5,600lb. to be carried on one side of the roof. To this we must add 180lb. for the half truss, making a total of for or, say 51 ½ cwt.
+
+It is worth while to remark that when there is no truss, the feet of the common ratters being tied in by means of ceiling joists, the horizontal thrust is only one-half what it would be in a king truss, if the weight and stresses were the same in both cases. In fig. 3, let
+
+
+
+
+
+
+
+takes its bearing ever the wall, whereas in fig. 2 it is necessarily brought in to allow space for the gutter, so that it takes its bearing upon an unsupported part of the tiebeam, and the latter has, in consequence, to be stronger than it need otherwise be. Some builders over-look this circumstance, and when they come to construct a roof as in fig. I, they make the tiebeam the same depth as in fig. 2. Tables of scantlings for roof timbers, such as are given in books, are apt to be misleading in this respect, unless it is clearly understood under what conditions the tiebeam is to be used. For
+
+E C F represent one-half of a roof The weight upon the slope, C E, may be considered as concentrated at A, midway between the ridge arid the foot of the rafter. Draw D B, parallel and equal to E F, and if D B represents the weight and stress upon C E then C B will represent the horizontal thrust against C. At quarter pitch, D B is equal to C B, so that the thrust is equal to the load.
+
+But it is obvious that when the pitch is lowered, the horizontal thrust is increased. At present the rafter is only supported as high as E; but if we suppose it to be also strutted from F to A, this will be equivalent, as far as thrust is concerned, to lowering the head of' the rafter to a point midway between E and F, because these two points will now take an equal share of the horizontal reaction, D E. Therefore, the proportion of the load to the thrust in a trussed roof is as A B to C B,or as E F to C F; and at quarter pitch the thrust is double the load
+

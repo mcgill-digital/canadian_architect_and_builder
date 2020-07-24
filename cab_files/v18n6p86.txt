@@ -1,0 +1,136 @@
+<doctype type="text">86	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" LIGHTNING RESEARCH " author="">LIGHTNING RESEARCH.
+
+A committee of members of the Royal Institute of British Architects and of the Surveyors' Institute, appointed nearly five years ago have, after conference with experts, presented a report which has just been published. The new point at the bottom of their recommendations, as stated in a preface by Sir Oliver Lodge, is the fact that the electrical energy stored in dangerous amount between the earth and the clouds should be dissipated not, as was formerly thought, as quickly as possible, but as quietly as possible. Sir Oliver Lodgesays:
+
+These are the two points of novelty. (1) The possible occurrence of a totally unprepared for and sudden flash in previously unstrained air, by reasons of overflow from a discharge initiated elsewhere: What is called the B spark, occurring as the secondary result of an A spark. (2) The effect of electrical inertia or momentum, so that the discharge is not a simple leak or flow in one direction, but a violent oscillation and splash or impulsive rush, much more like an explosion, and occurring in all directions at once, without much regard to the path which had been provided for it; no more regard, in fact, than is required to enable the greater part of it to take the good conductors, and to prevent any part of it from being able to enter a perfectly inclosed metallic building." The practical inference from this fact is that a larger area of protection is necessary and the committee recommend, in the first place, a pair of vertical conductors, instead of one, on a tower or spire, and, secondly, a horizontal conductor connected them, which should encircle the building, throwing up points at intervals and receiving the ends of rods erected on minor vertical projections of the building. Thus the energy of the dispersed B flash may be quietly dissipated. The best material for conductors is iron, which seems to be peculiarly effective in dissipating electrical energy; but it is difficult to keep iron unoxidized and clean in smoky towns. Copper is therefore good for inaccessible positions; and it is good for main conductors. Steel roofs and steel frame buildings have no record of damage against them and are apparently self—protecting; but it ought to be better to connect the columns of a steel frame with the earth than to leave them to finish on a stone foundation. In the suggestions of the committee, given below, clause 6 offers a suggestion in this respect. The suggestions may be summarized, in fact, under two heads: (1) That the highest points of the building should have one or more vertical lightning rods projecting from them and carried to the earth.
+
+(2)	That all exposed exterior metal should be connected with a vertical rod. There is also a third suggestion for the interior, to ground the gas service pipes. Here is the text of the suggestions
+
+1.	Two main lightning-rods, one on each side, should be provided, extending from the top of each tower, spire, or high chimney stack by the most direct course to earth.
+
+2.	Horizontal conductors should connect all the vertical rods
+
+
+
+(a)	along the ridge, or any other suitable position on the roof
+
+
+
+(b)	at or near the ground line.
+
+
+
+3.	The upper horizontal conductor should be fitted with aigrettes or points at intervals of 20 ft. or 30 ft.
+
+4.	Short vertical rods should be erected along minor pinnacles and connected with the upper horizontal conductor.
+
+5.	All roof metals, such as finials, ridging, rainwater and ventilating pipes, metal cowls, lead flushing, gutters, etc., should he connected to the horizontal conductors.
+
+6.	Alt large masses of metal to the building should be connected in earth directly or by means of the lower horizontal conductor. 
+
+7, Where roofs are partially or wholly metal-lined they should he connected to earth by means of vertical rods at several
+
+points.
+
+8. Gas-pipes should be kept as far away as possible from the positions occupied by lightning—conductors, and as an additional protection the service-mains to the gas-meter should be metallically connected with house services leading from the meter.
+
+
+
+
+
+<article title=" INVESTIGATIONS FOR THE IMPROVED USE
+
+OF CONCRETE.
+
+" author="">INVESTIGATIONS FOR THE IMPROVED USE
+
+OF CONCRETE.
+
+1.	THE PREVENTION OF EFFLORESCENCE IN CONCRETE BLOCKS.
+
+
+
+Mr. Beaumont Jarvis, Toronto, has been trying to get rid of efflorescence from concrete for facing by washing the cement before it is mixed with the aggregate. As the components of efflorescence are obviously soluble, this seemed a feasible way to separate them from the cement. In order to test the effectiveness of the method of proceeding and also to find out how the strength of the cement is affected by it, he put the matter in the hands of Mr. J. C. Johnston, Analyst for the Municipality of Toronto, whose report Mr. Jarvis kindly allows us to publish. It is as follows
+
+TORONTO, Nov. 3RD, 1905.
+
+BEAUMONT JARVIS	Esq., Architect,
+
+McKinnon Building, Toronto.
+
+
+
+DEAR SIR:—I beg to hand you herewith my report of the recent tests that, acting under your instructions, I have made.
+
+The object of these tests was to ascertain, if possible. a method of manipulating the cement to be used in the manufacture of concrete blocks; so that when in use the concrete block would show no appearance of that white surface deposit that has been so troublesome.
+
+Throughout the entire tests Alsen's German Portland Cement has been used. This cement has the following chemical analysis:--
+
+	Silica	22.44
+
+	Alumina
+
+	Ironoxide )	8.95
+
+	lime	61.44
+
+	Magnesia	2.45
+
+	Anhydrous Sulphuric Acid	1.17
+
+	Alkalies	0.82
+
+Carbon Dioxide	1.45A physical test of the Cement resulted as follows:
+
+	Specific Gravity	3.09
+
+	Fineness, Residue on No. 100 sieve.	8.50
+
+Hot Test—Sound (i.e. no free lime in the cement. )
+
+	Setting Initial	175 Minutes.
+
+	Final	355
+
+Tensile Strength	Neat	3 Sand to Cement
+
+	24 hours	277 lbs. per sq. in	63 lbs. per sq. in.
+
+	7 days	610	178
+
+Water used in mixing
+
+	Neat	24.5
+
+3                               
+
+Both the chemical analysis and the physical examination show that the cement is first-class.
+
+Now the first step was to make an analysis of the white deposit taken from the surface of a concrete block. The result of this operation was that I found the deposit to be composed of:
+
+Silica	6.74
+
+Alumina and Iron Oxide	2.20
+
+Lime                          
+
+	Magnesia	2.86
+
+ Anhydrous Sulphuric Acid        
+
+Carbon Dioxide                 
+
+	59.01
+
+
+
+Leaving a balance of 41 7329ch on analysis proved to be largely a soda compound. This would, in the deposit, be combined with the carbon dioxide in the form of sodium carbonate to the extent of 7057216710f the total.
+
+The above analysis shows conclusively that the deposit is nearly all sodium carbonate with a small percentage of a sulphur compound, very probably calcium sulphate, as this substance is often added to a cement, in manufacture, to make it slow setting. The Silica, Iron Oxide, Alumina, Lime and Magnesia, in all probability has been in the small quantity of cement that was scraped from the concrete block while sampling.
+
+Now after treating the cement in the manner you suggested, and collecting the scum that appeared on the surface of the
+

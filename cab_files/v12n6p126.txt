@@ -1,0 +1,36 @@
+<doctype type="text">
+
+<article title=" FACE-BONDING." author=" Martin, Clarence A.">
+
+
+
+FACE-BONDING.
+
+Clarence A. Martin, in the American Architect, gives some highly valuable pointers to masons and builders on the face-bonding of broken ashlar work. He says
+
+If one may judge anything from architects' drawings and from illustrations published in some of our best text-books on the subject of masonry construction, there is much need for observation on the part of those called upon to make or accept such drawings. The word observation " is used advisedly, for certainly few architects would ever allow face-walls to be bonded as many allow them to be shown on drawings ; and it would be an ignorant inspector indeed who would pass such work as is used to illustrate the bonding of broken or random ashlar in many of our best works on masonry construction. That we have so much really good rubble and ashlar work in this country is more to the credit of the workmen and the superintendents than to that of the men that make the drawing. However, the purpose of this article is not so much to find fault as to offer a few suggestions that may be of use in drawing, building and inspecting certain kinds of stone walls.
+
+In speaking of bonding here, reference is made only to the bonding of the face-stones with one another and not to the bond in the thickness of the wall, though the latter, of course, is not to be neglected as a measure of' good construction. The bonding of a rubble wall offers few difficulties ordinarily, the principal requirements being to keep beds as nearly horizontal as possible and to see that vertical joints are well broken and not too long. In coursed work the bonding is so simple as practically to care for itself ; but it is with broken or random ashlar that the difficulty occurs, and the following suggestions, which have been gradually formulated from a considerable experience as a superintendent, from hints dropped by workmen, and from careful observation of executed work, both good and bad, are offered as a guide for the proper face-bonding of this kind of masonry.
+
+FIRST. - All stones should be perfectly rectangular, no re-entrant angles being allowed, as such re-entrant angles are never cut except to save a stone that has been damaged by having a corner knocked off and are, therefore, prima facie evidence of patchwork.
+
+SECOND. The horizontal dimension of a stone should always be greater than the vertical dimension, except in the case of quoins, where it is sometimes, though not always, permissible to make the short end less than the vertical height.
+
+THIRD. No stone should be superimposed direct]y upon another stone of exactly the same length, thus bringing the end joints of both in the same vertical lines, except in the case of comparatively narrow piers, where this may he necessary to avoid the appearance of coursed work.
+
+FOURTH. Stones should not be so laid that four corners come together at a single point.
+
+FIFTH. --The number of stones abutting upon a single vertical joint (counting stones on both sides of the joint) should usually be three or four and should never exceed five ; and the number of stones abutting upon a single horizontal joint should never exceed seven.
+
+Broken range ashlar is exactly the same as broken (or random) ashlar, except that it is laid with numerous long horizontal joints. Aside from this it should be governed by the same rules that govern the laying of broken ashlar.
+
+<article title=" MORTAR IN MASONRY." author=" Morrison, George S.">
+
+MORTAR IN MASONRY.
+
+MORTAR plays a very important part in all except dry masonry and especially in concrete and the inferior forms of stonework, says Mr. Geo. S. Morrison in a paper on this subject. The simplest form of mortar is a well worked clay, such as adobes are laid up in, and with which the brick chimneys of many of the older farm-houses in our country were formerly built hut the use of clay has practically gone by except in furnaces and ovens where the heat-resisting capacity of fire clay is more important than the superior strength of a good mortar.
+
+Mortars are generally formed of lime or cement and sand. A lime mortar does not set but hardens slowly. A cement mortar sets quickly and then continues to harden. The hardening of the lime mortar is a slow chemical action between the lime and other elements; the best results are obtained by mixing the mortar some weeks before it is used and not subjecting it to any great strain till a considerable time after it is laid. The action of cement is different ; the cement itself contains all the elements necessary to the setting and hardening ; a briquette of pure cement will set harder and be stronger than a briquette containing even a small portion of sand. The function of sand in a cement mortar is simply that of a dilutant and is precisely similar to that of broken stone or coarse gravel in concrete. In a cement mortar there should be enough cement to fill all voids between the grains of sand, which implies a coating of the entire surface of every grain, and enough more than this to provide for the contingency of imperfect mixing. The more perfect the mixture the less the amount of cement that will be required, and the finer the cement is ground the less cement it will take to coat every particle of sand.
+
+In both lime mortar and cement mortar the best results are due to work ; the more complete the incorporation of the ingredients the better the mortar will be. In lime mortar, which hardens slowly, time need not he considered, and this incorporation can be done slowly. In cement mortar where a set takes place early it is important that too much time should not be spent in mixing. In the alluvial deposits of the Ganges is found a kind of limestone of irregular shape known as kunker; the Hindoos make a mortar of kunker, lime and brick dust which becomes as hard as Portland cement; the piers of the great bridge across the Ganges at Benares are laid in this ; its excellence is due to work. A similar excellence is found in all their mortars ; when the Jime has been slacked they grind it in a hand mill, then they grind the sand in a similar mill and then they grind the lime and sand together, all of this work being done by women ; the mixture is then wet and ground in a mortar mill with bullocks and when it is used it is pounded for hours. They will take this mortar, plaster a wall, pound it and rub it down and the final result of their patient work is a plastered wall, with a polished surface as smooth as that of procelain, which will stand the weather of their frostless climate for more than a century. The secret of good mortar is work ; in India, where labor is hardly worth 5 cents a day, this can be done by hand ; in this country we cannot afford it ; it is cheaper to use the most costly cements, but even cement mortars are better if thoroughly worked, and I hope to see the time when machine mortar mixers are as common on masonry walls as power riveters are now in bridge shops.
+

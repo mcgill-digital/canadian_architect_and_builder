@@ -1,0 +1,80 @@
+<doctype type="text">120	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+tween reflectors we will consider these lamps in the same position but fitted with a form of prismatic glass reflector, having a diffusive coating of enamel. We will also assume that the tip halves of the bulbs are frosted in order to cut down the intrinsic brilliancy of the light sources  within visible range. The uniform illumination curve of this unit shows somewhat better distribution below the horizontal and time following intensities at time several stations:
+
+A—0.35	foot-candles.
+
+B -- 1. 2
+
+	C—O.34	U	"
+
+		"
+
+	E—0.75	''	"
+
+		"
+
+	G—1. 7	"	"
+
+	H—0.8	"	"
+
+In this case the minimum illumination in the reading plane would be 0.5 foot—candles, which is not much greater than with the flat opal reflector. With time half frosted lamps, however, and the use of diffusing reflectors time apparent illumination is very much increased, in fact the increased degree of comfort experienced with lights fitted as in this example would easily increase the visual effectiveness of the illumination twenty per cent. as compared with the preceding arrangement.
+
+It is obvious that the lighting as shown will not go very far towards illuminating the innermost parts of the shelves. Neither is this necessary to he accomplished in any marked degree. but an improvement in this direction is of considerable benefit. We will therefore adopt an arrangement of lights as illustrated in Fig. 2 using small goose necks placed 8 ft. apart along the top of the shelving. We will suppose each of these to be equipped with an 8 C.P. clear bull) lamp and a prismatic glass reflector, having a card-board shade to prevent the accumulation of dust on the outside of the prisms. The reflector used in this case is one producing a considerable depth of curve and the lamps are pointed at an angle of 35 degrees from the vertical. We will now consider that for the lighting of each row of shelving only the lamps on time opposite side of the aisle are to be used. Proceeding similarly as above we have the following results:—
+
+A—0.3	foot-candles.
+
+	B—1.15	"	"
+
+
+
+
+
+D—0. 7
+
+E—0.75
+
+F - 0.7 "
+
+	G - 0.52	"
+
+
+
+
+
+H—0.45
+
+It will be observed that this illumination is munch more uniform and that the average illumination on one side of the aisle is nearly as high as was obtained with the use of 16 C. P lamps located as before described. It therefore seems probable that an arrangement of lights above the shelving, each row controlled by a switch at the end of the shelves on time opposite side of the aisle (i.e., the shelves to be lighted by time lamps
+
+controlled), would under the conditions of actual use result in much greater economy of current as well as provide better illumination.
+
+The uniformity secured under this arrangement will be better understood on calculating the effect of neighboring lamps. Considering the section in Fig. 2 to be anywhere throughout the length of the aisle time following intensities are obtained without any allowance for diffuse reflection:— Maximum.. Minimum.
+
+	A	05.	0.4
+
+	B	1.45	0.9
+
+	C	0.68	0.4
+
+	D	0.9	0.55
+
+	E	0.93	0.53
+
+	F	0.9	0.4
+
+		0.66	0.5
+
+	H	0.57	0.5
+
+	About the same	average illumination at the
+
+points taken for calculation would be produced with 16 C. P. lamps unshaded and spaced every 8 ft. along time aisle, but with much less uniformity and far less visual effectiveness With time arrangement now arrived at it is not necessary to use frosted bulbs, as time lights are always above amid behind time person working at any row of shelves. Time illumination of the interior of time shelves is also improved.
+
+What we have done so far, however, is only to improve time illumination The cost of this must be considered.
+
+We will assume that time switches will he placed conveniently so that one row of 8 C. P. lamps will be turned on time same length of time as would the row of 16 C. P lamps in time first arrangement above described. The cost of equipment per the last description is $9.25 more than according to time first method. Time consumption of power in the last case will he 160 watts as against 280 watts in the first case. With cur-remit at 8c. per K .W -hour the saving effected during the life of the first installation of bulbs will be $19.20 plus $1.25 for renewals, when using only one row of lamps, or a total saving of $20.45. Deducting the extra first cost, we have a net saving of $11.20 during time life of the first installation of lamps. A liberal allowance for maintenance would not reduce this saving below  $10.00, In the building under consideration there are some 3,600 ft. in length of aisle, with shelving on both sides, so that corresponding economy throughout the building means a net saving of $830.00 before time first set of lamps is discarded. Figuring time cost for renewals and 20 per cent. for breakage of reflectors and with the same liberal allowance for maintenance. the saving while time second lot of bulbs ms in use will amount to $1,286.00. This does not take into consideration time lighting of offices and shipping department.
+
+In this ware house there are some thirty different arrangements of shelving and in some cases the requirements were such that some modification of the arrangement shown in Fig 2 was necessary. Throughout, however, the same principles were applied that have been illustrated and in many cases a more marked improvements in time illumination has been effected than under the particular conditions chosen for aim illustration of average requirements. Of course it is essential that the actual voltage be tested and that good lamps of the proper duty be purchased for the available voltage in order that the full benefits of such calculations as above described may be realized.
+

@@ -1,0 +1,140 @@
+<doctype type="text;plate">the expense of grinding is very considerable. I would like to urge upon you the propriety of so writing your specifications as to induce the manufacturer to produce a better article instead of tempting him to do otherwise.
+
+It is apparent then, that while they have been under a much greater expense in producing an article which they think a better one, and is as a matter of fact better, they have produced a cement which, when tested by you, has appeared worse than if they had not so improved it.
+
+
+
+The following might be quoted as instances of the grinding of Canadian Portland's
+
+
+
+In the writer's opinion, the cement should completely pass the No. 50 sieve and leave a small residue on the No. 100 sieve. This, however, is out of the question, considering the present market, but we ought to refuse a cement if the residue on No. 50 is greater than 5, and after every year or so it might be reduced until the desired end is reached.
+
+I might say that the average requirements of the architect and engineer of Ontario is that the residue on a No. 50 sieve shall not exceed 10but I am equally certain that the cement would not be refused if it left a residue of 12 or 13 There are specifications in this province calling for a cement with a less residue than 20—in fact the text-book as set by this Association mentions 20 It is time we were following the example set by our manufacturers, and encourage them to grind as we like and not as they please.
+
+
+
+TENSILE STRENGTH.
+
+The method of determining the tensile strength most commonly followed in Ontario is to mix a little water with the cement, then place it in a mould and leave it in the air for 24 hours, after which the briquette is placed in water and kept for six days; it is then broken and the strength determined. In a few cases (in Ontario), in addition to the above neat test, a sand test is made. Simple as the above seems, there are many conditions which affect the strength very materially. Among these may be mentioned
+
+
+
+1.	The fineness of grinding.
+
+2.	The percentage of water used in gauging.
+
+3.	The thoroughness of the gauging.
+
+4.	The style of grip used in breaking the briquette.
+
+
+
+In support of the fact that the fineness has a material effect upon the resulting tensile strength, I would quote the following results from a paper read before the British Institute of C. E. ,by <person>Mr. Grant.</person>
+
+with sand, coarse grinding decreases the ultimate tensile strength.
+
+<person>A. E. Carey</person>, M. Inst. C. E., gives the following results gauged 3 sand to 1 of cement
+
+
+
+As ground with 9residue	Pds. per sq in.
+
+	On a No. 50 sieve (2500 meshes per sq. Inch)	220
+
+	With residue on 2500 sieve removed	304
+
+	 5625 "	'		311
+
+	32,257			360
+
+
+
+While in the longer tests the percentage of water used in gauging may have very little effect upon the tensile strength, yet for the ordinary 7 day or 28 day tests of neat cement, the amount of water used will alter the strength between wide limits. The less the amount of the water used and the firmer the cement is pressed into the moulds, the stronger the resulting briquettes, as the following tests made in the laboratory of the School of Practical Science will show.
+
+The following diagram gives the record of the averages of 200 briquettes of Owen Sound Portland, gauged neat, one half being gauged with 22 per cent. (by weight) of water, and the other with 27. As will be noticed the difference between the two gauging is very marked at 7 days, gradually growing less as far as the experiment lasted.
+
+	Sieve.	Residue In percentage by weight.
+
+	No. 100 (10,000 meshes to the sq. in.)	13.9
+
+	No. 80(6400	"	"	" )..			7.4
+
+	No. 50 (25,000	"	"	" )	.	.	3.7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By referring to this table it will be seen that if gauged neat, charse grinding increases the tensile strength, while if gauged
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The above diagram gives the averages of 50 briquettes of Hull Portland gauged with 15 and 25, 6 per cent. of water.
+
+	Sieve	Residue in percentage by weight.
+
+	No. 100	41.3
+
+	No. 80	32.8
+
+	No. 50						22
+
+
+
+It should be mentioned here that this series of tests was made some time ago, and that the grinding of this brand is much improved.
+

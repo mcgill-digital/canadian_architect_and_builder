@@ -1,0 +1,108 @@
+<doctype type="text">
+
+<article title="Two Questions in Connection with Steel Construction in Buildings" author="Burke, Edmund">
+
+	CANADIAN ARCHITECT	AND	BUILDER
+
+
+
+shrinkage or settlement of a building. It will be very Interesting to observe its behavior under tests similar to those prosecuted by Mr. Constable. If it will accomplish all that is claimed for it, it should revolutionize fireproofing methods.
+
+There are many other interesting questions in connection with steel construction, such as riveting versus bolting, wind bracing, column and girder connections, and in connection with iron construction such as brackets on columns, column connections, etc., but I have already consumed the time allotted me in the consideration of two questions of the most vital interest in the present state of steel construction.
+
+	1)	DISSCUSSION N.
+
+
+
+Mr. Gregg having moved a vote of thanks to Mr. Burke for his very carefully prepared paper asked, have examinations been made of any of those very large steel buildings to see if corrosion has taken place to such an extent that danger is to be apprehended?
+
+
+
+Mr. Burke I do not know of any such examinations.
+
+
+
+Mr. Langton They have recently pulled down the old post office in Chicago, and the examination of the old iron work was satisfactory.
+
+
+
+Mr. Aylsworth That building was put up twenty-five or twenty— six years ago. It was a solid concrete foundation, not piers.
+
+
+
+Mr. Curry In regard to the question of fireproof construction, one great trouble about it is this a building that may be fireproof under one set of conditions may not be under another set of conditions. An once building divided into small rooms does not require the same protection that an open building does. A storage warehouse, of all buildings, should be built with the greatest care, because one can easily imagine the heat engendered by a fire in such a building, so intense that it would destroy al— most anything Naturally an architect must take into consideration the uses a building is going to be applied to when considering the question of fireproof construction. In regard to this subject much remains to be solved in the future. Many of the tests made are not to my mind satisfactory. One man will test a material and report that he finds it all right, another may test the same material, tinder apparently the same conditions, and finds that it is all wrong, so, as far as I can see, the only safe course to pursue is to make a very large allowance unless you know that the test has been made by uninterested parties, and in the most careful manner. I think there is no question that concrete fire-proof construction is by no means satisfactory. The concrete in itself will not stand fire e to any great tat degree it is a question of how much it will stand. Certainly it will not stand the repeated action of water and fire although advocates of that construction have put it through tests and say it has stood the tests I am not by any means convinced and It will ill have to be subjected to more severe and better conducted tests before I am. Many of those who make tests are after all only trying to prove that something they are dealing in is superior to what other people are dealing
+
+in.	We are governed by so many different conditions that all we can do is to do the best we can under each condition as it arises. In many cases
+
+and	  cases you cannot put n exactly what you would desire,
+
+	that case you must do whatever is done as well as it can
+
+possibly be done under the conditions prevailing. There is no question but that in severe fires the beams dropping below the ceilings are damaged, the terra cotta covering, or whatever it may be, generally gives way at that point. With regard to the question of rust, we have had no actual example of what has occurred, and I think it depends very considerably on the cementing material. Some limes seem to be injurious to iron, while others are not the same with cement. Under some conditions it will deteriorate and under others it will not, so after all it is a very difficult problem. I suppose in the course of years a number of these buildings that have been erected under these conditions will have to become dilapidated and have to be pulled down, and then we will find out something as to the cause of rust and its prevention. So far as the contraction and expansion of the steel or iron that is covered up is concerned, it can not be very great, because there is not any very material change in temperature. I do not think there is anything very serious to be apprehended on that score, although Mr. Smith is trying to convince people there is. I think many of his contentions are well made, but at the same time we have to consider what has been clone and govern ourselves by practical results rather than theories that are not apparently borne out by practical work.
+
+
+
+Mr. Wickson An architect with whom I had a conversation, who has had experience in a number of very large buildings, told me that that one thing he was determined after this to do was to have hollow tile under the soffits of all beams. He seemed to think that was a weak point, and he would have sufficient depth to get the soffit covering hollow. Mr. Burke in his paper mentioned a minimum of two inches, which would enable one to have it hollow.
+
+The President I think the hollow tile is quite largely used in new work now.
+
+Mr. Curry They have been used and defects found. It is just about the same as covering these columns.
+
+Mr. Duff: I do not know' that the question of rust has caused so much difficulty in buildings as in bridges, where the iron work is exposed to the weather. In bridges, especially near salt water, it is found that the girders, no matter how carefully you at first
+
+paint them, will rust out in a very short time, and become so thin with the e action of scaling and rust that they have to be replaced in some parts. In some places, where exposed to the water dashing against them, the life of an iron bridge i~ only about ten years, and it is found that the rust continues to go on underneath even after a scale is formed, possibly a little more slowly than at first. As to the paint for iron work there is a difference of opinion now as to the relative merits of asphalt and linseed oil paints. I think Mr. Burke in his paper referred to iron oxide or red lead as the pigment to be used as red lead. If you wish to make beams proof against rust the best way is to specify that as soon as they are rolled they shall receive a coat of linseed oil. A great deal of damage is done before the beams have left the shops at all the rust begins before they have passed through the mill and been punched and fitted for buildings. The red lead painting is not usually done until the beams have been punched, and in going about rolling mills I have often seen beams badly rusted before they left the shops at all, or had even been painted.
+
+
+
+Mr. Dick I think the most valuable feature of these discussions is the bringing out of personal experiences, and unfortunately, from that point of view, there has not been a fire in any building which I have constructed, which would enable me to know whether the precautions taken have been sufficient or other— wise. I think one of the chief lessons we can gather from Mr. Burke's excellent paper is the necessity for watching every point in fireproof construction. The strength of a chain is said to be only that of its weakest link, and if wrong in only one little point, a structure may be destroyed that was supposed to be fireproof. That applies to the protection of the main beams that come down below the ceiling. One of the greatest difficulties in fireproof construction is to make that point thoroughly safe, amid it is undoubtedly safer construction to have a flat ceiling in which there is nothing for the fire to impinge upon.
+
+Mr. Kennedy Mr. Duff has spoken about painting the girders before they were drilled and punched I would like to know how it would do to submerge them in paint before placing them in
+
+
+
+position. I think that is quite as cheap as painting them in the ordinary way, and by that means you are pretty sure that it is all well covered.
+
+
+
+Mr. Gordon I was going to remark that in the Pittsburgh fire the protection formed by the suspended ceiling although much more lightly constructed and imperfect, seems to point to the great benefit of having air space. The difficult point in all floor construction seems to be to keep the bottom of the  large  beams from the action of the fire; but if we made a flat ceiling across below the soffit of large beams, even though it ere not very fire proof, simply such a ceiling as in one of these buildings suspended and with fiat tiles, it would form such an efficient protection not only to the soffit of the beam, but the whole soffit of the terra cotta on the other beam, that it would seem as if it would be impossible by any fire to cause deterioration of the floor. Then you gain the other point which is emphasized in the paper, of a flat surface, no pockets for the fire, nothing for it to catch upon. I think where extreme precaution is needed it would be the correct thing to have an air space below forming an independent suspended ceiling below the floor. With regard to immersing instead of painting, we k-now that t lie best pipes put down for gas and water are generally dipped in t tar It strikes me that to have our constructional iron work dipped in asphaltum I would certainly be more effective than painting.
+
+
+
+Mr. Baker The same thing has occurred to me. I do not see why a beam should not he dropped in a trough and taken out again it would be much more rapid, and I should think cheaper than painting with a brush.
+
+
+
+Mr. Burke I would like, Mr. President, to make a sketch of the Roebling construction, which seems to be the ideal shape, in following up Mr. Gordon's remarks. If that could be adopted in porous terra cotta construction I think it would fulfil every requirement.
+
+
+
+Mr. Gordon I intended to second Mr. Gregg's motion for a vote of thanks to Mr. Burke for his paper, and beg now to do so.
+
+
+
+The President I am sure we are all very much obliged to Mr. Burke for his very careful paper. In regard to the immersion of beams, while it may be done amid is done with cast iron, in the case of ordinary rolled steel I would have much more confidence in their being put into the oil if it. could he done immediately they come from the mill. On the other hand, if it is to be done with
+
+
+
+paint after the drilling and that kind of work has been done, in the time intervening between their coming from the mill and passing through the shops for drilling they may receive more damage by rust than would be compensated for by dipping them in paint. Of course if both precautions could be taken that would perfectly protect them.
+
+The vote of thanks to Mr. Burke was then carried with hearty applause.
+
+
+
+
+
+USEFUL HINTS.
+
+To MAKE BROWN OAK STAIN.—Four ounces Vandyke brown, pint spirit of ammonia, ounce bichromate of potash.
+
+Ventilation depends on the volume of air that enters a room, but no more can enter than will equal the amount removed.
+
+
+
+Red pigments embrace two distinct series of substances, the reds of inorganic origin (minerals) and red lakes, obtained from animal and vegetable colors.
+
+TO MAKE BLACK VARNISH.—Four oz. white shellac, 1 pint methylated spirits, oz. benzine, 1 oz. white resin, t oz. gum mastic, 1/2 oz. gum sandric, oz. gas black or vegetable. Strain
+
+before using.
+

@@ -1,0 +1,143 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+per cent. of carbon with iron. The large amount of carbon determines its characteristic features or behavior. Wrought iron is the product resulting from the removal of carbon from cast iron. This leaves with the wrought iron such impurities as sulphur and phosphorous. When these are present in too large quantities they render the rod red short or cold short respectively.
+
+Steel is a combination of iron with a percentage of carbon varying from minute quantities to as high as 200. It is manufactured in the three following ways. viz.—i. By adding carbon to wrought iron-the product of such process being known as crucible steel, 2. By removing carbon from cast iron—the product of this process being known as Bessemer steel. 3. By melting together cast and wrought iron—the product of this process being known as open hearth steel.
+
+Cast iron is hard and brittle and can be moulded, while wrought iron is soft and ductile and can be welded. Steel is unlike wrought iron in that it is fusible, and unlike cast iron it can be forged, and with the exception of high grades it can be welded. In addition to these advantages the higher grades can be hardened and tempered.
+
+The term steel is applied to class of materials which cover
+
+a very wide range of properties. One particular grade may be
+
+soft and ductile while another is quite hard and brittle. In ten-
+
+Elastic limit 550 of the ultimate strength of' the specimen.
+
+,500, 000
+
+
+
+Per cent elongation in 8 in. =
+
+Ultimate
+
+
+
+2,800,000
+
+
+
+Per cent reduction of area =
+
+Ultimate
+
+
+
+Rivet steel when heated to a low cherry-red and quenched in water at 82° Fehr., must bend to close contact without sign of' fracture. Specimens of low steel when treated and tested in the same manner must stand bending 180° to a curve whose inner radius is equal to the thickness of the specimen. without sign of fracture. Specimens of medium steel as cut from the bars or plates and without quenching must stand bending 1800 to an inner radius of 1½ times the thickness of the specimen, without sign of' fracture. While those of high steel also without quenching must stand bending 1800 to a radius of twice the thickness of the specimen without sign of fracture."
+
+
+
+In connection with the latter part of' this specification the
+
+following test may be interesting and instructive.
+
+Two specimens, one of mild open hearth and the other of
+
+machine steel were heated to a cherry-red, quenched with water
+
+and tested with the following results
+
+Ultimate strength Elastic limit Elongation pds. per sq. in. pds. per sq. in in. 8"
+
+	Mild steel	47,200	27,200	38.5
+
+	Mild steel hardened	.62,200       43,000. .broke in strips
+
+	Machine steel	83,900	55,600	21
+
+	do hardened	106,000	60,500	2
+
+
+
+While almost every specification mentions maximum and minimum tensile strengths it is very seldom that mention is ever made of the compressive strength, although the material s used quite as frequently in compression as in tension. This is because the ultimate strength, elastic limit and deformation or strain are more readily determined in tension than in compression, and because the results in tension are the same as those in compression.
+
+Under a uniformly increasing load steel in compression contracts uniformly within the elastic limit, which fortunately is the same as that for tension. When the load increases beyond the elastic limit the material simply spreads and increases the area of its cross-section indefinitely, so that in compression steel has no ultimate strength. This is well illustrated in the following specimens, originally 2 inches long, which were subjected to a load of 170,000 pounds each.
+
+Specimens numbered 1, 2, and 3, are wrought iron, made in Sweden, England and Ontario respectively; while numbers 4, 5 and 6 are mild steel open hearth, mild steel Bessemer, and machine steel. Those specimens which are cracked open or are etched show very clearly the flow of' the material under the stress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+site strength they may vary from 40,000 to 200,000 pounds per
+
+square inch.
+
+It is now customary commercially to classify steels either according to their properties or uses, In the one group there is mild, medium or hard steel, while the other classification includes rivet steel, boiler plate, structural, machine, tool and spring steel, etc.
+
+The following table gives a few of the characteristic physical
+
+properties of these different classes
+
+Rivet steel should be ductile rather than strong and should have an ultimate strength of 40,000 to 55,000 pounds per square inch elastic limit, 30,000 to 45,000 pounds per square inch; elongation in 8" = 25 to 35
+
+Boiler plate—Ultimate strength 50,000 to 65,000 pounds per
+
+square inch; elastic limit, 30,000 to 45,000 pounds per square inch;
+
+elongation in 8" 25 to 30
+
+Structural steel—Mild, ultimate strength 40,000 to 55,000
+
+pounds per square inch elastic limit, 25,000 to 35,000 pounds per
+
+square inch; elongation in 8" = 25 to 35
+
+Medium—Ultimate strength, 55,000 to 70,000 pounds per
+
+square inch ; elastic limit, 35,000 to 45,000 pounds per square
+
+inch, elongation in 8" = 20 to 25
+
+Machine steel—Ultimate strength, 80,000 to 110,000 pounds
+
+per square inch ; elastic limit, 55,000 to 70,000 pounds per square
+
+inch ; elongation in 8".
+
+Tool steel and spring steel—Ultimate strength, 120,000 to 200,000 pounds per square inch.
+
+The standard specifications for structural steel proposed by a
+
+committee of the American Society of Civil Engineers in 1896 is
+
+as follows
+
+Lbs. per sq. in.
+
+"Tensile strength low steel 60,000 + 4,000
+
+	"	"	medium 65,000 + 4,000
+
+	high	70,000 + 4,000

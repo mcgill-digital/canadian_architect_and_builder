@@ -1,0 +1,134 @@
+<doctype type="text">September, 1889	THE CANADIAN ARCHITECT AND	103
+
+
+
+warehouse, $15000, the <firm>Electric Light Co.</firm>'s power house, $17,000, Messrs. <firm>Ross & Foulds' </firm>block, together with other solid brick structures, has created such a demand for native bricks that those unsold now are being held at $13 per M.. which is a rise of $3.
+
+The outlook for next season is very good for the building trade, as it seems to he understood that American capitalists have determined to hack op the energetic policy of the Northern Pacific, and invest largely in this city in fact for some time past large commissions have been issued to purchase choice lots.
+
+The wheat crop of the country turning out so much better than was anticipated, is another great reason to anticipate good times ahead.
+
+The other towns are being built tip faster than Winnipeg in proportion, such as Portage a Prairie, with its Home for Incurables, Torren's titles office, business blocks and numerous private houses Brandon, with its new post office, reformatory, and very extensive new business blocks and houses Carberry, Morden, Virden, Boissevain, Deloraine and many others are all coming rapidly to the front, with solid brick and stone churches, banks, business blocks, &e,, so that the summary (If the amount of money invested in building this year throughout the province will total up to large figures.
+
+From a professional standpoint, the outlook is also better, as investors are gradually realizing the fact that there is something in having even the plainest material fixed artistically, and no matter how honest and well intentioned a contractor, he is only human, and in the absence of competition and superintendence, is very apt to get larger prices for badly executed work than is the case when an architect is employed. Principals are now alive to the fact that by paying a trained professional man, they get a good return for their money.
+
+
+
+<article title="How to Estimate" author="">HOW TO ESTIMATE.
+
+By "Cato."
+
+No deduction is usually made for the over-lapping of corners in figuring  the cost of digging trenches for foundations, as the extra labor involved in making then covers the decrease in the quantity to be excavated.
+
+When making up the cost of clearing a moundy site, or one which has stuff accumulated above the ground or street level, a more difficult method than those described must be worked out, to determine as near as possible the exact amount to be removed and its cubical contents. Should the contractor be called upon to tender for cleaning and excavating a site and cellar, either of rock or other stuff, he can find the solid content of it as follows
+
+27)25402 1/2 (966 3/4 cubic yards.
+
+236
+
+
+
+180
+
+162
+
+
+
+182
+
+t62
+
+
+
+20
+
+
+
+Find the highest point hilly or moundy surface, and take s tape line and measure from this point to the edge or line of the lot. Say that in this case the greatest depth is in the centre of the lot, which is 25 ft x 100 ft. To find the depth, or third side, supposing the tape line to register feet.
+
+54 feet length of hill.
+
+50 feet length to greatest depth.
+
+
+
+54 X 54=2916.
+
+50 x 50=2500.
+
+	416 the square root of which,	20.39, thus,
+
+2)416(20.39
+
+24
+
+
+
+
+
+4039 1600
+
+1209
+
+
+
+
+
+39100
+
+
+
+36621
+
+
+
+479
+
+20.39	depth, or 20 ft. in. at center.
+
+To find area of section: 100 x so 1.6= 1016 1/2 1016 1/2 x 25 feet, length of front lot, = 25,402 1/2 cubic feet.
+
+The contents of the rectangular excavation below the street level can be found in the usual manner.
+
+Should the mound or rock be nearly conical, it would be best to treat it as a cone or pyramid. and to find its contents.
+
+Multiply the area of the base, if square, or rectangular, by 1/3 the perpendicular height as A B. If the base be found first, find the area by multiplying the square of the radius by 3.1416. Thus if the lot be 25 feet vide, 12 1/2 x 3.1416=area. Area x 1/3 per height of conical hill=contents in feet. Again, if it be a round or circular heap of boulders then it is judicious to take the 101). as of segmental or semicircular section, and figure thus
+
+Take the girth over the entire surface with a tape line (held loosely), and regarding this as the length of a segmental or semicircular arch, proceed,
+
+taking the ground level as the base or chord, for the former. Having found the rise or depth by leveling from the highest point, divide cube of rise by twice the chord or length of ground level and add to the result 2/3 of chord multiplied by rise (or depth).
+
+For the latter: (502 x 3.1416) / 2, =area of section. Area x depth—cubical content.
+
+The best way is to find the geometrical figure which the ground resembles in section as well as can he judged with the eye, and to apply the arithmetical rule covering the calculation of the solidity of the figure it resembles.
+
+As all calculations of this kind can only be approximate. I would recommend estimators to allow a sufficient margin to cover contingencies, and if anyone is awarded the contract, to give it out to a contractor accustomed to removing and heavy excavating. It is manifestly unwise to undertake to do a job which is unfamiliar to the estimator.
+
+
+
+<article title="Brick vs. Pipe Sewers" author="">BRICK VS. PIPE SEWERS.
+
+ IN
+
+ view of the recent decision of the <assoc>Toronto Board of Works </assoc>which did away with pipe sewers of 15-inch and 18-inch diameter, in favor of brick sewers of a very small diameter, it may not be uninteresting to compare the comparative merits of both from various standpoints.
+
+Taking a general view of the matter, it may be said at once, that the action of the Board was surprising to say the least, inasmuch as all modern authorities on the subject are agreed in saying that pipe is preferable up to such diameter as will warrant easy and cheap laying. This limit of size is pretty generally fixed at 24 inches. We hope we shall not be deemed impertinent it we inquire why the limit should have been fixed at a maximum of 12 inches for Toronto. It is beyond doubt that for a city he size of Toronto, a 12 inch street sewer is altogether too small it is too small to carry off any heavy flow of water during wet weather, and too small to give the stagnant or slow running sewage a suitable amount of ventilation or rather oxidation which it is necessary that it should have to make the gases emanating therefrom as nearly innocuous as possible. This one particular point about the diameter of the smaller pipe sewers, has been made the subject of a very able letter, written as we understated by one of our most prominent physicians, the city to Medical Health officer. Press of other business has, we presume, prevented that official from giving the matter his immediate attention, but we hope for some decisive action on his part at no distant date.
+
+Without going into any technical considerations concerning the amount of friction to be overcome by sewage in or the amount of air which should be admitted into the sewer in order to oxidize the sewerage gases, it may be said that pipe sewers are in every way preferable. They are just as durable if not more so than brick; they are cheaper, and from a sanitary point of view they are incomparably more efficient.
+
+In the matter of cost, the experience of the Board as recently acquired shows, that practically a brick sewer costs from 25 to 40 per cent more than a pipe one. if we add to this the fact that most of the contractors who hive built these small sewers have lost money on their contracts, and that the sewers built by day labor by the city itself have cost the ratepayers more than those built by contractors, it may fairly be surmised that we have not yet got at the bottom of this business, but that we may have more costly experience to acquire in the near future.
+
+Repairs are much more easily effected in a pipe sewer than in a brick one, and at much less cos. The sewers now about to be put in on Boxborough street, on the property of Messrs. H. O'Brien and W. Nightingale, are a striking example of this. Tenders were asked for this work laid in pipe and also for the same laid in brick. The same contractor was the lowest in both instances, his price for the pipe sewer being $840, and for the brick sewer $1,210 odd. In the face of such figures as these, the action of the Board is beyond comment.
+
+A pipe sewer when carefully laid, is practically indestructible. Some few prejudiced or interested parties claim that pipe cannot stand the pressure which it may be subjected to, but we purpose establishing in a subsequent article, that this is an error, both from a practical and from a theoretical point of view.
+
+The main point now to be considered, viz., that of sanitary efficiency, will be found more perfect in the pipe sewers than in the brick. The two main requisites, a free flow of the sewage and its thorough ventilation and oxidation in the sewer, are more completely carried out in the pipe than in the brick sewer. The numerous joints, and unglazed and irregular surface of the brick, make it very hard to obtain a free flow, and in time the worst ingredients of the sewage soak into the brick and form a slimy deposit on its surface. This slimy deposit increases the difficulty in the flow of water, and moreover becomes a source of perpetual danger, as every time the atmospheric pressure is lowered through any change of weather, any quantity of noxious gases arise therefrom.
+
+Any number of figures taken from the records of the Board of Works might be cited here in confirmation of our contention, but lack of space prevents us front giving further particulars on the subject, which we purpose to treat more thoroughly at a future date.
+
+
+
+
+
+The <building>Stratford Building </building>and Saving Society has been instituted. Nearly $14,000 was subscribed by the gentlemen present at one of the meetings.
+

@@ -1,0 +1,27 @@
+<doctype type="text">
+
+<article title=" POINTS ON HOT WATER HEATING." author="">
+
+
+
+POINTS ON HOT WATER HEATING.
+
+Mr. A. T. Hoyt, makes the following points in an article contributed to Heating and Ventilation, on the duties of a heating boiler The circulation of water for heating purposes in radiators, box coils, or lines of piping, is a purely mechanical operation, and is controlled by mechanical laws. The fundamental law of mechanics is what is gained in time is lost in power, and vice versa; or in other words, something cannot be made from nothing. In order to create a motion or a force of any particular kind an equivalent force or motion of the same or some other kind is required. A heating boiler is governed by mechanical laws, as surely as is the lever ; IT is simply a machine, and the circulation of water is its work. That which causes motion is called force, and that which stops motion is called resistance ; they work against each other. Motion is simple and compound, uniform, accelerated or retarded.
+
+These principles of mechanics enter as factors into water circulation. A heating boiler is a machine, and its duties as a machine are the scope of this article. As water receives no heat after leaving the boiler, neither does it receive any motion ; its motion is really a retarded motion, from the time it leaves the outlet of the boiler until it reaches it again at the inlet. As the circumference of a circle, if revolved, can go no faster at any one point than at another, so the current of water in a heating pipe of uniform size cannot be fast and slow in any one line. It may be faster or slower in one line or part than another line or part ; but in individual lines, the motion is uniform. Although the motion of water in the individual radiator is a uniform motion, water circulation is of the retarded class of mechanical motion. Boiler duty is thereby increased, as it has to create a current of force in itself sufficient to overcome the resistance met with in the radiation, and the current at the return inlet will be the power of the boiler, minus the resistance. In other words, the volume (velocity and area) and temperature at inlet of boiler, are the measure of the power of the boiler. This will be governed by the style, manner of laying out the radiation and its amount, &c.; but it is not in the scope of this article to touch on these matters.
+
+The force of the current is established in the boiler, as it receives no accelerated motion atter leaving the boiler ; and as the heat is also given to it in the boiler, it is conclusive, therefore, that the boiler duty is virtually to cause and maintain a circulation of water, the temperature of which, as well as the velocity, is dependent upon another force, viz., heat. As the boiler is simply a machine, it can create no force, but is operated by a force, and as this force operates upon the boiler surface, its operative force will largely depend upon the construction of the boiler. As stated already,
+
+the water receives neither heat nor motion after leaving the outlet of the boiler ; therefore it must receive its heat and also its motion from the fire, and its velocity and temperature will consequently depend upon the force or heat from the fire.
+
+Boiler duty, or the duty an individual boiler will economically perform in water heating will, outside of its size, depend upon its construction. Water absorbs or receives heat from a fire, and also motion ; and it may receive heat with little or no motion given to it from the fire ; but it cannot receive motion without absorbing heat. The duty, therefore, a boiler will be capable of performing, will depend upon the proper construction of its fire furnaces, which should be such that the water in it will receive the greatest possible motion, this will ensure an absorption of heat ; and the temperature, with the volume, velocity and area of outlet, will be the rating or power of the boiler.
+
+There are three points to be considered in water circulation, and all devolve upon boiler construction. Fire is the primary cause of water circulation from a boiler through piping or radiation, back to the boiler again, and like a circle it has no end, as there is no point in the circulation where the flow ceases and the return commences. The terms flow and return, are only relative terms, designating the directional piping. Water is under the law of inertia, and if moved at all,
+
+
+
+
+
+Darling Brothers Reliance Works Montreal "Webster System" of low pressure Heating
+
+N.T. Gagnon, Sec'y, Montreal Porus Terra Cotta Fireproofing

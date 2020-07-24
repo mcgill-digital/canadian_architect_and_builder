@@ -1,0 +1,82 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	107
+
+
+
+SETTING-OUT WORK AND BUILDING BY-LAWS.*
+
+<article title=" SETTING-OUT WORK AND BUILDING BY-LAWS " author="Bartlett, J.">
+
+BY J. BARTLETT, M.S.A.
+
+
+
+Passing to the general building plans with which you will no doubt have more to do than with survey plans, we find that for general building purposes the scales mostly used are in contract plans, sections, and elevations either a scale of 8 ft. to 1 in. or 4 ft. to 1 in., while for details we have as a general detail 1/2 in. to a foot and
+
+in. to a foot. These scales have been found to best meet the several requirements, and are most generally used in practice. With the 1/8 inch scale, which is mostly in use, it is not possible to show the internal finishing of the building to the extent of the 1/4 in. scale, but we have for these purposes the specification and the enlarged details to supply the information required. Every set of plans should have a sufficiency of sections.
+
+The War Office adopt as general scales for building plans the scales of 1-5 in. and 1-10 in. to a foot. These scales are very small and do not allow so much detail to be shown as the 1/8 in. and 1/4 in. scales adopted by the profession outside their influence.
+
+With the great strides lately taken by photography and lithography you may find it necessary to produce a scale by which to read plans prepared by these processes. In the case of photography, with a knowledge of perspective drawing it will be possible for you to find the centre of vision and produce some object in the picture
+
+to the edge of the picture plane and thus obtain		a definite
+
+measurement. Or the presence of brickwork will enable you, by counting the courses, to obtain the heights and lengths.
+
+In the case of plans reduced by lithography the scale may be arrived at by reducing in the same way as you can produce a 1/10th inch scale from a 1/8 inch. The most accurate method is as follows
+
+Set up to any scale larger than the plan to be dealt with a length of, say, 10 feet, shown on the accompany
+
+	ing illustration as o to 10	At right
+
+angles to this from its centre produce a line to any point A join A to o and 10. Take from the lithe plan for which the scale has to be prepared the length of any portion which should scale 10 feet. Divide it into two equal parts, and
+
+
+
+from the line A 5 at c erect the parts at right angles to A 5, so that the distance D E is equal to the to feet on plan. Produce from the points to respectively lines to the point A, cutting the line D E, which is now equally divided and can be increased to prepare the scale required.
+
+Next, your scale, if of feet, should have a section of to at the left hand side divided up to assist in measuring uneven lengths, or when the scale is a building one and is dealing with feet and inches it should have a similar length, namely foot with the division of inches.
+
+A word or two as to the coloring of plans. Drawings should show by their grades of color the several parts that are in section, plan or elevation. The tints should graduate alike as regards density of color, work in section being darkest ; plan or horizontal section a tone lighter ; elevation very light. It is misleading on small scale plans (as 1/8 in. and 1/4 in.) to make distinction of colors in woodwork for one wood as against another.
+
+
+
+*From a Paper read at Carpenters' Hall London.
+
+Drawings of old work should be shown in black to the walls, but the floors should not be colored.
+
+CALCULATION OF AREAS AND CUBIC SPACE.
+
+
+
+We will now take a simple example and work out
+
+(1)	area of floor ; (2) area of straight walls without windows ; (3) area of circular walls (4) cube of room.
+
+		Cubic feet of
+
+		space per head.
+
+	London Board School	130
+
+	Hoard School (Educational Dept.)	80
+
+	Common Lodging-Houses	300 to 400
+
+	Army Permanent Barracks	600
+
+	Prisons with separate cells	800
+
+	Army Hospital Wards (per bed)	1,200
+
+	Stables, open-roofed (per horse)	1,200
+
+	Stables, with men over	1,300
+
+	Army Infant Schools (per seat)	96
+
+	Army Chapel Schools (per seat)	200
+
+
+
+In the setting-out of works it is essential that proper projection be left on the several walls for the footings.
+

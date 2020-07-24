@@ -1,0 +1,122 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" THE FINK TRUSS BY GRAPHICAL STATICS." author="Berlin, W. H. B.">THE FINK TRUSS BY GRAPHICAL STATICS.
+
+By W. H. B., BERLIN, ONT.
+
+
+
+Professor Wright's solution in the March number is ingenous, and roundabout. Here is another
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assume a vertical load of 10 units applied at each panel point. Consider first the primary members of the truss, giving a frame of single triangulation, Fig. 2.
+
+in tension because the direction is away from 0. Mark these lines at once, in the stress diagram, + for compression and — for tension. Pass next to the apex SPVT of the frame, because the load VT and the stress VP are known. Draw PS and ST parallel to the corresponding lines of the frame. Both of these stresses are found to he compression. Proceed in like manner throughout the frame to the support A. For the closing line, the stress JC, the points J and C are fixed and the line must at the same time be parallel to the frame line JC Fig. 2. If the procedure has been correct this will he so. With the reaction line, CM, the operation is carried back to the point M from which it started, and the necessary check of its correctness is had.
+
+Consider next the secondary stresses induced by transference of the intermediate loads to the main panel points, In the present case one determination only is required. Take the frame consisting of the triangles L and K Fig. 1, shown separately in Fig. 4. The supports are A and D. Fig. is the stress diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The load BC, 10, is carried 5 to A and adds 5 to
+
+CD; DE adds 5 to CD and 5 to ET; and so on.
+
+Ignore loads at A and O as they do not affect the frame.
+
+There remain loads CE, ET, and TV, 20 each. The
+
+stress diagram, Fig. 3, easily follows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VTEC MV is the force polygon, made up of the loads VT, TE, and EC, and the two reactions CM and MV. It is a straight line because all the forces applied to the frame are parallel. Beginning at point 0 of the frame draw, in the stress diagram, from the ends of MV, the known force at 0, the two lines VP, and PM parallel to VP and PM of the frame. The force MV, the reaction at support 0, is upward. Following around the triangle in the direction given by that of the known force, VP is found to be in compression because the direction is towards 0, the apex, and PM
+
+The stresses for the complete frame, Fig. 1, are obtained by adding the respective stresses of Fig. to those of Fig. 3. BL Fig. 5, and CJ Fig. 3, give the required stress BL ; CK and CJ give CK BL and EH give DG ; and so on. In the bottom chord the end panels only are affected by the secondary system. LK, KJ, and the similar members throughout the frame are affected by the secondary loads only, while stresses JH, HN, etc., are obtained from the assumed primary loading only.
+
+It will he seen that this solution gives the same stresses as that of Professor Wright, whose solution would not be possible were the stresses LK, KJ, etc., due to anything else than the loads at the secondary panel points alone.
+
+The solution given is for static symmetrical loading. The maximum stresses in a roof truss are due to drifted ;now and wind pressure acting on one side only. These forces may cause reversal of some of the stresses due to static loads.
+
+The term vector diagram is new, to the present writer at least. It may have a certain fitness in that the objective at any stage is the determination of two lines of which the directions are known. It is farfetched at best, and is an unnecessary innovation. And why deprive ourselves of the useful and expressive word "stress" which has the authority of Rankine and other foremost investigators? Professor Wright lacks a common word for tension and compression. Why interpolate ''push" and ''pull" when we may as well say "compression" and "tension" directly? The direction followed around the diagram governs in either case.
+
+Some writers use — to indicate compression and + tension, on the mental association that compression subtracts from the length of a member and tension adds to it. It may he a matter of early training. The use of + for compression and — for tension has iii its favor the practical, and graphically strong, argument that ± is a good symbolical representation of a built compression member of a truss while — suggests a rod or bar, in tension.
+

@@ -1,0 +1,48 @@
+<doctype type="text;plate">THE	CANADIAN ARCHITECT AND BUILDER	113
+
+
+
+<article title="Hot Water Circulation" author="King, Robert W.">HOT WATER CIRCULATION.*
+
+By ROBT. W. KING, Mech. Eng., Mem. Can. Soc. C. E.
+
+
+
+I am announced to read a paper on hot water circulation; to this title should be added, '' With test for efficiency for hot water boilers,' since my reference to the principles of hot water circulation will be mainly for the purpose of opening up the subject and illustrating the points that have to he met in designing a hot water heating apparatus to obtain the best general efficiency, and also to give a method or plan of testing the efficiency of a hot water boiler. In Fig. t B represents hot water boiler, F, firepot S, smoke pipe; F P, flow pipe; R, return pipe; R A D, radiators. The dark portions of shading represent heat, light portions of shading, absence of the same.
+
+One of the main objects to be obtained in a hot water heating apparatus is the economical absorption of die largest amount of heat resulting from the combustion of the fuel, by the water in the boiler, conveying it by circulation to the radiators, and thence to the air of the room to be heated.
+
+
+
+The motive power of the circulation is the difference in temper-attire between the heat of the flow pipe and the return pipe. Water being made lighter in weight by heating, rises, while the colder water falls, and so produces a circulation of the water in the apparatus. In the same way, in illustration, the heating of air causes it to rise, while colder air falls to take its place, producing circulation of air. This is also the cause of wind, etc.
+
+
+
+It will be noticed from the shading that heat from the fire is gradually being absorbed by the water in the boiler as the gases pass to the smoke pipe, and their it appears in the water and is carried to the radiators by the circulating pipes, thence to the air of the room to be heated, the water returning to the boiler, minus a large amount of its heat, to be again re-supplied. The lower radiator (No. 2) represents the action of the circulation where the water is admitted into the bottom instead of the top of radiator; the circulation is likely not to be quite as perfect in this form as the upper.
+
+If will be not iced by the shading of the smoke pipe and upper portion of boiler that there is a larger proportion of heat shown in the smoke on the way to the chimney than in the water of the
+
+
+
+boiler at this its hottest part. This is necessarily so, since when the point is arrived at where the proportion of heat in the water equals the proportion of the same in the flue gases, the passing of heat from the one to the other must cease. Practically this point is never reached so we here show the proportions as stated. Now we have in the form here shown two separate systems of circulation—one of the heat units in the flue gases the other of the heat units in the water of the boiler. You will notice that the flow of these two circulations runs in the same direction. Now, could we reverse the direction of one of these systems so that the fire might commence its work where the water is hottest, and the gases be drawn to the chimney from the part of the boiler where the water is coldest, it is evident that we could by such means reduce our chimney gases to a much lower temperature, and thus absorb and capture a larger proportion of heat, increasing there
+
+
+
+*A paper read before the Toronto Engineers' Club.
+
+by the economy of the apparatus in the consumption of fuel. But to follow this point further is not an object in this paper.
+
+
+
+The next point I will touch on is the circulation of the water in the system, allowing that Fig. I represents a system where the circulation is open and free, and for comparison Fig. 2 represents a system where the circulation has been impeded. It is immateria, where the impediment to the freest possible circulation occurs,—if you block a water pipe a mile long at either end, or in the middle, the same result occurs as regards the amount of water that will pass through t lie pipe as a whole. Therefore an impediment to the circulation in the radiators, or the piping connecting the same to the boiler, will have the same effect on the working of the apparatus as a whole, as it would were the piping and radiators free and the impediment in the boiler itself. This is an important fact to remember.
+
+
+
+I will now proceed to illustrate how any defect in circulation injuriously affects the economy of the system as regards consumption of fuel. An impediment to circulation having occurred, as in Fig. 2, the water not having free access from the boiler, remains longer in contact with the heating surfaces of the same. The heat continues passing from the flue gases to the water in the boiler in greater quantity than the lessened circulation allows to pass to the radiators, until the heat damming up in the boiler itself causes it to become congested or over heated, until the boiler surfaces assume such an elevated temperature that but little, if any, heat can pass into the boiler from the flue gases, consequently more heat must pass to the chimney, causing waste of the fuel that produced it.
+
+The effect on the radiators is, that they being deprived of the heat for distribution that has been wasted as above explained, cannot radiate it into the rooms to be heated, and become on that account incompetent to perform the duty that may have been assigned to them. Fig. 2 is represented by this condition, you will note the flow pipe appears hotter and the return pipe colder, but the total heat given Out will be necessarily less. Continuing to press the firing under these conditions in order to heat the room, results in an increased proportional waste of fuel, until the point may be reached where the boiler makes steam, and disorganization generally of the system takes place.
+
+
+
+In regard to the haying of the connecting pipes it is necessary to have them free from all air traps or places where air can gath
+

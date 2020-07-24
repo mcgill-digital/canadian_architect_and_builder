@@ -1,0 +1,116 @@
+<doctype type="text;plate">	192	THE CANADIAN ARCHITECT AND	BUILDER
+
+
+
+<article title="The Strength of Timber and How to Test it." author="">THE STRENGTH OF TIMBER, AND HOW TO TEST IT.
+
+I PROPOSE to discuss in this paper the determination oft he chief mechanical properties of timber. I shall deal with the methods best adapted for obtaining their numerical values, and also the actual results obtained in the most modern experiments.
+
+You will find scattered through the older text books, the proceedings of various societies, and in other works an immense mass of experimental results of mechanical tests of various kinds of timbers, including all the timbers used in constructional work. Unfortunately, many of these figures are not very reliable, and if used in any calculations require to be used with the utmost circumspection and caution. There are three reasons for this statement
+
+
+
+(a)	The tests were in almost every case carried out on specimens of very small sizes, and often it is quite clear that the specimens were selected with great care, so as to insure straightness of fibres and freedom from all knots and other blemishes; they were thus by no means fairly representative of the average quality of the particular timber experimented on.
+
+
+
+(b)	From the unfortunately very loose way in which various timbers are named on the market, it is sometimes impossible to know now what the timber was which was tested.
+
+
+
+(c)	In no case, as far as I know, were any observations made to determine the amount of moisture in the timber at the time of the test, in most cases not even the time of seasoning was given, nor time of felling, &c. Now as will be seen shortly the moisture condition is a vital factor in determining the mechanical properties of timber.
+
+
+
+The first tests in which careful observations were made both as to moisture condition, and previous history of the timber were those made by the late Professor Bauschinger at Munich in 1883 and 1887, the results being published in Mitthilungen aus dem Mechanisch-Technischen Laboratorium der K. Technischen Hochsclule in Munchen," 1883 and 1887. He investigated very fully the influence of moisture on the strength both as regards crushing and cross bending. His first method of determining the dryness of his specimens was to dry sawdust or chips from his specimens in a current of dry, warm air at a temperature of 214 deg. Fahr. for about eight hours, and to determine the loss of weight by careful weighings before and after drying. The difference of weight shown by the two weighings divided by the dry weight gives the percentage of moisture present in the sample. He afterward adopted the plan of drying the whole tested specimen at the above temperature in an oven from two to four days, determining the loss as before by weighings. He eventually selected 15 per cent. as a standard of moisture to which all results should be reduced. (Timber in a dry, well-warmed house has probably about 10 per cent. of moisture.)
+
+
+
+The law expressing the relation of strength to moisture present in the specimen was readily determined by making tests on sev
+
+FIG. I
+
+
+
+RELATION OF CRUSHING STRENGTH
+
+
+
+TO PERCENTAGE OF MOISTURE. lN
+
+
+
+WOOD
+
+
+
+
+
+PERCENTAGE OF MOISTURE PRESENT
+
+
+
+
+
+eral specimens cut from the same stick of timber, the specimens being of different degrees of dryness. Plotting the strengths to a base of moisture percentage gave a curve of the form shown in fig. I.
+
+
+
+The equation to this curve gives the law expressing how the strength increased with increase of dryness. Making use of this law, the result at different moisture conditions can be reduced to
+
+
+
+From a lecture delivered by Professor Hudson Beare at Carpenters Hall, London, and reprinted from The Herald.
+
+the standard dryness of 15 per cent. for that particular class of wood.
+
+The next great series of tests were made on behalf of the Forest Department of the Board of Agriculture of the United States from 1891-1895. The experiments were made as to the mechanical tests by Professor Johnson, while all timbers were examined carefully as to their cellular structure, at Washington. Over 300 trees were cut down and experimented with, embracing ten different kinds of pine or needle leaf (soft woods) and five different kinds of broad leaf trees (hard woods) all United States timber trees.
+
+
+
+Very careful observations ~vere made as to the condition of the soil and climate where they were grown, the age and size of trees, and conditions of growth, time of felling, &c.
+
+
+
+As in Bauschinger's tests, to whom entirely belongs the credit of establishing a rational system of timber testing, very careful determinations were made of the moisture conditions of the tested bars. For this purpose, they adopted the plan of cutting a thin disc across the whole of the section of the stick as close to the fracture point as possible. These were at once weighed and again weighed after drying for a sufficiently long period in a current of warm, dry air, temperature 220 deg. Fah. As in Bauschinger's experiments, it was again found that the moisture condition was a vital one in determining the mechanical properties.
+
+
+
+Johnson's crushing tests of	similar material with different de
+
+FIG 2
+
+RELATION OF CRUSHING STRENGTH
+
+		TO PERCENTAGE	MOISTURE
+
+
+
+—TIMBER GRADUALLY DRYING
+
+	- - - -		RE-ABSORBING
+
+
+
+
+
+
+
+grees of dryness, as shown by fig. 2, seems to show that the greatest strength is reached not when the wood is absolutely dry, but with some 3 per cent, or 4 per cent. of moisture. It is somewhat difficult to ascertain this with perfect accuracy as absolutely dry wood re-absorbs moisture so rapidly from the air; it is how ever not a point practical importance as such dryness condition as 3 per cent. is never found in actual practice.
+
+
+
+Another point, however, of much greater practical importance brought out by these tests was that re-absorbed moisture has the same effect in weakening the timber as the original sap. This is shown by the two curves in fig. 2, one being a series of tests of material undergoing a steady increase of dryness, the other of material with its moisture being steadily increased by absorption.
+
+
+
+This, of course, is of importance in such cases as timber in use underground in damp situations where no means are taken to prevent the absorption of the water. He found as a general rule that the strength with 12 per cent, moisture was, with all species, 75 per cent. greater than when "green."
+
+
+
+The form of these curves for variation of strength with variation of moisture indicates clearly enough that increase of moisture beyond a certain amount has little effect, the reason being that we are then merely filling the cells themselves with water and similarly, when drying, the curve begins rapidly to steepen when the walls themselves begin to dry; this occurs in the case of pines at about 33 per cent. moisture.
+
+
+
+Another question investigated in these tests which we may deal with here was whether or not "bleeding·' or tapping for turpentine, the " pitch pine had any harmful effect upon its mechanical properties. (It has been freely stated that it did, as well as on its durability.) The experiments showed, as a result of over 1,300 separate tests, no such result; the mechanical properties were apparently not in any way injured. An investigation was also made as to effect of rapid seasoning, and here, again, no injurious effects
+

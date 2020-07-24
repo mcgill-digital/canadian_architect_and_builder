@@ -1,0 +1,42 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	67
+
+
+
+Mr. Baillairge was appointed, by the Marquis of Lorne, a member of the <assoc>Royal Academy of Arts </assoc>and a fellow of the Royal Society of Canada. He was an hon. M. A. of Laval University; a Chevalier of the order of St. Sauveur of Italy, and an hon. member of various learned societies throughout the world. He was one of the original members of the <assoc>Society of Canadian Civil Engineers</assoc>, and was an early president of the Province of Quebec Association of Architects. He was twice married; in 1845 to the step-daughter of the late lion. G. F. Duval, Chief Justice of Lower Canada; and in 1879 to the daughter of Capt. Benjamin Wilson R. N. His son has succeeded him as city engineer of Quebec.
+
+
+
+
+
+<article title=" EARTHQUAKES AND EARTHQUAKE-PROOF
+
+BUILDINGS." author="Scott, William F.">EARTHQUAKES AND EARTHQUAKE-PROOF
+
+BUILDINGS.
+
+By WILLIAM F. SCOTT.
+
+
+
+A match will start a flame that will light a cigar. This same flame will light a city into an unquenchable blaze if the conditions of fuel and air supply are favorable and the provisions for fire protection unfavorable.
+
+In the recent San Francisco catastrophe we have a case where the fuel was the wooden buildings and the air supply that ever present draught through the Golden Gate. The earthquake supplied the match and incidentally destroyed the water supply for fire protection, which under the most favorable conditions was not of the best on account of the steep hills throughout the city. This great western port of the United States was a wooden city, the exceptions where wood did not prevail consisting of a comparatively small percentage of buildings in the business section. The '' Native Son" always gave as the reason for this fact that buildings of wood were safe against earthquake shocks and because of the non combustibility of the California redwood were insured against a great conflagration.
+
+That their faith in wood has been "shaken" and will be transferred to steel or steel concrete is the lesson written in the ashes of this catastrophe. The fire swept over an area of about seven square miles and of the buildings in this burned district the modern steel frame structure stood out in grand contrast to all other types. They even stood the test better than might be expected because few of them were built in any way different from the conventional Chicago-New York Steel Skeleton which was designed to resist static loads and wind pressure only, and in which such strains as would be caused by an earthquake tremor were not considered. The cumulative resistance in the joints of these steel frames was undoubtedly a great factor in helping them to withstand the recent earthquake shocks, but to make this function positive the joints should be specially designed for the forces they must resist. Certainly reinforcement of this sort would add greatly to the power of the building to retain its enclosing materials from displacement.
+
+That the steel frames stood the test is more than can be said of their covering or rather of the methods of binding the enclosing materials to their skeleton. The manner in which the brickwork between the steel framing of the tower of the magnificent City Hall fell in ruins about it is a good illustration of a vital point in the design of the conventional skeleton construction when applied to buildings that are to resist the strains
+
+of an earthquake shock. This tower was built on a steel skeleton frame well braced in the circumferential framing but not provided with steel bracing in the vertical radial planes. The walls of the main building and colonnade which formed the architectural base of the tower were of ordinary masonry construction and served the purpose of bracing the steel in the radial planes, thus when these walls were disturbed by the earthquake shock the tower was free to oscillate, which in turn caused the displacement of the spandrel filling between the steel framing.
+
+The tremors of an earthquake pass over the face of the globe as waves in the fluid earth. They are more complicated than the waves of the ocean but their effect upon a building is analogous to that produced upon a boat at sea. There is a vertical and a horizontal force in the motions of these waves, therefore, if a building is to safely ride them it should be built with the same continuity and rigidity of frame as is obtained in the great ocean liner of to day which, considered structurally, may be likened to a pair of huge curved plate girders braced transversely with trusses and gusset portals. The ideal earthquake-proof building, then, should be, figuratively speaking, an ocean liner on end with the stern supported on a sufficient base of concrete and with the windows built in the same manner as are the port holes of the ship. But the architect is not permitted to make such radical departures from the conventional types of buildings. He must have square windows and pierce one-third his walls upon which he must write the alphabet of historic architecture. The ideal, therefore, is impossible, but a compromise between the ideal and the common type of skeleton construction is practicable.
+
+It is beyond the scope of a short article to enter into details as to just what such a compromise would be; these details would vary with the individuality of every engineer who attacked the problem. However, I would premise three certain and Fundamental requirements that must be considered in these details:
+
+(1) There must be a rigid connection between the columns and girders of the skeleton frame but flexibility must not be sacrificed to rigidity.
+
+(2)	'[here must be continuity in the foundation for the skeleton.— The writer is of the opinion that the principle of construction of the ''lighter" should be kept in mind for these foundations.
+
+(3)	There must be a comprehensive method of binding the enclosing masonry with a view to making it an  integral part of the skeleton.
+
+Steel-concrete and steel were mentioned above as competitors for place in the faith of future earthquake-proof builders. The developments in this method of construction are comparatively recent chronologically speaking, but there is no doubt that reinforced concrete will be an important factor in the development of these buildings. earthquake-proof building we have said must have continuity and rigidity of frame and must withstand severe shocks. The driving of reinforced concrete piles 35 or 40 feet in length without any shattering proves that the resistance of this material to shocks is very great ; and as for the continuity and rigidity of this form of construction there is no more ideal method of obtaining both. It is just a question of placing sufficient reinforcing material where it will perform these functions.
+

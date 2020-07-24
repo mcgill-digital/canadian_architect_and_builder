@@ -1,0 +1,54 @@
+<doctype type="text">
+
+<article title=" STRUCTURAL IRON AND STEEL WORK." author=" Black, Alex ">
+
+Manufacturers' lists of sections of rolled-iron joists usually give weight per foot run, and the safe load for a variety of spans for which they are in usual practice adapted. It must be observed that these lists differ as much as 25 per cent. for the same section, the smaller loads having five tons per inch of section as the limit of stress, the larger loads taking a greater limit perhaps over six tons. The safe load on steel joists of similar section may be taken at 40 per cent. greater than for wrought iron, but the deflection in steel joists will for the correspondingly greater load be 40 per cent. greater than the deflection of iron. When the depth of joist is one-twenty-eighth of span, the theoretical deflection will be about 1/2 in. for wrought iron joist, but for a similar steel joist with 40 per cent. more load it will be about 34 in.
+
+As rolled beams are often made of inferior iron, the limiting stress of the extreme fibre of the flange should not exceed four tons per square inch of the flange section, especially in the flange in compressive resistance. The limit of fibre stress on steel joists is 61/2 tons per square inch of flange section. Steel joists differ in appearance from iron joists in having generally a smoother and more cleanly-rolled surface.
+
+It is more economical to use a deeper section in proportion to span than one twenty-eighth, in order to limit the stress to four, five, or six and a half tons, as the case may be, per square inch of flange section, and avoid undue deflection. Thus, if the depth be from one-fifteenth to one-eighteenth of the span, the deflection in centre should not exceed 18 in. in every ft., or one four-hundred-and-eightieth of clear span. This deflection will not crack plaster ceilings.
+
+A usual approximate estimate of safe load for cast-iron tubular columns of height=12 to 15 diameters, thickness of metal being one twenty-filth of section area or one-ninth of diameter (per square inch of section area) 21/2 tons. For stanchions of + , with equal arms, 12 to 15 diameters in height (if of unequal arms the least dimension of cross section is taken), two tons.
+
+	Eighteen diameters in height	1 ton.
+
+	Twenty	12/3 ton.
+
+	Twenty-two	11/3 ton.
+
+	Twenty-four	ton.
+
+	Twenty-six "	1 ton.
+
+	Twenty-eight	1 ton.
+
+	Thirty	2 ton.
+
+
+
+A column or stanchion of a height under about 12 diameters will fail by crushing, but when over that one-twelfth ratio of diameter to length or height, it fails by bending. A small deviation of axis, of pressure from axis of column, or a slight bend in casting makes the load act eccentrically, and may reduce strength to one-half or one-third of normal conditions.
+
+The tubular form of column being a more efficient disposition of metal to resist longitudinal pressure than the + or similar open form of section of stanchions, the diameter of the arms or flanges and the thickness of the metal is increased by about one-fourth to one-fifth, so that thereby the metal cross section area becomes increased by about one-eighth to one-fifth, according to increase of height ratio. As castings are sold by weight economy is sought by making wide slot openings, 24 in. to 30 in. long, at intervals in the flanges. This, however, can only properly be done when the metal section, which may be required to fill up a certain width for the sake of appearance or symmetry, is made in excess of statical requirements.
+
+HEATING RULES.*
+
+are approximate rules of the size pipes necessary to warm rooms with hot air, by which furnace iron are gilded. These rules, coupled with a practical knowledge of the conditions upon which they may be increased in size, or decreased, are as follows, for rooms on the first floor An eight inch pipe may he used for a room containing one thousand two hundred to one thousand five hundred cubic feet of space, provided the room has not more than one wall exposed, and the pipe not more than six or eight feet from the furnace. If the room has two or three exposed walls a nine-inch pipe would be necessary.
+
+A nine inch pipe for a room containing one thousand five hundred to one thousand eight hundred cubic feet under favorable conditions. The same size room under unfavorable conditions, such as large wall and glass exposure, and long distance from furnace, say twelve or fifteen feet, will require a ten inch pipe.
+
+A ten inch pipe for a room containing about two thousand cubic feet of space with two walls exposed, and hot air pipe not longer than eight or ten feet, but under unfavorable conditions, such as long distance from furnace, and large wall and glass exposure, same size room would require a twelve inch pipe.
+
+These examples are given to show you that it is difficult to lay down a hard and fast rule, that must, under all conditions, be observed for the size pipe required to heat a given space with hot air.
+
+We all know that there are rules given by which the quantities of air passing through a pipe of given size can be figured out. So also can the temperature of the air and its velocity be calculated. A knowledge of these rules arid how to figure them out is a good thing to know, but the furnace man who depends upon figuring out the sizes pipes necessary, according to these rules, will get sadly astray. and will probably come to the conclusion that it is not always true that figures do riot lie.
+
+I have diverged somewhat to explain why an eight, nine or ten inch pipe will not always heat the same size room, and will now go on to tell you how I would arrive at the sizes necessary, when hot air and hot water heat is to be used in the same room.
+
+The room to be warmed, we will suppose, is fourteen feet wide, twenty-five feet long and ten feet high, containing 3,500 cubic feet of space it has a bay window and faces the north it has two walls with outside exposure and is considered a room requiring a large appropriation of heat to warm it in severe cold weather.
+
+If the furnace has large hot air duty to perform in other parts of the house, I would use, in this case a ten inch pipe, and as the hot air register is only about five feet from the furnace, it will warm, tinder these circumstances, 2,500 cubic feet of the space of the room. I then take the balance of the space, which is 1,000 cubic feet, and for hot water allow one square foot of radiation for each twenty cubic feet of space, which will be fifty square feet. This may seem to you a larger ratio than is usually allowed, but when you consider that this radiator has the cold air of a bay window, with a large cooling surface surrounding it, you will readily understand the wisdom of providing plenty of radiation.
+
+
+
+*	From a paper on Combination Heating by John Miller read before the Master Steam Fitters' Association,
+

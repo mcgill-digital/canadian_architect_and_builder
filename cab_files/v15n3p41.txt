@@ -1,0 +1,66 @@
+<doctype type="text">
+
+
+
+tributed is considerable Its use with perfect safety can only he left to the judgment of the mason.
+
+27.	The flippers clutch the stone on the outside. Danger may arise if the small holes picked out to receive the flippers are so near the top edges of the stone that the points drag out; or again, the centre of gravity may be above the points causing the stone to turn over and fall.
+
+28.	It is, of course, assumed that the plant in use has been, both in point of quantity and quality (and the first is of
+
+29.	 equal importance with the second), fully sufficient. It is regrettable that often in actual practice this has been found not to be so. Inferior tackle has been and is responsible for many accidents. Many lives, again, could have been saved if a little forethought had been used and compliance made with those unwritten rules by which workmen should be guided. Fig. 16 will give a clear illustration of what is meant. A labourer in building a scaffold required a ledger at point A. He fetched it from point B. He carried it upon his right shoulder, and in turning the corner in the direction of the arrow the end of the pole struck against standard C. The recoil immediately knocked him off the scaffold. If the pole had been on his left shoulder the blow would have fallen harmlessly, and his fife would not have been lost.
+
+The following suggestions, if carried out, would tend materially to reduce the number of accidents occurring on buildings in course of construction or repair
+
+(I)	All working platforms above the height of 10 feet taken from the adjacent ground level should before employment takes place thereon, be provided throughout their entire length on the outside and at the ends
+
+(a)	With a guard rail fixed at a height of 3 feet 6 inches above the scaffold boards. Openings may be left for workmen to land from the ladders and for the landing of material
+
+(b)	With boards fixed so that their bottom edges are resting on or abutting to the scaffold boards. The boards so fixed should rise above the working platform not less than 7 inches. Openings may be left for the landing of the workmen from the ladders.
+
+(3)	All runs" or similar means of communication between different portions of a scaffold or building should be not less than 18 inches wide. If composed of two or more boards they should be fastened together in such a manner as to prevent unequal sagging.
+
+(4)	Scaffold boards forming part of a working platform should be supported at each end by a putlog, and should not project more than 6 inches beyond it unless lapped by another board, which should rest partly on or over the same putlog and partly upon putlogs other than those upon which the supported board rests.
+
+In such cases where the scaffold boards rest upon brackets, the foregoing suggestion should read as if the word bracket replaced the word putlog.
+
+N.	B.—Experiments have shown that a board with not more than a 6-inch projection over a putlog can he considered safe from trapping or tilting.
+
+(5)	All supports to centreing should be carried from a solid foundation.
+
+(6)	In places where the scaffolding has been sublet to a contractor, the employer should satisfy himself
+
+before allowing work to proceed thereon, that the foregoing suggestions have been complied with and that the material used in the construction of the scaffold is sound.
+
+
+
+<article title=" TESTS OF STRENGTH OF HOLLOW BUILDING BLOCKS " author="Marston, A.">TESTS OF STRENGTH OF HOLLOW BUILDING BLOCKS.
+
+At the present time interest is being attracted to the use of hollow blocks in place of solid brick in building construction. Thc advantages of these blocks are well known and some of them may be enumerated as follows The principal advantage probably is in the saving of weight. In shipping this is of great importance, especially where the material must be sent long distances. In the walls themselves the saving of weight may often be of great importance as it lessens the loads on the other parts of the building and on the foundations. Another advantage is in the air spaces in the walls made by the hollow spaces which insure a drier wall. As regards the convenience in rapidity of laying the writer's impression is that the hollow blocks have the advantage in this, but he would request the opinions of others who have had experience along this line.
+
+however hollow blocks are comparatively new in the construction of brick masonry and it often becomes difficult to secure their use. The principal objection which is raised to them is their lack of strength compared with solid brick This objection is so strongly urged that it furnishes a valid excuse for the presentation of a few tests which are to bc described below. In the summer of 1901 the <firm>Grinell Opera House Co.</firm>, of Grinnell, Ia., was considering the use
+
+hollow bricks in the construction of their new <building>Grinnell opera house</building>. Fearing that they were too weak for the purpose the company decided to have some tests made before deciding on their use. The specimens to be tested represented the product of the <firm>Mason City Brick & Tile Company</firm>, of Mason City, Ia., and were not selected by the company for the test. Instead they were taken at random from a pile of hollow blocks already delivered in Grinnell for the construction of another building. Hence they may be supposed to represent the average material that is actually used in building.
+
+Four blocks were tested Tests were made on the 100,000 lb. Rieble testing machine at the <building>Iowa State College </building>at Ames. The sizes of the blocks were respectively 4x8x12, 4X4X12 and 4x5x12. Two blocks 4x8x12 were tested. The 4x5x12 is an unusual size. These arc the nominal dimensions in each case. Actual dimensions sometimes varied a quarter of an inch or a little more from those given. The results are indicated in the following table.
+
+	SIZE AND POSITION	TOTAL LOAD, LB.	TONS PER SQ. FT.
+
+	OF BLOCK.	First Crack. Crushed. First crack. Crushed
+
+12x8x4-Flatwise	13,500	79,500	10.9	64.0
+
+12x8x4-Edgewise	9,000	39,750	13.5	59.6
+
+12x5x5-Flatwise	10,000	34,000	11.5	39.1
+
+12x4x4-Flatwise 12,000 38,600 17.6 
+
+
+
+in all these tests the specimens were imbedded in plaster of Paris at the top and bottom which was allowed to set in 90 minutes. An adjustable top bearing was used to enable the machine to adjust itself to lack of parallelism of the top and bottom.
+
+For comparison it may be said that architects allow
+
+* <person>A. Marston</person>, in Brick
+

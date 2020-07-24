@@ -1,0 +1,41 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	February, 1891
+
+
+
+<article title=" SLOW-BURNING CONSTRUCTION.
+
+" author="Burke, E.">SLOW-BURNING CONSTRUCTION.
+
+BY E. BURKE.
+
+
+
+MANY f the methods of building now in vogue are very defective with regard to fire-resisting qualities. These methods are retained with a tenacity which indicates a very conservative habit of mind and an unreasoning adherence to traditions of methods of building which are unworthy of this scientific and progressive age.
+
+The prevailing type of building could scarcely be improved upon if we should set ourselves to design a structure which should in the most rapid manner convey fire to every part while at the same time shielding the conflagration from the effects of water thrown upon it from the exterior. Every floor consists of an aggregation of flues connected with other flues between the strapping or alongside of hot air flues, runs for pipes, etc, In very many instances it occurs that a fire, starting in the basement, next shows itself in the attic on account of this method of construction, or by-means of unprotected elevator and light shafts.
+
+The method of attachment of the beams and joists to the brickwork is also very defective and illogical. The beams are so securely anchored or tied into the brickwork as to utterly demolish the walls when these burn through and drop. In like manner the joists cause similar destruction of the remaining walls. Frequently, after carefully beveling off the ends of the joists with the hope of averting this disaster, we deliberately anchor a number of these very joists to the walls so thoroughly as to entirely nullify the good effects of the beveling. Again, we still have occasion to observe the use of 3" x 4" bond-timbers in walls only 9" to 13" in thickness. Could any method be invented for more surely bringing down a wall than this? This method of building makes a party wall of less thickness than 18" practically useless as a reliable fire stop, while even the latter thickness will, with the construction referred to, permit the passage of smoke and the consequent ruination of goods.
+
+The methods of thoroughly fire proofing buildings are too expensive for the ordinary class of store, factory and mill property. A fire-proof mill is conceded to be a commercial impossibility. The enormous losses in buildings of the warehouse, mill and factory class, constructed in the ordinary way, combined with the heavy premiums exacted. by insurance companies, forced the mill owners in the large manufacturing centres of the New England States some years ago to call a halt and endeavor to reform the methods then in vogue. The system of slow-burning construction was gradually evolved through the efforts of Factory Mutual Insurance Companies. As a proof of the success of this system combined with the use of automatic sprinklers, the rate of insurance per annum has been reduced from 2 1/227526 less than of one per cent. The principle of this system may be briefly described as "the construction of buildings in such a manner asto ofter the most efficient means of retarding the spread of fire; the aim being that the limits of destruction shall be reduced to a minimum by making buildings slow-burning, rather than striving to make them fire-proof."
+
+The chief points to be avoided are rafters or joists placed at the usual 16" to 20" centres and set edgewise, (Fig. 5). all hollow spaces in either roofs, floors or wainscot, boxed cornices, open elevators or stairs, iron doors or shutters.
+
+The main points to be observed in safe construction are: Solid beams or their equivalent in planks bolted closely together and spaced 8 to 10 feet centres; ends of timbers ventilated by a proper air space, (Figs. i and 2), Fig. i being a simple won plate, and Fig. 2 a cast iron box. Wooden posts of proper size, bored with at least an 1 1/2" core with 1/2" holes near top and for ventilation (Fig. 3), (a) shows iron pintle and (b) wood post carried to cap of post below. Floor planks of from 3" to 5" thick according to span, finished floor of 1" to 1 1/2" matched stuff with 3/4" of mortar between or double thickness of asbestos sheathing paper (Fig. 6). A space of 1/2" to 3/4" should be left between walls and floors to allow for swelling of planks and the gap thus formed may be concealed by a fillet. Roofs nearly flat of at least 2" thickness, beams projecting beyond walls forming brackets for gutters (Fig. 4). Doors where necessary to stop fire of double inch put together diagonally and completely encased with tin locked and tacked, the frames also covered. In many cases these doors should be automatic in action, an alloy fusible at a comparatively low temperature being incorporated with the apparatus holding them open.
+
+The ideal slow-burning mill is but one storey in height, the area being obtained by greater width of building, light reaching the centre by means of skylights or monitors (Fig. 9). When land is expensive or the available space contracted, it becomes necessary to build higher, but always of course with increased fire-risk. The stairways as well as the elevator shaft should be enclosed with solid brick walls (Fig. 7). All belt holes should have raised edges and the doors thresholds to retain water and prevent damage to lower floors.
+
+The saving in height of building where the system is carried out in its simplicity will amount to about 10" in the height of each storey, resulting in less brickwork, less stairs, piping, heating and belting (Fig. 8). The weight of the old style floors and the slow-burning is nearly identical, but if the sheathing of ceilings of the former be omitted the difference is about 10 12393928n favor of the latter.
+
+With solid floors belt holes can be conveniently cut at any place between the beams without the weakening effect so often seen in factories, when frequently the joists have to be cut. It is also claimed that the solid plank floor has less vibration than the hollow one of joists and thin floors. There is also the absence of lurking places for vermin and dust.
+
+The elastic, or cushion property of wood, makes it the most suitable and practicable material for the construction of floors for industrial purposes
+
+Machinery will rack and wear out much sooner on stone or iron, unless cushioned, than on wood.
+
+Southern pine, on account of its qualities of strength, straight grain and elasticity, is the favorite wood for mill beams, but it would be altogether too expensive for use with us. Our white pine of perhaps a little larger scantling, is a very suitable wood.
+
+The strength of wood varies greatly, even in pieces of the same kind and dimensions. Authorities say that it is the elastic limit rather than the breaking strength which should be considered in the case of floors carrying weight, and that continual strain causes what is termed fatigue of the fibres of the wood, causing eventual breakage under loads of less than the instantaneous breaking weight. A load of less than the elastic limit should therefore be provided for, and as this limit is not obtainable with any degree of accuracy, a factor of safety of 6 is recommended for dead loads, and double that for live loads.
+
+Woodbury, in his work on mill construction, gives some very interesting tables of strengths of beams and floors. The following are a few quotations for a storehouse, but not for the support of machinery, the deflection being somewhat more than would in that case be advisable: Beams of southern pine, 8 ft. centres; spruce plank, weight of goods 100 lbs. to the sq. ft. in addition to the weight of material of construction; thickness of floor plank 3.42; span 1373 ft. ; beam 6" x 12" for a span of 17-23 ft. - a 7" X 14" beam; and for a span of 20.96 ft., a beam 8" x 16". For a load of 200 lbs. to the sq. ft., a 12" x 6" beam would be safe for a span of 10.98 ft; a 14" X 7" beam for 13-80" ft; and 16" x 8" for 16.8I ft., with a floor thickness of
+
+4.83 inches. The elastic limit of the deflection of floor beams is said by the same writer to be about one 400th for a span of say 25 ft. or 3/4" while the floor plank in a span of 8 ft. should not deflect more t

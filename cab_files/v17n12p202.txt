@@ -1,0 +1,70 @@
+<doctype type="text">202	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" TWO PAPERS ON REINFORCED CONCRETE
+
+CONSTRUCTION.
+
+" author="">TWO PAPERS ON REINFORCED CONCRETE
+
+CONSTRUCTION.
+
+These papers were read at a regular meeting of the Royal Institute of British Architects on November 21 last.
+
+
+
+The first paper, by Mr. William Dunn was as fol CONSTRUCTION AND STRENGTH OF REINFORCED
+
+CONCRETE
+
+Owing to many unpleasant experiences, there was, he remarked, a feeling among many architects and builders that concrete was a treacherous and unreliable material. In all such experiences there was something mysterious; the cement came from a maker of established repute, it had been specified "Best London" Portland cement, the sand and gravel looked clean, and the builder was an honest man. Nevertheless, it failed to set, it cracked, it thrust out the walls, and generally led to a great deal of trouble. To make good concrete much care in the selection of the materials and in the mixing was required. The cement was the most important ingredient, and the only way to get good cement was to constantly test it and reject that which was faulty. If the fact that it is frequently tested becomes known to the merchants, it will be found that bad cement would be less and less frequently sent. When floors, walls, roofs, or pilliars are made of concrete, a bad cement is really dangerous to lite. It would be an excellent plan if the Institute, the Builders' Institute, and the cement makers could agree upon a standard suitable for architectural work. But until such a standard was fixed, architects must describe it themselves in their specification. Many cement experts had given model specifications, but there are some points in cement specification required for building work which a cement expert scarcely values.
+
+
+
+FINENESS OF GRINDING
+
+
+
+Is all important, as only the very fine particles have cementitious value. Foreign makers were much ahead of us a year or two ago ; now we can get an English cement which will all pass a 76 by 76 and leave only 18 per cent. on a 180 by 180 sieve. This is a very fine cement, and perhaps too good for' ordinary cement. All, however, should pass 50 by 50 and leave only 5 per cent. on a I 20 by 120 sieve. A good cement is economical; we make a stronger mortar or concrete with much less of it, so that the extra cost is more than repaid. The particles which are retained on a 50 by 50 sieve are practically so much sand. The author strongly urged the use of a slow-setting cement. Pats made with the minimum quantity of water should set in not less than five hours when the temperature is at 34 Fahr., and in not less than twenty minutes when the temperature is at 75°, and proportionately in time when the temperature is between these points.
+
+
+
+SIMPLE TESTS.
+
+Soundness or constancy of volume is one of the most important qualities a cement should have. Tests without elaborate apparatus are fortunately available. Make two cement pats on small pieces of glass, tap them out to a circular shape, about 3in. diameter, 1/4in. thick in the centre, and with thin edges ; keep one under water and one in air for several days. The cement should then show no cracks, change of shape, or tendency to curl off the glass, f sound. The author described other methods of testing, and strongly urged architects to test their cements by one and all of them as often as they could ; it would save many after troubles. Tensile strength he regarded as the least important ; it is the test on which the most varied results may be got by different observers according to the method employed in filling the briquettes. A strength of 4oolb. per square inch at seven days, and 25 per cent. increase in twenty-eight days, is usually asked for and easily attained ; many briquettes he had found go up to nearly 1,000lb. at seven days.
+
+FREE LIME IN CEMENT.
+
+
+
+It is not unusual to specify that sufficient cement should be delivered on the works at starting, kept stored in a dry weather-proof shed to a depth of not more than 2ft., and turned over daily for a fortnight before use. It is found that makers send out the cement hot from the mills, and (unless it is very highclass cement) it is much improved by air slaking. Aeration seems to improve an inferior cement by the slaking of the free lime, which if it took place in the work would be dangerous. A thoroughly sound cement should have no free lime in it, and is not improved by air slaking ; it rather suffers. Cement in which there is no free lime can be produced by the maker, but it requires much care in the making, and is consequently expensive. As regards the
+
+AGGREGATE,
+
+
+
+the strongest concrete is made with gravel ; the size should vary from large sand to small stones, passing a 1/4in. or ½in. mesh, for floors or walls, to 1 ½in. or
+
+even more for foundations. The cleanness of the aggregate and the water is most important, as is also the cleanness and sharpness of the sand. Small sand, such as would run in an hour-glass, is utterly useless
+
+—the sand must be fairly large and sharp ; it should vary in size the more uneven the sizes the smaller the voids. The finer the sand the less the strength. There should never be more than three of sand to one of cement.
+
+MIXING THE MATERIAL.
+
+
+
+The author described the process of mixing concrete, which should always be done under supervision. Concrete mixing machines are much used in America and on the Continent, producing very good and uniform results. These machines are rarely seen here. One has frequently seen on a building a lot of concrete mixed up, and left for an hour or so before being set in place. If too stiff more water was added. Such treatment of the material invites disaster ; initial set begins very quickly, and the concrete should be put in position as soon as mixed, and without a moment's delay. When the concrete is eventually laid on the centring, or put in the moulds, it is put in in thin layers 2in. to 3in. thick, and beaten down with iron beaters very carefully all over. This is essential in order to prevent the formation of voids, and to increase the resistance of the concrete.
+
+STRENGTH OF CONCRETE IN PLACE.
+
+
+
+Mr. Dunn then treated in considerable detail of the strength of the material in place, describing various tests of cement made by eminent scientists, and illustrating by diagrams and mathematical calculations. For further mathematical investigation of the subject, he referred those interested to Professor Perry's " Applied Mechanics"(p. and to M. Considere's experiments, the results of which were communicated to the French Academie des Sciences in a note of March 18 last—an abstract of his communication appears in the Genie Civil for April 30. These writers base their discussion on Rankine's Ellipse" of Stress, which, as given in Rankine's own words, is not easy to grasp. In Alexander and Thompson's "Elementary Applied Mechanics." however, the ellipse of stress is fully explained, and a preliminary reading of part of the last-named book should enable anyone to follow Considere's or Perry's reasoning. The resistance to the swelling and bursting action to which columns in concrete alone would be subject can be produced by binding the columns with iron or steel wire. Makers of concrete columns do so bind these according as the effect to be combated is more or less clearly understood. What is done in the Hennebique column is done by other concrete specialists. In all there is first the concrete second, vertical bars of metal, iron, or steel ; third, bindings of sheet-metal or wire.
+
+THE METHOD OF CONSTRUCTION
+
+
+
+is very simple. A wooden box or mould is made in which the rods are set upright ; one of the bindings is then put in, and about 6 in. or 2
+

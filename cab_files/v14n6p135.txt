@@ -1,0 +1,50 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+more certain knowledge of tested adhesive and shearing resistances of the usual mortars employed.
+
+RENDING STRESSES AND LINES OF RUPTURE
+
+<article title=" RENDING STRESSES AND LINES OF RUPTURE " author="">
+
+Fig. 1 is a diagram indicating by the thickened zigzag lines the static rending stresses produced by the normal upward reaction of the soil. It has also a tangential tendency in the direction of the areas, 1, 3, 2 to withdraw the toothing about the vertical lines of the cantilevers. The arcs start from the lower ends of the radial leverage lines with which the static pressures normally act. The cantilevers are hinged at their upper ends, 1, 2, 3 (FIG. 1.
+
+and swing in the direction of the areas, 1, 3, 2, on one side of the axis, 4, 2, 3. The longer the radius and the less the horizontal leverage the hatter is the tangential stress, as in Fig. 2. It is observable that there is more tendency in the small cantilevers to break the bricks across towards the top courses of the footings. The tangential stress is most active in the bottom course. The outside end of header bricks in one course breaks joint with those in the next courses. In looking over some of the tests made by Mr. John Grant in connection with the Metropolitan main drainage works 1858-71, it is found that white chalk mortar (three sand) gave 4 3-4 lb. per square inch adhesion to stock brick at 28 days old. If 2 1-4 lb. he taken as an effective mean resistance stress on the tooth joint, then 2 1—4x8 square inches in 1 ft. high of tooth joints gives 18 lb. of resistance for ft. projection. But the London Building Act footing only requires three-fourths of this -i.e., 8-3rds or 48 lb., which for a uniform toil resistance allows a margin of 29.35 11). per inch of longitudinal wall section to meet accidental weaknesses or drawbacks from damp soil and other usual causes of possible occurrence
+
+TRANSVERSE STRESS INCREASES UPWARDS 
+
+<article title=" TRANSVERSE STRESS INCREASES UPWARDS " author="">
+
+Fig. 2 is an exaggerated diagram of the required in creased height of the footing courses upwards, so as to' lie the more readily observable. The projections are equal in every course at both sides. Each narrower footing course has proportionally smaller area to support the same gross load titan the course below it. Hence each upper course having the greater unit load requires the greater transverse strength imparted to it by increase of height. If each brick area in a course has 1 -4 ton of load then each half —brick area that each higher course is lessened has 1—8th ton more of load than the course below it. This added load is divided over the lessened area or number of bricks. Since the transverse strength of the cantilever increases as to square of its depth, double the load only requires the addition of the square root of its depth. If, then, the transverse strength of one—brick course is sufficient thickness for the bottom course of, say, four bricks, then the next higher course must be increased by one-eighth of its transverse strength—i.e., one-eighth of the square root of the depth of the bottom course. If there were eight courses of equal offsets, then the increased height of the upper course would be the square root of the effective thickness of the course. Many kinds of bricks vary in thickness from 2 1—2 in. to 2 3—4 in, the bed joint of mortar being about 1—2 inch thick.
+
+a 2 3 .4 in. thick brick, the added thickness required in the top course will be 1.7 in., or nearly 1 3-4 in. This assumes the footing bricks to be sound and reliable.
+
+TRANSVERSE STRENGTH OF BRICKS.
+
+
+
+It is surprising that with so much brickwork used in footings, where their transverse, sir strength is vital to the stability of structures, there should he so few tests published. We are principally indebted to the United States of America for the data there exists. Prof. Baker, of the Illinois University supplies tests of bricks of high— class manufacturers. Thus, machine-made of stiff clay, best 50 per cent. in the kiln gave coefficients 42 lb. minimum it 82 lb. maximum square inch dry clay
+
+pressed ) . 8 lb. to 27 lb. face bricks in wall 17 years, 11 lb. . to 23 lb. averages. the engineer of the i.e. high Valley Railway's data is quoted for Eastern States bricks.: medium hard,'' 28 lb. to 36 lb. per square inch 'soft' ( underbred ) , 15 lb. to 25 lb. per square inch. There are other higher results for ''very bard' and ''hard' bricks, good-shaped and sound. but that class are not
+
+often put into ordinary foundations. The hard ones here are generally shapeless, which exposes them to abnormal stresses. The above, however, will compare with common stocks that are so much used here. Take, for an example, the minimum breaking coefficient for ''medium hard," sufficient for railway works and a factor of safety of four to five, giving a safe coefficient of 6 lb. per inch of centre load for a rectangular beam supported at both ends, then for the cantilever uniformly loaded 3 lb. is the coefficient. The effective leverage (if a quarter brick with 1—2 inch mortar joint is 3 in. equals .25 of ft. span. The safe load on it equals 3 lb. x 2.5" divided by .25 equals 3 x 6.25 equals 18.75 divided by .25 equals 75 lb. on a quarter—brick offset for in. length of footing along the wall line. Since 1-12th ton per square foot is 47 lb. for in. of a quarter-brick footing course, then 75 lb. is t .6 tons per square foot of safe resistance of a sound medium hard brick. 
+
+<article title=" METHOD OF RAISING A SEVEN STORY BUILDING " author="">
+
+METHOD OF RAISING A SEVEN STORY BUILDING
+
+An interesting piece of work, which has recently been successfully executed, says Carpentry and Building was
+
+the raising of the seven-story Cambridge Hotel building at Thirty-ninth streets and Ellis Avenue, Chicago, amid this without so much as cracking the plaster of a wall. The building, constructed in 1892, bad originally only a 5-foot basement, which was not sufficient to allow the boilers in the steam heating and electric lighting plants to come up to the grade level necessary under city ordinances. The building had to he raised 3 feet. This has been done by using over 1,500 jack screws, combined with a steel sub structure. The work was completed in 21 days instead of 30 the limit placed in the contract. The contractors were the L. P. Friestedt Company, 145 La Salle street, Chicago
+
+The Cambridge Hotel building contains 450 rooms, is seven stories in height and is built of brick on a steel frame work. It covers a ground space of 50 x 138 feet, is 150 feet high, and weighs 15,000 tons. This is claimed to be the highest building ever raised, except a church whose steeple was 145 feet high. The company were under a
+
+1ooo bond not to injure the building, and the work was accomplished according to specifications and in nine (lays less it-me than the limit allowed. The company had So men on the building, with four foremen anti one superintendent and the work went on without a hitch.
+
+
+
+WET OR DRY CONCRETE.
+
+In a recent issue of the - Journal of the Western Society of Engineers, Mr. J. Hirtz describes some experiments made for a railway company to ascertain whether any advantage was gained by using concrete mixed rather dry. Authorities on concrete have differed very much on this point, some as the result of laboratory experiments haying recommended that the water added should be kept down to the lowest possible amount while others prefer an excess of water. Actual practice has also differed, for inquiries showed that, out of thirty-five prominent railroads, ten preferred a dry mixture, five a moderately dry one, sixteen a moderately wet mixture, amid four a wet mixture. In the experiments referred to the concrete consisted in each case of 1 part (If Portland cement, 2 parts of sand, and 5 parts of stone. This was mixed by a Ransom mixer and molded into two 3 ft. cubes. In the one ease the water added was 82 per cent. of the volume of the dry concrete, and, as a consequence the mixture was so wet that it was difficult to handle. In the other case the water added was 44 per cent. of the volume (If the dry mixture and heavy tamping was necessary to consolidate the concrete. This tamping was done (In each 6-inches layer. After thirty days it appeared that the wet concrete weighed 9.7 Per cent, more than its fellow it had, further, a much better sum-face, and on being broken proved of much higher quality, the interior being a solid amid compact mass, with the surface of fracture passing through the limestone and granite pebbles of the aggregate. The broken surface of the dry concrete block, on the other hand, showed numerous voids and pores, amid a much larger percentage (If pieces of stone and pebble "pulled out" in place of breaking. It is obvious from this that plenty of water should be added to the mixture, in order to produce the best concrete.
+

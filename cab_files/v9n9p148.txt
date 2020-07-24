@@ -1,0 +1,62 @@
+<doctype type="text">
+
+<article title=" TESTS OF CONCRETE " author="Bruce, Fairlie">
+
+TESTS OF CONCRETE. *
+
+By A. FAIRLIE BRUCE, M.I.C.E.
+
+
+
+IN the following paper the author proposes to describe a series of experiments carried out by him during a period of upwards of two years on Portland cement and concrete on the Blane Valley section of the G1asgow corporation waterworks, with a few of the general deductions to be drawn from them.
+
+The cement used is specified to be sufficiently finely ground to leave a residue of not more than ten per cent. on a sieve of 5,776 meshes per square inch, and capable of resisting a tensile strain of 350 lb. per square inch at seven days.
+
+The method of testing is as follows Samples are taken from a number of bags in each consignment and mixed together. A 1-10th bushel measure is filled through a filler and weighed. Then 51b. are sifted (a) through a sieve of 2,500 meshes, (b) through one of 5,776 meshes ; and (c) through a sieve of 14,400 meshes per square inch, the residue left on each sieve being weighed. Two sets of ten briquettes each are then made of neat cement, about 3.2 lb. being required for each set, mixed with eighteen to twenty per cent. of water. The amount of water actually taken up by the cement in setting is about the former figure. If the cement is quick setting, only enough to fill two or three moulds is mixed at a time, wet blotting paper being placed below each mould. When the briquettes have completely set the moulds are removed, and they are left on a sheet of glass under a wet cloth till they have hardened sufficiently to be placed in water. This is usually done about twenty-four hours after they are made. Briquettes of one of cement to two and one to three of sand are usually made from each lot of cement in the same way.
+
+In order to detect the existence of free lime, if any, cakes are made 3 in to 4 in. diameter, and 1/2 in. thick at the centre, with thin edges, one being kept in water and one in air, and watched, the former for hair cracks, the latter for colour. Glass test tubes are also occasionally filled with cement; they at once indicate any tendency to expand by breaking.
+
+The following are the mean results obtained by testing about 9,000 tons of cement.
+
+ 
+
+	Residue on Sieve	Tensile strength
+
+	Meshes per square	pound per 
+
+	inch.	square inch.
+
+	2,500	5,776	14,400	Neat at	2 to 1at	3 to1 at
+
+	 per	per	 per	seven	 four	 four
+
+	cent.	cent.	Cent.	 days	weeks	 weeks
+
+	 2.!	 8.1	 205	 476	  297	  190	378	10.2
+
+
+
+
+
+There has been a marked improvement in the quality of the cement since the commencement of the works, the average residues for the last 3,000 tons supplied being 2477, and 181 per cent., and neat tensile strain  lb. The improvement in fineness of grinding is particularly important, as it represents an actual gain of five and a half per cent. on that at first supplied, the residue even on the first sieve being absolutely devoid of cernentitious properties.
+
+'[he tests for fineness, tensile strength and for the presence of free lime, are the only ones to which the author is inclined to attach much importance as deciding the quality of the cement. Those with sand are chiefly useful as the means of settling the relative merits of the sand it is proposed to use. The question of
+
+
+
+A paper read before the Civil and Mechanical Engineers Society. The increase of strength at fourteen days was 16.3 per cent.
+
+weight appears to have little or no bearing on the value of cement.
+
+We come now to the tests carried out to ascertain the modulus of rupture for concrete bars and those on the resistance to thrust of arch ribs. The study of the strength of concrete has never received the attention it deserves, having been somewhat eclipsed by that of cement. It therefore appeared to the author that a systematic series of tests, having this object in view, would be both interesting and useful to the members of his profession.
+
+Every effort has been made to extend these tests, numbering 400 in all, to as great a variety of materials as possible, including those known to be of interior quality ; but they have chiefly aimed at obtaining, by multiplying the experiments, what may be regarded as reliable mean results of the growth of strength in those classes of concrete in common use on public works.
+
+The ages at which the tests were made vary from one week to a year; but attention has been mostly directed to the earlier stages, as in actual practice (save in such large works as reservoir dams, whose construction extends over a lengthened period) concrete is subjected to its full working strain at a very early date.
+
+The proportions used vary from five to one to twelve to one, the superior limit adopted for any material being: (a) That the quantity of cement used must be sufficient to fill all the voids in the sand, and (b) that the resulting mortar must completely fill all those in the stones. In sand the voids vary from thirty-three to thirty-four per cent. ; three-to-one mortar will, therefore, fulfil the first condition. In gravel they are the same as in sand, so that nine parts, when it is employed will satisfy the second condition. In broken sand the voids equal forty-nine to fifty per cent., making seven parts in the former and six in the latter to one of mortar ; the largest number that can be employed if a perfectly solid concrete is to be produced.
+
+It is perhaps as well to recall that the practice is too common, in comparing the relative strengths of concrete, to speak of them as so much to one of cement, without stating, not only the number of parts of sand and stone, but the kind of stone used, thus giving a very indefinite idea of the real strength of the concrete. Thus, if it is said that a concrete is eight to one, if unscreened ballast is used the product will contain exactly one-eighth of its bulk of cement, the mortar being anything from one to two and a half to one to four. If concrete made of five of whinstone and three of sand be meant the cement will be as one to 5.8, or with sandstone in place of whinstone one to 6.2 ; results seriously affecting the quantity of cement needed.
+
+Before deciding on the proportions of concrete it is designed to use for any work all the circumstances of the case should be carefully considered and the voids in the stone to be used accurately measured. For foundations or backing it is perfectly safe to go to the extreme limits allowed by the voids in your materials, but where the concrete has exposed facework it is necessary to allow for an excess of mortar in the mixture, otherwise either the backing or skin must suffer. To guard against careless mixing, the mortar in exposed surfaces, especially where the action of frost has to be feared, should not, as a rule, be weaker than two and a half to one. Again, if there be any danger of the concrete being robbed of any of its cement before it has set by
+

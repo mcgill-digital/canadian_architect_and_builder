@@ -1,0 +1,54 @@
+THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+on the scientific courses in connection with the Association curriculum.
+
+Mr. Langton: Professor Capper's paper has the evangelistic quality which is most valuable in a lecture or paper. One cannot, in the short time that can be occupied by a paper, do much definite teaching, but one can stir up a spirit that will Forward the end in view in delivering the paper; and this I think Professor Capper has done. There few of us I fancy who have reached, or are approaching middle age, who do not at this moment regret that the present advantages for students did not exist in our time and that we must be content with being—architects like Wren. (Laughter). The first necessity for architecture now-a-days is training. In the old days architecture was a craft. The architectural conception was common property; and to carry it out in individual cases, all the designer required was to know the grammar of its detail. The case is different now. The number of different works comprised requires a scientific training and the architectural problem is an open one, to be solved only by a mind cultivated to flexibility by exercise in the fields of thought of all generations of architects. Nothing can accomplish this training but long, continuous and practical study. That is the reason for the stand the Association takes. That is the reason for the apprenticeship system. One learns to play the flute by playing the flute. Students don't know that so much education is necessary and that so long a practical training is necessary. They see people set up as architects without it and they think they can do the same. But we know it, and it is our duty to students to lead them, not perhaps as they want to go, but as they ought to go. We have improved our curriculum and our methods. We have taken in good part all the advice the Eighteen Club, as representing youth and modern thought, gave us. We have rooms and facilities. We only want students. We have not got the students we ought to have and 1 am afraid in some cases they are being kept from us. I think this ought not to be the case. The architect. of whom Professor Hutton spoke, who put a bed over a register and windows in out-of-the-way places, was not an architect in the true sense of the term—in so far as he did these things. I think also that the case of Sansovino's roof is exceptional. It is a commonplace among architects that the architect who is an artist is also a good constructor. An architect is not a mere designer of exterior appearance. In my own mind I separate the word designer from the word architect. Architect is an inclusive term. The architect conceives the building as a whole The plan is at the bottom of everything and a plan is not a plan that is not conceived of as a thing to be built. The best architect is the best builder.
+
+the peculiar properties and behavior of this important material in order that it may be treated satisfactorily in design as well as in construction It ought not and cannot be left to the engineer.
+
+Another difficulty that might he mentioned is the action of fire on steel Set ions 'is this difficulty is front the point of view of design, it must he neat frankly and not forgotten that this very same property enables it to be rolled and worked into shapes economically. 
+
+Interesting as this line of thought is, "'c must tutu our attention to the more elementary stages and consider a few of the properties of steel.
+
+Suppose a steel rod (usually 24" long) is placed in a testing machine and a load applied so as to produce tension in the rod. Now if measurements of the
+
+ lengths of a part of the rod (usually 8") are made it will be found that for every load applied or stress here is a corresponding change in length, a deformation or strain. Further, that when the load is removed the rod will regain its original length.
+
+There is a point however beyond which this is not true, or where the deformation or strain is not constant for equal measurements of load or stress. Below this point steel is elastic, while beyond it is plastic. The point at which this change occurs is called the elastic limit. It however a piece of steel he stretched (strained) beyond the elastic limit, and the load removed, it will contract more or less hilt will not regain its original length.
+
+The measurements of deformation or strain, which must be accurate to the nearest 1-10,000 of an inch, are made with an extensometer of which this Riehle Vale represents a very satisfactory type. As will readily be seen, the points of the screws which fasten it to the specimen are held rigidly 8" apart. After fastening it to the specimen, the bar connecting the two heads is removed, and the two micrometers read or set at zero (the contact being determined by the ringing of an electric bell on the closing of the circuit by the contact). A load is next applied to the specimen, and the micrometers again read, the difference between the two sets of readings, giving the deformation or strain corresponding to the load or stress. If the stress be doubled the micrometer's will show that the strain has been doubled As the stress is increased it will be found that equal increments of load will produce equal strains so long as the steel <doctype type="text">remains elastic, or in other words within the elastic limit.
+
+If these measurements were continued and the resultant stress strain curve drawn, plotting the loads as vertical ordinates and the strains as horizontal abscissa, it would resemble O A B C of the accompanying figure.
+
+
+
+Stress Strain Curve of Steel in Tension.
+
+
+
+<article title=" THE BEHAVIOUR OF STEEL UNDER STRESS " author="Wright, C. H. C.">THE BEHAVIOUR OF STEEL UNDER STRESS.
+
+By <person>PROF. C. H. C. WRIGHT</person>, School of Practical Science, Toronto.
+
+
+
+While discussing with one of the members of the Council of this Association the results of certain experimental work of the postgraduate year at the School of Practical Science I was induced to promise a paper on the behavior of steel under stress and in its preparation I have kept in view the younger members and students of the Association.
+
+Inasmuch as the use of steel has completely revolutionized methods of construction and plan, its effect should be and is apparent in the design, not however, to the extent the material deserves. It has been the custom for years to use rolled shapes, rivets, and joints of an engineering type partly because this branch of the work has been generally relegated to the engineer, and partly because most of the steel work is hidden. Is not much of it hidden because it is considered unsightly? Why should not the parts exposed to view be aesthetically treated and the shapes receive architectural attention.
+
+It has always been considered necessary to study carefully the properties of other buildings materials. The successful treatment of granite shows boldness or vigor; marble, delicacy or refinement; sandstone, elaboration; terra-cotta, repetition, etc.
+
+While steel has been used very largely during the last decade it will be used much more extensively in the immediate future. It becomes desirable that the members of our profession should, and imperative that the younger members shall, observe closely
+
+
+
+* Paper read at the annual meeting of the <assoc>Ontario Association of Architects</assoc>, Toronto, January, 1902.
+
+In the complete curve there are four significant points, viz., the true elastic limit, A; the apparent elastic limit, B; the ultimate strength, C; and the breaking point, D. From 0 to A the ratio of stress or strain or load to deformation is constant and the curve becomes a straight line. Between A and B the ratio of strain to stress increases slightly, while at B a very marked change takes place, hence the term "apparent elastic limit.' Micrometer measurements of the length are not necessary to determine this point, and consequently it is widely used in commerce, and is often spoken of as "lie commercial elastic limit," or often merely ''elastic limit.' Beyond the elastic limit the material continues to increase in length as additional loads are added until it reaches its ultimate strength, when it begins to fail. It no longer continues to support the load, but stretches under a decreasing load and finally separates under a greatly reduced one such as is indicated in our diagram by the point D.
+
+
+
+Specimen No. I is a mild steel made by the open hearth process and gave the following results when tested in tension. The length of the specimen was 24 inches and its diameter 1,015. Punch marks one inch apart were made along the rod. The specimen was then placed in the testing machine and subjected to tension. The load was gradually applied and the material elongated uniformly for a time until it reached a point where it stretched under a constant load of 21,000 pounds, i. e. the commercial elastic limit of 21,000÷(1.05x3.14159) i. e. 21,000 divided by the cross section of the rod or 27,200 pounds per square inch. The rod finally broke under a load of 37,; 00 pounds or of 37,000÷(1.015x3.14159) or 47,200 pounds per square inch of its original cross-sectional area. On measuring the distance between two of the punch marks originally 8" apart (4 on each side of the break), it was found to be 11.08" long, i. e. the
+

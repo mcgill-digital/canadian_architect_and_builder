@@ -1,0 +1,3 @@
+<doctype type="plate">Board of Trade Building
+
+<building>Board of Trade Building</building>

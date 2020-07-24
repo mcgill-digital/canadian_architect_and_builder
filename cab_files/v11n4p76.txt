@@ -1,0 +1,96 @@
+<doctype type="text">
+
+<article title="Systems of Piping in Steam Heating." author="Mansell, W.M.">
+
+ARCHITECT AND
+
+
+
+having to act the same as the main, both for steam and return pipe. The branches to radiators are also, on that account, made larger, and are exposed either above the floor or below the ceiling, to the connection of radiators. The idea of doing this is a good one, as it prevents the notching of joists and the shrinking of floors necessary in two-pipe work.
+
+
+
+Another thing- in favor of this one-pipe system is that only one valve is necessary to each radiator. That is a boon to the engineer, as it is the custom with most people who don't understand the difference, when they want to lower the temperature in an office or apartment, to close down one valve on the heater, and if that one happens to be the return valve the heater tills with water and then becomes noisy, or perhaps begins to throw water from the air vent the same thing will happen if the steam valve is closed and the return valve left open. If the pressure of steam is high enough on the boiler, it will back the water up from the returns and fill the heater, but with the single pipe system the one valve prevents this trouble.
+
+
+
+The time saved in installing this system is another item in its favor, and still the greatest saving feature in favor of the circuit system is the temperature at which the condensation is returned back to the boiler, whereby a great saving is made in regenerating steam and in fuel compared with the two-pipe system.
+
+
+
+There is still another system of piping which is being extensively used, and which is most favorable to the higher class of buildings, and that is the overhead steam main system (Fig. 5). The main in this work is, as a rule, taken up to the roof space, sometimes to the ceiling of the floor below the upper one, making the upper floor work the same as from a circuit system, and the rest of building from the drop riser system. The overhead system of piping is very similar in its construction to the Circuit, with the exception of its rising steam being carried up first to the highest
+
+except in very cold weather, when a little live steam is passed through the reducing valve.
+
+
+
+This, I think, is a fair explanation of the systems of piping used in steam heating. There is another so-called system of steam heating in which the heating is in reality done with hot air. This is called the Plenum or hot blast system. With this you have large heaters constructed with thousands of feet of piping, through which the steam is passed. Either live or exhaust steam can be used. This large heater is housed in with an iron casing, with a large blower fan attached to one end of the housing. This fan draws cold air from outside and forces it through amongst the piping, and at the other side is taken a large sheet metal pipe, sometimes ten feet in diameter, with branches to all parts of building where required, and the air which is heated by being in contact with thc steam pipes is discharged all over the building. This system is only practised in certain classes of buildings, such as auditoriums, churches, school buildings and factories. This system is sometimes combined on a small scale with other systems for the purpose of ventilation, and is assisted by extraction fans, which are arranged to draw the foul air out of the building. This system, when used with live steam only, is more expensive on fuel, on account of condensing more steam than in other systems, and having either an engine or electric motor for driving the blower fan.
+
+
+
+There is also the system of exhaust steam heating, the piping, which is similar to that in the overhead one-pipe work, but, as the hour is late, I will have to leave that for another occasion, and will now close by thanking you for your kind attention this evening.
+
+
+
+
+
+TORONTO MASTER PLUMBERS' ASSOCIATION.
+
+At a recent meeting of the above association the following officers were elected President, James B. Fitzsimons first
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ONE HEAD SINGLE PIPE SYSTEM
+
+4
+
+
+
+NOTE. Solid lines of pipe indicate steam pipe broken lines of pipe indicate return pipe.
+
+point before distributing, and then the circuit is made with the different branches connected to the drop riser. The size of pipes is about the same, but their diameters diminish as they come down in proportion to the number of radiators that are connected. This overhead system has the additional expense attached to it of having a collecting drip return, which gathers the lower ends of all the drop pipes and carries the condensation back to boiler. This is usually suspended from basement ceiling, and when basement heaters are used it is lowered down to suit.
+
+
+
+In some of the very high buildings these two systems are amalgamated together, the lower twelve to fifteen floors being worked on the down hill riser system and the twelve to fourteen upper floors worked from a circuit system, sometimes each system having a separate rising main, and in others the one large riser supplying both systems. In either of these systems it is usual to valve all rising pipes, so that any part of system is under independent control. Many of the larger buildings of to-day have their own power plants, either for generating electrical or hydraulic power for elevators and other purposes. Where this is the case the steam for the heating plant is taken from the high pressure boilers and passed through a reducing valve. This valve on one side has the boiler pressure of perhaps one hundred pounds, and this is reduced down with the aid of the reducing valve, which can be regulated or set to give one, two, or as many pounds as may be required in the heating system. The condensation from the heating system is gathered by the collecting drip main, and this is run to a return tank, from which it is drawn and forced back into the boilers with a steam pump. In connection with this system the exhaust steam from the engines and pumps is passed through an invention that extracts the grease from the steam, and the steam is then thrown into the heading system. In some cases this exhaust steam k found sufficient to warm the whole building,
+
+vice-president, James H. Wilson second vice-president, A. S. Bates secretary, W. G. Ritchie treasurer, D. Fiddes sergeant at arms, J. R. Seager. The affairs of the association are reported to be in a flourishing condition, and the meetings are marked by spirit of good fellowship and a purpose to make the organization fulfil a useful purpose in behalf of the trade.
+
+
+
+
+
+
+
+The Sash Balance & Lock Co., of Woodstock. N. B., is seeking incorporation.
+
+
+
+The death is reported at Lancaster, Ont., of Mr. John Ross, who is said to have built more miles of railway than any contractor in America. Mr. Ross was 78 years of age.
+
+
+
+To the California Architect belongs the responsibility for the following story An architect and builder who was very proud of his efforts in designing a house which he had just planned and built, met a well known architect in front of the said house. The architect and builder could not resist the impulse to show the architect his creation, and asked him to step in and have a look round and tell him what he thought of his effort. This happened only just lately and the architect had nothing to do that morning so he obliged the architect and builder by viewing the house. " well, what do you think of it, pretty good, isn't it?" said the A and 13, when they had got outside and were looking up at the jig sawed front. ''Yes,' said the architect, " but it seems to me you have got too many rooms."" how can that be?' replied the A and B, '' there is the parlor, kitchen, dining—room and three bedrooms; I can't for the life of me see where any of these could be left out." 1-low about that large room for improvement?" said the architect, leaving the A and B scratching his head and trying to locate that room.
+

@@ -1,0 +1,86 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+the trades at the present time means the lining of chimney flues with a coat of mortar, the mortar employed for the purpose being that with which the chimney is built. Double pargeting is an unusual expression, and somewhat hazy in its meaning; what is intended however, is that the flues must be made smooth inside and have the angles brought up true and clean. This will necessitate going over the work twice with the trowel while the mortar is still soft. The operation is then said—in some localities—to be double pargeting. The term pargeting is derived from a Latin term signifying wall. Since its use has commenced in the English language it has had various meanings, different from that of the present time. One of the obsolete meanings of this word is in the sense of gypsum or plaster stone. Pargeting has also been used to indicate a paint some time used for the face. As defined by Gwilt, pargeting means the plaster used for lining chimney flues or for covering the walls and ceilings of rooms. Parget as a verb means to plaster, as, for example, " to parget the walls." A pargeter is a plasterer. Pargeting as defined by Webster is a kind of decorative plaster work in raised ornamental figures, formerly used for the internal and external decoration of houses.
+
+
+
+From '' Draftsman " Kindly state the exact size of French metre in feet and inches, and oblige?
+
+ANS.
+
+	39.370,432 English inches.
+
+	The metre	3.280,869	,,	feet.
+
+	1.093,623	,.	yards.
+
+
+
+
+
+From "Reader" In my house there is a closet with wall same as usual in most houses—simply 2 x 4 studding with lath and plaster, but no back plastering. Have used the closet for a telephone booth, but the walls do not deaden the sound. What can you suggest as a deadener? Can easily put in a double door, but that will not benefit matters as the walls are sounding-boards, it would seem.
+
+
+
+ANS. —The first thing to do is to detach wholly the telephone box and wire from connection with the resonant wall, namely, by fastening the box to some strips of lath covered with thick felt paper, thus making a separate dead wall. If this is not a sufficient remedy, the whole interior of the closet could have strips of lath, to which might he nailed the thick tapestry paper, with cloth patterns, now coming into use for halls, etc., or indeed, the felt paper used by builders for sheathing. We have never encountered the difficulty here made the subject of query, but some space and deadening material between the instrument and the hollow wall would seem to be the needed remedy.
+
+
+
+From ''Painter" : A few months ago a hall and staircase were painted with two coats of olive green paint. Though left for two or three days the paint did not harden properly, and in this condition was coated with enamel, which is now so sticky as to show every finger mark. Please give a remedy.
+
+
+
+ANS. ----The paint used has evidently been mixed with impure boiled linseed oil, probably a mixture of mineral and boiled oil. This would cause the tackiness complained of. The trouble may be overcome by first cleaning, and dusting, then washing the wall with soap and water, allowing it to dry thoroughly, then applying a
+
+coat of hard oak varnish mixed with about one-sixth its weight or measurement of pale japan gold-size. Before applying the varnish, see that the temperature of the place is not less than 65 F.; this heat should be maintained until the varnish is thoroughly dry. Adding the gold-size will facilitate the drying of the varnish, while the warm temperature will harden the varnish and make it dry with a much better gloss than if applied in a damp atmosphere.
+
+
+
+From "Carpenter" I am a new hand at outdoor work, and know but little of framing and rough carpentry, and would like a little light on what is meant y one-third pitch, and one-quarter pitch as applied to roofs?
+
+ANS. See Fig. 4. The pitch of a roof as mechanically understood is the height from the top of the plates to the point at which the rafters intersect on the ridge at a run on the rafters from the extreme upper outside. corner of the plate as illustrated in the sketch. In order for a building 24 feet wide to have a one-third
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 4.
+
+
+
+pitch, the rise of the rafter must be 8 feet, which is one-third the width of the structure and for a quarter pitch the rise of the rafter would be 6 feet, which is one-quarter the width of the building. The sketch will, we think, make the meaning clear.
+
+
+
+From "Factory Hand" What is the proper bed on which to place a 6 horse power vertical engine to run a saw, planer, mortise machine and lathe? Can I set it on two heavy beams, say 8x8 inches, or is brickwork necessary?
+
+
+
+ANS.—W e would strongly advise our correspondent to set his engine on a brick or cement foundation 3 feet deep, having the securing bolts built solid in the brickwork ; to build on an underlayer of concrete at least 3 inches thick, and to have the brick set in cement mortar. It should also be broad enough in area to prevent any liability of disintegration through the vibrations of the engine. A layer of wood might be advantageously placed directly under the bed plate of the engine.
+
+
+
+"C.W.S." asks What thickness should a wall be, faced with ashlar, and also thickness of brick backing (in cement mortar) with a space, if any, between brick and ashlar. Size of room 30 x 6o feet. The loads are as follows: First floor from ground 5 ft., 125 tons; second floor 20 ft., 125 tons; third floor (roof flat) 45 ft., 50 tons. Openings not considered?
+
+ANS. :--If the ashlar facing is used chiefly for appearance, it will probably be thinner than it is high. In this case it would be well to make the brick backing sufficiently strong in itself to carry the imposed load. If the ashlar is to be counted on for strength its height should not exceed its thickness, but should preferably be considerably less. In either case the brick hacking should be laid with the thinnest joints possible, and the brick and stone should be bonded together, making a solid wall without air space. As to the thicknesses of ashlar and backing required, sufficient data is not given to make a computation. The room is stated to be 30 x 6o feet, hut nothing is said about the floors, as to whether they are carried by girders, resting on the walls only, or whether there are interior walls or posts, and in the latter case, at what distance apart, etc.
+

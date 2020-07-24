@@ -1,0 +1,56 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+*<article title=" CONCRETE CONSTRUCTION AND CONSISTENCY
+
+
+
+ IN REINFORCEMENT.
+
+" author=""> CONCRETE CONSTRUCTION AND CONSISTENCY
+
+
+
+ IN REINFORCEMENT.
+
+
+
+The subject of concrete and its general use is so large a one that the writer feels his inability to treat it properly, even it time and space permitted. The uses to which concrete has been put and the possibilities still open to it, arc almost numberless.
+
+Only within the last couple of years a new field has been opened to it in the shape of the concrete building block. Two years ago its use in moulded blocks as a substitute for stone was a mere rumor. To-day there is in the neighborhood of two hundred companies in the United States, whose business is the manufacture of machines for the moulding of concrete blocks.
+
+Blocks can be made in an infinite number of forms appropriate to the material, or in imitation of stone.
+
+In connection with this particular point, it seems sad that there should be so much imitation and so little attempt to produce an article which would not proclaim all over its face the fact that it is supposed to be something. else. Great quantities of so-called "rock faced ashlar" concrete blocks are being manufactured and used in the construction of foundations or for the facing of buildings. The rock-face is clearly intended to have the appearance of stone, but the deception is an utter failure.
+
+
+
+Why should this be? Why should not blocks be treated like the concrete from which they are made? For instance, if a concrete contained, as an aggregate, crushed granite, or marble, possibly varied in colors, or if gravel of various types were used, a surface having all the rustic advantages of rock face but at the same time, the characteristics of the material used, would be produced by the brushing out of the mortar slightly on the surface and leaving exposed the pieces of broken stone, gravel or sea-shells as the case might be. Concrete blocks using this feature or some other method of treatment appropriate to the material would be far more popular than those now produced, and at the same time no more expensive.
+
+The subject of reinforced concrete is one of specialty and is well worth careful study. The range of possibilities in reinforced concrete is simply limitless.
+
+Bridges of astonishing grace and strength have been built of it in every portion of the civilized world. Buildings in part, and as a whole, from the reinforced piles to the cornice, have been and are being built in reinforced concrete. Commercial buildings, flat buildings, warehouses and hotels have been built, ranging in size from the one-storev affair to the sixteen-storey sky-scraper and consisting throughout the construction of their columns, beams, girders, floor slabs and walls of reinforced concrete. Roundhouses for the storage of locomotives are being built with the greatest success of concrete, reinforcement being used in every portion, from the foundation to the roof. Grain elevators and storage tanks, in which the loads and pressures become enormous, are now as easily designed and built in the reinforced concrete as are the far more expensive and less fireproof steel structures.
+
+There have, however, been some bad errors made in getting the experience necessary to properly accomplish the results above referred to, and it is our purpose to set forth here in brief a few of the principles which the engineer, architect and owner should observe when they are called upon to exercise judgment in regard to the reinforcement of concrete. No matter whether the reinforcement lies in a beam or slab or truss, the general principles are the same. No matter whether the slab be used as a light floor in a flat building, or in the roof a roundhouse, or whether it be standing on edge and resisting the horizontal pressure of grain in a deep bin, the strains are there just the same and they must be resisted in the same consistent manner. In order to make the matter perfectly clear perhaps it would be best to start at the beginning.
+
+To define what reinforced concrete is, a comparison
+
+* A paper rend before the Northwest Railway club, by Louis F. Bray-ton, of The Brayton Engineering Co., of St. Paul.
+
+will be made to a familiar object, a railroad bridge of' the Pratt type.
+
+We all understand, in a general way, the action of the various members in the trusses of a bridge of simple plan. The top chord is in compression, and the bottom chord is resisting a corresponding amount of tension, the end posts and intermediate posts are in compression, while the diagonal members of the web are carrying a tensile load.
+
+Concrete we know to be strong in compression. Is it not easily conceivable that if the steel truss assumed were entirely imbedded in concrete, the steel compression members might be removed and the concrete would supply the required resistance to compression ? This would be entirely feasible and the result would be nothing more or less than a reinforced concrete truss. In brief, reinforced concrete means the placing of steel within the concrete in such a way that a truss will be formed by the combination of the materials, in which the steel carries all tensile loads, and the concrete does the work of compression.
+
+Suppose that in the truss the size or capacity of the top chord were fixed, and it were required to increase the capacity of the truss, the immediate conclusion would be that the distance from the top to the bottom chord must be greater, in other words, the effective depth must be increased so that the stresses in the chords will have a greater advantage, and the required strength be attained. This is the exact case in concrete-steel construction. A slab, being a solid body of concrete, has a definite capacity to take compression and if additional strength is required, it must be by thickening the slab until the proper effective depth is reached. It will be seen that depth is a requirement in reinforced concrete as well as in any other material.
+
+A short time ago, the writer, in discussing the construction of round houses of reinforced concrete, with a railroad official, was confronted with the remark that if a concrete slab were used for the roof, the present form of expensive steel trusses might be entirely omitted, a remark which if it had been considered on a scientific basis, would have been found entirely inconsistent. Depth is essential to any form of construction and it can always be depended upon that the strains required to be resisted, will always be inversely proportional to the depth.
+
+To illustrate the inconsistency of most designs in concrete steel, we refer again to the previous example. Suppose that in a railroad bridge one of the diagonal web members should become disconnected at the upper chord, what would be the result? There would be a collapse as disastrous to the structure and to its load, as if the chords had failed to do their duty. In other words the web members, required to take care of the shear in the structure, are as essential to its stability as are its chords.
+
+Now, why should not reinforced concrete be treated with the same consistency. Is it simply because the friction in the concrete is sufficient to care for part of this shear, and buildings are standing in which no other provision is made? That is not sufficient reason
+
+we should throw away what we know to be correct construction and continue to trust to something which a  settlement of the building or a bad spot in the concrete may destroy. There are fireproofing companies placing their goods upon the market to-day, who make no pretenses at provision against shear until compelled to by the building departments. There are many more companies who place the shear members in such a way as to be equivalent to the pin—connected truss without the pins in place, in other words, the members are there, but there is no means provided to make the connection to the concrete and consequently, no possibility of developing the strength of the member. With these features lacking, how is the load on the floor slab going to be carried on to the beam; what will prevent its shearing off and precipitating the load into the floor below? Worse yet, how will the beam with its accumulated load ever resist the shear at the girder, if the steel shear members are not securely fastened to both ?
+

@@ -1,0 +1,30 @@
+<doctype type="text;plate">copyright 1899	HORTICULTURE AND FORESTRY BUILDING PAN-AMERICAN EXPOSITION.
+
+
+
+<article title="Short Formulae for Architects" author="Blagrove, George H.">SHORT FORMULAE FOR ARCHITECTS.
+
+BY GEORGE H. BLAGROVE.
+
+
+
+THE scientific formulae in use for calculating the conditions of structural strength in buildings are generally found too complex to be worked out at short notice. It is now proposed to mention a few short rules, which easily remembered, which involve only such simple calculations as are readily performed, and which will give sufficiently accurate results for practical purposes. We have, of course, no wish to supersede the use of proper scientific formulae, but only to furnish the architect with rules that can be applied in briefly examining structural conditions when on the works, in drawing out preliminary sketches, or in any circumstances under which elaborate calculations are hardly practicable.
+
+One rule of the kind to which we refer is Brown's formula for finding the horizontal thrust of a segmental arch. The radius of the arch, multiplied by the thickness at the crown, and by the weight of the masonry in hundred-weights per cubic foot, gives the thrust in hundredweights, the arch being presumably 1 ft. thick. After a comparison of results, it may be mentioned that this formula is so nearly true for flat segmental arches as to dispense with the necessity for any other calculations.
+
+The resistance of a retaining wall depends upon the distance of the centre of gravity of its section from the fulcrum, or point upon which it would turn if it were overthrown. Hence, if the wall be build to an incline or batter, it need not be so thick as if built vertical. In Molesworth's "Pocket-Book of Engineering Formulae" is a table of calculated proportions for the thickness of retaining walls. But the figures cannot well be carried in the memory, and the following rule will serve as a safe guide for walls of masonry about 27 per cent. heavier than the earth behind them take one-third of the height and subtract from it the total amount of batter ; the remainder is the thickness of the wall at the top. Thus a wall 9 ft. high, with a batter of 1 in 6, must be 18 in. thick at the top. The thickness will increase by regular offsets to the base, where it will be about one-third of the height.
+
+Some of the most elaborate formulae have been devised for calculating the strength of iron columns and stanchions. For cast-iron columns, solid or hollow, circular or square, the following rough rule will give approximately true results ; subtract the number of diameters in the height from 40 ; the remainder is the crushing strength in tons per sectional square inch. Thus, at 30 diameters high, the strength is 10 tons, and the sate load one ton, per sectional square inch.
+
+For built columns of mild steel, divide 400 by the number of diameters in the height, and the quotient will give the crushing strength in tons per sectional square inch. For wrought iron, take three-fourths of
+
+the above result. This rule applies to columns over 20 diameters high.
+
+By the ordinary formulae for girders, the strength varies directly as the depth and the flange area, and inversely as the span. In rolled joists, it is evident that the flange area bears a pretty constant ratio to the weight per foot run. Hence, for rolled joists of mild steel, we have the following rule multiply the depth in inches by the weight in pounds per foot run, and divide by twice the span in feet ; the result gives the safe distributed load in tons, three-fourths of which will be applicable in the case of rolled iron. But when a constant ratio is preserved between the depth and the span, it is evident that the safe load will bear a constant ratio to the weight of the joist per foot run. Supposes for example, that we agree to have the depth of a rolled joist one-twenty-fourth of the span, then for rolled steel one-fourth of the weight in pounds per foot run will be the safe distributed load in tons, three-fourths of which will apply in the case of wrought iron.
+
+The following is an instance of what might occur in working out a warehouse floor constructed with rolled-steel joists. The span is 12 ft and the load four tons. The depth must he one-twenty-fourth of the span, and the Joists must therefore weigh 4X4=16 lb. per foot and be 6 in. deep. In a manufacturer's list we find steel joists 6 in. X 3 in., 16 lb. per foot. Could the result have been attained more quickly ? Applying a similar principle to a cast-iron girder of Hodgkinson 's pattern, of which the depth is to be one-sixteenth of the span, we double the safe distributed load in tons to obtain the area of the tension flange in square inches. For a riveted steel girder of the same proportionate depth we could take one-seventh of the above result or about one-fifth for wrought iron.
+
+If we wish to find the approximate strength of a fir post, we divide 15 by the number of diameters in the height, and the quotient is the crushing strength in tons per sectional square inch. Double this, and we have the safe load in hundredweights per sectional square inch. With fir beams, the sectional area, multiplied by the depth in inches and divided by the span in feet, gives the safe distributed load in hundredweights, taken at one-fifth of the breaking weight. This rather high safety factor would enable us to make the depth about one-twentieth of the span. Here again, if we adopt a fixed ratio of depth to span, we can simplify the calculation. If, for example, we agree to make the depth one-twentieth of the span, we can take three-quarters of the sectional area in inches for the safe distributed load in hundredweights.
+
+Many rules in use for finding the scantlings of roof and floor timbers are not founded upon scientific principles, although they give results which may be safety
+

@@ -1,0 +1,538 @@
+<doctype type="text">	6	THE CANADIAN ARCHITECT  AND BUILDER	-
+
+			August, 1888
+
+Coming to the soil_pipes inside a house, do not on any account have anything else but iron. They are all the better of being coated with some solution, though
+
+-there is an objection to this, in that any blows that may be in the iron are very difficult to discover. Inspect all the pipes closely to see that they are sound and have the joints well made with oakum and lead. As in the fire clay drains,- do not, if it possibly can be avoided, use square branches. Inspect the inside of the branches see that no ridge is there, a ridge sometimes occurring in the casting at the junction' of the cones. Another point to be particular about is where a pipe to make a short length. Do not allow a jagged edge to be used, as the consequence will be that when the oakum is put in some of it will be almost sure to get into the pipe thus, and form an obstruction. At the junction of lead and iron pipes I would advise you to use copper flanges, as brass is more liable to corrosive action than copper. ____________________
+
+
+
+<article title=" ARCHITECTURAL GUILD " author="">
+
+ARCHITECTURAL GUILD
+
+The Architectural Guild held its monthly meeting
+
+
+
+at Long Branch on	Thursday afternoon, the 9th of August. There was a very good attendance and the afternoon was spent in a very pleasant and profitable manner.
+
+
+
+ARCHITECTURAL EDUCATION IN THE STATES.
+
+U
+
+N DER the above heading the American Architect
+
+<article title=" ARCHITECTURAL EDUCATION IN THE STATES " author="">
+
+has a lengthy article on the architectural instruc tion given in the Massachusetts Institute of Technology.
+
+As it is the expressed purpose of the Minister of Education for Ontario to establish a Chair of Architecture in Toronto shortly, the course of study prescribed in the Massachusetts Institute published herewith will .be of interest to those who may intend to study architecture in our own country. The regular 'course, as we mentioned last month, extends over four years, but a special course of years has been planned for students who cannot devote the longer period to this branch of study. The special course is as follows:
+
+	-	'	FIRST YEAR.
+
+	FIRST TERM,	SECOND TERM.
+
+	The Orders and Elements of	Original Design.
+
+	 Archi Architecture. -	Sketching and Water-Coloring
+
+	Sketching and Water-Coloring	Mechanical and Free-Hand
+
+	Mechanical and Free-Hand	 Drawing.
+
+	 Drawing.	Shades, Shadows, and Perspec-
+
+	Materials.	 tive.
+
+	Elementary Mechanics.	Common Construction.
+
+FOURTH YEAR.
+
+
+
+	FIRST TERM.	SECOND TERM.
+
+Advanced Original Design.	Advanced Original Design.
+
+History of Ornament.	Sketching and Water & Coloring
+
+Sketching and Water-Coloring	Planning.
+
+Problems in Construction.	Schools, theatres and churches.
+
+Specifications.	Problems in Construction.
+
+Strength of Materials.	Specifications and Contracts.
+
+Lecture on Fine Art.	Constitutional History.
+
+-Heating and Ventilation.	Heating and Ventilation
+
+Advanced French,	Advanced French.
+
+	Thesis Work.
+
+The two-year special course thus includes the mechanical and free-hand drawing of the first year of the regular course, tbe drawing and design of the- regular second and third years, and the- more strictly professional lectures 'of the second, third and fourth years, with a practical course of its own in trigonometry and
+
+- graphical statics, without the higher mathematics, which.. are pursued quite extensively during the four years' course.
+
+
+
+OUR ILLUSTRATIONS.
+
+CHURCH AT ALMONTE, ONT.
+
+
+
+STORE FRONTS FOR MESSRS. JOSEPH McCAUSLAND & SON, Toronto - Darling & Curry, Architects.
+
+ . -
+
+
+
+ DETAIL FOR VERANDAH.
+
+
+
+House at 399 WELLESLEY STREET, TORONTO.— KNOX & ELLIOTT, ARCHITECTS.
+
+
+
+W.	T. Whitepay, architect, late of Vancouver, B. C., has moved to San Diego, California, and opened an office.
+
+Mr. James Wright, architect, of Montreal, has taken a partner in the person of Mr. Findlay. The firm name is now Wright & Findlay.
+
+
+
+PERSONAL.
+
+Mr. C. Schreiber, Chief Engineer of Government railways, is at present on the Pacific Coast. 
+
+Mr. Gobeil, secretary of the Public Works Department, has returned to Ottawa from the Isle of Orleans, where he spent some weeks recruiting his
+
+
+
+It as rumoured that Mr. Collingwood Schreiber, Chief Engineer of Government Railways, will shortly resign bus position, and that Mr. Walier Shanly, M. P., will be asked to become his successor. It is not considered probable that Mr. Shanly will accept. 
+
+
+
+
+
+HAMILTON.
+
+(Correspondence of the Canadian Architect AND Builder.)
+
+
+
+S
+
+INCE my last report, I regret to have to say that building
+
+-	prospects In Hamilton have not improved. There have been
+
+Architects, Engineers Builders, Contractors and others are invited to  contribute to this department of their experience regarding methods of construction.   Also particulars - such as location, character, cost and
+
+name of owner, etc. - of any works of construction in progress.
+
+
+
+<article title=" PROPORTIONS OF THE PARTS OF THE STAIRS " author="">
+
+PROPORTIONS OF THE PARTS OF THE STAIRS;
+
+ The breadth of the steps of common  stairs is from 9 to 12 inches in. the best
+
+ staircases in private and public buildings. In such buildings the breadth ought never
+
+to be less than 12 inches nor more than 15 inches.
+
+A step of greater' breadth requires less height than those of less breadth. The first person who attempted to fix the relation between the height of the riser and width of the_steps was Mons. Blondel, in his
+
+"cours d'Architecture," if a person walking on a level plane over P space, at each step and the height which the same person could ascend vertically at one step, wiih equal ease was H; then, if h be the height of the. step, and p the width, the relation between p and h must be such that when p=. P, h=0, and when h=11, we-must have p=0. - 
+
+The	conditions are_satisfied by an equation- of this form; p
+
+h=H 1- 
+
+P
+
+Blondel assumes 24 inches for P, or the Step a person can make
+
+with ease on a level plane 12 inches for H. or the height a vertical step can be made with equal ease; and putting these numbers for P and H, in our equation, it becomes h= 1/2 (24—p, which is precisely Blondel's rule. We do not think that the rise, which is equal to a level step of 24 inches is more than 11 inches, but it would be difficult to ascertain the ratio exactly, and the above are so near and agree so well with our observations on stars of easy ascent, when the breadth of tread includes the nosing, that they may be taken from the elements of a practical rule. -Hence, according as the tread p. or the rise h, is given we have
+
+ 24—P
+
+
+
+- h=—; or p=24-2h.
+
+2
+
+
+
+Thus, if the height of a step be 6 inches, then p=12, and
+
+	24—12	.
+
+=6 the rise for a step that has a tread of 12 inches. in2 
+
+
+
+cluding the nosing, ought not to exceed an inch, we have these
+
+general ruled: -
+
+
+
+TO FIND THE PROPER RISE FOR THE STEPS WHEN THE TREAD IS
+
+	GIVEN.	- -
+
+From 24 take I=23 from the remainder. 23. substract the
+
+
+
++ + 	 +	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	
+
+The Orders and Elements of
+
+-	Architecture. 
+
+Sketching and Water-Coloring
+
+Mechanical and Free-Hand Drawing.
+
+Materials.
+
+Elementary Mechanics.
+
+Architectural History
+
+ Original Design Sketching and Water-Coloring
+
+Mechanical and Free-Hand Drawing.
+
+Shades, Shadows, and Perspective.
+
+Common Construction.
+
+Graphical Statics.
+
+Architectural History.
+
+
+
+SECOND YEAR.
+
+FIRST TERM.
+
+Original Design.
+
+Sketching and Water-Coloring
+
+Specifications.'
+
+History of Ornament.
+
+Problems in Construction.
+
+Ventilation and Heating.
+
+Working Drawings and Fram ing. 
+
+
+
+ , 
+
+SECOND TERM.
+
+Original Design.
+
+Sketching and Water-Coloring
+
+Specifications and Contracts.
+
+History of Ornament 
+
+Planning.
+
+Iron construction. Schools, Theatres, Churches. Ventilation and Heating  Surveying. 
+
+Stereotomy.
+
+Problems in Construction,
+
+The 'regular course is the same for all departments of the Institute during the first year, and is confined. to general studies, with the Single exception of a large amount of mechanical and free-hand drawing. No one is allowed to continue in the department who does not have credits in mechanical drawing, including geometrical drawing, shades and shadows and descriptive geomThe regular course is as follows::
+
+ FIRST YEAR.
+
+ FIRST TERM.
+
+
+
+Algebra. 
+
+Solid Geometry.
+
+General Chemistry.
+
+-Chemical Laboratory.
+
+History of Jhe English Language. -
+
+English Composition.
+
+French (or German).
+
+Mechanical and Free-Hand Drawing.
+
+ Military Drill     
+
+ SECOND TERM..
+
+Algebra.
+
+Plane Trigonometry.
+
+General Chemistry.
+
+Chemical Laboratory.
+
+Political history since 1815.
+
+French (or German).
+
+Mechanical and -Free-Hand Drawing.
+
+Military DrilL
+
+SECOND YEAR.
+
+FIRST TERM,,
+
+
+
+Materials.
+
+Architectural History.
+
+Drawing.
+
+The Orders and Elements of
+
+ Architecture.
+
+Analytic Geometry.
+
+Physics.
+
+Descriptive Geometry.
+
+Political Economy.
+
+German.
+
+SECOND TERM.
+
+Original Design. Common Constructions, Architectural History. Shades, Shadows and Perspective..
+
+Sketching.
+
+Differential Calculus
+
+Physics.
+
+English Rose.
+
+German.
+
+THIRD YEAR
+
+ FIRST TERM.
+
+Original Design
+
+Sketching and Water-Coloring Working Drawings and FramIntegral Calculus
+
+German Statics.
+
+Structural Geology
+
+Physics Lecture and Laboratory
+
+
+
+German. 
+
+SECOND TERM.
+
+
+
+
+
+Original Design. Sketching and 
+
+Water-Coloring
+
+Iron Construction.
+
+
+
+Strength of Materials.
+
+Stereotomy.
+
+Physical Laboratory.
+
+European History,
+
+German.
+
+Acoustics.
+
+HAMILTON
+
+
+
+ (Correspondence of the Canadian Architect AND BUILDER.)
+
+
+
+SINCE my last report, I regret to have to say that building prospects In Hamilton have not improved. There have been no contracts let for the number of private residences that were in contemplation in the spring, and very few tenement buildings have been erected this year so different to previous years when whole blocks were built by those enterprising contractors, the Patter. son Bros., of this city, In fact it is understood that they don't intend building any more for instalment speculation, as a number of dwelling houses built by them in this place remain undisposed of and to let; in fact, they have concluded that the procedure did not pay. It is quite apparent that the bad result of the strikes is having its effect, and there is little or no work for the building trades, who will. have to face a long winter after a comparatively idle summer, and without the usual provision being made for the time when there is never work to do. I understand that the same state of things exists in Toronto and elsewhere. One would think that the unions would seriously consider the position, and change their programme.
+
+The work on our new City Hall is progressing favorably now that the stone, which is brought from' Nova Scotia,' is coming to hand, and a number of stonecutters and masons have steady employment on' the job.' The contractor, Mr. Pigott. deserves great credit for his indomitable energy and perseverance, having had to contend with the most determined opposition of the labor unions, who made every effort to prevent the work from being carried on in opposition to their absurd regulations. 
+
+I am glad to see that the action of the Provincial Government in engaging a foreign architect to prepare plans for the new Parliament Buildings in preference to Canadian talent, is being condemned, and as the adopted designs are inferior to those prepared by the Toronto architects, and will cost vastly more for the building, there must be a very unpleasant reflection for the responsible. parties. But when Canadian architects become incorporated and united as a body they will not be treated thus unfairly.
+
+I am glad to say that our Building Inspector's hook is ordered to be accurately kept in future, proper entries being made by the proprietors or their architects, so that hereafter! can forward you a correct statement of all new buildings to be erected in HamilThe strength of fire-clay as a building material says one who
+
+ought to know can hardly be estimated. Recently a piece of beam filling containing about three square feet, designed simply to be used as a ceiling and not intended to carry the weight above, was placed on supports and loaded with a weight of 5,000
+
+
+
+pounds. which it carried without any sign of giving. That was
+
+'about' 1666 pounds to the square foot, and the strongest floors
+
+now made are only designed to carry about 300 pounds to the foot.-
+
+I didn't see the use of making the test, as the article in question
+
+
+
+clay stood it. Fire-clay is now subjected to a heat of 2000 in baking, is said to be a greater heat than is raised in the blast furnaces in which it is placed to reduce ore. The uses to which
+
+- fire-clay brick, tiling and tubing are being put in modern fireproof buildings are now almost innumerable and the end is not yet,
+
+	2	-
+
+cluding the nosing, ght not to exceed an inch, we have these
+
+general rules:
+
+TO FIND THE PROPER RISE FOR THE STEPS WHEN THE TREAD IS GIVEN.
+
+ - - , . -
+
+From 24 take I=23; from the remainder, 23, substract the
+
+breadth of the tread in inches, and half the difference will be the
+
+rise. 
+
+
+
+Thus, if the tread be 12 inches, then
+
+23
+
+
+
+12
+
+
+
+
+
+2)11
+
+
+
+
+
+5 1/2 inches, the tread required.
+
+
+
+TO FIND THE PROPER TREAD WHEN THE RISE FOR A STEP IS GIVEN. 
+
+
+
+Subtract twice the rise from 23 and the remainder will be the proper width of. the lead. 
+
+Thus, if the rise be inches,
+
+23
+
+
+
+8 x 5=10 
+
+
+
+
+
+ 13 inches, the tread required.
+
+	Again, if the rise be 7 inches, then			- 
+
+		23	-		-
+
+
+
+2 X 7=4	- ,
+
+
+
+9 inches, the tread for a step with a risc of7 inches. Before we set out the stairs in a building we must consider the
+
+height of the story and determine upon the height or rise of the steps. 'which being done we must take the height of the story in' inches and divide the number of inches in the height of the story by the least rise proposed for a step; if the result be fractional, divide the height of the story by the number, neglecting the fraction, and 'the result will be the exact number of steps. For example, if the height of a story - is to be 10 feet 4 inches, and the height of a step is to be not less than 7 inches, how many steps will be required in order to ascend to the given height?
+
+Here (10 feet 4 inches) X 12—124 inches.
+
+124,
+
+Now —=17 5-7. which neglecting the fraction, is the number.
+
+	7	124
+
+of steps required; and ———7 5-17 inches, the height of the rise.
+
+ 17
+
+
+
+But if there be no winders in the stairs, an even number of steps will more convenient than an odd number. Therefore either 18
+
+124
+
+or 16 maybe adopted; if we must have 16, —=7 3/4 inches, which
+
+
+
+may answer very well; but if we are still confined for room
+
+on	the plan we must have recourse to winders.             The breadth of a staircase may be from 5 to 20 feet, according
+
+to the destination of the building.; but if the steps be less than 2
+
+feet 4 inches in length, they become inconvenient for the passing
+
+of furniture, and such narrow stairs should be avoided, even in small houses.
+
+When the height of a story is very considerable, resting places become necessary, In very high stories that admit a sufficient
+

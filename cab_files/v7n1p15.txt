@@ -1,0 +1,176 @@
+<doctype type="text">	THE CANADIAN	ARCHITECT AND BUILDER
+
+
+
+<article title=" CANADIAN vs. FOREIGN CEMENT " author="BAILLAIRGE, C">CANADIAN vs. FOREIGN CEMENT.
+
+QUEBEC, December 23, 1893.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR, In your last issue, Dec., '93, page 121, you say in relation to Canadian cement, alluding to the Soulanges Canal "This is the first instance as far as we are aware in which imported cement has been used in Canadian public works of this character."
+
+I would inform you that some $80,000 worth of imported Portland cement is said to have been used in the new docks, Quebec, and you are perfectly right in deploring the ignoring of our Canadian industries.
+
+C.	BAILLAIRGE,
+
+City Engineer, Quebec.
+
+
+
+<article title=" ROOF DIAGRAM " author="CAMPBELL, A. B.
+
+">ROOF DIAGRAM.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR,—I herewith enclose you a practical diagram on hip roofing which you may be pleased to publish for the benefit of your readers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+A C—width of building.
+
+C G and B D—length of common rafter.
+
+E F and B G -rise of roof.
+
+B C and B E—ron of common rafter.
+
+A D and C F—length of hip.
+
+2 and 3—exact length and bevels of jack rafters.
+
+A.	B. CAMPBELL
+
+
+
+Brandon, Man.
+
+<article title=" ROOF TRUSSES " author="">ROOF TRUSSES.
+
+THE action of trusses on walls, and their weight and thrust, is one of the important matters in building that should be carefully studied and understood by all builders. In designing a truss for any kind of building there are several factors to be provided for, which the following article by Mr. <person>I. P. Hicks</person>, in the National Builder, fully illustrates
+
+Let A B, C B (Fig. 1) he two rafters, placed on walls at A and C, and meeting in a ridge B. Even by their own weight, and much more when loaded, these rafters would have a tendency to spread outward at A and C, and to sink at B. If this tendency he restrained by a tie established betwixt A and C , and if A B, B C be perfectly rigid, and the tie A C incapable of extension, B will become a fixed point. This, then, is the ordinary couple-roof, in which the tie A C is a third piece of timber; and which
+
+
+
+B
+
+	E.	F
+
+
+
+
+
+
+
+
+
+
+
+
+
+ G
+
+
+
+
+
+
+
+
+
+may be used for spans of limited extent but when the span is so great that the tie A C tends to bend downwards or sag by reason of its length, then the conditions of stability obviously become impaired. Now, if from the point 13 a string or tie be let down and attached to the middle D, of A C, it will evidently be impossible for A C to bend downwards so long as A B B C remain of the same length ; D, therefore, like B, will become a fixed point, if the tie B 1) be incapable of extension. But the span may be increased, or the size of the rafters A B, C ID be diminished, until the latter also have a tendency to sag ; and to prevent this, pieces D F, D F are introduced, extending from the fixed point D to the middle of each rafter, and establishing F and E as fixed points also, so long as E, D F remain unaltered in length. Adopting the ordinary meaning of the verb "to truss," as expressing to tie up (and there seems to be no reason why we should seek further for the etymology), we truss or tie up the point ID, and the frame A B C is a trussed frame. In like manner, F being established as a fixed point, C is trussed to it. In every trussed frame there must obviously be one series of the component parts in a state of compression, and the other
+
+in a state of extension. The functions of the former can only be filled by pieces which are rigid, while the place of the latter may be supplied by strings, In the diameter, the pieces A B, C B are compressed, and A C, D B are extended; yet in general the tie D B is called a king-post, a term which conveys an altogether erroneous idea of its duties. Thus we see how the two
+
+
+
+
+
+
+
+
+
+
+
+ b
+
+	5	3
+
+
+
+principal rafters, by their being incapable of extension, serve, through the means of the king-post, to establish a fixed point in the center of the void spanned by the roof; which again becomes the point d'appui of the struts, which at the same time prevent the rafters from bending, and serve in the establishing of other fixed points; and the combination of these pieces is called a king-post roof.
+
+It is sometimes, however, inconvenient to have the center of the space occupied by this king-post, especially where it is necessary to have apartments in the roof. In such a case recourse is had to a different manner of trussing. Two suspending posts are used, and a forth element is introduced, namely, the s/raining beam a b (Fig. 2), extending between the posts. The principle of trussing is the same. The rafters are compressed, the straining beam is compressed, and the tie-beam and posts, the latter now called queen posts, are in a state of tension.
+
+In some roofs, for the sake of effect, the tie-beam does not stretch across between the feet of the principals, but is interrupted. In point of fact, although occupying the place of it, it does not fill the office of a tie-beam, but acts merely as a bracket attached to the wall (Fig. 3). It is then called a hammer-beam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The firm of <firm>Lorner & Rose</firm>, metal merchants, Montreal, has been dissolved.
+
+A quarry of black granite of good quantity, is reported to have been discovered at Bocabec, N. S.
+
+A Canadian patent, No. 44.650, has been granted to <person>H, W. Kincaid</person>, of Athens, Ont., for a metallic shingle.
+
+The stone which is to be used in the construction of the Soulanges Canal will be obtained from quarries at Rockland, Que.
+
+The <assoc>Canadian Cut Nail Association</assoc> decided at a recent meeting, not to make any change in prices. The <firm>Wire Nail Manufacturers</firm> decided to make a five per cent, reduction in the discount allowed the trade.
+
+A vitrified brick manufactured by the <firm>Hamilton and Toronto Sewer Pipe Co.</firm>, was recently tested, and after having been immersed in water for three days, showed an increase in weight of only 4-9ths. of an ounce, the original weight being 7 pounds.
+
+Awards were granted to exhibits at the Worlds 1-air by the following Canadian <firm>firms New Rockland Quarry Co.</firm>, Rockland, Que., for slate sink, etc. <firm>P. W. Ellis & Co.</firm>, Toronto. veined marble tile <firm>Rathbun Co</firm>., Deseronto, cements <person>J. R. Ward</person>, Grenville, Que., marbles.
+
+The <firm>St. Johns Stone Chinaware Company</firm>, of St. Johns, Que., has been reorganized with Messrs. Laviolette and Leduc of Montreal, as president and vice-president and Mr. Alex. Macdonald as managing director. The re-building of the company's factory at St. Johns is being rapidly pushed forward.
+
+Messrs. <person>W. Gibson</person>, Benton, N. B., <person>Robert A. Stuart</person> and <person>J. M. Hanson</person>, of St. Andrews, N. B., have entered into partnership to quarry, manufacture and deal in granite and stone, the firm nante being <firm>Gibson, Stuart & Hanson</firm>. The term of partnership is from the first of December, 1893, to the first of December, 1903.
+
+It is reported that under the management of <person>T. F. Pharaoh</person>, the slate quarry near Danville. Que. is being successfully operated, upwards of 50 men being employed. There are some benches of pore slate 30 feet thick, and single pieces of seven to twelve tons weight are quarried. The material is worked into blackboards, flooring. roofing, etc.
+
+the first annual meeting of the shareholders of the <firm>La Prairie Press Brick and Terra Cotta Company</firm>, was held at the offices of the company, 118 Peter street, Montreal, on the t6th of December, when a very satisfactory  statement of affairs was presented, and satisfaction was expressed with the result of the manufacturing thus far done, It has been decided to invest some $25,000 in additional plant, the intention being to manufacture during the present year about 10,000,000 common and pressed bricks. The following board of directors have been appointed:—<person>A. A. Ayer</person>, <person>J. W. R. Brutinett</person>, <person>Peter Lyall</person>, <person>John McKergow</person>, <person>J. W. Tester</person>, <person>A. D. Taylor </person>and <person>Hugh Cameron</person>. At a meeting of the directors, A. A. Aver, was elected president, J. W. R. Brunnett. vice-president, and <person>T. A. Morrison</person>, secretary-treasurer.
+

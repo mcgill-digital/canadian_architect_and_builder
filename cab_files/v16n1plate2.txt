@@ -1,0 +1,6 @@
+<doctype type="plate">CANADIAN ARCHITECT AND BUILDER.
+
+<building>Canadian Summer Cottage</building>
+
+<person>Ernest Wilby</person>, Architect
+

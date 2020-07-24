@@ -1,0 +1,148 @@
+	<doctype type="text">122	THE CANADIAN	ARCHITECT AND	BUILDER
+
+
+
+cantilever, i. e., fastened at one end and loaded at the other, it bears but half as much load at its end for the same deflection.
+
+From the third column it is easy to find how many pounds would bend a piece of the same kind of other dimensions. A 2 by 4 inch bears eight, a 2 by 6 inch twenty-seven times as much as the 2 by 2 inch ; a piece eight feet long is about twice as stiff as a 10 foot piece; a piece 12 feet, only about three-fifths, 14 feet one 
+
+third, 16 feet two ninths, is feet one—sixth, and 20 feet one-eighth as stiff.
+
+The number of pounds which will bend any piece of sawed timber by 1 inch may be found by using the formula
+
+Necessary weight — 4 E bd 3/ I3
+
+
+
+where E is the figure in the first column, b, d, I, breadth, depth and length of the timber in inches. If the deflection is not to exceed one—half inch, only one—half the load, and if one-fourth inch, only one-fourth the load is permissible.
+
+To allow for normal irregularities in the structure of wood itself, as well as in the aggregate structure of timbers, an allowance is made on the numbers which have been found by experiment ; this allowance is called the ''factor of safety." Where the selection of the wood is not very perfect, the load is a variable one, and the safety of human life depends on the structure ; the factor is usually taken quite high, as much as 6 or 10, i. e., only one-sixth or one-tenth of the figures given in the tables is considered safe, and the beam is made six to ten times as heavy as the calculation requires
+
+TABLE OF STIFENISS (MODUIUS OF ELASTICITY) OF DRY WOOD.—
+
+GENERAL AVERAGES
+
+<article title=" TABLE OF STIFENISS (MODUIUS OF ELASTICITY) OF DRY WOOD.—
+
+GENERAL AVERAGES
+
+" author="">
+
+Modulus of Approximate weight which
+
+elasticity deflects by inch a piece—
+
+	4D bd3	1 by 1 inch 2by 2 inches
+
+	per square	and 12	and 10
+
+
+
+(I)	Live oak, good tamarack, longleaf,
+
+	inch.	inches long.	feet long.
+
+		Cuban and shortleaf pine, good Douglas spruce, western hemlock, yellow	Pounds.	Pounds.	Pounds.
+
+		and cherry birch, hard Inaple, beech.
+
+		locust and the best of oak and hickory	1,6800,00	3,900	62
+
+	(2)	Birch, common oak, hickory, white and
+
+		black spruce, loblolly and red pine, cypress, best of ash, elm and poplar arid
+
+		black walnut	1,400,000	3,200 
+
+	(3)	Maples, cherry, ash, elm, sycamore, 
+
+		sweet gum, butternut, poplar, bass.
+
+		wood, white, sugar and bull pine,
+
+		cedars, scrub pine, hemlock and fir	1,100,000	2,500	40
+
+	(4)	Box elder, horse chestnut, a number of
+
+		western soft pines, inferior grades of
+
+		hardwood	1,1 0,000	12,500	40
+
+
+
+Less than.
+
+
+
+<article title=" THE VALUE OF ADVERTISING " author="">
+
+THE VALUE OF ADVERTISING.
+
+ONE of the largest advertisers	in London says: '' We once upon a novel expedient for ascertaining over what area our advertisements were read. We published a couple of half—column ads, in which we purposely misstated half a dozen historical facts. In less than a week we received between 300 and 400 letters from all parts of the country, from people wishing to know why on earth we kept such a consummate idiot, who knew so little about English history. The letters kept pouring in for three or four weeks. It was one of the best paying ads. we ever printed, but we did not repeat our experiment, because the one I refer to served its purpose. Gill. letters came from school-boys, girls, professors, clergymen, school—teachers and, in two instances, from eminent men who have a world—wide reputation. I was more impressed with the value of advertising from those two advertisements than I should have been by volumes of theories. '—Exchange.
+
+
+
+Large quantities of asbestos are now being shipped from the Thedford mine in Quebec to England.
+
+Allister McKay, contractor, Chatham, has succeeded in perfecting a mammoth steam plow, which is now in successful operation on his Point Pelee farm. The plow is propelled by a steam engine at each end of the field, and performs its wet k fast and effectively.
+
+STUDENTS' DEPARTMENT ______
+
+
+
+AN IRISH COMPETITION.
+
+THE corporation of Belfast, Ireland, invite sketch designs for a new city hall, to cost F 150,000. Mr. Alfred Waterhouse, R. A., and Mr. Bretland, City Surveyor, are the assessors. The authors of the three selected designs will be required to engage in a final competition, and among these the sum of £300 will be equally divided. The City Surveyor will furnish a copy of the conditions on payment of one guinea. The competition will close on the 25th of October.
+
+<article title=" AN IRISH COMPETITION " author="">
+
+"CANADIAN ARCHITECT AND BUILDER" STUDENTS' AND DRAUGHTMEN'S
+
+COMPETITION. <article title=""CANADIAN ARCHITECT AND BUILDER" STUDENTS' AND DRAUGHTMEN'S
+
+COMPETITION " author="Hutchison">
+
+THE reports of the committees, composed of members of the Province of Quebec Association of Architects and of the Ontario Association of Architects, who kindly undertook to judge the merits of the designs submitted in the above competition, have been received, and are printed in full as follows
+
+The Commit tee of the Province of Quebec Association of Architects appointed to consider the designs submitted in the CANADIAN ARCHITECT AND BUILDER competition for a frontispiece for the New Year Number, 1897, herewith beg to Present their report.
+
+Seven designs were submitted. Of these the one sent in under the motto of '' Dix " we ruled out of the competition, for the reason that it is an exact copy of a drawing published in the American Architect of October 22, 1892, by W. . M. Maccafferty, being one of a series of sketches made by him as American Architect Travelling Scholar, 1892.
+
+Ich Dien '' we were also compelled to rule out of the competition as not complying with the published conditions as to size.
+
+Wilmot '' we also ruled out as being in pencil and not complying with tile conditions as to size.
+
+Of the others we consider that none are of sufficient merit to be awarded a prize, nor do we consider them suitable for the object sought.
+
+ALEX. C. H UTCHISON President.
+
+ANDREW T. TAYLOR, Vice-President.
+
+Jos. VENNE, Secretary.
+
+
+
+TORONTO, Aug. 3rd, 1896.
+
+
+
+The problem to be solved by this competition, viz : '' a front cover for tile New Year Number of the CANADIAN ARCHITECT AND BUILDER was by no means an easy one, and in the committees opinion it is not surprising that the result should not be satisfactory. The subject is outside the ordinary scope of architecture. It called for a superior quality of draughtsmanship, and most of all for considerable designing ability, and therefore rather beyond the capabilities of the average student Moreover, the problem was not merely to design an ordinary journal fronts piece, but one that should be distinctively architectural and which should present the ideal rather than the practical side of architecture. For example, if the design was intended to depict some notable architectural monument either in whole or in part such representation should either he conventionalized or it should form a portion only of the whole composition being supplemented by something more idealistic. At the same time simplicity of design is of first importance and a crowded or complex composition is to be avoided. This defect is forcibly illustrated in the design submitted by '' Wilmot.'' Here both the real and the ideal are presented (and for this it is to be commended,) but so many insignificant  and feeble details are introduced as to completely mar the whole effect. On the other hand the design by '' Dix,' who selects an entrance doorway, is lacking in ideal qualities, it being solely a representation of an old doorway in Siena, Italy.
+
+The committee, after an examination of time various designs, would award the first price to ' Ich Dien '' and the second to
+
+Confident.
+
+The design under motto of "Dix," before referred to, while being an excellent example of artistic draughtsmanship, and under
+
+
+
+proper conditions worthy of a high place, we must decline to consider, as it is art exact copy even to the most minute detail (the original draughtsman's initials only excepted) of a drawing by Mr. W. M. Maccafferty, as published in the American Architect of October 22nd, 1892.
+
+As to the other designs the commit tee would make the following comments and criticisms;
+
+
+
+Ich Dien " easily occupies the first place. The subject chosen is a domestic doorway in the Renaissance style, the steps with side parapets of stone surmounted by ornamental lamp standards in wrot iron or other metal. The composition is quite artistic, it is well drawn and the lettering is good and well arranged. its chief fault is a certain smallness and prettiness suggestive of the decorative accessories of architecture rather than of architecture itself.
+
+Confident '' submits a well drawn design in many respects,
+

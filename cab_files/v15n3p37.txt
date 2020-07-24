@@ -1,0 +1,132 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<article title=" INTERCOMMUNICATION " author="">INTERCOMMUNICATION
+
+
+
+(Communications sent to this department must be addressed to the editor with the name and address of the sender attached not necessarily for publication The editor does not hold himself responsible for the expressions or opinions of correspondents but will, nevertheless, endeavor to secure correct replies to queries sent in, We do not guarantee answers to all queries, either do we undertake to answer questions to issue following their appearance.]
+
+
+
+
+
+
+
+From "Builder":—What is the rule for finding the length of braces between two posts when they incline one foot in six feet rise ?
+
+ANS.—Suppose the illustration, Fig. I, represents a frame, the posts of which incline one foot in six feet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fm. i. — GETTING; LENGTH OF BRACES.
+
+
+
+
+
+rise. Let the distance B B represent a distance of seven feet. The braces are run at an angle of The posts inclining one foot in six leaves the distance at A A six feet. The length then may easily be found by using the steel-square which will also give the bevels of the joints, In this case the actual length of brace from point to heel is 8 ft 3-16 inches. The square may be applied 6 times, using 2 mark on the blade and 2 ½ inches on the tongue then lay out, the same as laying out rafters.
+
+<article title="From a village contractor" author="">
+
+From "A Village Contractor":—Will you please inform me of the method generally adopted for measuring masonry, both before and after being built ?
+
+ANS.—Stone masonry is measured by two systems, and they are again subject to local usage. These systems are called quarryman's and mason's measurements. By quarryman's measurements the actual contents are measured—that is, all openings are taken out and all corners are measured single. By mason's measurements corners and piers are doubled, and no allowance made for openings less than 3X5 feet, and only half the amount of openings larger than 2x5 feet Range work and cutwork are measured superficially, and in addition to wall measurement. Rough stone walls are measured by the cord of 100 feet in the wall, or 128 feet loose on the ground, and all openings less than 3X3 feet are counted solid, and half of openings above that size are counted as solid walls, to which must be added 18 inches running measure for each jamb built. Arches are counted solid from their spring. Corners of buildings are counted twice. Pillars less than three feet are counted on three sides as lineal, multiplied by fourth side and depth. It is customary to measure all foundations and dimension stone by the cubic foot, water tables, base courses and similar work by lineal feet. All sills, lintels, and ashler work by superficial feet, and no wall less than 18 inches thick. To lay a cord of stone of 128 feet loose will require three bushels of lime and a cubic yard (27 cubic feet) of sand, and when laid in wall the
+
+whole will measure 100 cubic feet, or one mason's cord.
+
+Brickwork is generally measured by the 1,000 bricks laid in the wall. In consequence of the variation of size of bricks, no exact rule that will apply to all localities can be laid down. The following, however, is a fair average for Canada or Ontario at least, and is
+
+adopted generally by the	<assoc>Ontario	Association of
+
+Architects</assoc>
+
+   For a 4¼ inch or	veneered wall,	6½ inches -
+
+                   wall		13
+
+		''	''	20
+
+'4
+
+	'' 18	''	''	26	''
+
+	" 27	" "	40
+
+
+
+
+
+This rule may vary from one-half to one brick for each superficial foot in a wall, according to size of bricks, but not any more. If the bricks are large, the number per foot of wall may be one brick less than given in rule ; if smaller, the number per loot may be increased by one foot or less. This rule is based on a standard size of 8¾ x 2 1/8 inches. Corners are not measured twice as in stone-work. Openings over 2 feet square are deducted. Arches are counted from the spring. Fancy work counted 172 bricks for one. Pillars are measured on their face only.
+
+A cubic yard of mortar requires one cubic yard of sand and nine bushels of lime, and will just fill thirty
+
+hods.	One thousand new bricks closely stacked will
+
+require	56 cubic feet of space.	One thousand old
+
+bricks cleaned and loosely packed occupy about 72 cubic feet. Five courses of bricks laid in a wall should make one foot in height of wall or chimney. Six bricks in a course will make a flue 4X12 2 inches, and eight bricks in a course will make a flue 8 inches wide and 16 inches long. Bricklayers generally contract for laying bricks by the 1000 in the wall and the prices vary according to cost of materials and price of labor.
+
+<article title="From a mechanic" author="">
+
+From "A Mechanic" :—Will you please explain how the different "cuts" for mitres, octagons and hexagons, are obtained by the use of the steel square?
+
+ANS. —Note the diagram, Fig. 2. here we show a quarter of a circle x A C, along the horizontal line A B,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG 2.—METHOD OF OBTAINING CUTS FOR MITRES, FOR SQUARE, OCTAGON AND HEXAGON, BY AID OF' THE STEEL SQUARE.
+
+
+
+
+
+the square is laid with 12 on the blade at the centre C, from which the quadrant was struck. If we divide this quadrant into halves we get the point E, and a line drawn from 2" on the blade of the square and through the point E, we cut the tongue of the square at 12" and through to 0, and the line thus drawn makes an angle of 450, a true mitre. If we divide the quadrant between E and X, and then draw a line from C, at 12" on the blade
+

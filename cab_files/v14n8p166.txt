@@ -1,0 +1,64 @@
+<doctype type="text">166	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+fects (if existing) might reasonably be expected to become apparent.
+
+Such is the nature of the usual provisions for the prevention and rectification of defects. But even apart from such provisions in the contract) if the work is inefficiently done, the owner may deduct from the contract price a reasonable sum in respect of defective work, and if payment has been made he may obtain damages for such defective work. See Davis and Hedges L. R. 6 Q. B. 187. And if the work is so improperly done as to be useless, he may decline to pay altogether.
+
+As to time for commencement and completion The contract usually provides that upon execution or at sonic fixed date the builder shall be entitled to enter on the land for the purpose only of executing the works, and so as not to create any tenancy or confer any further interest.
+
+If the buildings are contracted to he finished within a certain time and are not so completed, the owner of course will have an action for damages for such breach of the contract. It is, however, usually deemed inexpedient to rely upon this remedy only and consequently it is usually provided that in the event of non-completion by the stipulated day, a penalty is fixed by the contract of so much for every day beyond, until actual completion. These, unless they are excessive or unless there is something in the Contract to show them to be included as penalties in the legal sense, are construed as liquidated damages. See Law v. Local Board of Redditch, L.R. (1892), 1 Q.B. 127.
+
+For the protection of thc builder, provisions are also usually inserted to meet the case of delay through unforeseen or unavoidable circumstances, e.g., stress of weather, strikes, disputes with neighbors, etc. in these cases a reasonable extension of time is provided to be allowed by the architect or surveyor. Another cause for extension of time which is usually provided for, though no doubt it would be allowed without express provisions is in the case of extra work being found to be and in fact required.
+
+As to the Consideration or Renumeration. The simplest case is that where a lump sum is to be paid upon completion. Usually, however, at any rate in large contracts, the builder requires money as the work proceeds, and he therefore stipulates to be paid certain sums at certain stages. In both cases it is usually provided that the certificate of the architect shall be required as a condition precedent for payment, and this provision has given rise to various questions as to the conclusiveness of and necessity for the certificate. It has been decided that it is final and conclusive as between the builder and building owner, even if given without reasonable care. Stevenson v. Watson, L.R. 4 C.P.D., 148, and Rogers v. James, 1891, 8
+
+Times" Law Reports, 67.
+
+This evidently puts great power into the hands of the architect, and much reliance must he placed upon professional honor. The builder has no remedy against him in case of mere negligence or merely unreasonable conduct. In this, however, as in all other matters actual fraud will give a right to relief, consequently, if the certificate is withheld fraudulently and in collusion with the employer, the builder will have a right of action both against the architect for the fraud and against the employer for work done, even though the certificate he withheld.
+
+It is, however, to be remembered that where the contract provides for payments in advance upon the certificate of the architect that so much work, or work of such and such value, has been done, these interim certificates are not final, and when the time for final payment and settlement comes they may he revised and readjusted, Tharsis Sulphur Co. v. McElroy, 3 App. Cases 1040.
+
+As to the form of certificate the contract may provide that it must be in writing or in some particular form, but in the absence of such provision it need not he in writing, and may be by word of mouth, and in any form amounting to a certificate, but it must be so expressed as to be in fact a certificate, and not as it were a mere admission.
+
+In the recent cases of Chambers v. Goldthorpe and Restell v. Nye, 84 L.T., p. 444, it was held that the architect in giving his certificate was in the position of an arbitrator, and so not liable for negligence in so doing. Lord Justice Romer, however, dissented from this view, and considered that on giving his certificate the architect was
+
+acting simply as the agent of the building owner, and was consequently liable to him for negligence.
+
+Deviations and extra work. It probably but seldom happens that in carrying out works of any extent they are carried out exactly in accordance with, and without any deviations from, the original plans. As the works proceed, either unforeseen difficulties present themselves, or the works themselves suggest improvements in the original design, or the employer alters his mind as to some idea or details, acting on the principle that it is the unforeseen which happens, the draftsman takes care to provide for such contingencies as are above mentioned.
+
+The two things to lie provided for are—
+
+(a)	The extra remuneration for the extra work.
+
+(b)	The further time to he allowed.
+
+(a) May he fixed either by reference to schedule of prices, or by the surveyor; and as to (b) the contract may stipulate that no further time be allowed, or it may provide that thc architect or surveyor may allow such further time as he may think reasonable.
+
+and contract the in contained is provision such no if
+
+extra work is ordered no penalty can he recovered for delay. See Dodd v. Churton, 1897, I Q.B., 562.
+
+It may here be observed that where the contract provides that the architect may order extra work to be done, this does nut give him authority to require deviations or alterations amounting to an alteration of the general plan as originally proposed, but only alterations in matter of detail. See Rex v. Peto, Younge and Jervis, 37.
+
+The question frequently arises, What is extra work ? and to this the answer is that it is work outside the contract as originally entered into. It is necessary for the execution of that work, although not specified it is not extra and must be done for the price originally stipulated for. See Sharpe v. San Paulo Railway Co., L.R. 8, Ch. 597.
+
+Assignment and subletting of contract. In order to secure the services of a particular builder in whom the employer has confidence, it is usual to provide against subletting or assignment, and also to give power to the employer to determine the contract on the bankruptcy of the builder. In this case, in order to terminate the contract, the employer must do some act indicating his clear intention to exercise the power.
+
+Property in plant and materials. In order to give better security for payments in advance, it is usual to provide that all materials and plant brought on the land shall be the property of the landowner. It would be insufficient merely to give power of seizure upon bankruptcy, for that would not prevail against the claim of the trustee—for this purpose it is necessary to vest the ownership in the employer. Moreover, apart from the question of security it would obviously he inconvenient to risk the intrusion of the trustee upon the works, and thc delay which might be caused by uncertainty as to what he could claim.
+
+Of course when materials are built in upon the land they form part of it and belong to the landowner ipso facto. It is only in the case of loose materials and plant that the provisions against claims by the trustee in bankruptcy are necessary.
+
+Arbitration and prevention of disputes. The contract usually concludes with a clause or clauses, the objects of which are—
+
+(a)	To prevent disputes.
+
+(b)	To settle disputes.
+
+For the prevention of disputes, the architect or surveyor is sometimes empowered to decide finally and without being arbitrator. This prevents his decision in the absence of fraud being called in question. But it has been held that where the architect has given to the employer an assurance that the cost shall not exceed a certain sum, he is not considered to be in such a position of impartiality as to render his decision unassailable and if such facts be proved the builder might claim a greater amount. Sea Kemp v. Rose, I Giff, 258 and Kimberley v. Dick, L.R. 13, Eq.I.
+
+For the settlement of disputes which may arise, notwithstanding provision for their prevention, an Arbitration Clause in the usual form is generally inserted. It is in the interest of all parties, employer, builder, and architect, that the work should proceed smoothly. Every possible question therefore that is likely to arise should be provided for ; hence it is of the utmost importance that building contracts should be very carefully drawn, and architects, employers, and builders should endeavor to acquaint their legal advisers with any practical difficulty that may arise in a particular case, with a view to its being obviated in the future, whilst the lawyer's part is to carefully watch the course of judicial decisions bearing on the matter, and to frame his contracts from time to time in such a way that the dispute which gave rise to the case in question shall not arise in respect of the contract drawn by him.
+
+Perfection in legal draftsmanship is, perhaps, not possible of attainment, but if the course I have suggested be taken, we may hope in time and by experience to produce a form of building contract as nearly perfect as it is possible for such contract to be—H. H. Richardson solicitors in the Architects' Magazine.
+

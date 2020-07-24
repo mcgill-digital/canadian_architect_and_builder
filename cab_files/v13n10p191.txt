@@ -1,0 +1,140 @@
+
+
+<doctype type="text;plate">All tests and inspections shall be made at the place of manufacture prior to shipment.
+
+SPECIFICATIONS FOR STRUCTURAL STEEL FOR BUILDINGS.
+
+
+
+The only marked deviations from the specifications for bridge and ship steel are in the following clauses and in permission to use Bessemer as well as open-hearth steel:
+
+2 Each of the two classes of structural steel for buildings shall not contain more than o. 10 per cent. of phosphorus.
+
+3 There shall be two classes of structural steel for buildings, namely, rivet steel and medium steel, which shall conform to the following physical qualities
+
+4.	Tensile tests.
+
+	Rivet Steel.	Medium Steel.
+
+Tensile strength, pounds per
+
+	square inch	.	.	. 50,000 to 60,000 60,000 to 70,000
+
+Yield point, in pounds per sq.
+
+	in. shall not be less than	30,000	35,000
+
+Elongation, per cent. in 8 ins.
+
+	shall not be less than	. 26	22
+
+
+
+SPECIFICATIONS FOR WROUGHT-IRON.
+
+
+
+I.	Wrought-iron shall be made by the puddling process or rolled from fagots or piles made up from No.
+
+wrought-iron scrap, alone or with muck bar added, it being understood that test iron Class B and stay-bolt iron contain no scrap.
+
+2.	The minimum physical qualities required in the four classes of wrought-iron shall be as follows
+
+	Refined	Test Iron	Test Iron	Stay-Bolt
+
+                       Iron. Class A.			Class B.	Iron.
+
+Tensile strength, lbs.
+
+ per sq. in. .	48,000	48,000	50,000	46,000
+
+Yield point, lbs. per
+
+ sq. in. . . .	25,000	25,000	25,000	25,000
+
+Elongation, per cent.
+
+ in. 8 ins. .	15	20	25	28
+
+
+
+3.	In sections weighing less than 0.654 lb. per lineal foot the percentage of elongation required in the four classes specified in paragraph No. 2 shall be 11.25 per cent., 15.00 per cent, 1875 per cent., and 21.00 per cent. respectively.
+
+4.	The four classes, of iron when nicked and tested as described in paragraph No. 9 shall show the following fracture
+
+(a)	Refined iron, a generally fibrous fracture, tree from coarse crystalline spots. Not over 15 per cent. of the fractured surface shall be granular.
+
+(b)	Test iron class A, a generally fibrous fracture, free from coarse crystalline spots. Not over 10 per cent. of the fractured surface shall be granular.
+
+(c)	Test iron class B, a long, clean, silky fibre, free from slag or dirt or any coarse, crystalline spots. A few fine crystalline spots may be tolerated provided they do not in the aggregate exceed 10 per cent. of the sectional area of the bar.
+
+(d)	Stay-bolt iron, a long, clean, silky fibre, free from slag or dirt, and wholly fibrous, being practically tree from crystalline spots.
+
+5.	The four classes of iron when tested as described in paragraph No. 10 shall conform to the following bending tests
+
+(e)	Refined iron shall bend cold 180 degs. around a diameter equal to twice the thickness of the tested specimen, without fracture on outside of the bent portion.
+
+(f)	Test iron class A, shall bend cold 180 degs. around a diameter equal to the thickness of the tested specimen, without fracture on outside of the bent portion.
+
+(g)	Test iron class B, shall bend cold 180 degs. flat on itself without fracture on outside of the bent portion.
+
+(h)	Stay-bolt iron, a piece of stay-bolt iron about 24 inches long shall bend in the middle through 180 degs. flat on itself, and then bend in the middle through 180 degs. flat on itself in a plane at a right angle to the former direction, without a fracture on outside of the bent portions. Another specimen with a thread cut over the entire length shall stand this double bending without showing deep cracks in the threads.
+
+6.	The four classes of iron, when tested as described in paragraph No. 11, shall conform to the following hot-bending tests
+
+(i)	Refined iron shall bend sharply to a right angle, without showing cracks or flaws.
+
+(j)	Test iron class A, shall bend through 180 degs. flat on itself, without showing cracks or flaws.
+
+(k) Test iron class B, shall bend through 180 degs. flat on itself, without showing cracks or flaws. A similar specimen heated to a yellow heat and suddenly quenched in water between 8o degs. and 90 degs. F. shall bend without hammering on the bend, 180 degs. flat on itself without showing cracks or flaws. A similar specimen heated to a bright red heat shall be split at the end and each part bent back through an angle of 180 degs. It will also be punched and expanded by drifts until a round hole is formed whose diameter is not less than nine-tenths of the diameter of the rod or width of the bar. Any extension of the original split or indications of fracture, cracks or flaws developed by the above tests will be sufficient cause for the rejection of the lot represented by that rod or bar.
+
+(I) Stay-bolt iron shall bend through 180 degs. flat on itself, without showing cracks or flaws. A similar specimen heated to a yellow heat and suddenly quenched in water between 8o and 90 degs. F. shall bend, without hammering on the bend, 180 degs. flat on itself, without showing cracks or flaws.
+
+7.	Stay-bolt iron shall permit of the cutting of a clean, sharp thread, and be rolled true to gauges desired so as not to jamb in the threading dies.
+
+8.	Whenever possible, iron shall be tested in full size as rolled to determine the physical qualities specified in paragraphs Nos. 2 and 3, the elongation being measured on an 8-inch gauged length. In flats and shapes too large to test as rolled, the standard test specimen 1 1/2 inch wide and 8 inches gauged length. In large rounds the standard test specimen of 2 inches gauged length shall be used ; the centre of this specimen shall be half-way between the centre and outside of the round.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.	Nicking tests shall be made on specimens cut from the iron as rolled. The specimen shall be slightly and evenly nicked on one side, and bent back at this point through an angle of 180 deg. by a succession of light blows. Tested iron class B and stay-bolt iron may be nicked approximately 20 per cent. of its thickness.
+
+10.	Cold bending tests shall be made on specimens cut from the bar as rolled. The specimen shall be bent through an angle of 180 deg. by pressure or by a succession of light blows.
+
+i.	Hot bending tests shall be made on specimens cut from the bar as rolled. The specimens, heated to a bright red heat, shall be bent through an angle of 180 deg. by pressure or by a succession of light blows, and without hammering directly on the bend.
+
+If desired a similar bar of any of the four classes of iron shall be worked and welded in the ordinary manner without showing signs of red shortness.
+
+2.	The yield point specified in paragraph No. 2 shall be determined by the careful observation of the drop of the beam or halt in the gauge of the testing machine.
+
+13.	All wrought iron must be practically straight, smooth, free from cinder spots or injurious flaws, buckles, blisters or cracks. As the thickness of bars approaches the maximum that the rolls will produce the same perfection of finish will not be required as in thinner ones.
+
+In flat and square bars 1-32 inch variation either way from the size ordered will be allowed.
+
+In round iron 0.01 inch variation either way from the size ordered will be allowed, except in stay-bolt iron, which shall be at least 0.01 inch, and not more than 0025 inch below normal size, to insure freedom from jambing in the threading dies.
+
+
+
+INSPECTION.
+
+
+
+14. This clause, for inspection, is the same as for bridge steel.
+

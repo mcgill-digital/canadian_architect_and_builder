@@ -1,0 +1,6 @@
+<doctype type="plate"><building>INSANE ASYLUM BUILDINGS</building>,
+
+
+
+ <person>KIVAS TULLY </person>C.E.,
+

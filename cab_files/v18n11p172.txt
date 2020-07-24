@@ -1,0 +1,66 @@
+<doctype type="text">172	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+air, if the plant is so constructed that the amount of ventilation can be controlled.
+
+It is true, that with hot air heating, ventilation can be carried to a point which will involve large loss, as I shall show hereafter. The same is true with hot water and steam. You can open the windows and crowd them.
+
+But in either case, the loss is to be charged up to ventilation, or bad management, and not to the system of heating, and can be as well controlled under one system as another.
+
+It is a possibility, in heating with hot air, to heat all the rooms in a house at the same time. I am compelled to admit that this is not always done in practice. I could not even dispute the statement that it is not often done, but I can demonstrate both theoretically and practically that it can be done, and that which can be done is a possibility.
+
+The difficulty has not been in the principle, hut in the apparatus, not in the gun but the man behind the gun.
+
+If the amount of cold air that is supplied to the furnace is equal to the amount that can be forced through all the hot air pipes, if the construction of the furnace is such that this amount of air can pass through the casing and reach the hot air pipes, with velocity unreduced by friction, if the furnace has the necessary surface and the necessary arrangement of surface to heat all this air, if the size and form of the hot air pipes are such as will permit the passage of the required amount of air to each room, and if there is no serious ''back pressure" in any room, the furnace will heat them all at the same time. For if enough air is being pressed through the furnace to supply all that can be carried by all the pipes, the pressure in the furnace will force this air through all these pipes, if the resistance due to friction and back pressure in the rooms is less titan the pressure in the furnace. That is a simple matter of mathematical demonstration.
+
+'[here are a great many '' ifs " in that claim. Certainly. And it is the business of' the heating engineer to look after those ifs." If lie can't do it, he has not vet mastered his profession.
+
+These '' ifs cannot be met either 1w guesswork or by a set of hard and fast rules. They require a thorough scientific knowledge of the principles involved, a considerable amount of practical experience, and a liberal use of horse sense.
+
+Air is compressible and elastic. It is subject to friction, inertia and momentum. The fact that two pipes have the same area is not proof that the same pressure will force the same amount of air through each. To get proportions correct, is not a simple or easy matter, but requires the exercise of brains and judgment.
+
+It is possible in heating with hot air, to heat those rooms which are most exposed to the wind, or the windward side of large rooms. The course of heated air is subject to definite laws, and by the use of these laws, it can be controlled. But the man who would control it, must make himself familiar with these laws and not content himself with a lot of empirical formulas.
+
+The cause of trouble in heating rooms exposed to the wind is that the air pressure on the outside by leakage produces air pressure in the room, and if the pressure in the room is greater than the pressure in the pipe, the greater will overcome the less. If the pressure of air on the outside is so great that the pressure of air in the pipe cannot force air out through the crevices around windows, and there is no outlet for the air, it will he impossible to force air into the room, and, consequently impossible to heat that room.
+
+But the difficulty can be overcome by providing a proper outlet, of the proper size and in the proper location.
+
+Nothing has done so much to injure heating with hot air as the common idea that neither skill nor scientific knowledge is needed in connection with it. The system has been neglected by scientific men, and the work is
+
+frequently turned over to common mechanics. in many places, the carpenter is given the job of having the house piped, and he turns it over to whoever gets the contract for roofing and spouting. The average man who would not think of laying out a shoe closet in the house he is building, without consulting an architect, will give all the directions for putting in a furnace, determine its size, its location, the pipes and the registers. Then he expects the "furnace man" to put in the furnace on plans of the builders' selection, and guarantee the working of the plant.
+
+And strangest of all, there are plenty of "furnace men who will do it.
+
+No wonder guarantees on the working of hot air furnaces are worth but little.
+
+There is one point in connection with heating with hot air, to which I have already referred, in which there is a possibility of great waste of heat. This is overventilation.
+
+Take a house in which the loss by radiation from walls is 80,000 B.T.U. per hour in zero weather.
+
+To maintain the temperature by replacing this loss will require the use of 62,857 cubic feet of air per hour at a temperature of 140 degrees.
+
+Supposing the family consists of six persons, the
+
+maximum requirement for ventilation would be 11,800
+
+cubic feet per hour. In this case, we are using 51,057
+
+cubic feet of air per hour in excess of the amount required for ventilation. If this air escapes at 70
+
+degrees and has been heated from zero, it represents a
+
+loss of 64,963 B. T. U. or about eight pounds of coal per hour.
+
+In my judgement, the remedy for this is to make provision for recirculating this excess of air.
+
+In replying after the discussion of this paper Mr. Thompson said further I want to tell you of a practical case I had two or three years ago, and which has been in operation two winters now. A man had a house upon the top of a hill. It was on the northwest corner, and faced northwest. The dimensions of the house were about 35 X 35. It had a kitchen at the back, was two storeys high, and on the northwest corner was a reception hall, about 16 feet square, which contained a window. The owner built a tower out on the northwest corner extending out beyond the corner of the hail, so that the hall from its extreme dimensions was feet to the edge of the tower, and 20 feet to the edge of the tower respectively for the two inside walls. It had the regulation winding stairway leading to the tipper storey. Five big windows were put in this tower and a glass door in front, and a window up in the stairway---a good place for the hot air to get. out. The owner struggled along with the house for a good many years trying 10 heat it with stoves. Everybody told him that he could not heat it with hot air. There was a natural gas furnace in the cellar ; the basement was tight and had no ashes or coal in it. I set the furnace underneath as near the middle of the house as I could. I struck the tour downstairs rooms in a group with four pipes close together. I gave the reception hail a 12 inch pipe, on a straight line then 1 put in the tower close to the window a 9 X 12 return flow register, which I opened into the basement 1 did not make any pipe connection. I did not put any registers in the basement. I fitted two other rooms in the same way. That left the hall with an automatic arrangement. All I had to tell him ''keep your cellar reasonably closed up." That tower is always the warmest part of the house now. My observation is I can get the best heat in the place where I take the air from the floor.
+
+I had a case of a church which had been a pretty I had put hot air register 
+
+hard problem.	to	a	at the
+
+entrance end of the church, and the only place I could get any ventilation register was in the stack under the steps of the pulpit that led into the ventilating stack. The first objection I had was from the preacher who insisted he was too hot.
+
+We had to practically close up this register under the pulpit so as to stop taking air out.
+

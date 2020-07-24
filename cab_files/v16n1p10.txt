@@ -1,0 +1,82 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+in Cleveland which went as far back as the time that the Pantheon at Rome was built, which has a dome of 142 feet span built entirely of concrete. Lie says that this has stood the elements for nearly 2,000 years without the slightest weathering ; and that in England, in certain places where the natural stone was used for facing, and concrete was used as a backing, that the natural stone has entirely disappeared and that the concrete, which was intended to play the secondary part, is there as good as the day it was put in. In this paper the engineer says that we are returning with rapid strides hack to the old and time honored masonry construction, not of bricks and stone, but of artificial stone, namely concrete armored with steel. I should like to ask Mr. Shankland if an artificial stone composed of' Portland cement and crushed stone in proportions of 3 to 1, the stone having the dust removed, would not be absolutely indestructible as to its weathering qualities. I have been studying concrete for the last two years and I do not know anything so fascinating or interesting as science and art in this study ; and it is marvellous how few people seem to understand the first principles of making concrete. I have not seen it myself hut I have been told by people who sell the raw material to the city that our engineers won't allow anything smaller for making concrete than what will go through a 34 inch mesh ; that, after he has got his stone from probably 2 inches to 34 of an inch, the rest of it is cement and sand; they reject everything smaller than 34 of an inch. The voids between the 34 of an inch pieces would be considerable, and the amount of cement necessary to surround the sand which is necessary to fill tip these voids would certainly weaken the concrete to a great extent, unless this crushed stone were graded from 2 or 21/2 inches down to probably a 10,000h part of an inch, and only dispensing with the dust. If you were to crush the whole of your stone down to the size of an 8th of an inch in order to make a very fine concrete or cement stone for the exterior surfaces of buildings, and you do not want anything larger than an 8th of an inch, there would be a great deal of powder in that. It would be half powder. It would be a powder that would go through a 100th mesh that is, 100 x 100 being 10,000, 10,000 grains would go through to a square inch that should be rejected. But if we were to use from 2 inches down to the 10,000th part of an inch, so that there is not any powder left in it at all, and so that there is just enough space left for the cement to surround each particle from the largest down to the 100 mesh, it is something you cannot miss and is the real science of concrete working ; and it seems to me it is just as easy to deal with as steel in figuring out beams and columns. But you have to get your formulae by actual test.
+
+<person>Mr. Burke</person>: I have very great pleasure in seconding the vote of thanks proposed by Mr. Wickson. I would like to ask <person>Mr. Shankland </person>if he has made any examination of the outer columns of buildings cased with half brick or with a thin terra-cotta shell, in the manner so much in vogue a few years ago in Chicago. It seems to me that steel would be more likely to suffer damage by rust in a place like that than in the foundations.
+
+Mr. Shankland : We examined the south-west corner column of the Pontiac building, in the 8th floor, last year. That was built in 1889. The only covering it had was 4 inches of pressed brick on both sides of the corner and fire-proofing inside. There was not a particle of rust to he found, and we opened it up for about 4 feet.
+
+Mr. Burke: Was the brick laid in cement.
+
+Mr. Shankland : Yes ; it is just 4 inches of pressed brick.
+
+<person>Mr. Denison </person>: Do you ever advocate the use of common mortar in a case of that sort.
+
+Mr. Shankland : No, not in high walls or in a skeleton building.
+
+Mr. Denison : Mortar would not have the same effect in protecting the iron as cement.
+
+Mr. Shankland : No ; not lime mortar.
+
+Mr. Pearson : What form of wind bracing do you think best.
+
+Mr. Shankland : That shown in the Fisher Building ; plate girders riveted in between the columns. When the wind strikes the building all the columns in that story go together. The stiffness of that floor will bring into action all the columns in the story.
+
+Mr. Pearson : In treating the expanded metal floor your idea was to treat the floor as a column.
+
+Mr. Shankland : Treat the floor as a stifi plate.
+
+Mr. Pearson : If you take the stories about 12 feet high at 40 pounds wind pressure—that would be about right.
+
+Mr. Shankland : That is very heavy.
+
+Mr. Pearson : Well, taking that pressure, every horizontal foot of wall abutting against the end of a hay of floor would exert a pressure of 480 pounds and the cross section of a 4-inch floor per foot being 48 inches, the pressure would be 10 pounds per square inch.
+
+Mr. Shankland : Well
+
+Mr. Pearson : Can we get any data or information about that ?
+
+Mr. Shankland : I do not know of any as yet.
+
+<person>Mr. Pearson </person><person>Mr. Barrett</person>, of the Expanded Metal Co., is here. We should like to get information on his matter ; it is important. What is the deflection of the floor for the load ? This is a factor in the matter. There are three forces in action, the dead strain, the live load and the lateral pressure, and the vertical loads work against the lateral pressure.
+
+Mr. Shankland : A heavy wind is nothing but a blow; it does not last long nor does it cover an extended area.
+
+Mr. Pearson I wanted to get at some data in connection with the strength of these expanded metal floors. The manufacturers tell us that 3 inches is ample to do the work, but they give no data and no information ; we must work the thing out ourselves.
+
+Mr. Shankland : What I say is that a concrete slab should not he used in a high building where lateral stiffness is necessary.
+
+Mr. A. H. Gregg: You mean where the wind gets at it.
+
+
+
+Mr. Shankland : Yes. For a vertical carrying load it is another matter ; but in a building 280 feet high and 70 feet wide lateral stiffness is very important.
+
+Mr. A. H. Gregg : If you do not have a building over eight or nine stories it does not matter.
+
+Mr. Shankland : Not if the area is corresponding, if the area is great enough.
+
+The President : When you sink long columns into the earth, do you consider the earth at all as an assistance in preventing torsion.
+
+Mr. Shankland : Of course if the clay is stiff enough it will give some lateral stiffness.
+
+The President Do you rely on it at all ?
+
+Mr. Shankland : No ; neither can we give any fig-for a 7 or to foot column 100 feet high we
+
+ures	b	have
+
+never tested one except theoretically.
+
+The President : Under a partry wall it might not be possible to insert a column of large diameter. I suppose in that case steel rods would make a small diameter possible.
+
+Mr. Shankland : Yes.
+
+Mr. Baker : We have all listened with great pleasure to Mr. Shankland's instructive lecture. What strikes me particularly in Mr. Shankland's remarks about concrete is the apparent poverty of it compared with what we specify here. Mr. Shankland stated that he specified one, three and six ; in Toronto I think we generally specify about one, two and four or five for building purposes.
+
+Mr. Shankland : We think you are extravagant.
+
+Mr. Baker : I suppose we are ; that is what we want to get away from, and no doubt will when our cements are thoroughly proven. In those bridge piers what load per square foot did you put on the concrete columns.
+

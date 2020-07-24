@@ -1,0 +1,58 @@
+<doctype type="text">	CANADIAN ARCHITECT AND BUILDER	105
+
+
+
+double wood floor, or 50 cents per square foot, including the necessary cement bed on which it is laid.
+
+When it is desired to lay a cement, composition or tile floor upon wooden floor joists, proceed as follows:
+
+Nail a 2 x 4 to the side of each of the floor joists flush with the bottom. Upon the top of these stretch wire lath, after the joists have first been covered with tarred paper to prevent them absorbing moisture; and upon this lay cinder concrete. made of 1 part Portland cement, 3 parts loose sand, 6 to 8 parts crushed and screened furnace clinkers, filling in to a level at least 2 inches above the tops of the joists. Upon this is
+
+1)laced the floor finishing. Cinder concrete is used because it is so much lighter than that made of stone. When a tile or cement wainscot is too expensive the walls should be painted. Wall paper is not desirable in a bathroom, nor is wood paneling.
+
+<article title=" THE CHIMNEY FLUE " author="">
+
+THE CHIMNEY FLUE.
+
+Improperly built chimneys have been the means of endless distraction to householder and plumber alike. The location, of the chimney flue is not of material consequence, although for convenience in installing the system it is well to arrange for it near the center of the building. Of greater importance, however, are the character and size of the flue. The draft in a chimney flue is spiral. This is doubtless due to the pressure of the atmosphere and the friction caused by the draft in overcoming this pressure. For this reason a the flue, 12 inches in diameter, with an area of approximately 113 square inches, is just as effective as a 12 x 12 inch tile flue with an area of 144 square inches, and because of this fact a chimney flue should be built round, or square, or as nearly square as possible.
+
+There must be a sufficient air supply through the grate of the heating apparatus to properly burn the coal, and the chimney should be of sufficient area to pass the residue of this air after it has expanded, together with the gases of the products of combustion. The following table of sizes of chimney flues recently appeared in an article by A. G. King in the "Architects' and Builders' Magazine''
+
+	Sq. Ft. Radiation	Sq. Ft. Radiation
+
+	for Steam.	Size of Flue, for 1-Jot Water.
+
+	300 to 400	8 x 8 ins.	300 to 700
+
+	450 to 700	8 x 12 ins.	800 to 1,200
+
+	700 to 1,200	12 x 12 ins.	1,200 to 2,400
+
+1,200 to 2,400 12 x 16 ins. 2,40O to 3,600
+
+2,400 to 3,500 16 x 16 ins. 3,600 to 5,500
+
+3,500 to 5,000 16 x 20 ins. 5,000 to 8,000
+
+Chimneys 16 x 16 inches and larger should be at least 50 feet high, otherwise a flue of larger area should be used. No chimney flue for the use of a heating apparatus should be less than 8 x 8 inches, and a flue 8 x 12 inches would be safer, even for a small apparatus.
+
+A tile-lined flue is best, but if for any reason this is not practicable, the flue should be smoothly plastered. It should be built straight up, without offsets of any kind, and should extend well up above the roof of the building and above the roofs of any surrounding buildings.
+
+Adding height to a chimney increases the velocity of the draft, but not the effectiveness of the flue; therefore, the test commonly employed of burning
+
+paper in a flue, as a test of its efficiency, is a fallacy. Remember, a flue which is too large may be easily regulated, hut a flue of too small area cannot be made efficient except by rebuilding
+
+<article title=" HEATING AND VENTILATING A MODERN HOTEL " author="">
+
+HEATING AND VENTILATING A MODERN HOTEL.
+
+The heating and ventilation equipment of the hotel St. Regis, New York City, is of unusual interest, says the "Engineering Review," on account of the use of the indirect steam heating system for all public portions and 550 guests' rooms in a building eighteen stories in height, direct radiation having been eliminated in all portions except in the dormitory located upon the eighteenth floor. For this indirect heating service a number of independent blower systems are used with cheese-cloth filter intakes, automatic temperature control on heating stacks and humidifiers for automatic regulation of the moisture carried in the air. The systems are in all eases designed to maintain, in connection with the exhaust ventilation system, a uniform temperature of 70 degrees Fahrenheit in zero weather, in all having exhaust vent connections through register openings or fireplace flues. A feature of the installation is the sub-division of the heat supply to the guests' rooms upon the upper floors into three nearly equal divisions, each of which is supplied by a heating fan on a floor underneath for upward delivery.
+
+The blowers are all three-quarter housed steel plate fans, with top vertical outlets, delivering to overhead lines of duct work, which supply the delivery systems on the floors above. They are located with short connections to the tempering coil casing and all have individual motor drives. The motors are all of direct current type.
+
+<article title=" DISCOVERING LEAKS IN WATER MAINS " author="">
+
+DISCOVERING LEAKS IN WATER MAINS.
+
+A new method of locating leaks in water mains has been discovered in Geneva, Switzerland, and is described by Alf. Betant, Engineer and Director of the Waterworks of that city, in La Technique Sanitaire for April. In most soils, except those which are very porous, leaks of any magnitude will show themselves at the surface in the shape of moisture; but this method is claimed to reveal quite small leaks (as little as one-half gallon per minute from a pipe about 16 inches diameter having been detected), and in ground where the surface remains quite dry. The method consists of noticing the appearance of melting snow or frost over a trench it having been found that when this begins to thaw visibly in the morning the points immediately over the leaks thawed most rapidly. Investigation also showed that the water escaping from the pipes at such times had always a temperature of 41 degrees to 43 degrees F., while the ground surface was about 32 degrees; and the phenomenon was attributed to the heat contributed by the escaping water. It is evident that this method is applicable only when the ground has a light covering of snow or frost and its temperature is raised from well below to slightly above freezing, and is there fore restricted to certain seasons and climates. At Geneva the indications, when observed, were invariably reliable. Thirty-eight leaks were discovered in three days from which a total of 136 gallons a minute or about 200,000 gallons a day, had been leaking; the pipes being from about 24 inches to about 2 1-2 inches in diameter, and the amounts of leakage from each from 1-2 gallon to 30 gallons a minute. Observations for this purpose must be made when the frost or snow begins to thaw, hence generally in the morning; and snow is found to be a more sensitive indicator than frost.
+

@@ -1,0 +1,58 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	229
+
+
+
+INTERCOMMUNICATION.
+
+
+
+[Communications sent to this department must be addressed to the editor with the name and address of the sender attached not necessarily for publication. The editor does not hold himself responsible for the expressions or opinions of correspondents, but will, nevertheless, endeavor to secure correct replies to queries sent in. We do not guarantee answers to all queries, neither do we undertake to answer questions in the issue following their appearance.)
+
+<article title=" INTERCOMMUNICATION " author="">
+
+
+
+From R. T. :—In estimating builders' work such as pedestals, balustrades, square columns, and antae caps, plinths, balusters, circular work, octagon and elliptical or similar work, how are the prices regulated?
+
+ANS. :—These questions cover such a variety of conditions that it would require almost a volume to answer them correctly. However, we will try and answer them as briefly and satisfactorily as possible First get the estimated price of the work as though it was plain straight work ; then for pedestals in balustrading, where the plan is circular add one-third of estimated price of each pedestal, also same for each square column and antae. Balusters 3 x 3 in., and not more than 16 in., long with pins turned on ends, set in place, may be charged 14 cents each if more than 16 inches long, charge 34 of a cent extra for each inch extra in length. For each inch more in girth than 12 in., add 2 cents more. If carved or fluted, charge in accordance with the extra work. For hardwood add about 33 per cent. to whole estimate. For each storey above the first, add 1 per cent. to all work. In octagonal work, double the price, in circular work, make it three prices, and for elliptical work, make it four prices. Some judgment must be used in making these additional prices, as something will depend on the style of work and on position. Much further information on the subjects inquired of by R. T. can be found in the recently revised and enlarged edition of '' The Contractors' Hand-Book," published in this office.
+
+
+
+
+
+From " A Young Mason :" What is the proper method of measuring blocks of stone so as to obtain the correct contents, superficial or cubical?
+
+ANS. :—The method generally adopted is what is termed cross multiplication, examples of which you will find in all good arithmetic books. Say for instance it is desired to know how many feet super there is in a slab of stone that measures 6 ft. 8 ins. X 3 ft., 4 in. you place the figures thus
+
+	ft.	In.
+
+	6	8
+
+	3	4
+
+	20	0
+
+	2	2	8
+
+	22	2	8 the superficial contents.
+
+In explanation, commence to multiply by the number of feet first, for feet multiplied into inches give inches, and also feet multiplied into feet give feet. Now, when you multiply inches into inches, these give what is termed parts, and in all measurements twelve parts are equal to one inch ; therefore, when you multiply 4 x 8 you get 32 parts, which is equal to 2 inches and 8 parts. Place these figures to the right as shown and multiply 4x6 ; this gives inches. Inches multiplied by feet give inches. You have then 26 inches, or 2 feet, 2 inches, which added up give the contents. To get the cubical contents, say if the slab is ft. 2 in. thick for example, place the feet under feet and inches under inches, and proceed as in the first instance, using the
+
+superficial contents, 22 ft. 2 ins. 8 parts, which is to be multiplied by ft. 2 inches.
+
+
+
+From " St. Catharines " :—Is it possible to make doors true which have become very much out of "wind"? I have to fix up and make a lot of repairs in a house that was built some years ago, in which there are several 1 3/4 inch four paneled doors—pine— molded on both sides, that are badly twisted, and I would like to know if they can be fixed up and made true again.
+
+ANS. :—To answer this question properly, it will be necessary to know why the doors got out of " wind," or twisted. In many cases the twisting of a door is due to sagging of the head, thus preventing the top of the door closing, so that when the door is pressed home at the bottom in order to get the catch or hook to hold it, the top is forced out of the square, resulting in time in a twist. In many cases, if the door is eased out at the top, so as to allow it to enter the rebate freely, the doors will gradually assume their original condition. Another cause is that the mortises, which are now all, or nearly all made by machinery, are not accurate in alignment, and the rails when driven home are thus slightly out of square on their faces and in course of time the strain resulting forces the door out of ''wind." Sagging itself adds to the trouble. The only way to make a good job of a door troubled with a twist, is to take it apart, turn the rails end for end. When this can be done, or frame new rails entirely, and easing the mortises a trifle, and re-wedging them all round. Often, however, it is more economical to get new doors altogether, for when doors gets twisted and set, it is a very difficult job to get them right. Often too, the spring or twisting of a stile or rail may result from some fault in the wood itself; if the grain of the wood is twisted, or curled, or the wood has been cut from the heart of the tree, or from the neighborhood of a large knot, it is likely to bend or twist, and when this is the case, no remedy is available.
+
+
+
+From '' Contractor" :—What is the proper pitch for window sills of stone or wood, for an ordinary dwelling house; also what should be the pitch for door sills ?
+
+ANS. The pitch for stone sills in windows should not be less than 34 of an inch in 6 inches, and for wood sills the pitch should he a little more say inch in 6 inches. Door sills should have a pitch of about to 2—that is, inch to every 12 inches in width. In church work, the sills may have much more pitch for the windows, varying from 3 inches to the foot to 12 inches to the foot.
+
+
+
+From '' Subscriber" A heavy brick building three stories high has a foundation resting on good footings about five feet from the surface—the whole resting on quick-sand, which in the spring and fall is under water two-thirds of its height ; the owner of the property adjoining one side has dug a cellar which runs down at least three feet below the footings mentioned, and without underpinning or otherwise protecting the foundation other than putting in a rough stone wall, with footings about three feet thick on which his own building is to be erected, which is to be a light building with walls only 9' thick and two stories high, which leaves the foundation of the larger building resting on a base of sand which has one of its sides
+

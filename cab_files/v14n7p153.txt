@@ -1,0 +1,208 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+INTERCOMMUNICATION.
+
+
+
+[Communications sent to this department must be addressed to the editor with the namc and address of the sender attached not necessarily for publication. The editor does not hold himself responsible for the expressions or opinions of correspondents, but will, nevertheless, endeavor to secure correct replies to queries sent in, We do not guarantee answers to all queries, neither do we undertake to answer questons in the issue following their appearance.]
+
+
+
+
+
+From Jas. P. : —Tn addition to the excellent and practical reply sent you by XV. T. to " P. McF.'s " query, I beg to offer the following, whereby the degrees may 1)e laid off with a steel square in anothcr way. If P. McF. possesses a table of natural tangents he can get his angles as follows From the table take the tangent of the angle required, using thc first three figures from the left, and calling them so many 64ths of an inch. Reduce them to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inches, and then, with this quantity on one side of the square and 15 5-8 inches on the other side, lie will have the figures for laying off the angle. Tables of natural tangents are usually calculated to the radius unit, and are therefore decimal fractions. My method is simply to multiply each by 1000, thereby obtaining whole numbers. For example, let it be required to lay off an angle of 10 degrees, the natural tangent of which is 0.176327, tnultiplying this by 1000 makes 176,327. I)iscarding the decimals, we have 176, and calling the figures 64ths of an inch, we have 176 64ths, or 2 3-4 inches. The radius I treated in like manner makes 1000 64ths, or 15 5-8 inches. Now taking 2 3-4 inches on the tongue and 15 5-8 incites on the blade of the square, the blade gives tise angle of 10 degrees, and consequently the tongue gives 90 degrees, less io degrees, or 80 degrees. This, I think, is simple enough, and is perfectly correct, as ttiay be proved by example.
+
+
+
+P. W.: —Perhaps, if V. W. will string wires or wire netting closely to the ceilings and walls, he may remedy the defect. This method has been adopted in many places and has proved quite effective in a majority of cases, though in some instances, from some unknown cause, the scheme has failed. Fine wire netting may be made invisible if put up in panels with a moulding around it and rosettes nailed to it through the ceiling and then painted the same color as the ceiling. The finer the wire the more effective will be the work.
+
+
+
+
+
+Jno. B.: —It is somewhat difficult to answer a question like the one asked by Jas. N, as lie does not say what
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kind of a house or building he is to estimate on. In cubing a building he should measure from the bottom of the footings to half way up the roof, getting the solid contents of the buildings he can then multiply this sum by the rate per cubic foot, whatever that may be. If the building is a frame building he may figure al)out 8 cents per cubic foot for an ordinary frame strttcture of 8 rooms, finished in pine in the regular way. For a frame house, with 9 to 12 rooms, finished with hardwood in 4
+
+or 5 rooms, Ite should charge from 9 to 9 1-2 cents per cubic foot.
+
+For a city dwelling, first class, in wood	11 cents in brick      i6 to 20
+
+	in stone	25
+
+Hrick house with modern improvements	14
+
+Cheap brick house with 8 rooms	10
+
+Veneered houses, 2 stories	9
+
+
+
+Rough-cast cottages, first class	6 1/2 "
+
+	second class	534
+
+Rough wooden sheds, barns, stables, etc., from 2 1/2 to 4 cents. If this does iiot satisfy Jas. N, I will be pleased to enlarge the answer as I am sure the subject is an interesting one to many of your readers.
+
+
+
+
+
+F. T. H. writes in answer to P. N. S. that redwood is actually better than pine for inside finish, and in many parts of the U. S. is fast displacitig white oak and other expensive hardwoods for finishing purposes, and it costs less at first, and is not so troublesome to finish. It does not change color as some hardwoods do, nor does it shrink or swell after being seasoned. Redwood turned into veranda or porch posts does not crack or chip like other woods. it finishes up beautifully, and will resist fire better than any wood known. It takes stain or paint well, and holds them better than any other wood as it is an alkali and not a resinous or acid wood, like most other woods used for finish. When filled, stained and properly rubbed, it Itas a strong resemblance to mahogany.
+
+
+
+
+
+T. R. answering R. S. T.: —I should say tise a dry bronze powder and then cover with a coat of transparent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+colorless varnish. This will be found snore satisfactory than any mixture.
+
+
+
+
+
+Thos. 0. B., replying to the question asked by XV. P.: —The relationship of the various parts of a segment arch is expressed by the following formula (see Fig. 1.) r=radius of curve v=vrise s—span a=angle of skewback from horizontal l=length of are or soffit n number of degrees in centre angle; d whole diameter of circle of which curve froms part ; c=whole circumference of
+
+	22
+
+
+
+circle ; n=3.1416=22/7=ratio	of circumference to diameter 7
+
+	n n r	82	82	V .	8=r si n n
+
+	— 180	4	8v + 2,	1/2 (180- sinn)	n=
+
+	n
+
+36 2 w a=90 n/2 d=2r, c=nol.
+
+	62	1155
+
+	Example :—Span 6 feet, rise 18 inches, radius—	± ——
+
+		  2
+
+
+
+3.75=3 feet, 9 inches.
+
+
+
+62
+
+
+
+1.5	5)=1/3(8X 11 I/6)(8x3 3~)
+
+Length of soffit=1/3 (8V±
+
+	4	3
+
+-6=26.8-6-6.93, say 7 teet.
+
+360X7___ _ 2520
+
+Thus, centre angle = rX 3.1416 X 3.75 23.56 107 degrees.
+
+107
+
+Angle of skewback=90— 2 =36 1/2 degrees. Generally the span
+

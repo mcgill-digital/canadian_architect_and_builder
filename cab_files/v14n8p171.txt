@@ -1,0 +1,84 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	171
+
+<article title=" FIXING ELECTRIC BELLS IN HOUSES " author="Neale, H. E.">
+
+FIXING ELECTRIC BELLS IN HOUSES.
+
+BY H. E. NEALE.
+
+
+
+At the present time electric hells are fitted in almost every house or place of business, and the telephone is superseding the old system of speaking tubes, so that a few words about their construction and application may be of interest.
+
+The first thing that we must direct our attention to is the battery, the Leclanche form or a modification of it, being that most used for bell and indicator work, This cell consists of a glass outer jar in which is placed an amalgamated zinc forming the positive element, the negative element consisting of a carbon on plate placed inside a porous pot closely packed with a mixture of carbon and
+
+
+
+peroxide of manganese, the top of the porous pot being run in with melted pitch. The Leclanche is a single-fluid cell, the porous pot not serving to keep the fluids separate but merely to contain the broken carbon and maganese and keep it in immediate contact with the carbon plate. The exciting fluid is a solution of sal- ammoniac (chloride (if ammonia) - On closing a circuit the sal-ammoniac is decomposed and the chloride attacking the zinc forms chloride of zinc, which is soluble in the surrounding liquid, -while the ammonia developing at the surface of the carbon forms a soluble compound with the oxygen, which it extracts from the manganese. While the cell is at work the zinc is consumed, and the chloride of zinc accumulates in the solution, the carbon remaining unaltered. The peroxide of manganese loses some of its oxygen ; but after a time the supply of oxygen becomes reduced, and the hydrogen accumulates on the surface of the carbon plate, producing polarization. Now if the circuit is broken and
+
+the cell left to rest for a time it will depolarize, the peroxide of manganese absorbing oxygen from the air.
+
+The next cell most common in use is the dry cell. I will give a short description of an E.C.C. cell, made by the Electrical Construction Company It consists of a carbon plate, which forms the positive pole, surrounded by manganese dioxide outside this is a coat of lime and sal-ammoniae, and the whole is contained within a zinc case which forms the negative pole of the battery. At the bottom of the zinc case is another case of insulating material. A small piece of cotton is placed on the top of the manganese dioxide, and a piece of glass tube fixed in the top as a waste tube; the whole is run in with pitch. The advantage of the dry cell over the ordinary wet cell is that it is much cleaner, does not freeze, takes up less room, can be placed iii any position, and has no solution to evaporate it, however, has not such along life, and the E.M.F, is not so great as in the various types of the Leclanche
+
+Next we have the bell, which may be either single stroke, trembling, or continuous action. The construction is much the same in all three, with the exception of the connections.
+
+The trembling bell is that most mused, It consists of an electro-magnet firmly fixed to an iron frame and provided with a soft-iron vibrating armature one end of which is fitted with a hammer, while the other is fixed to the iron frame by a spring having a platinum contactpiece ; insulated from the frame is a contact post fitted with an adjustable platinum-pointed screw and a tightening screw.
+
+The action of the bell is as follows —-The current entering at the terminal flows through the coils of the electro-magnets into the frame, through the spring and armature to the platinum-pointed screw, to the contact post, and thence through to the other terminal but in flowing through the electro-magnets the current has magnetized the core, which now attracts the armature causing it to move up against time poles amid bringing time hammer against the gong ; at the same time contact is broken with time contact post, and as the cores of the electromagnets are made of soft iron they at once lose practically all their magnetism, so that time armature in obedience to the spring moves back to its former position. This action is repeated as long as time button of the push is. kept in.
+
+Of pushes there are many forms, but time principle is time same in all, the object being to join the circuit, which is kept apart by some form of spring.
+
+Last, but not least, conies time wire. That used for bells should never be less than No. 20 gauge (No. 18 is preferable), and it should be tinned to prevent corrosion, insulated by at least one coat of pure rubber, and double cotton-covered amid served with paraffin wax
+
+In wiring a building or bells it is first necessary to ascertain where they are to be fixed, the position of time pushes, and the situation of the battery.
+
+In an ordinary house the most usual place for the bell is in the kitchen An indicator is placed in the circuit, and shows at a glance which push has been used. There are several forms of indicators—time swinging pendulum, the mechanical replacement, and the electrical replacement. In good work all bell wires are drawls through zinc tubing to protect them from the effects of time acids in mortar and cement. While we are at this stage, mention may be made of one or two important things that a clerk of works should insist on—namely, tile whole of the wire to have a coating of pure rubber underneath the cotton covering, time wires to be fixed in such places that they cannot become injured or damp, and every wire to be so fixed that it cams lie drawn out, and another drawn in to replace it if necessary, without disturbing the decorations or structure.
+
+Returning to the batteries, time E.M.F, or pressure is termed voltage, the quantity of current is expressed in amperes and the resistance through which the current passes is measured in
+
+E
+
+ohms therefore, c= which means that if we divide the re
+
+
+
+sistance of time circuit in ohms into the E.M,F. ill volts at which the current is supplied, the product will give the current's strength in amperes. Similarly, if we know time value of any two of the three quantities by the application of' time formula, the third
+
+E
+
+can at once be found for it is obvious that the equation c=
+
+R
+
+C
+
+It may be written 11=—, or E=CXR. Thus from Ohm's law we see E
+
+that I ampere of the current in a circuit having 1 ohm resistance requires an E.M.F. of 1 volt.. If we increase the E.M.F. to 2 volts without altering time resistance of time circuit we get 2 amperes. If we still further increase time E.M.F. to 4 volts we get 4 amperes of current, Similarly, if keeping time E.M.F. to I volt, as In the first instance we reduce the resistance to ½ ohm, we get a current of 2 amperes, and if we still reduce the resistance to ¼ ohm we get 4 amperes
+
+If we were to know what current we shall get in a circuit we proceed thus :—We first find the resistance of our circuit, which we will presume to be 4 ohms, and our batteries to produce 6
+
+E .	6 4)6
+
+volts. Now, with time formula c=— we get C=—; therefore, —R 4
+
+amperes. Again, if we know that our current flowing is 1½ amperes, and time E.M.F. is 6 volts, what is the resistance of the
+
+	E	6	1½
+
+circuit? Now, R=—, i.e., R — =	— =4 ohms.
+
+	C	1½	4
+
+Again, we know the current and resistance we want to find the E.M.F. or voltage: E=CXR; C is 1½ R is 4; therefore E=½ X 4 = 6 volts.
+
+
+
+PROPER CONSTRUCTION OF STONE HOUSES.
+
+There is no more prolific source of trouble both to builders and owners of stone houses than that caused by water penetrating the walls amid getting in over the windows after a heavy rain.
+
+The causes producing this trouble being well known it would seem an aim easy matter to overcome them, and all sorts of suggestions to that end have been made, but so far without effect, says a writer in The National Builder.
+
+The present time, therefore, would seem an opportune one in which to offer a practical solution of this trouble and that is the purpose of this article. The underlying cause of all this trouble is haste to finish the building hence, time first timing to be done, and without which all else is practically useless, is to "make haste slowly.'' Time should be given the mortar to harden, time building to settle and time cracks to show before time pointing is done. No stone house should be pointed time same year it is built for two reasons First, time cement used in pointing forms a barrier to the evaporation of the moisture in the mortar in which the stone is laid, and prevents.
+

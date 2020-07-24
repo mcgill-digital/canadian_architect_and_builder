@@ -1,0 +1,80 @@
+<doctype type="ad">The Canadian Architect and Builder
+
+February, 1902
+
+
+
+<firm>A.R. Williams and company</firm>
+
+Passenger, freight, and hand elevators
+
+Montreal
+
+
+
+<firm>The Roofers Supply Company limited</firm>
+
+All kinds of roofing material
+
+Toronto
+
+
+
+<firm>The Bradstreets company
+
+</firm>Merchants, mercantilists, furnishers of trade information
+
+Halifax, Hamilton, London, Montreal, Ottawa, Quebec, St.John,
+
+Toronto, Vancouver, Victoria, Winnipeg
+
+
+
+<firm>Quinn and Morrison</firm>
+
+Advocates, barristers and solicitors
+
+Montreal
+
+
+
+<firm>The consolidated plate glass company of Canada</firm>
+
+Toronto
+
+Montreal, London, Ottawa
+
+
+
+<firm>Maw's Tiles</firm>
+
+English Encaustic, glazed and ornamental tiles
+
+<person>Charles Lunn</person>, agent
+
+Winnipeg
+
+
+
+<firm>The Canadian Hardware and metal Merchant
+
+</firm>Sell anything, anywhere
+
+Montreal, Toronto
+
+
+
+<firm>Beamsville Brick and Terra-Cotta company</firm>
+
+Pressed brick: red, brown, buff
+
+Beamsville, Ontario
+
+
+
+<firm>Clare Brothers and company</firm>
+
+Preston hot water boilers, heaters without joints
+
+Preston, Ontario
+

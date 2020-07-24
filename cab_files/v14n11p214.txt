@@ -1,0 +1,42 @@
+<doctype type="text">214	THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" PRESERVATION OF STEEL STRUCTURES " author="Chambers, W.">
+
+PRESERVATION OF STEEL STRUCTURES.*
+
+BY W. CHAMBERS, C.E.
+
+
+
+In speaking of engineering structures our thoughts naturally turn to those Titanic erections spanning the rivers and estuaries round our coasts, supporting a flying freight of human life and valuable merchandise, of which the most notable example is the great Forth Bridge ; and we have to bear in mind that in every steel structure, be it of lesser or greater magnitude, corrosive forces are at work to weaken and even to endanger its stability, and it may truly be said of steel that as the "force of gravity never sleeps" so "corrosion never ceases." It behoves us then to see that proper measures are adopted to counteract this evil.
+
+The object in applying paint is twofold ; first to protect, and incidentally beautify. The medium in general use, namely, white lead, in its pure state contains 70 per cent, carbonate of lead and 30 per cent. hydrate of lead, and is manufactured by subjecting metallic lead to the corrosive influence of vinegar and the fermentation of tan bark. Being frequently adulterated with carbonate and sulfate of lime it can be tested in a simple manner by placing some of the powder on a piece of charcoal, when by applying a flame from an ordinary blowpipe, it is, if pure, soon reduced to a metallic mass; if adulterated, however it forms a black cinder-like substance, and even small quantities of an adulterant can be detected in this manner.
+
+White lead is not a very stable body, and, when exposed to sulphurous fumes, is changed from a carbonate. to sulfide of lead ; and it has been proved by long experience that when mixed with oxide of zinc, it has increased durability, improved spreading power, easier working qualities, and greater permanency.
+
+Red lead is obtained by calcining and oxidizing white lead. It is of considerable specific gravity, and forms the basis of a durable paint. To test its purity it should be dissolved in dilute nitric acid, when any deleterious matter will remain as a sediment.
+
+Ferric oxide does not take a high rank as a protective agent, although its cheapness and good colour give it an intrinsic value. One authority on oxide of iron as a pigment for coating metal says it is actually dangerous for that purpose, as it only combines with oil in a mechanical way, and is adversely affected by the sulphurous fumes from locomotive smoke. To test ferric oxide paint, a small quantity should be heated and ignited to burn off volatile matter; if the residue is placed in hydrochloric acid the ferric oxide is dissolved, leaving any solid matter as showing the extent of adulteration.
+
+As already stated, the object in providing a covering for metal is to exclude moisture and to protect it from the atmosphere, which is always damp.
+
+Linseed oil is a component part of ordinary paint, but cannot be used without a pigment, as when drying it becomes very porous, and under the microscope resembles the honeycomb appearance of a piece of tripe.
+
+Raw linseed oil contains 5 to 8 per cent. water, also impurities called "mucosities," composed of vegetable albumen and mucilage, which prevent drying. The raw oil requires 5 to 6 times as long to dry as does the same oil after it has been boiled. The heat then evaporates the water, and throws down the impurities that would otherwise decay and generate acids that would attack the oil in the paint. The changes that occur when boiling linseed oil are complicated, and have not been
+
+* Abstract of a Paper read before the Belfast Engineering Association.
+
+clearly defined by chemists. We know, however, that during the boiling process, by the addition of sulphate of zinc, muscosities are thrown down to a notable amount ; also that the counteracting effects of other oxidisable substances, such as umber, litharge, oxide of lead, and peroxide of manganese, when added, increase the oxygen-absorbing power of the oil. The addition of about 1 per cent. of the above elements, and injecting a current of air when boiling, evaporates the water, precipitates impurities, and evolves fumes that otherwise would become injurious to metal surfaces. Where paint is used as a protective medium several coats have to be applied, each to fill up the porosity of the previous coat.
+
+The necessity of only employing pure pigments is manifest, as thousands of tons of deleterious matter are annually sold, such as burnt ore containing an appreciable percentage of copper salts and free sulphuric acid, such as is obtained from burning iron pyrites. To counteract their acid tendencies chalk is added, also Spanish white which is another chalk preparation— and Spanish brown, an earthy substance, principally clay.
+
+Other materials of a harder nature, such as silica, graphite, barytes, ground slate, brick-dust and kindred substances do not combine with the oil, and form only a mechanical mixture with it, and after its binding effect has become dissipated by atmospheric influence, nothing but dust remains, which is readily dispersed, leaving the metal wholly unprotected.
+
+So much depends upon the proper application of any protective coating that an ill-important element is to have the surfaces, in the first instance, clean and free from rust. Where rust spots are deep seated, heat from a painter's torch should be applied, when in a few seconds the rust is converted by the heat into peroxide of iron, and can be readily dusted off. No coating of any kind will properly adhere to greasy, rusty, or dirty surfaces. These should be either burnt, to remove old or blotchy paint, or scraped and washed with soda lye to remove grease or dirt, and all mill scale carefully removed.
+
+After repeated examination of several materials, I have ultimately found a coating that answers all modern requirements. It is dense, i.e., non-porous, elastic and durable; not affected by extreme heat, is easily applied, and presents a good, even and smooth finish. Its covering power is considerable, I gal. being sufficient to cover 1,000 square feet. It is known as " Carbonizing Coating," and has powerful adhesive qualities that ensure absolute protection to the metal. It is unaffected by sulphur fumes, acids, and ammonia, successfully withstands high temperatures, and cannot be readily removed by abrasion.
+
+As an indication of durability, it is being adopted by the Indian Government for the preservation of buildings exposed to the heat and damp of tropical climates. This material should prove invaluable for preserving intact such steel structures as may be carefully coated with it ; also for maintaining intact the scantling of the beams and girders now largely incorporated into building construction, and so secure their durability and stability by ensuring them against rust and decay.
+
+The great Forth Bridge has an exposed area of 145 acres, requiring 100 tons of paint to afford only one coat. When completed, three different kinds of paint were tried one on each cantilever ; and as an indication of their shortcomings as protective coatings, it is stated that 90 men are permanently engaged in scraping and painting the immense structure, and that the work cannot be done with fewer hands, thus indicating in a striking manner that the selection of a suitable protective medium is not the trivial detail that many suppose it to be.
+

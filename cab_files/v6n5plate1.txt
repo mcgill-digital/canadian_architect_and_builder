@@ -1,0 +1,5 @@
+<doctype type="plate">
+
+Carved Stone Mantel in the Residence of Mrs. <person>Cameron</person>, Carlton Street, toronto.
+
+<firm>Darling, Sproatt & Pearson</firm>, Architects. Executed by <firm>Holbrook & Mollington</firm>

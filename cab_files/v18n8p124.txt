@@ -1,0 +1,98 @@
+<doctype type="text">124	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+in order to prevent eddies or back flows up the branch drains, In the case of a brick sewer, a hole is cut through the wall, the pipe end inserted, and the hole made good round the pipe. In some cases proper stoneware junction blocks are built in the sewer walls and then connection is easy. In the cities named, all street connections are under the control of officials appointed for that purpose and whose duty it is to give such directions as may have been decided upon by the sanitary department.
+
+
+
+
+
+From ''Bricklayer," Is it possible for a wall in front of a tennis court, to be built. in herring-bone bond?
+
+ANS.: Yes, a wall may be built in herring-bond bond as shown in Fig. 11 though we cannot say that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we would approve of such a wall. The sketch shows a panel 7 ft. square, with piers '4 in. by 9 in. The bricks for diagonal wall must. be gauged and laid in a neat joint of black mortar, the shaded bricks red, the others white, or relieved with red as per sketch. The scale is 1/2 in. to in, and the bond at base set out to be continued if necessary.
+
+
+
+
+
+A New Ontario subscriber asks Could you tell us the best way of making a daily test. of the cement used on a job, and what instruments requirable and where procurable ?
+
+ANS. -Cements of different character differ very widely in their rate and manner of setting. Some occupy but a few minutes in the operation, while others require several hours. Some begin setting immediately and take considerable time to complete the set, while others stand for a considerable time with no apparent action and then set very quickly. One way of testing cement with regard to setting is by trying when the mortar will sustain a needle carrying a specified weight within a given time ; the difference in time being the measure of the quality of setting. There are so many conditions to be considered when testing cement that a number of appliances are necessary to discover all the qualities, and these appliances are only found in the laboratories of our colleges and universities or in the larger manufactories of cement.
+
+
+
+Some are expensive, some quite simple. In France and Germany the following qualities are usually tested for, namely fineness, specific gravity, apparent density, homogeneity, time of setting, tensile, compressive,
+
+flexural, and adhesive strength, permanence of volume, porosity, permeability, and yield of mortar. Each of these qualities must be tested for separately, and cements that may excel in one or more of these qualities may fail in other important ones. The art of testing cement requires thorough knowledge of the subject as well as experience, accuracy and skill in manipulation in order to obtain results of value for comparison. Perhaps we could aid you if we knew for what quality you desired the test. We do not know of any testing instruments in the market or where they may be obtained. There is a volume written by Prof. Jameson, of the State University of Iowa, in which a number of testing machines are illustrated and described, and in which much information regarding testing cements is included. The price of the book, we think, is $2.00.
+
+
+
+<article title=" REINFORCED CONCRETE ROUNDHOUSE, TORONTO " author="">
+
+REINFORCED CONCRETE ROUNDHOUSE, TORONTO.
+
+The Grand Trunk Ry. has recently constructed at Toronto, Ont., a reinforced concrete round-house that has attracted considerable attention from railroad officials. It has thirty stalls, each measuring 13 ft. in width at the inner circle, and 26 ft. at the outer circle. Each stall is 82 ft. long, and divided into three sections, and carried on four columns. The entire structure is built of concrete, reinforced with the Kahn trussed bars.
+
+The interior columns are 14 in. square, and contain each four 1/2 x 1 1/2 in. trussed bars. The diagonals of these steel members are bent horizontal in order to obtain the effect of hooping. Angle guards were placed in all corners in order to prevent chipping. The columns in the outer circle are T-shaped, forming a pilaster on the outside, and at the same time supplying recesses for keying the curtain walls between columns. The joints at these points allow for expansion and con— traction.
+
+In designing the columns in the interior circle, it was feared that locomotives striking the outside doors would break. the concrete columns which carried the door. For this reason these were made of three channels filled with concrete. This construction was decided upon because such a column would not break, but would merely shift off its foundation if struck with a locomotive. Doors were fastened directly to these channels. On the side not containing a channel were placed 1/2 x 1/2 in. trussed bars as a reinforcement.
+
+Radial lines of reinforced concrete girders were placed between columns at a height of about 20 ft. in. from the top at the outer circle, and 24 ft. 2 in. at the inner circle. Seven longitudinal rows of reinforced concrete beams were spanned between the girders and columns. Both beams and girders were reinforced with Kahn trussed bars in the bottom, and over the supports they were invariably made continuous with inverted bars. Each beam contains in the bottom at least two bars full length and one bar about two-thirds the length at the bottom in the center and raised at the ends. Between the beams and girders is a 4-in. reinforced concrete slab, made continuous over the entire area.
+
+Especial attention was paid toward obtaining an absolute monolithic character in the entire structure, so that if an excessive load were placed upon any one portion the same would be distributed over the adjoining panels. Anchors for carrying steampipes and controlling individual smokestacks over locomotives were placed in the concrete while the same was green.
+
+	The	Engineering Record.
+
+
+
+<article title=" A THEATRE FOR THE PEOPLE " author="">
+
+A THEATRE FOR THE PEOPLE,
+
+MM. Coquelin and Binet propose "a Theatre for the people in Paris without corridors and passages. The auditorium would communicate through a single vast quadrangle with the street.
+

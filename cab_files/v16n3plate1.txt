@@ -1,0 +1,5 @@
+<doctype type="plate">The Canadian Architect and Builder
+
+<building>House, Poplar Plains Road, Toronto</building>
+
+<firm>Gregg & Gregg</firm>, Architects

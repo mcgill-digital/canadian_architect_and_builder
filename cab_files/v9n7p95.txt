@@ -1,0 +1,186 @@
+<doctype type="text">
+
+machine capable of exerting a pressure of 500 tons was employed.
+
+The brick piers to be tested were built upon wrought-iron plates, 2 ft. 6 in. x 2 ft. x 1/2 in. thick, placed upon temporary lines of rails 140 feet in length, laid to 16 in. guage. The piers, standing on the iron plates, were drawn along the rails by a suitable crab and winch, so that all unnecessary handling of the piers was carefully avoided and risk of fracture thereby entirely obviated.
+
+The following varieties of bricks were used in building the piers
+
+1.	London stocks from Sittingbourne, Kent.
+
+2..	Gault from Burham, Kent.
+
+3.	Leicester red from Elliston, near Leicester.
+
+
+
+4.	Staffordshire blue from Rowley Regis.
+
+
+
+Each pier was constructed in duplicate, in lime mortar and cement mortar, SO that the total number of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+piers to be experimented upon was 32, that is to say, 16 for testing at the age of 3 months, and 16 for nine months' tests. The piers were, with one exception,  in. x 18 in. and 6 feet high, or as near those dimensions as the particular kind of brick would allow ; the exact dimensions are tabulated in the report.
+
+Four bricks of each class were carefully tested by Professor Unwin at the Central Technical College, and the following results were recorded for the respective crushing loads.
+
+	Description.	Crushing stress, tons per	Mean strength, tons per
+
+		     square toot,	    square foot.
+
+	London Stocks	. 	6o76	946	8427
+
+	Gault	— 197.6	182.2
+
+	Leicester red	311 ·4	591 4	382.1
+
+	Blue Stafford	.	788.0	701.1
+
+
+
+
+
+
+
+It is also recorded that some of the bricks were too strong to be crushed as whole bricks in the 100 ton testing machine at Kensington, and, therefore, half bricks were used. With the exception of London stocks, which are roughly made, and, therefore, not capable of being very neatly divided, it appears that bricks tested as half-bricks show about 25 per cent. less resistance per square foot than when tested as whole bricks. A tabulated statement is given in the report to illustrate this point.
+
+The lime and cement mortars used in building the piers were also carefully tested, and the compressive
+
+	strengths ascertained	The results are summarized as
+
+	follows
+
+Lime briquettes, composed of 2 of sand to of lime by measure
+
+Strength at 4 weeks 6.08 tons per square foot.
+
+	12	"	8.73
+
+	" 24		15.72
+
+
+
+Cement briquettes, composed of 4 of sand to of cement by measure
+
+Mean strength at 4 weeks, 31 .45 tons per square foot.
+
+	137	48.52
+
+"24
+
+
+
+The above-named briquettes were formed with the standard sand normally employed in testing cements and other similar materials. it is a pure siliceous sand, obtained from Leighton Buzzard. The actual sand used in building the piers was not so pure in quality, having a rather large proportion of earthy matter, ranging from 0.14 to 0.96 per cent. in the several samples analyzed. The mean strength was, therefore, lower, being, for the cement briquettes, 2900 tons per square foot at the age of 24 weeks.
+
+Analyses of the lime and cement mortars were also made by Mr. W. J. Dibdin, chemist to the London County Council, from material taken from the debris of the piers after they had been experimented upon.
+
+The crushing of the piers was carried on in December last, the first pier being crushed on the 9th of that month as an experimental trial of the testing apparatus. Owing to the large—sized valve on the hydraulic ram, the water pressure was admitted too freely, and the pier was crushed too quickly for accurate results to he obtained. It has consequently been rebuilt for further trial. Before the next piers were experimented upon, careful alterations were made to the ram valve, a fresh pressure gauge was introduced, and a modification was made to the testing frame to obviate a slight concavity in the head girders. The apparatus was then found to be in proper order for testing the remaining piers. Detailed descriptive tables are given of the results obtained by crushing each pier, and they indicate the manner in which the experiments were carried out.
+
+A summary is given of the results obtained on the 16 piers tested, which may be briefly tabulated as under: -
+
+
+
+ Commence
+
+	Description of Brick.	Age.	ment of	   Final
+
+			failure.	collapse
+
+
+
+
+
+Tons per Tons Per
+
+Weeks square feet. sq. foot.
+
+		London Stocks in Mortar	17 .7
+
+			18.3	4.18	10.41
+
+	3	Gault .	18.3	5.00	21.82
+
+	4	      .	18.8	6.16	22.03
+
+	5	Leicester Red	19.1	15.20	2993
+
+	6	                        "	18.6	16.11	31.55
+
+		Staffordshire Blue "	18.6	22.43	69.22
+
+	8		19.4	21.42	79.39
+
+	9	London Stocks in Cement	21 ·1	7.22	16.03
+
+	10	21.0                                              5.72	13.83
+
+	*	
+
+11                                                                                                                                 21.0	6.98	17.98
+
+       *12                                                                                                                                20.5                                               7.08                                      17.51
+
+	13 Leicester Red	"	22.1                                           17.87                                      67.36
+
+ 17.51
+
+*	
+
+	14                                                                                                                                21.7                                           21.82	49.54
+
+	15	Staffordshire Blue	21.7	2945                                         84.47
+
+	*16	                                                                                                                       22.7	16.91	61.14
+
+
+
+
+
+
+
+
+
+The piers marked *, when crushed, were found to have been partly constructed with portions of stock bricks for filling in, instead of the proper material for the respective piers. It has, therefore, been considered desirable to re-construct these piers so that the final results may be absolutely accurate. From a practical
+
+of view, says the British Clayworker
+
+	point	it is, perhaps,
+
+not greatly to be regretted that such an ''accident"
+
+should have happened, for the Institute will be in a better
+

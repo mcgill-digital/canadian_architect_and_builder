@@ -1,0 +1,131 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" HEAT RESISTANCE OF BUILDING MATERIALS " author="">
+
+HEAT RESISTANCE OF BUILDING MATERIALS.
+
+At the recent meeting of the American Society of Mechanical Engineers a paper was presented by Mr. William Kent proposing the use of the reciprocals of the values of heat conductivity of substances in order to facilitate the comparison of different combinations of the substances. As stated in the report of the convention, he makes the coefficient of heat resistance or heat insulating power of a substance equal to unity divided by the number of British thermal units transmitted in one hour by a slab square foot in area and 1 inch thick per degree Fahrenheit of difference of temperature between the two faces of the slab, both surfaces being exposed to still air. In this way the total resistance of a combination can be indicated by the addition of the several resistance coefficients. The author points out, however, that while the coefficient is thus a constant quantity for a given substance, it can only be so considered when the differences in temperature of the air on the two sides of the slab are small—say, less than 100 degrees Fahrenheit. When the temperature range is great, experiments on heat transmission indicate that the quantity of heat transmitted varies not directly as the difference in temperature but as the square of that difference.
+
+The question of the effect of surface resistance when the surface is in contact with air or with another body, the author treats as follows "Authorities on the subject of heat transmission generally agree that the resistance to the passage of heat through a plate consists of three separate resistances ; viz., the resistances of the two surfaces and the resistance of the body of the plate, which latter is proportional to the thickness of the plate. It is probable also that the resistance of the surface differs with the nature of the body or medium with which it is in contact. Thus a very rough surface on a metal plate would be likely to transfer more heat to adjacent air than a smooth surface would, since it has a greater area in actual contact with the air, while two rough surfaces of metal touching each other would transmit from one to the other less heat than two smooth surfaces."
+
+
+
+He has computed the figures for heat resistance of several insulating substances from the figures of conducting power given in a table published by Mr. John E. Starr, in a paper on "Insulation for Cold Storage," published in "Ice and Refrigeration" for November, 1901. Mr. Starr's figures are given in terms of the British thermal units transmitted per square foot of
+
+surface per day per degree of difference of temperature of the air adjacent to each surface. The author's figures, the coefficients of heat resistance, given in the second column of the accompanying table, are calculated by dividing- Mr. Starr's figures by 24, to obtain the hourly rate, and then taking their reciprocals.
+
+''Analyzing some of the results given in the last column of the table, we observe that, comparing- Nos. 2 and 3, inch added thickness of pitch increased the coefficient 0.74; comparing Nos. 4 and 5, 1 1/2 inches of mineral wool increased the coefficient 1.11. It. we assume that the inch of mineral wool in No. 4 was equal in heat resistance to the additional 1 1/2 inches added in No. 5, or i. 11 reciprocal units, and subtract this from 5.22, we get 4.11 as the resistance of two
+
+inch boards and two sheets of paper. This would indicate that one 7/8-inch board and one sheet of paper give nearly twice as much resistance as 1 inch of mineral wool. In like manner any number of deductions may be drawn from the table, and some of them will be rather questionable, such as the comparison of No. 15 and No. 16, showing that inch additional sheet cork increased the resistance given by four sheets 6.67 reciprocal units, or one-third the total resistance of No.
+
+15. This result is extraordinary, and indicates that there must have been considerable differences of conditions during the two tests."
+
+HEAT CONDUCTING AND RESISTING VALUES OF BUILDING
+
+	MATERIALS.<article title=" HEAT CONDUCTING AND RESISTING VALUES OF BUILDING
+
+	MATERIALS " author="">
+
+Brick Wall			—Revised. —
+
+   Thickness	 Cond.	Res.	Res.	Cond.
+
+4-in	 o.68	1.47	1.50	0.667
+
+	0.46	2.17	2.30	0.435
+
+	12-in	0.32	3.03	3.10	0.323
+
+	16-in	0.26	3.85	3.90	0.250
+
+	20-in	0.23	4.55	4.70	0.213
+
+	24-in	0.20	5.00	5.50	0. 162
+
+	28-in	0.174	5.75	6.30	0.159
+
+	32-in	0.15	6.67	7.10	0.141
+
+	36-in	0.129	7.75	7.90	0.127
+
+	40-in	0.115	8.70	8.70	0.1
+
+
+
+Wooden beam construction, planked over or ceiled:
+
+
+
+Cond. 
+
+As flooring	0.083 2.05 As ceiling                               0.104 9.71
+
+
+
+Fi reproof construction, floored over
+
+	As flooring	0.124	8.06
+
+	As ceiling	0.145	6.90
+
+Single window	1.030	0.97
+
+Single skylight	1.118	0.89
+
+Double window	0.518	1.93
+
+Double skylight	0.621
+
+Door	0.414	2.42
+
+
+
+The author has also calculated the coefficients of heat resistance from the heat transmission figures of various building materials, as given by Mr. Alfred R.
+
+
+
+HEAT CONDUCTING AND RESISTING VALUES OF DIFFERENT INSULATING MATERIALS.
+
+		                                                                                       Conductance.		Resistance.
+
+	1.	5/8-in. oak board, 1-in. lampblack, 7/8-in. pine board (ordinary family refrigerator)	5.7	4.21
+
+	2.	7/8-in. board, 1-in, pitch, 7/8-in. board	4.89	4.91
+
+	3.	78-in. board, 2-in, pitch, 7/8-in. board	4.25	5.65
+
+	4.	7/8-in. hoard, paper, 1-in, mineral wool, paper, 7/8-in. board	4.6	5.22
+
+	5.	7/8-in. board, paper, 21/2-in. mineral wool, paper, 7/8-in. board	3.62	6.63
+
+	6.	7/8-in. board, paper, 21/2-in. calcined pumice, 7/8-in. board	3.38	7.10
+
+	7.	Same as above, when wet	3.90
+
+	S.	7/8-in. board, paper, 3-in, sheet cork, 7/8-in. board	2.10	11.43
+
+	9.	Two 7/8-in. boards, paper, solid, no air space, paper, two 7/8-in, boards	4.28	5.61
+
+	10.	Two 7/8-in. boards, paper, 1 air space, paper, two 7/8-in. boards	3.71	6.47
+
+	11.	Two 7/8-in. boards, paper, 1-in, hair felt, paper, two 7/8-in. boards	3.32	7.23
+
+	12.	Two 7/8-in. boards, paper, 8-in, mill shavings, paper, two 7/8-in, boards	1.35	17.78
+
+	13.	The same, slightly moist	1.80	13.33
+
+	14.	The same, damp	2.10	11.43
+
+	15.	Two 7/8-in. boards, paper, 3-in. air, 4-in. sheet cork, paper, two 7/8-in. boards	1.20	20.00
+
+	16.	Same, with 5-in, sheet cork	0.90	26.67
+
+	17.	Same, with 4-in. granulated cork	1.70	14.12
+
+	18.	Same, with 1-in, sheet cork	3.30	7.27
+
+	19.	Four double 7/8-in. boards (8 boards), with paper bet, three 8-in, air spaces	2.70	8.89
+
+	20.	Four 7/8-in. boards, with three quilts of 1/4-in. hair bet, papers separating boards	2.52	9.52
+
+	21.	7/8-in. board, 6-in, patented silicated stawboard, finished inside with thin cement	2.48	9.68

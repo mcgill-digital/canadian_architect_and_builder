@@ -1,0 +1,90 @@
+<doctype type="text">
+
+
+
+FIG. I—" Honeycombed" board. The checks or cracks form along the pith rays
+
+in the open air or in a shed before placing in the kiln. Since only the first shrinking is apt to check the wood,
+
+any kind of lumber which has once been air dried (three to six months for 1-inch stuff) may he subjected to kiln heat without any danger. Kept in a bent or warped condition
+
+during the first shrinking, the wood retains the shape to which it was bent and firmly opposes any attempt at subsequent straightening.
+
+To avoid '' working," or warping and checking, all high-grade stock is carefully seasoned, preferably in a kiln, before manufacture. Thicker pieces may be made of several parts glued together ; larger surfaces are made in panels or of smaller pieces covered with veneer. Boring is sometimes resorted to 10 prevent the checking of wooden columns.
+
+Since repeated swelling increases the injuries due to seasoning, wood should be protected against moisture when once it is dry.
+
+Since the shrinkage of our woods has never been carefully studied, and since wood, even from the same tree, varies within considerable limits, the figures given in the following table are to be regarded as mere approximations. The shrinkage along the radius and that along the tangent (parallel to the rings) are not stated separately in the following table, and the figures represent an average of the shrinkage in the two directions. Thus, if the shrinkage of soft pine is given at 3 inches per hundred, it means that the sum of radial and tangential shrinkage is about 6 inches, of which about 4 inches fall to the tangent and 2 inches to the radius, the ratio between these varying from 3 to 2, a ratio which practically prevails in most of our woods.
+
+Since only an insignificant longitudinal shrinkage takes place (being commonly less than o. inch per hundred), the change in volume during drying is about equal to the sum of the radial and tangential shrinkage, or twice the amount or linear shrinkage indicated in the table.
+
+Thus, if the linear average shrinkage of soft pine is 3 inches per hundred, the shrinkage in volume is about
+
+6 cubic inches for each 100 cubic inches of fresh wood.
+
+
+
+APPROXIMATE SHRINKAGE OF A BOA RD, OR SET OF BOARDS, 100
+
+INCHES WIDE, DRYING IN THF. open AIR.
+
+	Shrinkage.
+
+		Inches.
+
+	(i) All light conifers (soft pine, spruce, cedar, cypress	3
+
+(2)	Heavy conifers (hard pine, tamarack, yew), honey locust,
+
+box elder, wood of old baks	4 (3) Ash, elm, walnut, poplar, maple, beech, sycamore, cherry
+
+black locust                          
+
+(4)	Basswood, birch, chestnut, horse chestnut, blue beech,
+
+young locust	6 (5) Hickory, young oak, especially red oak               Up to 10
+
+
+
+<article title=" INFLUENCE OF WEIGHT AND MOISTURE ON STRENGTH " author="">
+
+INFLUENCE OF WEIGHT AND MOISTURE ON STRENGTH.
+
+
+
+It has been stated that heavy wood is stronger than lighter wood of the same kind, and that seasoning increases all forms of resistance. Let US examine why this is so.
+
+Since the weight of dry wood depends on the number of fibers and the thickness of their walls, there must be more fibers per square inch of cross section in the heavy than in the light piece of the same kind,* and it is but natural that the greater number of fibers should also offer greater resistance, i. e., have the greater strength.
+
+The beneficial influence of drying and consequent shrinking is two-fold (i) In dry wood a greater number 
+
+This imperfect assumption is used only for comparison.
+
+of fibers occur per square inch, and (z) the wood substance itself, i. e., the cell walls, become firmer. A piece. of green longleaf pine, 1 by inch and 2 inches long, is only about 0.94 by 0.96 inch and 2 inches long when dry ; its cross section is 10 per cent. smaller than before, but it still contains the same number of fibers. A dry piece 1 by x inch, therefore, contains 10 per cent. more fibers than a green piece of the same size, and it is but fair to suppose that its resistance or strength is also about 10 per cent. greater.
+
+The influence of thc second factor, though unquestionably the more important one, is less readily measured. In 100 cubic inches of wood substance the material of the cell walls takes up about 50 cubic inches of water and thereby swells up, becoming about 150 cubic inches in volume, in keeping with this swelling the substance becomes softer and less resistant. In pine wood this diminution of resistance, according to experiments, seems to be about 50 per cent., and the strength of the substance, therefore, is inversely as the degree of saturation or solution.
+
+
+
+SOME PRACTICAL CONCLUSIONS.
+
+<article title=" SOME PRACTICAL CONCLUSIONS " author="">
+
+In framing, where light and stiff timber is wanted, the conifers excel ; where heavy but steady loads are to be supported, the heavier conifers, hard pine, spruce, Douglas spruce, etc., answer as well as hardwoods, which are costlier and heavier for the same amount of stiffness. On the other hand, if small dimensions must be used, arid especially if moving loads are to be sustained, hardwoods are safest, and in all cases where the load is applied in form of ''shocks" or jars, only the tougher hardwoods should be employed. The heavier wood surpasses the lighter of the same species in all kinds of strength, so that the weight of dry wood and the structural features indicative of weight may be used as safe signs in selecting timber for strength.
+
+In shaping wood it is better, though more wasteful, to split than to saw, because it insures straight grain and enables a more perfect seasoning.
+
+For sawed stock the method of '' rift" or ''quarter" sawing, which has so rapidly gained favor during the last decade, deserves every encouragement. It permits of better selection and of more advantageous disposition of the wood ; rift-sawed lumber is stronger, wears better, seasons well, and is less subject to warping.
+
+All hardwood material which checks or warps badly during seasoning should be reduced to the smallest practicable size before drying, to avoid the injuries involved in this process and wood once seasoned should never again be exposed to the weather, since all injuries due to seasoning are thereby aggravated. Seasoning increases the strength of wood in every respect, and it is therefore of great importance to protect wooden structures, bearing heavy weights, against moisture.
+
+Knots, like cross grain and other detects, reduce the strength of timber. Where choice exists, the knotty side of the joist should be placed uppermost, i. e., should be used in compression.
+
+Season checks in timber are always a source of weakness; they are more injurious on the vertical than on the horizontal faces of a stringer or joist, and their effect continues even when they have closed up, as many do, and are no longer visible.
+
+DURABILITY AND DECAY.
+
+
+
+All wood is equally durable under certain conditions. kept dry or submerged, it lasts indefinitely. Pieces of
+

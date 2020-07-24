@@ -1,0 +1,72 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND	BUILDER
+
+
+
+STUDENTS' DEPARTMENT.
+
+INTERCOMMUNICATION COLUMN.
+
+<article title=" INTERCOMMUNICATION COLUMN " author="">
+
+This column is intended to afford a means of correspondence for students, builders and all our readers desiring information they cannot otherwise obtain. Questions for which an immediate reply is required should be marked Urgent." Names and addresses of correspondents must be sent with their communications, but these may be signed with initials or otherwise for publication.
+
+
+
+
+
+QUESTIONS.
+
+
+
+[20]. I am roofing a brick building, which we faced with pressed brick. The brick was only damp enough to lay nicely and the walls well protected from the weather. A white substance which seems to come out of the bricks themselves now covers the wall in many places, Thus greatly disfiguring it. We had the same trouble on a building which we built over a year ago. I write hoping that you may he able to suggest a remedy. I)o you think oiling the wall after cleaning it with acid would be a permanent cure.—A. E. C., B. Colunbia.
+
+[21]. Counting 25 bricks to a cubic foot when laid, and allowing fifteen per cent for waste, how many bricks would it take to build a chimney of square cross section, having its outside dimensions 6 x 6 feet at the base and 3 x 3 feet at the top, its inside dimensions 2.5 X 2.5 feet at the base and two feet at the to1)? (The fifteen per cent. to he added to the theoretical number required to build the chimney.) The height of the chimney is to be 6o feet. With the same diameters, how many bricks would it take to build it 70 ft. high?—STUDENT.
+
+
+
+
+
+REPLIES 
+
+
+
+[19]. —" Country Builder "—-- To give a full answer to your question we should have to print a table giving the comparative strengths of ropes of all diameters, but a few examples may suffice you at present. For instance an inch  of hemp (hawser) has a breaking weight of .20 tons, whereas an iron wire of same girth will only break at 1.40 tons, and a steel wire at 2.50 tons. A 2 inch hemp breaking weight .8o tons, iron wire 5.60 tons, and steel 10.00 tons. [Ed. Inter. Col.]
+
+
+
+[201. So far as we can learn, there is no process which is effectual in preventing the exudation of magnesia from brick work. We are informed that there is a standing offer on the part of the leading brick manufacturing companies of Canada and the United States of $10,000, for the discovery of a process which will prevent efflorescence from brick work. If the bricks before being laid in the wall, are dipped in linseed oil to tile depth of an inch and a half on the surface to he exposed, it will prevent to a considerable extent the magnesia from coning to the surface. The cost of dipping would be from sixty to seventy cents per thousand. Experience in Toronto and elsewhere has shown, that with constant washing by rain and drying by sun, the efflorescence usually disappears to a large extent, if not entirely, after the building has been exposed one or two seasons to the weather. This being the case, it is considered hardly necessary to go to the expense of dipping the bricks in oil. So far as our information goes, we (10 not think that oiling the wall after cleaning it with acid would prove a satisfactory remedy. We understand the amount of magnesia in the brick depends largely upon the depth at which the clay used in their manufacture is obtained. In bricks made from clay dug at a considerable depth below the surface the quantity of magnesia is less than in those made from surface clay. We might add that the defect to which you refer appears not to he confined to any particular deposit of clay, but it is incident to bricks everywhere. The problem of how to avoid it is one which has for a long time given brick manufacturers a good deal of anxiety. If any of our readers are possessed of any additional information on this subject, we will be pleased if they will contribute it.
+
+[21]. In order to get the volume of brickwork in the chimney it is necessary to find the volume of the outside frustum of a pyramid and that of the inside frustum or flue, and to subtract tile latter from the former. The volume of a pyramidal frustum having its base and top parallel is found by adding together the areas of its base and top, and the area of their mean proportional, and multiplying their sum by  the perpendicular height. The area of the base of the outer frustum is 36 square feet that of the top 9 square feet ; their mean proportional is '36 X 9=144 equals square feet. Then 36+18+9=63; 63x20=1260 as the number of cubic feet without deducting the volume of the flue. The flue has its base area 2.5 X 2.5=6.25 square feet as its top area 2 x 2=4 ; the mean proportional between these two areas is 6.25x4=25=5. Then 6.25+5+4=15.25; 15.25x 20=305 as the number of cubic feet in the flue; this being taken from the outside volume 1260 leaves 955 as the number of cubic feet of brickwork. If there were 25 bricks to the cubic foot that would call for 955 X 25 =23875 bricks without allowing for waste, and fifteen per cent. of this would he 3581 for waste ; so that the total number required be 27476 bricks.
+
+
+
+<article title=" SALT WATER FOR BRUSHES " author="">
+
+SALT WATER FOR BRUSHES.—-The water in which brushes are kept during the warm summer months, often though it be changed, is apt to get foul. To prevent this put a little salt in the water.
+
+A NOTABLE CASE (91 MOVING A BUILDING.
+
+
+
+A NOTABLE instance of removing a large building was the removal at Rouen, in France, of a large timber and iron shed, 194 ft. long, with a 97 ft. span, over a distance of several hundred feet. The structure was made up of twelve trusses, supported on double posts at each end, and the total load to he lifted amounted to about 180 tons. The crucial part of tile undertaking was in the lifting of the twenty-four supporting posts at one and the same time, and it was indispensable also that this raising should he accomplished in a manner which would not in the least degree alter the relative positions of the posts. One circumstance largely favoring the undertaking was that the slope of the ground over which the shed had to be moved was slight, and that the posts, when in their new position, would require raising to the extent of only about 10 in. The mechanical appliances necessary, therefore, were comparatively simple, comprising only some winches, cables, and screw jacks, some strong blocks, and the special trucks which haul to he built to carry the posts in transit. Rails and sleepers, necessary to complete the outfit, did not add greatly to the expense. The first operation consisted in laying a track underneath each line of posts, and then building around each post a truck on to which, subsequently, the posts were lifted. As soon as all time trucks had received their loads they were coupled together by iron rods so as to transmit the traction in the line of the posts, and also to preserve the proper distance between them. Somewhat beyond the far end of the distance to he traversed two piles were driven into tile ground almost in hue with two rows of posts, and at each side of these piles another and smaller one was driven to serve as the fixed points for the cables used in hauling. The latter, starting from these, passed successively around pulled blocks on tile two heavier piles, then around blocks fixed to the leading trucks, and finally were wound on a winch placed inside the building. A graduated plank was laid down along the whole length of the route to aid in securing uniformity of progression in all the trucks, and the whole operation was carried out expeditiously and successfully.
+
+
+
+
+
+
+
+So far as is known, wall paper was originally made by the Chinese in square pieces, about 20 inches wide and 20 inches long. It was probably pasted on the wall, and used in some such manner as tile Spaniards used their stamping leather, taking the place of the arras of the ireilcil, and the tiles of the Dutch. China stands prominently out as being able to make more from paper and pulp than any other nation.
+
+
+
+The object of shingling a house, or other building, is to keep out the rain ; from tile manner in which some carpenters do their work, says the Kansas City Architect and Builder, it would seem as if their object was solely to see how many shingles they could make one nail hold in place—until they got off tile roof. But the good and conscientious workman lays the shingles right sidle up, spaces them evenly, puts butts even, amid drives two nails in each shingle over four inches wide.
+
+
+
+A section through in a drawing will tell more about tile arrangement of the internal details than dotted hues ordinarily can. Therefore, says an English architectural paper, after a sufficient number of side views and a plan have been made—or, better, an isometrical picture of the device illustrated— enough cuts should be made through different parts of it to clearly show the inside parts. This practice will generally obviate the necessity for a separate drawing of the full details on experimental work and on tools, where it will be found necessary to draw but few such details of the more complicated shapes. Dotted lines for every covered part are an abomination when made by the average draughtsman. Few men have the artistic skill thus to depict the transparent effects so that an intelligent view is given of the internal parts. A section here and there, Oil the other hand, makes all parts clear and so well within the capacity of the most ordinary draughtsman to depict, and in the power of the most crude mechanic to read, that there can be no two opinions as to the advisability of plenty of sections and few or no dotted lines. In a long experience we have found it time pay, as a corrective, to make sections, for many of the mistakes of draughtsmen may thus he caught and remedied.
+
+
+
+A NATURAL bridge is said to have been discovered on the Columbia river near West Kootenay. It is composed of grey granite, allied to syenite. The piers on each side are 20 feet high 11, when the arch begins to spring and rise in the centre to a height of 90 feet above the ground. Tile distance from pier to pier is 264 feet, and this enormous span is covered by a roof of granite 30 feet wide, and varying in thickness from 10 feet at the sides to 12 feet in the centre. The form of the arch is that of a rainbow, the tinder side being- smooth, but not water-worn, anti without angles or bosses. It is cracked in radiating lines, which divides the centre into self-supporting keystones, but the joints are quite close, without fissure between them. The sides of the piers are as smooth as the arch, and great firs and cedars grow beneath the arch. This remarkable tnond)lith does not appear to have been caused by the wearing away of the rocks around it, nor by falling from a higher level, but seems to have either been elevated en masse or left standing on the subsidence of the surrounding land.
+

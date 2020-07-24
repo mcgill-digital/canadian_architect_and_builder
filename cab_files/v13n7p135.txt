@@ -1,0 +1,52 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	135
+
+
+
+stead of being allowed to escape by the chimney, or other way, be transmitted directly or indirectly to the air of the rooms occupied the air being in such a condition of purity and freedom from movements, and having such evenness of distribution, that a sense of comfort may be given to all the inmates.
+
+
+
+The modes by which heat is transmitted to the air of a room, viz., by conduction, convection and radiation, all play their part, each being given a greater or less importance according as grates, stoves, furnaces, hot water or steam pipes be the method of heating adopted.
+
+The following results, obtained by Profs. Carnelly and Haldane, of Dundee, Scotland, have much interest in this connection but they are necessarily to be accepted not so much as indicating the value of any particular system as the mode of application of any of the systems accidentally adopted in those particular schools at that time.
+
+Of 323 schools reported upon 150 were personally visited by Carnelly. The great differences were found in the amount of fuel used per pupil. One large school, with hot air furnace, used but 34 lbs. of coal per head in a season, while another used 417 lbs. One with an open fire used but 23 lbs., while another used 239 lbs. In a school for 1,000 scholars the cost in England averaged for installing the system £200 for grates and £500 for low pressure steam. The installation of a mechanical fan ventilating plant with heating cost in a building properly designed for it £850, and put in an old building not specially designed cost
+
+
+
+£1,000. The results of experiments showed that mechanical ventilation as by fans was much the most effective in maintaining the requisite purity and temperature of the air was more independent of winds and changing weather reduced draughts to a minimum, but has a greater first cost and somewhat greater cost for maintenance; but in a town with several schools one janitor could supervise the apparatus in all.
+
+A more recent and perhaps more representative series of methods of heating and ventilation are those found in the reports prepared under the supervision of the Chief of the District Police of Massachusetts, 1896, who has special charge of the work of boiler inspection, fire-escapes and the heating and ventilating of public buildings, factories and workshops of the State. The several reports of this Bureau are of extreme interest, illustrating year by year an advance in the scientific supervision of public buildings. The report for 1896, referring to the ventilation of schools, says, "The practicability of ventilating schools admits of no doubt. It is a matter of exact knowledge as any problem in engineering or mathematics. It can be done by the aid of power, and may be accomplished by heated shafts or by fans; all dependence on natural ventilation should be abandoned. The system of mechanical ventilation can be relied upon with certainty. By mechanical means a steady inflow of pure air under all conditions and atmospheric changes can be secured. The extra expense for the power to move air should be recognized and met without question."
+
+
+
+"When so many are enquiring how best to secure good ventilation in schools and other public buildings, the correct methods gained by years of experience should be made known. In this matter of ventilation there are comparatively few who have made it a speciality and have felt it necessary to perfect their knowledge. The time has been reached when the importance of ventilation is generally appreciated, and there seems to be a willingness to do something for tile health and comfort of the pupils in our public schools, and it would be a misfortune not to achieve some real progress."
+
+
+
+"Good ventilation consists in the proper arrangement and distribution of the ducts of the incoming and the outgoing of the air, and their relation and correspondence with each other, so that the perfect removal of the foul air and the thorough diffusion of the fresh air will be secured. How to supply the occupants of schoolrooms or crowded apartments with the proper quantity and quality of air has not always received the attention its merits demand. Something, however, during the past few years has been done towards an intelligent solution of the problem. To know how much air is needed for a given number of pupils in a schoolroom and to supply it by exact mechanical measurement is now no secret.'
+
+"In former reports I have explained some of the methods advocated and in operation in school buildings in the State. One of the methods or systems concerns itself only with supplying air, leaving it to make its way through ducts provided for that purpose. This is done by means of fans or blowers forcing the air into the room. It is the plenum method. Another system or
+
+method advocated is directed to the extraction of the foul air by natural laws, requiring no mechanical means, depending upon the difference between the external and internal temperature, in other words, the tendency of warm air to rise."
+
+"In our experience of the past eight years we have found that the interior temperature of foul-air ducts is practically the same as that of the room. The changes in the temperature are so frequent and the velocity of the wind so various, that, unless additional heat is supplied to the duct, the power of the duct or shaft to draw air from the room will fail in many instances to cause upward motion enough to be measured by the anemometer."
+
+
+
+"The ways of adapting the means to the end in furnishing to and removing air from crowded rooms are not questions of experiment. The size of ducts, shafts, etc., their location in the rooms and their distribution are not at the present time severe problems. The questions, "Shall the air be taken in at the floor or at the ceilings ?" or "Will an upward or downward movement in the air work to the best advantage ?' have been settled upon principles which are available for the practical solution of the problem of ventilation."
+
+
+
+"For the effective working of any system of ventilation, it is imperatively required that proper provisions should be made to promote air currents in the right direction, and first in the fresh air inlet,-—the supply of fresh, pure air from pure external sources. The size of this fresh-air inlet is of great importance. In many instances when provided in our public buildings it has been found to be too small. The warming of the incoming fresh air should be considered at this point. Varieties of heating appliances are in use for the purpose of warming the air, two of which I will mention,—the hot air-air furnace and the high-pressure or low-pressure steam apparatus."
+
+The difficulties to be overcome by the adoption of any system depend upon the operation of the same principles. Heating by convection is due primarily to the movement of air upwards, heated and by expansion made lighter, and falling again as it is cooled by walls and windows. By these currents of warmed air coming in contact with our bodies, we are prevented from cooling with undue rapidity in the same manner as by conduction the air of the room is cooled by the cold outer walls and windows. It will thus be apparent that with Outer currents of air, as winds blowing against a building, the porosity or openness of the walls and the conductivity of the building materials and the doubling of the windows, must all play important parts in the ventilation and heating of dwellings. To minimize the variations of temperature caused by these several influences in different rooms and at different parts of the same room, to maintain the air at a temperature of 60° to 7& F., to secure a humidity of the air approaching 70 per cent. of saturation and to keep the carbonic air in the room at a point below six parts in 10,000, or to secure from thirty to fifty cubic feet of fresh air per minute for each inmate according to age, and to do this economically, is the problem of ventilation.
+
+
+
+This must be secured too in such a manner that the velocity at the inlets shall not exceed six feet per second, to be reduced to half a foot per second, when coming in contact with inmates to prevent the sensation of draughts, although experiment has taught us that a velocity of two to three feet pet- second of air at an ordinary temperature may be endured without a sense of notable discomfort. How much this last point means will be understood, when it is remembered that a room containing 500 cubic feet of air having an inlet of twelve inches square, if supplying 3,000 cubic feet per hour, would have a velocity of .83 feet per second while supplying only enough air for one adult person. It is thus apparent that in order to maintain the requisite purity of house-air without an excessive air movement, a minimum air space fixed by some at 750 cubic feet per capita is necessary, thereby permitting some four changes of air per hour.
+
+
+
+Apart from the question of heating and propelling the air into a room, it is equally clear that the size of fresh-air inlets and outlets is of primary importance in the question of the movement of the air. An illustration will make this evident. Assuming that properly warmed air can safely move at a rate of two feet per second without discomfort, and that the fresh-air inlet occupied a quarter of one wall of a square room thirty feet wide, it will have renewed the air in the room within two minutes, or thirty times in an hour. As this air is distributed over a space in the room in columns, four times the volume of that opposite the inlet, the general velocity in the room would be but one-quarter that at the opening, or six inches per second. If further the rate of renewal be lessened, it is apparent that the size of the inlet can still be notably reduced if the distribution of the air at the point of entry
+

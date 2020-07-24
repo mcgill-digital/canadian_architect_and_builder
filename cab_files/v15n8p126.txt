@@ -1,0 +1,120 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+should he back of it, I have obtained the best results from an average of a half-gallon of water per square foot of heating surface in a hot-water heater, with an average of from 20 to 25 square feet of heater surface to each square foot of grate area, the surface being arranged with about 50 to 60 per cent. of lire
+
+
+
+surface and about 40 to 50 per cent. of flue surface.
+
+
+
+DISCUSSION
+
+
+
+<person>Prof. Carpenter</person>: The paper is to be commended as bringing out a great deal of information about the relation of surface to volume, both in radiators and in boilers, and this ratio is an
+
+
+
+important factor in the successful operation of the radiator or boiler.
+
+
+
+If the volume be too small within the boiler the circulation is likely to be bad, particles of steam are thrown out, and the resuIts are poor. With too large a volume the action will be slow, and there will consequently be an excessive demand upon the apparatus.
+
+
+
+<person>C. B. Thomson </person>: In manufacturing boilers we have to make one type answer for both steam and water, and we have to pay particular attention to the fact that it is a steam boiler. There are many little problems in a steam boiler, such as carrying a steady water line, carrying a water over into the radiators tinder certain conditions, and we have to be careful about the water ways and the return column, so as to get good circulation. On that account boilers are sometimes ma(le to contain much more water than would be desirable in a water heater. I believe the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+most popular heaters in the market to-day contain about one-half gallon of water to the square foot of heating surface.
+
+
+
+If manufacturers built boilers for water alone, ignoring the conditions required for steam boilers, they would produce more efficient water boilers. A hot-water boiler requires small waterways and a large amount of effective heating surface exposed to the direct rays of the fire; also a rapid circulation of the water It is generally known, and I have made experiments which prove it, that with a sluggish circulation, sought to be accelerated by a strong draft, the draft carries away much of the value of the fuel An easy and rapid circulation is therefore essential.
+
+
+
+<person>Mr: Mackay</person>: I would like to enlarge on one subject a little On account of the sun greenhouses require little or no beat during the day time. With 4-inch pipe you most waste your heat to the outer air by opening ventilators during the day. With 2-inch pipe you can lower the temperature more quickly in the morning and avoid opening the ventilators and wasting the heat, and yet you can quickly raise the temperature to the desired point in the evening when it becomes cooler. At our last meeting something was said of the advantage of storing heat, but I think it better to generate beat as you require it and use it as you generate it.
+
+
+
+Some people object to hot-water heat in dwellings because it. takes too long to raise the temperature in the morning. I have not found it so in properly placed and properly operated apparatus.
+
+
+
+The President: Do you use an open or closed heater?
+
+
+
+Mr. Mackay: Always open. I can get better results with an open system, and I consider it dangerous and bad to use high pressure when you can do the work with low pressure.
+
+
+
+<person>Prof. Carpenter</person>: The question as to volume and surface really comes down to a question of circulation. The smaller the volume on a given amount of work the greater must be the circulation, and it has been pretty well proved that the greater the circulation the greater the efficiency of the surfaces, both of the boiler and radiator. So it really comes down to what is the least practicable limit in velocity of circulation. Personally I favor a large
+
+volume of water in a hot-water heater for heating houses, as tending to reduce fluctuations of temperature. We like to put on a lire and have its effect distributed over a long time.
+
+
+
+
+
+
+
+<article title=" FIRE-PROOF BRICKS " author="">FIRE-PROOF BRICKS.
+
+
+
+Theoretically, the ordinary types of bricks made by the clayworker are fire-proof; but, practically, very few of them are. We, or course, exclude perforated bricks in making Ibis statement, says a writer in the British Clayworker. During a conflagration of any magnitude, the inside bricks, especially in partition walls, usually become red—hot. This leads to the expansion of each brick concerned, and buckling of the walls commonly results. This effect is minimized where the mortar has been laid on thickly between each brick-course, as the coefficient of expansion of ordinary builders' mortar is not the same as that of thc bricks. In the last-mentioned case the mortar is, in the vast majority of instances, ruined by the great heat at an early stage of the conflagration, though if the wall is a thick one the mortar in the interior of the wall may to some extent he preserved. Cement mortar does not seem to be so much affected as ordinary lime mortar. Where the life of the mortar is sapped, so to speak, the bricks suffer more from the heat, but the greatest amount of damage is done to them by the water from the firemen's hoses. The sudden application of cold water to a hot brick frequently has the effect of cracking it, particularly if the operation be of an intermittent character which is generally the case. In order to test the quality of a brick for fire-proofing purposes, therefore, it is desirable, amongst other things, to heat it to as high a temperature as possible, and then plunge it suddenly into a bucket of cold water. It should not be allowed to remain there more than say to to 12 seconds, and should then be returned to the retort, or whatever the form of furnace in which it was heated for the experiment. This procedure is rather drastic, and many types of bricks cannot withstand it but it certainly brings out their relative capacity for endurance tinder extreme changes in temperature. In watching such experiments it will be noticed that whilst many different kinds of bricks crack and split right across, others will simply have a corner or two removed, and a third may merely exfoliate. In the last-mentioned instance the bricks are usually of very fair quality for the purpose. the sudden application of the water to the red-hot surface produces steam, which in its turn exercises a semi-explosive result at innumerable points on the surface The accumulation of these points locally leads to '' starring" and frequently to serious exfoliation.
+
+It is difficult to lay down a law as to what should constitute an ideal brick for fire-proofing purposes, but it is clear that caeteris paribus one that does not become red-hot very quickly, and which does not expand much, should fall into the first rank. At the same time, the brick must be strong, especially for the construction of buildings in which much ironwork is employed. For, whilst it is in itself being very severely tested during a conflagration, the brick has frequently to bear the brunt of an attack from the iron girders. These latter expand very much during a conflagration, anti though when properly built up an allowance is made for this, they are apt to buckle and exert enormous strain on parts of the wall not designed for such contingencies.
+
+Bricks that are not protected in any way by fire-proofing materials, and upon which reliance is solely placed, ought not to be of a soft character except for small buildings where there is no likelihood of a very high temperature arising during a fire. The reason we make this exception is that they are less liable to great expansion during the fire, though they must first have been thoroughly well burnt in the kiln. We exclude nearly all fire-bricks from these observations.
+

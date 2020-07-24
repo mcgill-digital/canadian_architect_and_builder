@@ -1,0 +1,88 @@
+<doctype type="text">June, 1891 CANADIAN ARCHITECT AND	65
+
+
+
+OUR ILLUSTRATIONS.
+
+PHOTOGRAVURE PLATE, <building>BANK OF MONTREAL, TORONTO</building>.—
+
+<firm>DARLING & CURRY</firm>, ARCHITECTS, TORONTO.
+
+ACCEPTED DESIGN FOR <building>NEW BOARD OF TRADE BUILDING</building>,
+
+MONTREAL, QUE.—<firm>SHEPLEV, RUTAN & COOLIDGE</firm>,
+
+ARCHITECTS, BOSTON, MASS.
+
+PLASTER DETAILS, <building>DOMINION BANK CEILING, TORONTO</building>, (EXECUTED BY <firm>HYNES TERRA COTTA CO.</firm>.)—<firm>DARLING, CURRY,
+
+SPROATT & PEARSON</firm>, ARCHITECTS, TORONTO.
+
+<building>HOUSE ON SUSSEX AVENUE</building>, TORONTO.—<person>E. B. JARVIS</person>,
+
+ARCHITECT, TORONTO.
+
+
+
+
+
+<article title=" THE MEANING OF ARCHITECTS' CERTIFICATES " author="">THE MEANING OF ARCHITECTS' CERTIFICATES.
+
+HAMILTON, May 5, 1891.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+SIR,—In looking over your April edition, I notice report of a discussion which took place at the meeting of the <assoc>Ontario Association of Architects</assoc>, which meeting I was unable 10 be present at. It would appear that some of the profession favored the idea that when an architect issued a certificate he should assume the whole responsibility the issue of that certificate implied. Are we to assume from that, the issue of a progress certificate means the work has been passed upon and accepted by the architect, or is it to mean just what the certificate implies? I have been using both in Canada and the United States, and I take the liberty of sending you a copy of form and stub. This certificate I have found to give entire satisfaction to all parties concerned, and I think will cover the point in discussion.
+
+Yours truly,
+
+<person>JOS. POWELL</person>.
+
+The form of certificate referred to by Mr. <person>Powell </person>reads as follows
+
+  This Certificate is given to show that	, Contractor
+
+(or Workman), has performed labor to the value of $	and
+
+delivered material to the value of $	upon the Contract for                      according to Plan marked             on               Street, in the             of             County
+
+of	Province of	This estimate is made
+
+equitable, in so far as it is possible to judge of work in its present incomplete condition. The Proprietor may therefore advance $         in accordance with the conditions of Contract for said work (this Certificate in nowise varies conditions contained in Contract), as to the acceptance of work of completion of Contract.
+
+	Dated this	day of	in the year 189..
+
+	Overseers Signature.
+
+
+
+
+
+
+
+<article title=" STRUCTURAL IRONWORK " author="Blagrove, George H.">STRUCTURAL IRONWORK.
+
+BY GEORGE H. BLAGROVE.
+
+
+
+METAL supports present themselves to the mind of the modern architect as being of cast iron, wrought iron, or steel. If he has to choose between cast and wrought iron, he will probably select the former, if there are great dead loads to be carried, and the latter if there is likely to be much vibration. With a series of superimposed columns in a building of several storeys, it becomes a question what is the true proportion of the diameter to the height for unless the columns are effectually steadied at their junctures by means of cross girders, the whole series is more like one column than several. It is well known that when a column or stanchion exceeds twenty-five diameters in height, wrought columns are preferable to cast ones of the same sectional area and at forty diameters high we can get the same strength with twenty-five per cent, less metal. Against this advantage the architect has to set the fact that the labor involved in constructing the riveted columns involves an increase of from twenty to thirty-five per cent. over the cost of cast supports. When we come to employ riveted columns, we are led to consider the advisability of substituting steel for wrought iron, if the loads to be carried are very considerable, and especially in cases where a close economy of lighting space is essential, as, for example, in the fronts of business premises. By the use of steel, not hardened, we can obtain about ten per cent, more strength than by employing wrought iron, but with some fifteen or twenty per cent. additional cost. Strength for strength, therefore, the additional cost involved wilt probably not exceed ten per cent. But by using hardened steel, of mean temper, we can obtain an increase of strength over wrought iron of something like 250 per cent. We have not yet commenced using steel stanchions as extensively as we might.
+
+Whether dealing with cast iron, wrought iron, or steel supports, the modern architect prefers symmetrical sections for his columns and stanchions. He avoids having narrow stanchions of E. section where he possibly can, because he knows that these are liable to become bowed in cooling. He knows, also, that supports of any material will deflect in the direction of their least diameter and therefore where he has to use unsymmetrical or narrow sections, he prefers enclosing them with brickwork or concrete if he can.
+
+In the use of riveted girders, the attention of architects is often directed to the advantages attaching to the use of steel, The practical architect, however familiar with the materials at his disposal, is not misled into designing steel girders of precisely the same section as those of wrought iron. He knows that, other things being equal, a steel riveted girder will safely carry about forty per cent, more than one of wrought iron but he also knows that the elasticity of the two materials is about the same. He therefore avoids assuming a proportionate limit of deflection in calculating the load upon a steel girder. Strength for strength, a steel girder will
+
+contain about one-third less metal than one of wrought iron; and if the depth he the same, the deflection will he the same; hut the depth of the steel girder must not be reduced, unless we are reconciled In an increase of deflection.
+
+The bedding of iron or steel supports and girders obliges us to take intimate cognizance of the other materials with which the metal is brought into contact. The superficial area covered by the base-plate of a column or stanchion is designed by the architect to be of sufficient extent to avoid the slightest danger of cracking the bedstone beneath. If the column be loaded to the extent of three tons per superficial inch of sectional area, the architect will probably make the nett area of the base-plate about eighteen times the sectional area of the column, supposing the base-plate to be of Yorkshire stone. With a bedstone of Craigleith or Bramley Fall, he would probably consider a proportion of sixteen to one ample for safety but he would not go much below this limit, whatever the conditions of load might be, because he would naturally wish to impart steadiness to his columns by spreading them well at the base. In the case of a steel stanchion, loaded to the extent of eight tons per inch of sectional area, many architects would employ a bedstone of Aberdeen granite, and whether the steel stanchion were provided with a cast iron base or not, they would not think it necessary to give the base-plate a larger area than sixteen times the section of she stanchion.
+
+Most persons are particular—and rightly so—about having all cap and base-plates perfectly even and smooth. They know the danger of uneven bearings, and insist upon all cast bearing surfaces being turned. Packing with felt between bearing surfaces has often been resorted so for the purpose of equalizing the pressure when the iron is slightly irregular. Many persons, however, regard such devices with a suspicious eye, pointing out that felt packing is useless, except under very slight pressures. The felt, they say, is squeezed into greater density at certain points where there are prominences upon the surface of the iron, while at other parts, where it is desirable to distribute the pressure, the felt retains its normal density and is practically inoperative. They argue that sheet lead is preferable, because it adapts itself, under pressure, to the irregularities of the iron without changing its density in any part. There cannot, indeed, be any doubt that lead is efficacious in neutralizing the effect of vibrations, for which purpose its use may be recommended even when there are no irregularities of surface in the iron. Lead also possesses this obvious advantage over felt, that it is not subject to decay.
+
+Various opinions prevail as to how the base plates of metal columns and stanchions should be fixed to the bedstones beneath. The old plan of having logs formed upon cast base-plates has been pretty generally abandoned. The logs are apt to break off, and at best they are of little use to steady a column ; they can but prevent it from slipping laterally. In bolting a base-plate to a bedstone, some architects insist upon having 1)011-holes drilled or jumped through the whole depth of the stone, so that the beads of the bolts may be on the underside. They are not satisfied with the usual practice of sinking lewis-holes in the stone for the reception of lewis-bulls which are run in with lead. They maintain that the lewis. bolts are liable to be loosened if there is the slightest tendency to oscillation in the columns or stanchions, and that if bolts are necessary at all, they are required not so much to resist tensile strain as to ensure closeness of grip. There are others who contend that broad base-plates under heavy columns are sufficient to ensure steadiness without the aid of bolts, and they recommend forming a square sinking in the bedstone to receive the base-plate and prevent all possibility of lateral displacement. Whether bolts are employed or not, there are two advantages in sinking the bedstone, In the first place, the depth of the sinking can be regulated so as to allow a little play in the height of the column. This is desirable when the ironwork is not delivered upon the site until a portion of the building is up, and stone templates have been laid ready to receive the ends of girders which take their bearing also upon the iron supports. Another advantage in sinking the bedstones is that the sunk portion alone requires to be worked even and true the remaining portion of the upper surface need not be worked at all, This serves to economize labor when large bedstones of granite are used,
+
+Some difference in practice prevails as to the bedding of girders. Many architects object to countersunk rivets being used at those portions of a girder where it takes its bearing upon a stone template, objecting to the sacrifice of strength in the countersink. They insist upon spherical-headed rivets being used, the stone being countersunk to receive them. Others, wishing to save the labor involved in countersinking the stone, have the end of the girder bedded in Portland cement, which expands slightly in setting, and ensures an equality of pressure between the girder and the stone. The practical architect, however, knows the time that must elapse before Portland cement can attain its full strength, and, although he does not wait long enough for it to do this he will probably allow for a month's setting before subjecting the cement to the full pressure which it is required to sustain permanently, In the meantime he will either postpone completely loading his girder, or, more probably, he will have it shored up. The rapidity with which modern buildings are run up generally makes it imperative to load a girder almost as soon as it is fixed. The architect is not afraid In trust the strength of Portland cement when properly set, knowing that it will resist compression as well as most sandstones. If he wishes to sustain a pressure greater than granite will bear, he will have recourse to cast-iron honey-comb bed-plates, which will distribute the pressure over a larger surface of stone than the end of a girder will cover.
+
+In scheming structural ironwork, we may he led to consider how far vertical supports can he made available for relieving the external walls of a building from the thrust exerted by the roof,----Specialties.
+

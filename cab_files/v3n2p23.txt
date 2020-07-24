@@ -1,0 +1,91 @@
+23
+
+<doctype type="text">February, 1890
+
+THE CANADIAN ARCHITECT AND BUILDER
+
+portions to allow of better caulking, it seems preferable that it should be poured in one continuous flow, as the joint will then be more homogeneous. When the metal is cold and has contracted, it should be well caulked. This is a very important operation, and should be insisted on to secure a thorough tight joint.
+
+As before stated, the superiority of wrought iron pipe is chiefly due to the better method of jointing, which this material allows of. The screw thread is usually slightly tapering, and to make up for any flaws which may be in the thread, a mixture of white lead, linseed oil and red lead is used in making the joints, which hardens in a short time, and makes a perfectly tight connection. Wrought iron pipe needs to be protected against rust and corrosion, and for this purpose is usually dipped into hot asphalt after having first been heated.
+
+The best way of connecting the lead pipes, is by means of wiped joints, and care should be taken in making these that there is no burr left in the pipe after being showed, which might form an obstruction—also to see that the inner pipe is not contracted at all by the outer pipe being insufficiently opened. These joints, when well finished, should present a rotund symmetrical appearance.
+
+The usual way of joining lead pipes to cast iron, is by using a brass ferrule connected to the lead pipe by a wiped joint, and caulked into the iron pipe with oakum and lead. When wrought iron pipe is used, connection is made by means of a screw joint.
+
+It has been a very common mistake in the past to use soil pipes of too large a diameter, This is almost as bad as having them too small, It is impossible for 5" and 6" pipes to be properly flushed by the usual amount of water sent down them. As a matter of fact, a 4" diameter is quite sufficient to prevent any obstruction, and this size allows a good flushing of the pipe. A 3" pipe could even be used where there is only one water closet.
+
+It is preferable that the house drain, instead of being buried from sight, should run fully exposed along a cellar wall, or else suspended from the ceiling. This method, besides allowing the drain to be fully inspected at all times, admits of a proper fall being given it, which is sometimes hard to do when buried. If there are fixtures in the cellar, however, this is impracticable, and the drain must run below the floor. When this is the case, and it is not placed in a trench to be accessible throughout, it should at least have cleaning hand holes at all junctions, near bends, etc. No junction should be made at right angles, V branches only being used, and thus facilitating the flow as much as possible.
+
+The system of pipes should be thoroughly ventilated. Even if gas from the sewer is prevented from coming into them, the air is always foul from use of the fixtures and filthy matter which to a certain extent coats their insides. For this reason the soil pipe, which should always be carried up in as straight a line as possible, should be extended at least full size up through the roof, and there left perfectly open. Ventilating hoods are no use on a soil pipe, and only impede the flow of air. This extension should be kept well out of the way of dormer windows, skylights, chimneys, etc. To secure a constant circulation of fresh air through the pipes, an inlet should be provided at the lowest point of the system, wherever there is no danger of freezing the water in the traps. In some localities the fresh air inlet has had to be dispensed with on this account, but all the same, where it is practicable it is better. The upward flow of air in soil and waste pipes is greatly helped if they can be arranged near a heated flue.
+
+With any amount of ventilation, however, the system would still be imperfect if there were nothing to prevent sewer gas entering the house at the fixtures. To effect this, some barrier is necessary which will not impede the flow of waste matter, and at the same time will prevent the return of any foul air. The most efficient way of obtaining this is with a seal of water, which is gained in the simplest manner by a bend or dip in the pipe.
+
+There should be a trap under every fixture, and that as near as practicable to the outlet, to prevent gases rising from the sewer to the soil and waste pipes. A trap should also be placed on the house drain between the fresh air pipe and the sewer. This trap should be provided with a cleaning hand hole—as indeed should all the traps—and when outside the house, should be accessible by means of a man-hole. Some sanitarians condemn the use of a trap in this position altogether, claiming that the soil pipe might be made use of to help ventilate the public sewer, but it hardly seems right to accomplish this by using the pipes in private buildings. To be secure against the danger of diseases being carried from house to house through the drain, perfect isolation from the sewer ought to be insisted on, and this can only be accomplished by trapping the house drain.
+
+Traps in themselves are evils, as tending to impede the flow of water and sewage, but being absolutely necessary, the only thing which can be done is to use the best form which has been devised. The fundamental principle of all traps is, that they shall allow of the whole water in them being entirely changed every time they are flushed. Round pipe traps have been found by experience to be the best for this reason, and the forms most commonly used are the S. P. running traps. There is, however, a great danger of these traps under certain conditions losing their seal by siphonage, and also with being forced out by air pressure. To overcome these difficulties, almost every conceivable form of trap which could be devised has been made use of, but it has been found that those which are most efficient in this way are not self-cleansing, It was chiefly on account of its non-siphoning qualities that the filthy D trap was used for so long, but the objections against such a form of trap are so numerous as to preclude its use altogether in any place where the work is carried out on sanitary principles.
+
+It is hardly necessary to describe the great number of traps now in use, for although many of them are very efficient for some purposes, there is none which can be so safely used for general requirements as the S trap, if properly protected against siphonage and back pressure. Siphonage takes place when atmospheric pressure is greater an one side of the trap than the other, and this is caused by a partial vacuum being created by the disturbance of air which takes place when a discharge is being sent through the soil pipe. To prevent this vacuum, and to render the trap safe against back pressure, a vent pipe is carried from the crown of the trap, connecting with the outside air. This also helps to perfect the system in another way, by completing the thorough ventilation of it, and thus preventing an accumulation of foul air in any of the pipes. Objections have been made against this method that it greatly complicates the plumbing apparatus, and at the same time increases the evaporation of water in the traps, but from recent experiments made by Mr. Glenn Brown at the Museum of Hygiene, U. S. Navy Department, it has been shown that evaporation is hardly increased at all by using the air pipe. Against the other objection no stand can be taken; it does complicate matters, but until the ideal trap has been evolved, that is, one which with a sufficient seal will be self-cleansing and non-siphoning, this is the only system which can be safely employed.
+
+The vent pipes should in all cases be large enough to prevent frictional
+
+resistance to air passing through them, and in very high Buildings the diameter will have to Le increased in proportion to the length of pipe. It is not necessary to carry a separate vent pipe through the roof from each fixture; a main pipe can be taken from the lowest fixture and branched into the soil pipe above the highest, all other vents being connected with this one.
+
+The fixtures themselves should be of the simplest possible character, and as far as practicable should be arranged in \ vertically above one another. All rooms containing these fixtures should be well lighted and ventilated, and not, as is often the case, be relegated to the most remote and unventilated corner of the building.
+
+There are two classes of water closets made use of : those with movable parts, such as the pan closet, the valve closet, and the plunger closet ; and those without movable parts, such as hopper and wash-out closets. Those not having movable parts are the only ones which should be used, the other class being liable to quickly get out of order and soon fouled.
+
+Hopper and wash-out closets are flushed through means of a flushing rim , which is supplied by water from a flushing tank fixed at a suitable height above the bowl. The efficiency of these closets depends on the water flush to a very great extent. The best material for all fixtures of this kind is that which presents a smooth and non-absorbent surface, and for this reason, glazed earthenware is chiefly used.
+
+Where urinals are employed, which should never be in private houses, they should be automatically flushed, and the basin should be shaped so as to hold a certain amount of water. This insures less pollution of the atmosphere. as the urine is diluted at once.
+
+Kitchen sinks are preferable if made of earthenware, which has many advantages over the materials ordinarily employed for this purpose. Their outlet should always be protected by a strainer to prevent obstruction of the pipes, and a vented strap should be used in preference to most other traps. The bell trap should not be employed under any consideration. The " Sanitas" flush pot seems to be an excellent arrangement, and if employed would save the expense of back venting.
+
+To get rid of the hidden overflow pipe in baths, basins, etc., which is apt to become foul and cause an annoyance, many different arrangements have been tried, but the most satisfactory of all is that in which a standing overflow is inserted into the socket of the waste pipe, thus doing away with the use of the dirty plug and chain at the same time. To prevent this outlet being in the way when the fixture is being used, a recess for it to stand in should be formed.
+
+The baths most generally in use are of tinned and planished copper, but as these require to be cased in, they are not as satisfactory as they ought to be. Enamelled iron or porcelain seem to be preferable materials, as these would allow them to be fully exposed.
+
+It is hardly necessary to speak in detail of all the other fittings which are flow used, but let it be sufficient to say that in choosing them, cleanliness and simplicity should be the first consideration. When safes are used, the drip pipe should on no account be connected to any waste or soil pipe, but should be made to discharge over the cellar or kitchen sink.
+
+The water is usually brought into and circulated through a building by lead pipes. This has been condemned by some authorities, as lead poisoning may take place when the water contains certain acids, but brass and iron pipes have been recommended instead. Care should be taken to locate these supply pipes in such a way that they will not be liable to freeze.
+
+All pipes should be graded to a point in the cellar, and provided with a stop and waste cock to allow of them being entirely drained when necessary.
+
+It has been impossible here to enter fully into all details of the plumbing system, but a general survey has been given, and the most essential points touched upon. This is probably quite sufficient, for if the principles are understood, there ought to be no trouble in applying them to details.
+
+
+
+
+
+
+
+
+
+<article title="Manufactures and Materials Bursting Pressure of Lead Pipe" author="">MANUFACTURES AND MATERIALS
+
+
+
+BURSTING PRESSURE OF LEAD PIPE
+
+THE following tables are taken from Rivington's Notes on Building
+
+
+
+Construction":
+
+C— C	U;	.~O  	C~)	C	U. 0)  C	C 	Cd)	C    ~a 		
+
+34   134 2	.2 .2 22 .2 .21 .24 .21	2.3 2.6 2.8 4.1 5.3 7.1 9.2	'579 1349 1191 911 68~ 734 498	.14 .13 .15 .14 .13 .15 .17	'.3 '.4 T.9 2.4 2.7 3.8 5.4	'8~g '454 1416 1265 835 849	
+
+Deputations have waited on the government far and against a change in the tariff on wall paper.
+
+The window glass manufacturers' association of the United States has advanced prices five per cent.
+
+ The Napanee Cement Works lately received an order for I,500 barrels of their cement far the new Board of Trade buildings in Toronto.
+
+The report comes from Winnipeg that the brick dealers have cornered the market, and that when the building season opens there will be a great shortage.
+
+Messrs. <firm>McArthur Bros</firm>, of Belleville, Ont., contractors for the Grand Trunk double track, have opened a limestone quarry at Crookston, where they will employ 75 men and ship ten cars of stone per day.
+
+Lead Pipe.
+
+Lead Encased Tin Pipe

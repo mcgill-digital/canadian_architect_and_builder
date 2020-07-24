@@ -1,0 +1,60 @@
+
+
+<doctype type="text;plate">in width and a riser 5'2 in. high is convenient and well proportioned. Seventeen and a half inches then may be taken as a standard from which the dimensions of others may be deduced, so whatever may be the width of the tread, that sum should be supplemented with a sum—the height of the riser—so that the sums combined, will make a total of 17½ inches. Of course, this rule cannot always be followed, but it should be kept to as close as conditions will admit.
+
+A very good way to determine the width of tread, or height of riser is by making a right-angled triangle a b c, as shown in the figure. Suppose
+
+a b equal to 24 inches, and b c equal to 11 inches, which makes the standard proportion of tread and rise; then to find the riser corresponding to a given tread, from b set off on a b the width of the tread as at b d, and through d draw the perpendicular d e, meeting the hypothenuse in e ; then d e is the
+
+height of the riser, and if we join b e, the angle d b e is the slope of the ascent. In like manner, where b f is the width of the tread, fg is the riser, and bg the slope of the stair. The width of tread b h gives a riser of the height of h k, and a width of tread equal to b 1 gives a riser equal to l m and b d gives a riser of d e ; and so on, the tread governing the height of riser as shown,
+
+
+
+DIAGRAMS FOR PROPORTIONING STAIR TREADS AND RISES.
+
+but, the rule may be reversed and the height of riser may he made to govern the width of tread.
+
+Another system is to set down two rows of figures, each in arithmetical progression ; the first set showing the width of treads, ascending by inches, and the other showing the height of riser, descending by half inches. It will readily be seen that each of these steps and risers are such as may suitably pair together.
+
+As before stated, it is very seldom that a hard and fast rule will apply to the proportioning of stairs, so all that can be done in the matter is to offer a standard, which it is desirable to approximate.
+
+<article title="How to Carry a Long Girder" author="">HOW TO CARRY A LONG GIRDER.
+
+THOUSANDS of tons of long girders to be used for bridges and for buildings are carried on our railways and roads every year. A very slight error or want of foresight in the handling of these girders during their carriage may severely damage them, and, in fact, it is quite possible to strain (the word being used in its proper sense of deformation) the flanges or web with rough or unskilled handling more seriously than the girders would be strained under their intended load. A girder laid on its side, when it is never intended or designed to be placed in such a position, may have its
+
+effective strength very easily deteriorated, and it is even possible that in some cases a permanent strain due to stress beyond the limit of elasticity may be forced into the girder whilst under handling, lifting, or transit.
+
+The writer has seen long deep girders of very narrow flange, the very narrowness of the flange probably intended to be met in fixing the work by some cross-bracing or ties, very severely treated by temporarily resting the girders on supports at each end, their own weight alone whilst in this position deflecting the girder several inches, and then, added to this deflection due to their own weight, several men with loads may have walked along the web of the girder from end to end, every step swaying and bending the girder several more inches up and down. This kind of sideways stress was of course never anticipated by the designer of the iron-work, and should never have been allowed to occur.
+
+Then there is the danger of careless handling and lifting when loading and unloading the girders on and off the vehicles carrying them, whether these be railway waggons or road trucks, from the makers' yard to the site of erection. The writer has known many instances of girder work being much injured by this treatment, and in several cases, parts of work that should have traveled safely have had to be partially cut to pieces, certain parts heated and made good and straight, and then reriveted into its position.
+
+As a matter of fact, the loading and unloading of long
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In better class buildings the number of treads is considered in the plan, which it is the business of the architect to arrange, and in such cases the height between the top of the lower floor and the top of the next floor above is divided into as many parts, less one, as there are treads shown on the plan.
+
+The method of construction of stairs is a matter of great importance, and will be discussed separately later
+
+on.
+
+heavy and (under certain conditions) unstable girders, is generally left to a foreman who possesses no knowledge of stresses or strains, and who probably does not know the difference between tension and compression, or shearing or torsion. Such a man may easily injure the girderwork with the powerful cranes or lifting appliances which are under his control. It is something analogous to a battery of artillery being placed in the charge of a corporal who has never been through a
+

@@ -1,0 +1,196 @@
+<doctype type="text">58	CANADIAN	ARCHITECT AND	BUILDER
+
+June, 1892
+
+
+
+reasons in each case. Explain the circumstances governing the selection of a factor of safety in each case.
+
+15 2. Explain fully what is meant by the following terms : (z), Beam; (2), Short Post ; (i), Long Post ; (v), Cantilever; (5), Strut ; and (6), Tie-rod.
+
+10 3. Explain at length what is meant by (a), Shearing Force; (b), Bending moment at a vertical cross-section of a beam.
+
+10 4. How are the Normal and Shearing Stresses distributed over the vertical cross-section of a uniformly loaded horizontal wooden beam.
+
+15 5. Explain the principle governing economy of material in bolts and rivets. Find the pitch of the rivets in a plate butt-joint, with a pair of cover plates, double rivetted in terms of the diameter of rivet and thickness of plate.
+
+20 6. What is meant by the terms : Modulus of Elasticity and Limit of Elasticity. Explain fully.
+
+10 7. State clearly the various conditions upon which, the strength of posts depends which are long enough to he liable to flexure
+
+15 8. State and explain the equations of equilibrium for forces acting on a rigid body in one plane.
+
+20 9. Calculate the Stresses in the following truss : (a), Analytically ; (b), Graphically.
+
+Structural Iron work.
+
+SECOND INTERMEDIATE.
+
+APRIL 6Th.
+
+MR. <person>E. BURKE</person>, Examiner.
+
+NOTE : 100 marks will be the maximum obtainable and 50 per cent. the minimum to pass.
+
+Values.
+
+10 i. Draw a section full size of a fitch-girder, the timber for which was taken from a piece of IO"x12" stuff. Write description and comments.
+
+5 2. What is the best description of iron for beams? Give reasons.
+
+10 3. Draw a section full size of a cast iron lintel or beam
+
+8" deep and indicate portions which are in compression and which in tension.
+
+10 4. Draw a section full size of a rolled iron girder 12" deep. Show connection of 9" wrought iron beam, both the bottom flanges being level.
+
+10 5. Draw a section to 1" scale of a one and one half brick wall carried on 1 beam.
+
+12 6. Indicate by a sketch full size such a method of anchoring a I0"x12" wood beam to an 18" brick wall, that the wall will not he pulled over should the beam drop out by burning or otherwise.
+
+10 7. Draw a section to scale of cast iron columns of H & X pattern and name the parts, with comments.
+
+10 8. Draw section full size of connection of a 9" diameter cast iron column to cap and base plates and name the parts, with comments.
+
+10 9. Draw sections full size of 8" diameter, rectangular and octagon columns built up from rolled iron plates or bars.
+
+15 10. Draw to a scale of 4 ft. to the inch an iron roof truss of 1/4 pitch 25 ft. clear span between brick walls. Indicate members in compression and tension.
+
+12 11. Draw to a scale of 4 ft. to the inch a trussed breastsummer formed with 4 pieces of 3xl2 joisting, having a clear span of 15 ft. and a space of 2 ft. from top of beam to underside of window sills above.
+
+12 12. What is understood by the terms washer, nut, upset ends to tension rods, torsion, core, cold shot. Draw or describe.
+
+
+
+
+
+History of Architecture.
+
+FIRST INTERMEDIATE.
+
+THURSDAY, APRIL 7TH.
+
+NOTE:	The Candidate is expected to answer three of/he following questions. Drawings are to be neat and to a scale of not less than 1/2 an inch to 2 foot but they are not required to be finished. The scale used must be mentioned.
+
+1.	Sketch, in outline, the Orders of Classic Architecture ?
+
+2.	In what country was the Arch first used as a feature in Architecture?
+
+3.	Name the various styles of Architecture since the introduction of the Arch down to the present day.
+
+4.	Describe and illustrate by sketches the leading features of each of these styles.
+
+5.	Give an approximate date for each of these styles.
+
+SECOND INTERMEDIATE.
+
+THURSDAY, APRIL 7TH.
+
+NOTE:	Drawings are to be in outline only, neat and well arranged and are not required to be finished. The scale should be not less than 1/2 an inch to the foot. The scale used must be mentioned.
+
+i.	Draw the Grecian Orders.
+
+2.	Draw the Roman Order.
+
+3.	What do you understand by the term Romanesque Architecture.
+
+4.	Illustrate by drawings the characteristics of Norman, Early English, Decorated and Perpendicular styles of Architecture.
+
+FINAL.
+
+THURSDAY, APRIL 7TH.
+
+NOTE:	The Candidate is expected to answer questions Nos. 4, 8, 9, JO, 14. Additional marks will be given for additional answers. Drawings are to be in outline only and are not required to be finished. The scale should be not less than 1/2 an inch to 2 foot and must be mentioned where used. It is to be borne in mind that it is not the drawing so much as what the drawing indicates of the Candidate's knowledge, that is required. But neatness of drawing and good arrangement will be taken into consideration.
+
+
+
+ANCIENT ARCHITECTURE.
+
+1.	What country may he called the birthplace of Architecture.
+
+2.	Through what countries is the history of Architecture to be traced prior to the rise of the Greeks as a nation.
+
+3.	Give an outline of the history of Architecture in these countries.
+
+NOTE:	The Candidate is expected to answer one of the above questions.
+
+GRECIAN AND BOMAN.
+
+4.	Name and draw in outline only the Orders of Greek Architecture and give an approximate date for each.
+
+ Draw in outline only the plan and front elevation of a Greek Temple in any order.
+
+6.	Explain illustrating by sketches the development of the Ionic Capital.
+
+7.	Mention one Greek Temple in each Order.
+
+8.	Draw the Roman Order.
+
+ROMANESQUE.
+
+9.	Sketch the leading characteristics of Romanesque Architecture.
+
+GOTHIC.
+
+10.	Sketch a portion of a nave in Norman Early English Decorated and Perpendicular giving the date of each style.
+
+11.	What is the practical use of the flying buttress and of the pinnacles?
+
+12.	What is "Flamboyant" Architecture?
+
+13.	What do you understand by Renaissance Architecture?
+
+14.	Describe the main characteristics of the style you have chosen illustrating them by sketches in outline. Give a portion of the plan of a building in this style, sufficient to show the characteristics ; give a section of the roof shewing the form of vaulting, shew the form of the windows, arcading and any other feature specially illustrative to the style.
+
+
+
+
+
+Mouldings, Features & Ornaments.
+
+FINAL.
+
+APRIL 7TH.
+
+<person>S. H. TOWNSEND</person>, Examiner.
+
+NOTE:	150 marks will be considered a full paper
+
+Values.
+
+15 1. Show by a diagram how you would arrive at the entasis of a Doric Column.
+
+20 2. Sketch a Triglyph, and show in what way the Greek
+
+		and Roman examples differ.
+
+	25	 3. Draw to half inch scale a Greek Conic Capital, and
+
+		sketch some of the ornament to a larger scale.
+
+	15	 4. Sketch a "trussed rafter" roof.
+
+	15	  5. What are Cusps? during what period were they first
+
+		introduced. Sketch two examples, one of early and one of
+
+		late date, and point out the main points of difference between
+
+		them.
+
+30 6. What are the general characteristics of the mouldings of the period you have sketched, give examples showing how they differ from the periods immediately preceding and following.
+
+20 7. Sketch to a scale of 3( of an inch to the foot, one of the buttresses against the side wall of an Early English Church, to be 21 in. wide on face, to project 36 in. at the base, and to have three weatherings. Height from the ground to the underside of the eaves cornice twenty feet.
+
+	10	  8. What do you understand by plate-tracery? In what
+
+		styles was it used. Give examples.
+
+	15	 9. Sketch some foliated ornament in the style you have
+
+		selected.
+
+	25	  10. Sketch two examples of stringcourses in the Norman,
+
+		Early English, Decorated and Perpendicular styles. One ex
+

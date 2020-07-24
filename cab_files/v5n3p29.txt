@@ -1,0 +1,126 @@
+<doctype type="text">March, 1892	CANADIAN ARCHITECT AND BUILDER.	29
+
+
+
+Show section of wro't iron girders and connections of cross beams; proper method of anchoring beams to walls.
+
+Show simple composite and iron roof and other trusses, with details of connections.
+
+
+
+"structural IRON WORK.'
+
+A Hitch girder is composed of two or more sticks of timber with a wrot iron plate inserted between the wood and bolted.
+
+This form is now practically obsolete as the rolled iron or steel beams cost little if any more. Cast iron girders are also practically obsolete, being limited to very short spans in the form of lintels over door or window openings, and are unreliable owing to the possibility of hidden defects in castings, resulting in collapse in case of a sudden shock, or in case of fire, when they will crack on the first application of a stream
+
+of water. They should never therefore he trusted without a relieving arch above.
+
+The sectional form of a cast iron girder should be different from that of
+
+one of rolled iron. The lower or tensional flange should he 4 to 6 times the
+
+area of the upper or compressional, as cast iron crushes with an average weight of 45 tons per square inch, and fails in tension with a pull of from 7 to 8 tons per square inch. Mitchell gives the depth of from 1 10th to 1-15th of the length, and the compressional flange 1-30th to 1-40th of the length. Wro't iron girders are much inure reliable than cast, although they will yield by bending under a high temperature, such as is reached in a burning building. The difference in strength between compression and tension in wrot iron is so small that little or no attention need be paid as to the comparative dimensions of the upper and lower flanges, except in very heavy work. Wro't iron crushes with an average weight of 17 tons per square inch, and fails under a tension of 22 tons.
+
+When one girder is not sufficient to carry the weight required, two of the required stiffness are placed side by side, and their relative positions retamed by separators, which may
+
+he of cast iron with holes for the bolts to pass through, or they may he of short pieces of wro't iron pipe cut to the required length through which the bolts are passed. When girders over 1 2" to I 5" deep are necessary, they are usually built up with rolled iron plates with angle iron connections or stiffeners. In the construction of columns, cast iron is the most largely used material, although rolled iron is being used more freely, especially in
+
+the construction of tall structures requiring the largest proportion of strength in comparison with space occupied. In these structures it is absolutely necessary that the material should be flawless and capable of resisting torsion and other strains which would snap cast iron and bring the structure to the ground. Columns of wro't iron will not resist heat as long as cast iron and consequently must he protected from the effects of fire when they have to carry important weights. The forms of wro't columns are numerous, the Z bar being the basis of those most used. Cast iron is so subject to flaws, often times hidden,
+
+that a large excess of material has to be provided in order to guard against failure.
+
+A column which may appear perfect on the surface may be little stronger than cardboard. One side may be 1 1/2" thick and the other only 1/8th, or what may appear to be only a slight ridge or depression may be a serious defect, called "cold shot" leaving the column practically open on one side.
+
+No column may be pronounced safe unless it is drilled in several places in order to test the evenness of the thickness of the metal. Cast iron columns are of various forms, circular, however, being the strongest in proportion to the weight of metal used. Whenever possible, the webs or flanges should b e reinforced with brackets or stiffeners at frequent intervals, and there should be no abrupt internal
+
+angles or transition in form. Castings should also vary in thickness very gradually. Cast iron should not bear upon cast iron when carrying any important weight without the hearings
+
+being turned or faced in order to remove any lumps or inequalities from their surface to give them an even bearing. Plates or caps should have a raised rim so that when the bearing is turned, the unfaced surfaces will still he removed from contact. Iron roof trusses are now composed entirely of wro't iron, except the foot, which is usually of cast iron. The following forms are outlines of typical trusses.
+
+The joints are made with flat plates rivetted to the webs of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+members in compression and drilled for pills receiving ends of tension rods.
+
+Trussed beams in ordinary practice are generally composite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in structure, the ironwork being confined to cast iron shoes and wrot iron tension rods and the necessary bolts.
+
+
+
+
+
+<article title="Personal" author="">PERSONAL.
+
+Messrs. <firm>Tripp & Wills</firm>, architects, have opened an office at New West Minster, B. C.
+
+Mr. <person>O. A. Graydon</person>, city engineer of London, Ont., has been elected a member of the Canadian Society of Civil Engineers.
+
+Messrs. <person>R. C. J. Dunn </person>and <person>J. C. T. McKean</person>, architects, St. John, NB., have recently formed a partnership tinder the name of <firm>Dunn & McKean</firm>.
+
+Mr. <person>Joseph Hobson</person>, chief engineer of the southern division of the T. R., has been appointed a member of the council of the <assoc>Canadian Society of Civil Engineers</assoc>.
+
+Mr. <person>John Miller</person>. of the <firm>Pease Furnace Company</firm>, Toronto, formerly of London, has accepted a position with a large furnace firm in Chicago, and leaves for that city shortly.
+
+The name of Mr. <person>Geo. Gouinlock</person>, of Toronto, was inadvertently omitted front the list published in our last issue of architects present at the annual convention of the 0. A. A.
+
+Mr. <person>M. B. Aylesworth</person>, Architect, Toronto, has just returned from a four months tour in Great Britain, the continent and the United States. He describes his trip as a most enjoyable one.
+
+Mr. <person>Gen. Theodore Beitheron</person>, the oldest portrait painter in Canada, died in Toronto recently. He was born in Vienna. in 1806. He was the oldest member of the <assoc>Ontario Society of Artists</assoc> and w as also -an associate of the Royal Canadian Academy. He painted the portraits of many eminent Canadian jurists and parliamentarians.
+
+
+
+
+
+<firm>The Standard Drain Pipe Co</firm>., of St. John, Que., are adding to their plant a 125 h. p. engine.
+

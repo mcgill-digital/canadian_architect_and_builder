@@ -1,0 +1,86 @@
+<doctype type="text">STUDENTS' DEPARTMENT.
+
+C. A. ANT) B. COMPETITION.
+
+<article title="Students Department" author="">THE Judges in the CANADIAN ARCHITECT AND BUILDER'S competition for a City Store Front have carefully examined each of the designs submitted, and have made their report thereon, as follows:
+
+"This draughtman's competition is very much in advance of the average—all the designs submitted having some points of merit—making it rather more difficult than usual to make a selection. As usual there is strong evidence of the tendency to sacrifice the study of the planning and construction in favor of a pretty elevation. In view of this, it is not surprising that we should have awarded the first position to one who has certainly a commonplace elevation, but the best all round grasp of the situation.
+
+The first three places have been awarded to: 1st,, "Romanesque ;" 2nd, "Penny ;" 3rd, "Arrius."
+
+"Romanesque" shows the proper spirit in which to enter such a competition as this. In the style chosen, whatever opinion may he in regard to a style which has for one of its main characteristics the use of small openings in large wall space, the author has handled it well, though the proportion of storeys is not good, the upper storeys being too high for the ground floor, which makes the scale of the latter detail too fine in proportion. The plan shows very little accommodation on either floor for such an expensive building, though the parts are well arranged, with the exception of elevator and entrance. The small area at back has hardly sufficient light for a main office.
+
+In "Penny's" design the general grouping of storeys, with the exception of excessive height of ground floor, is good; the proportion of voids and solids is satisfactory; the main cornice is not well studied. His arrangement of plans shows insufficient lighting of ground and upper storeys. The planning of office flat for such a large building gives too small a number and an unsatisfactory arrangement of offices. The elevator and stair arrangements on ground floor are extravagant. Tile stone piers each side of shop window are rather small to carry weight above, and no other construction is shown either for carrying front or floors of building.
+
+"Arrius," like "Romanesque," shows a good grasp of the situation. The elevation up to main cornice, with the exception of 'archevolt over shop wildow, is good. The storey over main cornice is too high in effect. The window in gable suggests a
+
+pitched roof. The value of the design of gable depends entirely on how the roof is to be constructed, which he has in no way indicated. His plan shows good construction. The light is deficient and entrance hall not very good.
+
+"Grad." lie has spent too much time on his iron construction, which could not be taken into consideration, though carefully shown. His elevation is good, but he has sacrificed the lighting of his top office to exterior effect. His office
+
+plan is not well arranged. It would have been better to arrange his office vaults over ground floor vaults. No private stair to basement is shown, lie deserves great credit for his construction all through.
+
+"Bon-ton" has one of the best elevations sent in. His office entrance is good, but a little extravagant. The position of vault spoils an otherwise well planned store. His office arrange-merits are fairly good.
+
+"Wreath" has a good plan, though bad entrance to office
+
+—2 ft., 6 in.—hardly wide enough for main stairs. His elevation is too affected. Such a mass of masonry over his shop window is not good. His first floor windows are altogether too small
+
+"Ereetheus" has placed himself out of the competition by his style of rendering, which does not conform to conditions. He shows no plan or construction.
+
+"Bluenose "—Plan too small, though not bad. Elevation not badly grouped; rather commonplace.
+
+"Boreas "—Store too small; vault badly placed; side entrance too wide; shop front too small; office plan too much passage; rooms too small. This elevation shows a feeling of English Reilaissance, though unstudied in detail and indicating lack of knowledge.
+
+"Doric" wants a little more study.
+
+EDEN SMITH.
+
+FRANK WICKSON.
+
+J.	GEMMELL.
+
+
+
+[The names of the successful competitors are: 1. "Romanesque, (Mr. Melville P. White), Toronto; 2. "Penny," (Mr. Charles P. Band), Toronto; 3. "Arrius," (Mr. Elmer H. Russell), Toronto, The successful designs will be published in the New
+
+Year number of the CANADIAN ARCHITECT AND BUILDER.—THE EDITOR.
+
+
+
+<article title="Mathematics and Construction in the Ecole des Beaux Arts" author="">MATHEMATICS	AND CONSTRUCTION IN THE ECOLE DES BEAUX ARTS.*
+
+THE reputation of the architectural department of the Ecole des Beaux-Arts of Paris is based almost wholly Oil its strength in design. The curriculum, however, necessarily includes a fairly thorough course in mathematics and construction because graduates of the school are granted diplomas permitting them to practice architecture. Nominally they are also required to have had two years of office practice, but in reality a few weeks suffice.
+
+The students are divided into two classes, known as first and second, and to pass from the second to the first fifteen "mentions" are necessary. They -are one each in mathematics, descriptive geometry, stereotomy, construction, perspective, modelling and archaeology, two in drawing and six in architecture. A bright student will accomplish this work in about two years, but it is possible for one who enters in March to do it in sixteen months. The first five mentions, which represent rather more than half the work, are the subject of this paper.
+
+The instruction is given entirely by lectures, which are an hour in length, and usually come 110 oftener than twice a week on any subject. A French lecturer includes much more in a lecture than do our professors, and the result is that the subject is less thoroughly grasped by tile pupil. It is hoped that the reader will he able to form some conception from the number of lectures in a course, and from the 'problems and drawings required during it and on examination, of how carefully the ground is covered. The examinations will serve as the best criterion of the Thoroughness attained. Merely outlines of the problems are given, and without the details the reader will be apt to conceive them as simpler than they really are.
+
+Of course, any wording offers considerable opportunity for different. interpretations of the amount of work expected, but there Is such a spirit of competition pervading the school that the fullest interpretation usually results. In forming an opinion of the course the reader must bear in mind that all subjects are taught from the standpoint of their application to the study or practice of architecture, and everything not having a direct bearing on the subject has been eliminated from the curriculum.
+
+The examinations are oral, but are supplemented by problems worked en loge, which means that the student is assigned to an alcove and required to work out a problem ill a specified time, varying usually from six to twelve hours.
+
+The course in mathematics comprises about thirty-six lectures, and includes the subjects of algebra, trigonometry, conic sections, analytical geometry and mechanics. The algebra includes equations as far as the solution by successive approximations of numerical equations of the third degree, decreasing geometrical progression, logarithms and interest.
+
+Trigonometry includes the solution of plane triangles in general, the calculation of' triangles by logarithms and the relation between a plane in space and its projection
+
+Conic sections receive much more attention than the two
+
+ceding branches. Quite a careful study is made of the curves, resulting from the intersection of the cone and cylinder by a plane, and of practical methods of drawing them and tangents to them; also of methods of measuring surfaces and volumes frequently met with in construction.
+
+Analytical geometry is only touched upon, and is taught mainly for its application to the curves of' flexure of beams. It includes the curves of the second degree except the hyperbola, equations of the line and circle referred to polar co-ordinates and in geometry in space, the equation of the line and plane and the angle between two planes.
+
+
+
+Mechanics includes only statics and simple machines. Under the first are considered parallel and concurrent forces, composition of forces, parallelogram of forces, couples, moments, general equations for equilibrium, centres of gravity and resolution of forces; under the second, the lever, balance, pulley, tackle, windlass, gears, inclined planes, the wedge, screw and various applications.
+
+The examination on this course ill mathematics and mechanics is both written and oral. The written one usually consists of two questions, one of which is almost always the solution of a triangle and the other on mechanics. The oral is about three questions chosen at random. - -
+
+
+
+As a course ill mathematics it is certainly very, incomplete;
+
+
+
+*A paper by James M. White Assistant Professor of Architecture in the University Illinois, published in the Technograph.
+

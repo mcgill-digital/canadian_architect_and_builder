@@ -1,0 +1,170 @@
+<doctype type="text">CANADIAN ARCHITECT AND BUILDER
+
+<article title=" Strength of Brick and Brick Piers " author="">
+
+Strength of Brick and Brick Piers
+
+
+
+The results of tests of brick and brick piers, which I have the honor to present, are selected from those which have been made in the testing laboratory at the Watertown Arsenal.
+
+In this laboratory various kinds of constructive materials  re tested, the results of which are published annually by the Ordnance Department, U. S. Army, in reports entitled ''Tests of Metals and Other Materials for Industrial Purposes,'' Congressional documents for public distribution. Twenty-five volumes have thus far been published.
+
+From these reports and from current tests, which will appear in subsequent volumes, certain results have been brought together, results which are thought to be representative of their respective kinds of material, as qualified by the explanatory remarks relating to them.
+
+Bricks are possessed of those physical properties which are common to other materials of construction. That is, they have strength to sustain loads, elastic properties whereby their dimensions are slightly changed during the period of loading, springing back to their' original shapes, or nearly so, when the loads are removed, they expand and contract with
+
+
+
+RATE OF Absorption
+
+<article title=" RATE OF Absorption " author="">
+
+BRICK FROM DIFFERENT PARTS OF KLIN
+
+which has a value a little above .0000060.
+
+In making these determinations, the bricks were heated in water baths, basing the value of the co-efficient upon the contractions displayed in passing from the bath of boiling water to one at about freezing temperature. It was necessary to use the measurements taken on falling temperatures, to eliminate the effect of the swelling of the bricks due to absorption of water.
+
+The bricks usually swelled and were longer on the gauged lengths when in water at 33 degrees Fahr. than originally, W hen dry and in the air at 68 degrees. moreover, after having been through the hot-water bath and returned to the cold one, their lengths were found still further increased.
+
+When a brick saturated with water is frozen, it expands, due to the action of the water within. The amount of such expansion, in going from 33 degrees Fahr. down to, say, 25 degrees, measured on a length of six inches, has been found to range from a few ten-thousandths of an inch to above oneSTRENCTH or DRICK
+
+FROM DIFFERNT PARTS OF HILM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	MUD BRICH. FULL LINES	DRY PRESSED. DOTTED LINES
+
+
+
+FIG. I.
+
+
+
+changes of temperature, and it appears that their volumes are slightly affected when saturated with water, swelling minutely but perceptibly when wet.
+
+Properties inherent in individual bricks are reproduced in piers constructed therefrom, modified, however, by the properties of the mortar in which the bricks are laid, and mortars vary according to their composition and age. In general, the properties of constructive materials are found to present many variable elements, some of which are under control, and some are not.
+
+Passing at once to the subject of individual brick, values for the co-efficient of expansion by heat have been observed
+
+
+
+BRICK from DIFFERENT PARTS or KILN
+
+STRESS—STRAIN CURVES
+
+	MUD RICK FULL LINES	DRY P SSID.DOTTID LINES
+
+
+
+
+
+FIG. 2.
+
+
+
+
+
+over a range from .0000020 to .0000074 per unit of length per degree Fahrenheit. An ordinary value would be in the vicinity of 30 to 40 ten-millionths, that is, somewhat less than steel,
+
+*Paper presented at the Twenty-first Annual Convention of the National Brick Manufacturers Association, at St. Louis, Mo., February 7, 1907 by James E. Howard.
+
+	MUD BRICK, FULL LINES	—	DRY PRESSED, OPEN LINES
+
+
+
+
+
+FIG. 3.
+
+
+
+half a hundredth of an inch. Not infrequently, freezing a brick saturated with water is attended with a permanent increase in its length.
+
+The elastic properties of brick have been observed, measuring the compressibility of the material as loads are applied, and determining the permanent sets when such have been acquired. Light-hard and salmon brick are most compressible
+
+-—hard-burnt and vitrified brick are least compressible.
+
+The module of elasticity, deducting the permanent sets in computing these values, range from less than 1,000,000 to a maximum of 10,000,000 pounds per square Permanent
+
+
+
+VITRIFIED BRICK — ST.LOUIS.MO.
+
+
+
+
+
+
+
+
+
+CONP.STRENGTH 38,446 LBS,PER SQ. IN.
+
+
+
+MoD.or E. 8.510.000
+
+	HEIGHT PER CU.FT.	145.4	LBS.
+
+
+
+ABSORPTION	BY WEIGHT .21 PER CENT BY VOLUME .5 PER CENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMPRESS1ON — PER CENT
+
+
+
+FIG. 4.
+
+
+
+sets, when they occur, are usually of small magnitude. From this it follows that the curves of compressibility are nearly straight lines; that is, in individual cases the amount of compression of a brick is nearly proportional to the load which is placed upon it,
+

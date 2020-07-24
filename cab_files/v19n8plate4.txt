@@ -1,0 +1,3 @@
+<doctype type="plate">House For <person>J. C. Gordon</person>, Esq., Winnipeg.
+
+Messrs. <person>Darling, Pearson and Over</person>, Architects, Winnipeg.

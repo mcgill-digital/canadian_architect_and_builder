@@ -1,0 +1,68 @@
+<doctype type="text">November, 1892	CANADIAN ARCHITECT AND BUILDER	113
+
+
+
+splendid monuments of the past which remain to us. Foremost amongst these must be placed the grand Parathenic procession of the frieze of the Parthenons, much of which under the name of the "Elgin" marbles can be studied in the British Museum. Then comes the <building>Giotto Tower at Florence</building>, so ably interpreted to us by Ruskin in his Mornings in Florence." There are 27 panels in sculptured stone round the base, forming a unique series, beginning at the Creation of Adam and going on to represent the exact sciences and the arts, all admirably conceived and worked out, and would well repay hours of study. Just across the way from the tower, a few steps brings us to the famous gates of the <building>Baptistry by Ghiberti Florence</building>, that Michael Angelo said were fit to be the gates of paradise. The whole doors are divided up into panels, which are covered with bas-reliefs of Bible subjects, from the creation to the time of Solomon, In the <building>Cathedral of Orvietto Florence</building>, the portals are also covered with bas-reliefs of Scripture Subjects, In the Doge's palace at Venice, the well-known "Judgment of Solomon" and the other sculptures will readily ocurr to all. Notre Dame at Paris and the Saint Chapelle have their portals rich with subject sculpture. But it is at Amiens Cathedral that we will find the most complete example of suitable ornament, magnificent in its conception and splendid in its execution. So complete is it that Ruskin has called these western portals the Bible of Amiens The workmen got three sous a day for carving these immortal sculptures. We give some of our workmen $3 a day for squaring the stone. Imagine our churches glorified with such work What a delight to examine and study them!
+
+In modern work we have also many interesting examples of appropriate sculpture. In the Albert Memorial at South Kensington, London, you will remember that the base or podium of the monument is surrounded with sculptured figures in allo-relievo of the great masters of all ages, in art, literature, science and music. forming a charmingly interesting procession of the genius of the centuries, and at the corners are beautiful colossal groups symbolical of the four quarters of the globe, In the <building>Natural History Museum at Kensington</building> there are rows of sculptures of extinct animals and up the moulding of the arches monkeys are climbing in a very spirited manner and to come down to buildings for more common-place uses, I noticed a baker and confectioner's place in Westminster with some excellent panels of terra cotta work representing the different processes through which corn passes before it becomes bread. Why should each building erected for a special use or manufacture not have some expression of its purpose in carved or sculptured form? Our streets would become a museum of art to which future generations would come and find much pleasure and profit in. As we have received noble heritages from our ancestors, so future generations will justly expect a noble heritage from us of good, beautiful and true architecture in its complete test form, making use of the sister arts, painting and sculpture, to clothe great clerical truths in immortal shape.
+
+The limit of time at my disposal will not allow of my going more deeply into the subject; and I can only hope that these few notes may lead to useful discussion, and awaken thought and attention to this phase of our beloved art—the advancement of which is so dear to all of us.
+
+
+
+<article title="Personals" author="">PERSONALS.
+
+At the recent opening of the <building>Victoria College building in Toronto</building>, a suitable tribute was paid to the memory of the designer. the late Mr. <person>W. G. Storm</person>.
+
+Particulars have arrived from Paris showing that the death of Paul Peel, the artist was due to hemorrhage of the lungs, and that he was ill only eight days.
+
+Mr. <person>W. A. Langton</person>, Registrar of the <assoc>Ontario Association of Architects</assoc>, has removed his office from the <building>Merchants Bank Building </building>to the <building>Canada Life Building </building>King street west, Toronto.
+
+We are pleased to hear that Mr<person>. W. B. Cherry</person>, manager of the <firm>Adamant Mfng. Co</firm>., Toronto, who has been incapacitated for some time past by a severe attack of rheumatism, is rapidly approaching convalescence.
+
+Mr. <person>Wm. MacClennan</person>, an architect by profession, who attained a world-wide reputation as a Scottish dancer, died under a surgical operation in Montreal on Oct. 30th. He had resided in Montreal for three years and was held in much esteem.
+
+Mr. <person>A. L. Husbands </person>has opened an office for the practice of architecture and civil engineering, at Cookshire, Que. Mr. Husbands has been appointed engineer of the proposed new water supply and sewerage systems of that town. He will be pleased to receive catalogues, etc., from supply firms.
+
+The firm of <firm>Knox & Elliot</firm>, architects, Toronto, has been succeeded by that of <firm>Siddall & Baker</firm>, composed of Mr. <person>J. Wilson Siddall </person>and Mr. <person>Frank Baker</person>. The firm has removed to new offices in the <building>Janes Buildings</building>, corner of Yonge and King streets. Mr. Baker is the first Canadian student of architecture to pass the examination of the Royal Institute of British Architects.
+
+
+
+This is a good rule for preparing an advertisement Write it out, no matter at what length, putting in everything worth saying ; next, examine it critically, with the purpose of ascertaining how many words can be stricken out without injuring the sense. Nothing need be said for ornament. Write plain and honest facts, claim nothing but what is strictly true, and be sure to claim all that is true. Consult taste rather than space in
+
+the use of display.—Printers' Ink.
+
+<article title=" THE	PLENUM SYSTEM OF VENTILATION AS APPLIED TO THE NEW SURGICAL BUILDINGS OF THE
+
+MONTREAL GENERAL HOSPITAL." author="Hutchison, A.C.">THE	PLENUM SYSTEM OF VENTILATION AS APPLIED TO THE NEW SURGICAL BUILDINGS OF THE
+
+<building>MONTREAL GENERAL HOSPITAL</building>.*
+
+By A. C. HUTCHISON.
+
+
+
+The necessity of efficient ventilation in buildings where large
+
+ numbers of persons are congregated together will be readily admitted, but in no class of buildings is it so essential as in hospitals, where though the occupants are few in number and the air space allowed to each person is far in excess of
+
+ what can he allowed in a hall, school, church or theatre which are only occupied for a few hours at a time, there is on the other hand a constant occupation of the wards in an hospital and the necessity for a larger supply of fresh air to a person in sickness than to one in
+
+
+
+The requirements of the human body are such that when in a state of health a constant supply of fresh air is needful to maintain
+
+ it in that condition, and that when diseased and weakened by sickness the necessity for an abundant supply of pure air is much increased and in many cases absolutely necessary as a means of restoration to health.
+
+Ventilation may be briefly stated as the process by which the air in closed and inhabited rooms is maintained as nearly as possible at the same standard of purity as the air surrounding the room or building, and only' the processes by which this is most successfully accomplished and without causing draughts may be considered efficient.
+
+So much has been said and written on the subject of ventilation, that it is needless for me to describe the composition of the air we breathe, and how the proportions of the gases which compose it are changed in the process of breathing and become impure. Of the various impurities which are found in the air of inhabited rooms, carbonic acid is the most common, and when it is present in the air in a proportion exceeding ten parts in ten thousand we are informed by sanitarians that the air is unfit to dwell or sleep in; the object, therefore, of any process of ventilation, is to introduce such a volume of fresh air into inhabited rooms as will keep the percentage of this gas at the minimum. Authorities on sanitation claim that to preserve the lowest standard of purity one thousand cubic feet per hour, for persons in health is required, while in the case of sick persons the supply should be from two thousand to four thousand cubic feet per hour. In countries of milder and more uniform temperature than we experience, the supply of such large quantities of fresh air to inhabited rooms is not so difficult a problem as it is with us where we have a range of from one hundred and ten, to one hundred and twenty degrees in temperature between the extreme cold of Winter and the heat of Summer, and where for nearly seven months in the year our buildings have to be artificially heated. Where large volumes of air have to be introduced into our buildings during the winter season, the difficulty is much increased by the means which we take to exclude the cold (and at the same time fresh air) by doubling our doors and windows and carefully closing every crevice by which fresh cold air might find entrance. Being thus compelled by the rigor of our winter temperature to prevent the flow of fresh air into our rooms by natural channels, it follows that if a large supply is to be introduced it must be in such a manner that it will not cause discomfort to the occupants.
+
+The problem which presents itself when we are called upon to provide efficient ventilation for any building in the winter season is, how can a large supply of air taken from the outside of the building, at a temperature from freezing down to 20 or 25 below zero be introduced into a room that is almost hermetically sealed, in such a manner as not to cause discomfort by draughts or to lower the temperature of the room below 65 degrees.
+
+It is evident that in solving this problem two conditions must be complied with first, that the supply of fresh air shall be abundant, and second, that it is heated to a proper temperature. It therefore follows that ventilation and heating are so intimately connected together that we cannot consider the one without the other. The solution of these conditions has caused many methods to be devised, some simple, some complex, and all capable of being divided into two classes, which may be distinguished as Natural Ventilation and Artificial Ventilation.
+
+Under the Natural Ventilation we may class all those methods where no special appliances are used to cause movements in the air and where such movement depends solely on natural forces such as may be obtained by the
+
+*	Paper read at the Third Annual Convention of the <assoc>Province of Quebec Association of Architects</assoc>.
+

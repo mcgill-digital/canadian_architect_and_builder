@@ -1,0 +1,128 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+less, so the divisions are proportioned to meet these changed conditions.
+
+EXAMPLE.—SUPPOSE a room has 50 ft. of glass, 500 ft. exposed wall, and 5,000 ft. cubic capacity.
+
+G.	feet super. 30 ± 6 = 8	84 ft. super. radiation to give 6o degs.
+
+W.	500 ± 12 41 — inside when 30 degs. outside and C.C. 5,000 140 __ water 170 degs.
+
+
+
+Suppose the same room requires two or more changes of air per hour, then C.C. 5,000+ 200 25 ft. extra radiation for each additional change of air.
+
+A rule giving the relative pipe surface required for varying temperatures in ordinary hack buildings, taking water temperature at 170 degs., inside temperature at 6o degs. and outside temperature at 30 degs. as unity. To be used in conjunction with the preceding rule.
+
+Mr. Jones stated that in comparing the radiation given by various authorities for attaining the high temperatures required in drying-rooms the greatest possible variation in figures is found.
+
+In giving a diagram (which cannot be reproduced here) plotted out with the rise in temperature to be expected with a given area of heating surface, when the outer air is at different temperatures, the results obtained are briefly these
+
+The radiation required to give from o degs. to 45 degs. will give approximately from 10 degs. to 50 degs.
+
+	,, 20	,, 55 ,,
+
+	30	,,	6o
+
+	., 50	,,	70	,,
+
+	,, 70	,,	75	,,
+
+
+
+
+
+In other words, the radiation that will give a rise of 45 degs. from o deg. to 45 degs. will only afford 15 degs. rise from 6o degs. to 75 degs.
+
+The question now naturally arises, why the heat ratios or multipliers for horticultural buildings should not apply to ordinary brick buildings, and why should the progressive ratio in the table for brick buildings differ so materially. Three reasons might be given, which would probably account for this
+
+First.—The data or starting point differs ; the conditions are also different ; hence the ratios or calculations must be made to conform with the altered conditions.
+
+Second.—The radiation required to give 6o degs inside, when 30 degs. outside, in ordinary buildings, is approximately 15 ft. super. per 1,000 cubic feet, and for glass buildings it is about 50 to 70 ft. super. per 1,000 cubic feet, or four times the amount to obtain the same temperature.
+
+Third.—Mr. T. Box, in his excellent treatise on heat gave what appeared to Mr. Jones to be conclusive evidence that the losses from large glass surfaces are proportionately less than for small glass surfaces, or about 306 units of heat per square foot per degree per difference per hour for greenhouses, as against 504 units for ordinary windows.
+
+<article title=" BY THE WAY " author="">
+
+BY THE WAY.
+
+The Japanese method of house construction is said to be to put on the roof as soon ax necessary supports are in place, and afterwards build the lower part. Some of the modern skyscrapers are being built on this plan— the casing of the steel skeleton commencing at the top.
+
+xxx
+
+
+
+When an attempt was made to start the furnace in a church at Pelee Island, Ont., the other day, the apparatus would not work. Investigation revealed that during the summer a swarm of bees had taken up their abode in the chimney, and stored up therein so large a quantity of honey as to completely block the flue.
+
+xxx
+
+
+
+Apropos of the article in November issue of this Journal on the new Majestic Theatre, Toronto. A daily paper's report of a recent performance states that "the sensational fire scene and rescue brought down the curtain of the third act amid tremendous applause," I shall not be surprised if some day there should be a still more sensational fire scene which would not only bring down the curtain but also the building.
+
+
+
+xxx
+
+
+
+Two serious explosions of acetylene gas occurred in Western Ontario last month. In one instances a commercial building was wrecked, while the other resulted in the collapse of a church during the progress of an entertainment, and the serious injury of a number of persons, including the minister. It is quite time that the Insurance and building regulations were so amended as to compel acelylene gas generators to be installed in separate buildings at a safe distance from inhabited structures.
+
+
+
+xxx
+
+
+
+A British Architectural Journal indignantly refutes the statement of Mr. Yerkes, manager of the London twopenny tube, that English workmen cannot build tall chimneys from the inside as is done by German bricklayers. In proof of the absurdity of the statement it declares "German workmen are just as fat and heavy as our own, and require just as much scaffolding to hold them up ; while, as for agility and intrepidity, we do not suppose any workmen surpass our own scaffold fixers."
+
+
+
+PLAN FOR A GRAND STAND.
+
+<article title=" PLAN FOR A GRAND STAND " author="">
+
+Attention has been called in these columns to several serious accidents which have resulted from the failure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESIGN FOR A GRAND STAND.
+
+
+
+
+
+of heavily loaded grand stands. The proper construction of such stands should therefore be a subject of interest to architects and builders.
+
+We reproduce herewith a sketch fur a stand contributed by j. Barsley to an English publication. The uprights below ground level are proposed to be well tarred and set in concrete. The dotted lines indicate additional bearer if it is not proposed to fix the structure to the ground.
+

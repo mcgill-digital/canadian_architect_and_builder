@@ -1,0 +1,196 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	39
+
+
+
+example of four small rooms will illustrate the method of solution:
+
+Area of Absorbents.	Total
+
+Room ( Hard pine ( Glass ( Brick & Cem't ( Absorp'n
+
+	1	)	127.	)	7	)	o	)	8.37
+
+	2	(	84.8	(	6	(	30	(	5.14
+
+	3	)	12.7	)	80	)	85	)	4.64
+
+	4	(	2.1	(	0 (	124	(	3.08
+
+
+
+Coeffts. of .058 ) .024 )	.023 Absorp'n 
+
+To find the value of the constant K we may substitute in the equation (a x) i = K any of the values already given, e. g. (75 + 83 2) 3 K which gives K 474 for this particular set of experiments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In order to get at the physical significance of this constant K we will consider it in connection with a number of different sets of observations
+
+Room ( Volume V ( Absorp's=a (	K	(	K
+
+			V
+
+			99	)	8.08	)	15.4	)	.155
+
+	2	(	1480	(	34.5	(	243	(	.164
+
+	3	)	1960	)	101	)	315	)	.176
+
+	4	(	2740	(	75	(	174	(	.170
+
+ mean =		.166
+
+Here K is approximately equal to .166 V. That K should be proportional to the volume of the room may be inferred from the following considerations the absorption of thc walls, etc., (a, ) is proportional to their area that is to tile squares of the linear dimensions, and the duration of the residual sound is inversely proportional to the number of reflections of the sound, that is, it is directly proportional to the linear dimensions, and consequently K, which is proportional to the product of (a) and (t), is obviously proportional to the cubes of the linear dimensions, i.e., to the volume.
+
+It is evident that K will also depend on the initial in tensity of the sound, but the consideration of this point may well l)c omitted from this already long paper and furthermore, so long as the intensity is constant, its absolute value is not material to our results. In all these experiments the initial intensity was approximately 1,000, 1000 times that of minimum audibility.
+
+We will now give some data derived from these experiments
+
+	Substance	Coeff' t. of Absorp'n.
+
+[lard pine sheathing	(	.058
+
+Glass	(	.024
+
+Brick set in cement	(	.023
+
+Plaster on wood lath	(	.034
+
+Plaster on wire lath	(	.033
+
+Plaster on tile	(	.025
+
+Ash settees, per seat	(
+
+Bent wood chairs	(	.008
+
+Upholstered settees, per seat	(	.28
+
+Upholstered chairs (hair & leather) 	(	.30
+
+Hair cushions, per seat	(
+
+Elastic felt cushions	(	.20
+
+Oil paintings ( including frames)	(	.28
+
+House plants (per cub. metre)	(	.11
+
+Carpet rugs	(	.20
+
+Oriental rugs (heavy)	(	.29
+
+Cheese cloth	(
+
+Cretonne	(	.15
+
+Shelia curtains	(	.23
+
+Linoleum	(	.12
+
+Audience, per person	(	.44
+
+Isolated man	(	.48
+
+Isolated woman	(	.54
+
+To illustrate the practical application of the foregoing
+
+principles we will consider the result arrived at in the
+
+ construction of the Boston Symphony Hall.
+
+Absorbents	(Area in Sq. M. Coeff'ts of Ab. (Tot. Ab.
+
+Plaster on lath	(	1040	(	.034	(	35
+
+Plaster on tile	(	1830	(	.025	(	46
+
+Glass	(	22	(	.024	(	.5
+
+Wood	(	625	(	.06	(	37.5
+
+Audience	(	2570	(	.44	(1135
+
+Orchestra	(	80	(	.48	(	38
+
+	1292
+
+	Volume	18300 cub. metres.
+
+K = 18300 X .164
+
+= 30012
+
+
+
+30012 
+
+	—	—	2.32 seconds.
+
+1292
+
+
+
+The figure arrived at was decided upon from the consideration of two buildings, the old Boston Music Hall and the Leipzig Gewandhaus the former having a scating capacity of 2,391, and a reverberation of 2.14 sec., and the latter a seating' capacity of 1,517, and a reverberation of 2.3 sec.
+
+For the data used throughout this paper I am indebted to Professor Sabine, of Harvard University.
+
+
+
+DISCUSSION.
+
+
+
+Mr. Symons: Mr. President and Gentlemen, ,—In rising to propose a vote of thanks to the lecturer I should like to say that I think we are to be congratulated on having among us a gentleman who is able to bring before us so lucidly a subject of so much difficulty I think I am safe in saying that this matter has never been brought before us at any previous meeting of our Convention and I suppose one of the reasons of that is that it is a difficult matter to treat. Certainly not because it is of little value. Professor Anderson in dealing with the subject from the standpoint of absorption of the walls has done us good service, inasmuch as that is a matter that we can more readily handle than the question of form. To construct a building having the proportions and form that have been found best for acoustics is a matter of difficulty. It is rarely that we can build in the shape best suited for that purpose, but we call all of us handle more or less readily the materials of which the walls are to be constructed. I was particularly struck with the Professor's opening remarks in which lie spoke of the material covering these walls acting so effectively to absorb sound. I dare say we have all in our experience had illustrations of this fact more or less. Not very long ago I was dealing with the alteration of a room and immediately after the building was finished, while the walls were quite bare and the plastering just completed, I was dismayed at the effect of sound. The speaker had to occupy a position at tile side of tile room. The room was not very fat from the proportions here and on the side opposite to the speaker the ceiling sloped down to about half the height of the room. The echo was dreadful. I wondered what would be the effect when people were in it. A few pictures were hung, and the chairs were brought in and other small articles of furniture, but more particularly the presence of the audience seemed to cure the difficulty. There has been very little trouble since the room has been occupied. The materials that were mentioned as having such good properties of absorption can be easily employed and, as we have had placed before us SO clearly the way in which this can be done, this paper is of definite practical value to us. That the position in which these materials can be placed does not materially affect the improvement is a point the knowledge of which may save us much misdirected effort. A building that has been looked upon as perhaps one of the most perfect auditoriums in the world is that of the Mormon Temple in Salt Lake City. I have seen outlines
+

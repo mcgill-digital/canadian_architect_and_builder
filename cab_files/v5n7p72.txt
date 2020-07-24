@@ -1,0 +1,74 @@
+<doctype type="text">	72	CANADIAN	ARCHITECT AND	July, 1892
+
+
+
+of evolutionary philosophy, In the arts, as in nature, that form best fitted for the environment survives ; that which is best absolutely and always no man can say; but that which is worst can be improved by discussion and experiment ; the result is knowledge.
+
+Let us commence with estimates there were eight bidders recently on a Southern post office; A was $9,000, B was $8, 5oo, C was $8,000, D was $7,500, E was $7,000, F was $6,500, G was $6,000, and H, the successful bidder, was $5,500. These are not the exact figures, but those who are conversant with this particular contract will recognize that they are near enough for illustration. As the concerns that bid on this work are familiar with what was required I think if you will add the eight bids together and divide by eight and get the average, you will have a fair bid for the work, which would be $7,275 ; if you exclude the three highest bidders and strike an average with the five lowest this average bid should be a low bid for the work which would be $6,500; yet the successful bidder is one thousand dollars below this—an example of variety with a vengeance.
+
+
+
+Recently there was a contract given out in New York in which the bids ranged from $9,000 to $11,000. There were seven bidders. The owner of the building was a business man without preferences—except preferring to get the most for his money. There was to be furnished 6,500 feet of surface in direct radiators, two 75 horse power tubular boilers, with everything that goes into a plant of this character. In this case the lowest bidder also got the work, and the other bidders, who had spent their time advising and negotiating with the owner, got something to think about.
+
+In alluding to this subject I feel like apologizing, as this is such an old, old story, but it is one that a little discussion of may prove interesting. In regard to details—one concern makes full working drawings for all work and gives the steam-fitter a specification to work from; others have the foreman lay out work and dispense with drawings, except the use of the architects' plans, perhaps; one concern cuts all its pipe to dimensions in the shop—risers, mains and everything ; other concerns cut everything on the job, the largest as well as the smallest pipe; others again pursue a middle course, cutting all pipe above 2 1/2 inches in the shop and all below that size on the job; one concern sets its boilers with a return flue over the top (I am now speaking of the ordinary return tubular boiler); another condemns this practice; one lines the fire-box back of the bridge wall as well as in front of it with fire-brick; the majority only line in front. A & Co. have domes on all their boilers ; G & Co. never use them. X uses a straight bridge wall, and H uses a curved one. J feeds through a top feed, and K through the blow-off in the back. Then with size of main pipes (I am now speaking of an apparatus with reduced pressure and exhaust combined, say, with 5,000 feet of radiator), B starts the steam main with 4 inches and ends with 2 inches, while C starts with 6 inches and ends with 3 inches. C has a 3-inch return main, and B a 2-inch. X uses a reducing valve the full size of his pipe without a bye pass; C puts in a bye pass and uses a reducing valve half the size of his pipe, while H uses a bye pass half the size of his pipe and reducing valve full size. X uses a pump governor to control the pump returning condensation ; C uses a drip tank and lets the engineer control the pump ; X puts on a noiseless back pressure valve, and C puts on an ordinary one; one uses a separator on his steam pipe to the engine and a grease extractor on his exhaust pipe to heating system ; others leave them off; one uses a continuous main pipe dipped only at the end, while the other has a drip from every riser. Shall we run a steam riser and a return riser and an air line, and how shall we connect our radiators? Shall we run the three risers, and on every floor where we take on to a radiator connection run all around to the far end of the radiation, even on the second floor as on the top, to allow for expansion? Shall we use the single or double pipe? Shall we run an air line? Shall connections to radiators be taken above the floor or beneath it or under the ceiling? Chicago takes them above the floor, New York beneath the floor and Buffalo under the ceiling. A curious thing about Buffalo practice is the single pipe system with two valves on the radiators—the two-valve single pipe system, as it is called; this is equalled by a well known concern that puts a single valve with the two-pipe system, a double riser and only one
+
+valve on the radiator, and in Philadelphia they put a check valve on the return end of the radiator, using the double pipe.
+
+The writer's creed, as a steam-fitter, is about as follows
+
+1st. I believe the water tube boiler superior to the fire tube.
+
+2nd. I believe the sectional radiator superior to the solid base radiator
+
+3rd. I believe the single pipe system superior to the double pipe for all purposes.
+
+4th. I believe every high pressure or reduced pressure apparatus should have a pump governor and also a boiler water level regulator.
+
+5th. 1 believe in an open feed water heater.
+
+6th. I believe good steam heating is better than good hot water heating, and that there is more skill required for the design and erection for the best steam heating than there is for the best hot water heating.
+
+7th. I believe the hot blast system or, as it is sometimes called, the fan system, is the proper system for public buildings.
+
+8th. I believe every exhaust pipe should have a grease extractor and every engine pipe a separator.
+
+9th. I believe a steam dome on a tubular boiler an absurdity.
+
+10th. I believe it requires an exceedingly clever man to be the lowest bidder and make his business pay and acquire a reputation for good work.
+
+In conclusion let us hope there will be always variety enough to make the life of the themic engineer interesting.
+
+
+
+
+
+
+
+
+
+
+
+A company is being formed at Waterloo, Ont. for the purpose of constructing asphalt pavements.
+
+Messrs. <firm>Fitzgerald & Minhinnick </firm>are forming a joint stock company at Hamilton, Ont., with a capital of $50,000, to manufacture ornamental tiles for architectural purposes.
+
+The Trinidad Asphalt Company, of Toronto, limited, has been incorporated with a capital stock of $100,000. divided into one thousand shares of $100
+
+each. <person>Charles Riordaii</person>, <person>A. Scott Irving</person>, <person>John Ellis</person>, <person>M. J. Adams</person>, <person>W. M
+
+
+
+Hall </person>and <person>M. F. Brown </person>compose the company.
+
+
+
+The <firm>Laprairie Pressed Brick and Terra Cotta Company </firm>is being organized, with a capital of $150,000. The promoters are: Messrs. <person>Peter Lyall</person>, of Montreal, <person>Hugh Cameron</person>, of Toronto. <person>Archibald Dunbar Taylor</person>, of Montreal, <person>Thos. Auguste Brisson</person>, of Laprairie, <person>William Johnson</person>, of Montreal, <person>Thomas Henry Rothwell,</person> of Goderich.
+
+Mr. <person>Cranston A. Stark</person>, of Winnipeg, has recently patented an artificial stone paving tile or block, composed of Portand cement and sand, made plastic with water, and comprising two layers, one layer consisting of equal parts of cement and sand, and the other layer two parts or more of sand to one part of cement, both layers united by pressure in a plastic state in a mould forming the shape of the tile.
+
+Application has been made for letters of incorporation for the <firm>Kramer Irwin-Roach Asphalt and Cement Paving Company (limited)</firm>, of Hamilton, with a capital stock of $10,000. The proposed incorporators are: <person>Herman Kramer</person>, Buffalo, and <person>Thomas Irwin</person>, <person>John T. Irwin</person>, <person>W. J. Kingdon </person>and <person>J. F. Monck</person>, of Hamilton. The object of the company is to construct pavements of German asphalt, and it has applied for and received permission to lay down a specimen piece of roadway so that citizens may have an opportunity to judge of its merits.
+
+<person>E. B. Bullerworth</person>, Ottawa, Ont., has been granted a patent on a warm air furnace, which consists of the combination of a fire pot having angular corrugations, some of which have their edges extended to form flanges, an oblong base, containing grate, ash doors, and draft daniper, cylindrical combustion chamber, having a shell consisting of angular corrugations provided with fire door and down flue, a conical top or dome, a deflector suspended from said dome, a down flue attached to the combustion chamber having branch, with damper; a radiator attached to the down flue and partly surrounding the fire pot, branch pipe attached to said radiator and provided with check damper, and the pipe rising from the branch and connected with the branch and the enclosing casing.
+
+As far as research has been able to determine, glass was in use 2000 years before the birth of Christ, and was even then not in its infancy by any manner of means, In the Slade collection of the British museum there is a head of a lion moulded in glass, bearing the name of an Egyptian king of the 11th dynasty. This is the oldest specimen of pure glass bearing anything like a date now known to exist. The invention now known as "bleezing, the mode of varnishing pottery with a thin film of glass is believed to date back to the first Egyptian dynasty. Proof of this is found in the pottery beads, glass glazed, found in the tombs of the age above referred to. <person>Dr. Schliemand </person>found bits of glass in his excavations at Mycenae, though Homer does not mention it as a substance known in his time. The most eminent Egyptologers place the date of the first use of glass at a period too remote to be given in years.
+

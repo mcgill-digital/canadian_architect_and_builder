@@ -1,0 +1,160 @@
+
+
+<doctype type="text">STEREOTOMY.
+
+<article title="Stone-Cutting" author="Pearson, J.A.">STONE-CUTTING.
+
+
+
+<person>J. A. PEARSON</person>.
+
+
+
+FIGURE is the section of a battering curved wall. A. B. is the vertical height of the wall. Set off the batter at the base to the point C. Join A C, which is the face line, and divide it into the number of courses required. Drop the vertical lines cutting B C, at 1 2 3 4 5 6. The radius of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the different courses may now be obtained from the point O , which is the centre of the circle, It is required to work any one of the stones in the wall.
+
+The beds of the courses of a battering wall are worked at right angles to the face, their front arrises running parallel. Make a curved templet to the radius of the front arris. The length of this templet must be a little more than the longest stone in the course. Each bed joint requires a separate templet, but the same templet may be applied to the top bed of one course and the bottom bed of the course above
+
+Bring A B C D and E F G H to plane faces parallel to each other. On the face A. B. C. D. apply the templet for the top bed, scribe the templet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+marking the radiating joints I J and 0 M, sink the drafts J K and I L square with A B C D, connect L K with a draft and bring to a plane face.
+
+Work the joint M N 0 P similarly. With the bevel set to the angle of the batter of the face applied on the plane A B C D, raise the drafts I L and 0 P, run a draft to the scribed radius of the face I 0, sink cross drafts in the length of the face, and with a reverse made from the radius of the templet of the bottom bed, connect L P. Straighten the face by repeated applications of the straight-edge between L P and I 0. Work the back face of the stone J K M G square with A B C D. Work the top bed I Q 0 R square with the face I O p L, and the bottom bed L K N P square with the face I 0 P L.
+
+
+
+<article title="correspondence - Quebecr" author="">QUEBEC.
+
+(Correspondence of the CANADIAN ARCHITECT AND BUILDER.)
+
+
+
+A
+
+MONG the improvements being made to <building>the Basilica Quebec City </building>is the lowering of the boundary wall on Buade St In taking down the wall a rather ancient marble slab has been removed bearing the following inscription
+
+"In memory of the wife of <person>Thos. Ainslie</person>, Esq., collector of His Majesty's Customs of Quebec, who died March 14th, 1767, aged years.
+
+If Virtues' charms had power to save
+
+Her faithful votaries from the grave,
+
+With Beauty's every form supplied,
+
+The lovely <person>Ainslie Neer </person>had died."
+
+The slab is plain, bearing on a carved moulding, which is carried by two corbels built into the wall. It will be placed in the gable wall of an adjoining building abutting on the space enclosed by the late boundary wall. In
+
+past times this was used as the burying ground for the parish in connection with another enclosed space on the north side of church. The bodies were removed many years ago.
+
+The contract for paving with wood blocks the lately widened St. John street bas been given to Mr<person>. W. J. Peters</person>, at the rare of $1.70 per super. yard. The sidewalks will also be formed of wood blocks. The plan adopted and specified by <person>Mr. Baillairge</person>, City Engineer, is as follows: A double floor of spruce to be laid, the lower one 2" thick, the upper one
+
+upon the latter sound tamarac blocks 7" in depth to be placed, the interstices to be filled with bitumen or cement, the Road Committee being as yet undecided as to which would be the better material to use.
+
+<person>Mr. Parent </person>is making a handsome addition to the list of new buildings on this street It will be three stones in height and mansard roof. The front is of fine cut Beauport stone with Deschambault lime stone enriched trimmings. The plans prepared by <person>Mr. Peachey</person>, architect, provide for a shop on ground floor and dwelling above; cost will be about $8,000.
+
+The June number of the CANADIAN ARCHITECT AND BUILDER has the following item: The largest system of hot water heating in use says the Winnipeg Commercial is believed to be that of the McIntyre block, Winnipeg, containing 600,000 cubic feet to be heated. The system uses Plaxton boilers which supply 28,000 feet of pipe in coils." This statement is a very incorrect one, as I am quite sure there are many much more extensive systems than the one above given. The Provincial Parliament Buildings in this city have a cubical space to heat of 4,667,000 feet, the buildings aggregating in length 1,032 feet, with a width of 42 feet, and height 56 feet, four ppe furnaces with eight fires are used with the best results
+
+Mr. <person>F. X. Berlinguet</person>, architect, has been named Deputy Commissioner of Public Works for the province of Quebec, in place of <person>Simeon Le Sage</person>, Esq., retired; so say the French papers. <person>Mr. L. Parquet</person>, the great retail dry goods merchant of Quebec, having instructed Mr. <person>J. B. Bertrand</person>, architect, to prepare plans for the building of an additional store to enlarge the premises already occupied by him on St. Joseph street, that gentleman on the 17th of June awarded the contract for the front, which is to be 47 feet frontage and six stories high, to be built of Stanstead granite with 32 polished columns, etc., to Messrs. <firm>Laforce & Son</firm>, Quebec. The contract for masonry, brick and plastering, was given to Mr. <person>J. B. Jinchereau</person>, of Quebec. Shortly <person>M. Bertrand </person>will call for tenders for steam heating apparatus, dynamos, plumbing, painting and iron works. This new building of 135 feet depth, together with the two other stores, will give 64,908 superficial feet of flooring for the retail trade of Mr. Parquet. Add to this several warehouses of proportionate dimensions, and we must say that for a small city like Quebec, it speaks weil for Mr. Parquet's enterprise.
+
+
+
+
+
+DEFECTIVE CONSTRUCTION.
+
+I
+
+N a recent number of the Building News, attention was called to defects of construction that were common to most building undertakings in England. What has been said of them will apply with almost equal force here. Where concrete is specified as a footing for masonry walls, it has become a practice on the part of some of our contractors to have the concrete thrown from a height into the trenches, when it is a matter of experience that an unequal resistance is offered by this means of concrete laying, as the material is consolidated at certain points only, and the intervening lengths are simply shovelled in or levelled. The chief objection to the throwing is that the heavy ingredients are separated from the fine. The best plan is to deposit the concrete by shovels and consolidate the mixture by a sort of gentle ramming or kneading.
+
+Concrete should be composed of broken stone or gravel that will pass through, by its largest cross-section, a two or two and one-half inch ring, free from dust and dirt, and be screened if required. To be thoroughly mixed with three-sixteenths of its bulk of mortar, carefully put into place by an improved process and rammed or pressed gently to a solid mass. The stone may be furnace slag or hard brick. The stone should be spread out evenly in a layer not to exceed six inches in depth, and sprinkled so as to slightly wet the surface of all the stones. Upon it should be spread evenly the proper quantity of mortar, freshly made; the whole is then to be quickly and thoroughly mixed until every stone is coated with mortar; water must be gradually added by sprinkling, if necessary to obtain a better consistency.
+
+Concrete should not be mixed in larger quantities than is required for immediate use. Any excess that has been standing for more than two hours should be condemned. Concrete over two hours old cannot be retempered and used with any safety. Concrete layers should not exceed nine inches in depth at one deposit, while six inches in depth at one ramming is considered better practice. As soon as it is in position it should be settled into place by slight ramming, just enough to flush the mortar to the surface.
+
+When a fresh layer is to be put on one which has set or partially set, the entire surface should be previously made thoroughly wet. When in place, all wheeling, working or walking on it should be prohibited until at least twelve hours after being deposited.
+
+All dirty or dusty stone should be screened or thoroughly washed before it can be used. One of the most frequently occurring practices is to litter up the top surface of concrete footings with dust, dirt, shavings and debris of all kinds, without taking any particular pains to clear it off when a new
+

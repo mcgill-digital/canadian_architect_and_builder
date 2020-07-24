@@ -1,0 +1,60 @@
+<doctype type="text">THE CANADIAN R ARCHITECT AND
+
+
+
+<article title="Strength of Builder and Trestle Timbers" author="">STRENGTH OF BUILDER AND TRESTLE TIMBERS.
+
+YOUR committee appointed to report on "Strength of Bridge and Trestle Timbers, with special reference to Southern Yellow Pine, White Pine, Fir and Oak," desires to present herewith, as part of their report, the very valuable data, compiled by the chairman of the committee, relative to tests of the principal American bridge and trestle timbers, and the recommendations of the leading authorities on the subject of strength of timber during the last twenty-five years, embodied in the appendix to this report and tabulated for easy reference in the accompanying tables I to IV.
+
+The uncertainty of our knowledge relative to the strength of timber is clearly demonstrated after a perusal of this information, and emphasizes, better than long dissertations on the subject, the necessity for more extensive, thorough and reliable series of tests, conducted on a truly scientific basis, approximating as nearly as possible actual conditions encountered in practice
+
+
+
+The wide range of values recommended by the various recognized authorities is to be regretted, especially so when undue influence has been attributed by them in their deductions to isolated  tests of small-sized specimens, not only limited in number, but especially defective in not having noted and recorded properly the exact species of each specimen tested—its origin, condition, quality, degree of seasoning, method of testing, etc.
+
+The fact has been proved beyond dispute that small-size specimen tests give much larger average results than full-size tests, owing to the greater freedom of small selected test pieces from blemishes and imperfections, and their being, as a rule, comparatively drier and better seasoned than full-size sticks. The exact increase, as shown by tests and by statements of different authorities, is from 10 to over 100 per cent.
+
+(treat credit is due to such investigators and experimenters as Professors C. Lanza, J. B. Johnson, H. T. Bovey, C. B. Wing, and Messrs. Onward Bates, W. H. Finley, C. B. Talbot and others, for their experimental work and agitation in favor of full-sized tests. Professors G. Lanza, R. H. Thurston and Win. H. Burr have contributed valuable treatises on the subject of strength of timber. The extensive series of small and full size U. S. Government tests, conducted in 1880 to 1882 at the Waterton  Arsenal under Col. T. T. S. Laidley, and more recently the very elaborate and thorough timber tests being conducted by the U. S. Forestry Division under Dr. 13. E. Fernow, Chief, and Prof. J. B. Johnson of Washington University ,St. Louis, afford us to-day, in connection with the work of the above-mentioned experimenters, our most reliable data from a Dractlcal standpoint.
+
+The test data at hand and the summary criticisms of leading authorities seem to indicate the general correctness of the following conclusions
+
+1.	Of all structural materials used for bridges and trestles, timber is the most variable as to the properties and strength of different pieces classed as belonging to the same species, hence impossible to establish close and reliable limits of strength for each species.
+
+2.	The various names applied to one and the same species in different parts of the country lead to great confusion in classifying or applying results of tests.
+
+3.	Variations in strength are generally directly proportional to the density or weight of timber.
+
+4.	As a rule, a reduction of moisture is accompanied by an increase in strength; in other words, seasoned lumber is stronger than green lumber.
+
+5.	Structures should be, in general, designed for the strength of green or moderately seasoned lumber, of average quality, and not for a high grade of well seasoned material.
+
+6.	Age or use do not destroy the strength of timber, unless decay or season-checking takes place.
+
+7.	Timber, unlike materials of a more homogeneous nature, as iron and steel, has no well defined limit of elasticity. As a rule it can be strained very near to the breaking point without serious injury, which accounts for the continuous use of many timber structures with the material strained far beyond the usually accepted safe limits. On the other hand, sudden and frequently inexplicable failures of individual sticks at very own limits are liable to occur.
+
+8.	Knots, even when sound and tight, are (me of the most objectionable features of timber, both fir beams and struts. The full-size tests of every experimenter have demonstrated, not only that beams break at knots, but that invariably timber struts will fail at a knot or owing to the proximity of a knot, by reducing the effective area of the stick and Causing curly and cross-grained fibers, thus exploding the old practical view that sound and tight knots are not detrimental to timber in compression.
+
+9.	Excepting in top logs of a tree or very small and young timber, the heart-wood is, as a rule, not as strong as the material farther away from the heart. This becomes more generally apparent, in practice, in large sticks with considerable heart-wood cut from old trees in which the heart has begun to decay or been wind-shaken. Beams cut from such material frequently season-check along middle of beam and fail by longitudinal shearing.
+
+10.	Top logs are not as strong as butt logs, provided the latter have sound timber.
+
+11.	The results of compression tests are more uniform and vary less for one species of timber than any other kind of test hence, if only one kind of test can be made, it would seem that a compressive test will furnish the most reliable comparative results.
+
+12.	Long timber columns generally fail by lateral deflection or "buckling" when the length exceeds the least cross-sectional dimension of the stick by 20, in other words, the column is longer than 20 diameters. In practice the unit stress for all columns over 15 diameters should be reduced in accordance with the various rules and formulae established for long columns.
+
+13.	Uneven end-bearings any eccenuic loading of columns produce more serious disturbances than usually assumed.
+
+14.	The tests of full-size long compound columns, composed of several sticks bolted and fastened together at intervals, show essentially the same ultimate unit resistance for the compound column as each component stick would have if considered as a column by itself.
+
+15.	More attention should ho given in practice to the proper proportioning of bearing areas; in other words, the compressive bearing resistance of timber with and across grain, especially the latter, owning to the tendency of an excessive crushing stress across grain to indent the timber, thereby destroying the fiber and increasing the liability to speedy decay especially when exposed to the weather and the continual working produced by moving loads.
+
+The aim of your committee has been to examine the conflicting test data at hand, attributing the proper degree of importance  to the various results and recommendations, and then to establish a set of units that can be accepted as fair average values, as far as known to-day, for the ordinary quality of each species of timber, and corresponding to the usual conditions and sizes of timbers encountered in practice. The difficulties of executing such a task successfully cannot be overrated, owing to the meagerness and frequently the indefiniteness of the available  test data, and especially the great range of physical properties in different sticks of the same general species, not only due to the locality where it is grown, but also to the condition of the timber as regards the percentage of moisture, degree of seasoning, physical characteristics, grain, texture, proportion of hard and soft fibers, presence of knots, etc., all of which affect the question of strength.
+
+Your committee recommends, upon the basis of the test data at hand at the present time, the average units for the ultimate breaking stresses of the principal timbers used in bridge and trestle constructions shown in the accompanying table.
+
+In addition to the units given in the table, attention should be called to the latest formulae for long timber columns, mentioned more particularly in the appendix to this report, which formulae are based upon the results of the more recent full-size timber column tests, and hence should be considered more valuable than the older formulae derived from a limited number of small-size tests. These new formulae are Professor Burr's, App. I.; Professor Ely's, App. J.; Professor Stanwood's, App. K.; and A. L. Johnson's, App. V., while C. Shaler Smith's formulae will be better understood after examining the explanatory notes contained in App. L.
+
+Attention should also be called to the necessity of examining the resistance of a beam to longitudinal shearing along the neutral axis, as beams under transverse loading frequently fail by longitudinal shearing in place of transverse rupture.
+
+In addition to the ultimate breaking unit stress the designer of a timber structure has to establish the safe allowable unit stress for the species of timber to be used. This will vary for each particular class of structures and individual conditions. The selection of the proper "factor-of-safety" is largely a questions
+

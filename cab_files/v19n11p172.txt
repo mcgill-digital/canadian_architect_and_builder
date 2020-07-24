@@ -1,0 +1,90 @@
+<doctype type="text">72	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+chiefly exist from the fact that lightly-charred wood becomes almost pyrophoric in its character, and can readily be set on lire at temperatures considerably below those needed to start the combustion of either uncharred wood or charcoal. The changes taking place in wood under the influence of long-continued heating are of a complex and interesting character.
+
+Wood consists mainly of a definite chemical compound called cellulose, a body formed from carbon, hydrogen, and oxygen, and besides cellulose we find wood contains the constituents of the sap and a varying quantity of water. The amount of water present depends upon the season of the year and the portion of the tree from which it is taken, while the percentage is, as a rule, greater in soft than in hard woods, the following table giving and idea of the quantity present in Various kinds of wood
+
+	Beach	.. i8.6 percent.
+
+	Oak	34.7
+
+	Common Fir	32.7
+
+	Alder	41.6
+
+	Elm	44.5
+
+	Poplar	50.6
+
+
+
+When wood is placed under cover and exposed to the air for about a year the moisture is reduced to about 20 per cent., and the remaining moisture can he got rid of by subjecting the wood to the action of heat, the last portions requiring a temperature sufficient to char the wood. If, however, the wood be heated somewhat below this point the greater part of the moisture is removed, but on again allowing the wood to cool to atmospheric ternperatures and exposing it to the air, the hygroscopic nature of the wood gradually attracts moisture until the percentage reaches about 20, at which point a sort of equilibrium is established between the moisture in the air and the wood.
+
+When wood is exposed to the long continued action of heat it undergoes progressive changes nearly akin to those which have taken place during the conversion of vegetation into coal. Up to 100" C. (2I2~F".) practically only moisture is expelled from the wood, and at a few degrees above this point not only water but volatile hydrocarbons are slowly driven out, while at 150°C. (320°F.) oxides of carbon, together with more hydrocarbons, are disengraged, and slightly above this temperature the wood commences to assume a scorched appearance, and to turn brown. At about 250°C (482°F.) wood is converted into a soft brownish form of charcoal, which is its most dangerous form, being highly pyrophoric and self-igniting at comparatively low temperatures. At 300°C. (572 F.) the carbon begins to assume the appearance of soft black charcoal, getting harder and more metallic in its properties as the temperature increases.
+
+The chemical changes which are taking place in the charcoal at these varying temperatures are strictly shown by the following table.
+
+Temperature.	Carbon. Hydrogen Oxygen. Ash.
+
+	270"C	71.0	4.60	23.00	1.40
+
+	363°C	80.1	37.1	14.55	1.64
+
+85. 8
+
+	476°C	3.13	9.47	1.60
+
+	3.11	9.11	1.53
+
+
+
+It is seen that as soon as 270 C. is reached the action consists in a gradual increase in the percentage of carbon, owing to the elimination of hydrogen and oxygen, and it is clearly due, therefore, to compounds still containing these three elements in comparatively large proportions that the pyrophoric carbon owes its dangerous character. If the contact of the wood with the heated surface be continued for a sufficiently long period of time, a temperature of a few degrees only' above the boiling-point of water is enough to produce a semi-carbonized film on the wood, which will start smouldering at a very low temperature, the heat rising from an oil lamp or gas flame some distance away being sufficient to start the smouldering combustion. Indeed, the temperature of a steam-pipe has been found sufficient to cause ignition, this being due probably to the long-continued heat generating certain hydrocarbons of low ignition point, which remain
+
+occluded in the pores of the semi-charred wood, and are there brought into close contact with the occluded oxygen.
+
+It must he remembered that, when using steam heating, although the boiling-point of water at ordinary atmospheric pressure is only 100°C. (212"F.) yet the boiling point rapidly increases with increase of pressure, as is showing by the following table
+
+	Pressure in	Boiling	Pressure in	Boiling
+
+atmospheres	point.	atmospheres	point.
+
+		"C			C.
+
+	1	100	12		190.0
+
+	1.5	112.2	14		197.2
+
+			6		203.6
+
+	3	135.1			209.4
+
+	4	145.4	20		214.7
+
+	5	153.1	25		226.3
+
+	6	160.2	30		236.2
+
+	7	166.5	35		244.8
+
+	8	171.1	40
+
+					265.9
+
+
+
+So that in lofty buildings heated either by water or steam it is quite possible to obtain temperatures which will dangerously char wood in contact with the pipes, while with air as the heating medium it is by no means uncommon to find a dull red heat in the pipes and flues near the furnace. Nor does the danger cease when care is taken that the pipes or flues used for these methods of heating are kept several inches away from any woodwork, as in inaccessible places the accumulation of dust on the pipes often gives rise to trouble.
+
+
+
+When a hot-water or steam pipe is laid alongside a wall, it will be noticed that where a flange or other projection of a pipe touches the wall there is a brown stain produced on the wall surface streaming upwards from the point of contact and becoming less the farther away it gets from the place where it starts. Experiment shows that this is due to dust settled on the pipe becoming carbonized and ascending with the hot-air current produced by the pipe ; this current comes in contact with the surface of the wall and, the hot gases rapidly diffusing through, the charred particles are filtered off, remain on the surface of the wall, and give the stain. When however, the accumulation of dust is large, the carbonized mass being in a very loose state of aggregation and made up of very minute particles, will often start glowing with a very slight increase of temperature above the ordinary temperature of the pipe.
+
+
+
+The fire-risks due to lighting are of a most varied character, even daylight itself not being free from danger, hundreds of fires having been caused by the accidental focusing of the sun's rays by means of a full water-bottle, irregularities in the window pane or other cause, which has led to the concentration of the sun's rays upon some inflammable substance.
+
+	<article title=" THE DISAPPEARANCE OF	LUMBER." author="">THE DISAPPEARANCE OF	LUMBER.
+
+At its recent session in Memphis, Tenn., the <assoc>National Hardwood Lumber Association </assoc>heard a committee report that must have been of interest to its members. The committee advised that according to the best available estimates there are now standing in the United States about 1,475,000,000,000 feet of timber, which is being depleted at the rate of 45,000,-000,000 feet every year. On this basis, forests now existent would become exhausted in 33 years ; but the cutting of timber is not the only agency at work to reduce the available supply. Forest fires, wood for pulp, paper, telegraph poles, cross-ties, piling and fuel, added to the regular cut result in the consumption of about 75,000,000,000 feet every year. A conservative estimate by the lumber experts states that there is not enough timber standing to continue commercially for more than twenty years. Long before the first quarter of the present century is reached, the chief use of lumber will be as an adjunct to concrete in building construction.—- Concrete
+

@@ -1,0 +1,7 @@
+<doctype type="plate">And  Builder.   [No. 2.
+
+Ground Floor    First Floor
+
+<building>Residence For Mr. <person>Thomas Marks</person></building>, Port Arthur, Ont.
+
+<firm>Edwards & Webster</firm>, Architects, Toronto.

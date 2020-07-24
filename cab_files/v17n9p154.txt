@@ -1,0 +1,108 @@
+<doctype type="text">154	THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+ate control is had at the switchboard for the lamps and motors in the moulding shop and the mounting shop. Sub-distribution panels are located in the shops for the separate local control of incandescent and arc lamp circuits and certain of the motor circuits, thus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 2.—EXTERIOR VIEW OF FOUNDRY, SHOWING 'SAW-TOOTH'
+
+ROOF CONSTRUCTION.
+
+
+
+
+
+affording a very flexible system with a minimum amount of wiring and maximum simplicity.
+
+The power house is located on the north bank of the River Thames 300 feet south of the mounting shop. It is built of white brick one storey high with concrete foundations and concrete floors, and is 104 feet long by 35 feet wide, with a wing 56 feet long by 44 feet wide for the storage of coal, this wing being in such position as to take advantage of the natural gradient, permitting the railroad cars to he shunted to the north end of the coal house so that the coal can be dumped directly from the cars into the coal bunkers.
+
+The boiler equipment consists of three 100 h. p. standard internal fired Scotch boilers, manufactured by Messrs. E. Leonard & Sons, London, Ont., and constructed for 160 lbs. working steam pressure. They are 15 feet 9 inches in length over all, exclusive of the smoke box. The shell of each boiler is 84 inches inFIG. 3.—INTERIOR. View OF FOUNDRY, SHOWING CUPOLA AND
+
+CHARGING PLATFORM.
+
+
+
+
+
+side diameter, made of 19/32 inch steel plate. There are 56 tubes 3½ inches outside diameter and 12 feet 6 inches long. Each boiler is .equipped with a Morrison suspension type corrugated steel furnace, 40 inches inside diameter by 12 feet 234 inches long and 7,116 inches thick, and a Jones underfeed mechanical automatically operated stoker, which with the induced
+
+draft equipment affords an available capacity of 150 h.p. from each boiler when required. When the fourth boiler, for which space is provided, is installed, the total plant capacity will be 6oo h.p.
+
+A Green fuel economizer has been installed to operate as a part of the steam plant. This economizer contains 1920 square feet of heating surface and is divided into 40 sections, each section containing four tubes 4 9/16 inches external diameter and 9 feet long. The economizer is provided with a safety valve 2 inches diameter and a blow-off valve 3 inches in diameter, and the front or face of the machine consists of 10 sectional removable covers 2 feet 5 inches wide with 2 inches of asbestos lining. Each section of the economizer was subjected to a hydrostatic test of 350 lbs. to the square inch before erection, and after the economizer was erected it was subjected to a hydrostatic test of 200 lbs. per square inch.
+
+The advantage of the economizer is apparent, in view of the fact that when the plant is operating at full load the temperature of the feed water is raised from 112 degrees Fah., at which temperature it is received from the exhaust heaters, to 260 degrees Fah., at which temperature it is delivered to the boilers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 4—EXTERIOR	XIEW OF STOVE MOUNTING Shop, SHOWING CONCRETE CONSTRUCTION.
+
+
+
+
+
+The reader will notice on looking at the illustration the absence of a tall stack or chimney. Draught for the boiler furnaces is obtained by means of forced and induced draught combined, the forced draught being supplied from a 30 inch three-quarter housing bottom horizontal discharge Buffalo Forge Company steel plate fan delivering air at 2 ounces pressure into an underground pipe leading to the underfeed stokers. This fan is driven by a 6 in. x 6 in. horizontal high speed engine supplied by the Robb Engineering Company, Amherst, N.S.
+
+The induced draft is created by a duplicate fan apparatus furnished by the Buffalo Forge Company the equipment consists of two 8 foot full housing-up blast steel plate steam exhausters, each being driven by a direct connected 4½ inch by inch single vertical double acting engine having the cylinders below the shafts. The equipment is provided with water-cooled bearings, a sheet steel smoke chamber and a Y smoke outlet connection upon which the stack rests, the stack being 47 inches in diameter and 15 feet big-h, the top of the stack being about 40 feet above ground.
+
+The smoke breeching connecting the boilers, fuel economizer, and induced draft apparatus, is provided
+

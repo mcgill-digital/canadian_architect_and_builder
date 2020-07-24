@@ -1,0 +1,136 @@
+<doctype type="text">	T	CANADIAN ARCHITECT AND	BUILDER
+
+<article title=" A TEST OF FIRE DOORS " author="Clarkson">
+
+A TEST OF FIRE DOORS.
+
+H. Clarkson, of Topeka, Kan., has been experimenting with fire doors. The following is an account of the tests made
+
+"The shutters experimental on were of small size and consisted of wood covered with tin and other light metal. Two thicknesses of mortised boards with the grain of thc wood in the two sections placed at right angles were used for the interior and were nailed tightly together. Several kinds of covering were tried. One was a single thickness of black iron, the second two thicknesses of galvanized iron, the third one thickness of tin, the fourth two thicknesses of tin, the fifth two thicknesses of tin lined with asbestos, and sixth a single thickness of tin lined with asbestos.
+
+"The outer coverings were all made air-tight and the nail heads covered. The sample shutters were put into an improvised furnace and subjected to a heat of 1,600 degrees for forty-five minutes with very good results. All of the samples came out in good shape except one, in which a layer of metal was placed between the wooden layers inside. The edges and corners of the others were in perfect form and were not warped out of shape. The wood inside, of course, was turned to perfect charcoal, but as it could get no air did not burn up.
+
+"The heat to which the samples were subjected is hotter than shutters would receive on building, for there it would only be on one side.
+
+"The samples were afterward sawed in two and it was found that the tin lined with asbestos was probably the most satisfactory of all. One great advantage, besides its not warping, in this kind of shutter is that in case of fire within, the tin and wood can he cut through with an axe. Later experiments will probably bc made with full-sized shutters."
+
+<article title=" TRANSVERSE STRENGTH OF BRICK MASONRY " author="">
+
+TRANSVERSE STRENGTH OF BRICK MASONRY.
+
+THE following abstract of a series of experiments on the transverse strength of brick masonry made by Messrs. M. A. Earl and A. 13. Loomis, of the engineering department of the University of Illinois, and published in a recent number of the "Technograph," a student's publication, is, therefore, of considerable interest.
+
+In these experiments eight beams and two piers were broken. The beams were broken as simple beams with a concentrated load at the center, and the piers were first broken as cantilever beams and afterward as simple beams. The conditions and results of the several tests were as follows
+
+Beam No.1 was built of two thicknesses of stretchers like an ordinary double wall, with the third course from the bottom headers. There was also a bond at the ends. Its depth was
+
+14.7	ins. and the distance between the supports 43.75 ins. Its age when broken was 28 days. The beam failed at the center, about as much from lack of cohesion in the mortar as from mortar separating from the brick. This statement will apply to all the beams. One brick was broken by tension. Since the weight of the beam, 350 lbs., acts as a uniform load, its effect is the same as 175 lbs. at thc center. Hence the breaking load= 1,652+ 175 = 1,827 lbs. The modulus of rupture, therefore,
+
+	6M	6x1827x43.5
+
+d x b 4x7.75 x 217.56 —70.7
+
+Pier No. 1 was pulled over as a cantilever beam. Age 28 days. Failed by mortar separating from brick. Weight of pier, 295 lbs. Force to break, 205 lbs. applied 42.5 ins. from joint of rupture. Maximum tension per sq. in.
+
+	Ml	W	205 x 42.5 x 11 1/2	  295
+
+	2I	S	2 x 1/2 x 71/2 (11 1/2)3	7 1/2 x 11 1/2	49.3
+
+
+
+Beam No. 2 consisted of pier No. 1 broken as a simple beam. Length between supports, 43 ins.; depth, 7 1/2 ins.; width, ins. Weight, 295 Lbs. Load to break: concentrated, 160 lbs.; weight of beam considered at center, 148 lbs.
+
+	6M	6 x 308 x 43
+
+	b d 2	4	Ti	(7 1/2)2=3O.7 lbs. per sq. in.
+
+
+
+In this case, and also in the pier, the unit stress is necessarily small, since there is no interlocking action of the brick as in an ordinary beam.
+
+Beam No. 3 was built essentially the same as No. 1. Age 56 days. Length 4 ft. depth, 4 3/4 in.; width 7 3/4 ins.; distance between supports, 43 ins. Weight 350 lbs. Concentrated load, 3,273 lbs. The beam did not fail, thus showing a strength of at least 117.2 lbs. per sq. in.
+
+It was then turned on the flat side and broken with a concentrated load of 1,507 lbs., or 122.4 lbs. per sq. in.
+
+Beam No. 4.- Age, 49 days depth and width consisted of the same number of courses as No. 1 ; depth, 15 in.; distance between centers, 122 ins.; width 7 3/4 ins.; weight, 1,000 lbs. Five bricks broke when the beam failed. When this beam was broken deflections were taken at the center by means of a level and rod. These are given in the following table:
+
+	Deflections, in.	Differences	Weights applied.
+
+	    000	   0.00	  0.00
+
+0.03	0.05
+
+	0.06	0.01	+ 200 lbs.
+
+	0.07	0.01	+ 400
+
+	0.11	0.04	+ 6oo
+
+	0.17	o.o6	+ 800
+
+	0.23	0.06	+ 1,000
+
+Beam broke	± 1,224
+
+At the vertical joints the mortar separated from brick; at the horizontal joints the mortar failed in cohesion. Strain, 181 lbs. per sq. in.
+
+Beam No. 5.—Depth, 15 in.; width, 7 3/4ins.; distance between supports, ins.; weight 500 lbs. age 61 days breaking load applied at center, 1,678 lbs. Strain, 91.2 lbs. per sq. inch.
+
+Beam No. 6.—Width and depth the same as No. 5; distance between supports, 55 in.; age, 62 days ; breaking load, 2,070 lbs.; weight of beam, 500 lbs. Strain, IT lbs. per sq. in.
+
+Beam No. 7.—Age, 62 days; distance between supports, 44 ins.; depth, 71/4 ins.; width, 3 1/2 ins.; center load, 378 lbs.; weight of beam, 80 lbs.; strain, I 53.8 lbs. per sq. in. The beam was not broken.
+
+Beam No. 8.—Two courses high and two courses wide depth, 4 1/2 ins.; width, 7 1/2 ins.; distance between supports, 45 ins.; weight of beam, 125 lbs.; breaking load, 200 lbs.; age, 62 days; strain, 112.7 lbs. per sq. in.
+
+Beam No. 9.— Lower section as No. 2 ; built as pier; distance
+
+between supports, 37 ins.; width, 7 1/2 ins.; depth, 11 1/2 ins.; age,
+
+62 days weight of beam, 270 lbs.; (:enter load, 970 lbs.; strain,
+
+54.3	lbs. per sq. in.
+
+Beam No. 10.—Age, 35 days distance between supports, 6 ft.; depth, 14 ins.; width, 8 ins.; center load, 1000 lbs., weight of beam, 670 lbs.; strain, 99 lbs. per sq. in.
+
+A summary of the results of the tests giving the modulus of rupture for the several beams is given in thc following table
+
+	Strength of mortar	Modulus of rupture
+
+	No of	Age.	at that age in	of beam in lbs.
+
+	beam.	days.	lbs. per sq. in.	  per sq. in.	Remarks.
+
+	3 50	117.2 to 122.4	Broken sidewise
+
+	4 49	48	181	Mortar 1 to 2 by vol.
+
+	5	61	52	91.2
+
+6 62	115.5
+
+	7 62	52	152.8
+
+	8 62	52	112,7
+
+	10	35	45	99.0
+
+	9 62	52	54.3
+
+	28	40	30 7	Mortar 1102 by wgt.
+
+	1	28	40	71.1
+
+	Pier 28	40	49 3
+
+The table shows, roughly, that the beams built as regular masonry y have a modulus of rupture of about twice the tensile strength of the mortar used. \With the best construction it may he even three times the tensile strength of the mortar, as shown by beams Nos. 4 and 7. When built as piers, with no interlocking action, the modulus of rupture is about the same as the tensile strength of the mortar used. The experiments on deflections with beam No. 4, while not enough to draw any certain conclusions from, would seem to show that brick masonry is elastic, and that tip to a certain point the deformation is proportional to the stress applied. The result of experiments in the past, while showing a certain transverse strength, have not been definite or uniform enough to furnish reliable conclusions. \While the nature of this subject does not permit of its being carried in an experimental way as far as might be desired, without considerable expense, it is suggested that much can yet be done toward finding the strength actually obtained in brick buildings. The tearing down or failure of such buildings affords an excellent opportunity for this, and it is to bc hoped that experiment and observation will be turned in this direction.
+
+
+
+
+
+FOUNDATIONS.
+
+
+
+No foundation is more ineligible for a heavy structure than one that is rocky, especially if the rocks are in small masses, or if a sufficient surface is offered of one mass, in strata which dip considerably in the former case, from the rottenness of the soil in which rocks are generally bedded an(1 which consists for the most part of their detritus; and in the latter, from the liability of stratified rock to crack and slip, against which no precaution is available. Dry gravelly soils, again, are not only loose and infirm, but are exceedingly liable to vacuities of various extent, which are hardly sufficiently provided against by piling wet gravel is generally more compact and may be better trusted both with and without piles. A deep compacted sand will be found firm if a sufficient surface of it be embraced by thc footings, which should be wider in that than most other cases. In large and deep beds of alluvial deposits the heaviest building may be laid with security, if precautions be attended to for the equal distribution of the pressure throughout. The city of New Orleans, in a delta at the mouth of the Mississippi, rests on a bed of mud, which is held together by a bonding of trunks and arms of trees, but on a broad level bed below. Here the only precaution taken in erecting a structure of the greatest magnitude is to make the trenches for thc walls wide and level, and to floor the whole of their surface with thick planks properly bonded ; on these the footings are laid, and if any settlement occurs it is of the whole edifice and no injury accrues to any part of it at any time. Clayey and chalkey soils are generally understood to form the best natural foundations in these, under ordinary circumstances, no preparation is required, though for very heavy and unequally pressing works, such as bridges, which are placed on piers made as small as they possibly can be, piling has been considered a necessary precaution. Indeed, except perhaps on an extensive horizontal bed of firm compact rock, no foundation can be considered better than that afforded by piling in a deep clay
+

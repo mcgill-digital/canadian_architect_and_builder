@@ -1,0 +1,66 @@
+<doctype type="text">	THE CANADIAN AARCHITECT	AND BUILDER	121
+
+
+
+FIG. 2.—-'' Shelf fungus on the stem of a pine. (Hartig.) a. sound wood; b, resinous "light" wood; c, partly decayed wood or punk; d, layer of living spore tubes; e, old filled up spore tubes f, fluted upper surface of the fruiting body of the fungus, which gets its food through a great number of fine threads (the myceliurn), its vegetative tissue penetrating the wood and causing its decay.
+
+pine have been unearthed in Illinois which have lain buried 6o or more feet deep for many centuries. Deposits of sound logs of oak, buried for unknown ages, have been unearthed in Bavaria ; parts of the piles of
+
+the lake dwellers, driven more than two thousand years ago, are still intact.
+
+On the radial section of a piece of pine timber, with one of the shelf-like, fungus growths, as shown in fig. 2, both bark and wood are seen to be affected. A small particle of the half-decayed wood presents pictures like that of fig. 3. Slender, branching threads are seen to attach themselves closely to the walls of the cells, and to pierce these in all directions. Thus these little threads of fungus mycelium soon form
+
+a perfect network in the wood, and as they increase in number they dissolve the walls, and convert the wood substance and cell contents into sugar-like food for their own consumption. In some
+
+cases it is the woody cell wall alone that is attacked. In other cases they confine themselves to eating up the starch found in the cells, and merely leave a stain (bluing of lumber). In all cases of decay we find the vegetative bodies, these slender threads of fungi, responsible for the mischief. These fine threads are the vegetative body of the fungus, the little shelf is its fruiting body, on which it produces myriads of little spores (the seeds of fungi). Some fungi attack only conifers, others hardwoods ; many are confined to one species of tree, and perhaps no one attacks all kinds of wood. One kind produces ''red rot," others "bluing." In one case the decayed tracts are tubular, and in the direction of the fibers the wood is "peggy." In other cases no particular shapes are discernible.
+
+It appears that warmth, preferably between 60 and 100 F., combined with abundance
+
+of moisture (but not immersion), is the most important condition favoring decay, and that the defence lies in the proper regulation or avoidance of these conditions, or else in the use of poisonous salts, which prevent the propagation of fungi.
+
+STIFFNESS.
+
+
+
+If 100 pounds placed in the middle of a stick 2 by 2 inches and 4 feet long, supported at both ends, bend or
+
+deflect " this stick one eighth of an inch (in the middle), then 200 pounds will bend it about one-fourth inch, 300 pounds three-eighths inch, the deflection varying directly as the load. Soon, however, a point is reached where an additional 100 pounds adds more than one eighth inch to the deflection— -the limit of elasticity
+
+Fig. 3.— Fungus threads in pine wood. (Hartig.) a, cell wall of the wood fibers; b. bordered pits of these fibers c, thread of mycelium of the fungus
+
+holes in the cell walls made by the fungus threads, which gradually dissolve the walls as shown at e, and thus break down the wood structure.
+
+FIG. 4.—BENDING A BFAM.
+
+has been reached. Taking another piece from the straight grained and perfectly clear plank of the same depth and width, but S feet long, the load of 100 pounds will cause it to bend one eighth inch, but will deflect it by about 1 inch. Doubling the length reduces the stiffness eightfold. Stiffness then decreases as the cube of the length.
+
+Cutting out a piece 2 by 4 and 4 feet long, placing it flatwise, so that it is double the width of the former stick and loading it with 100 pounds, we find it bending only one-sixteenth inch doubling the width doubles the stiffness.
+
+Setting the same 2 by 4 inch piece on edge, so that it is 2 inches wide and 4 inches deep, the load of 100 pounds bends it only about one sixty—fourth inch doubling the thickness increases the stiffness about eightfold.
+
+It follows that if we double the length and wish to retain the same stiffness we must also double the thickness of the piece.
+
+A piece of wood is usually stiffer with the annual rings set vertically than if the rings are placed horizontally to the load.
+
+Cross grained and knotty wood, to be sure, is not as stiff as clear lumber ; a knot on the upper side of a joist, which must resist in compression, is, however, not so detrimental as
+
+a knot on the lower side, where it is tried in tension.
+
+Every large timber which comes from the
+
+central part of the tree contains knots, and much of its wood is cut more or less obliquely across the grain, both conditions rendering such material comparatively less stiff than small clear pieces.
+
+The same stick of pine, green or wet is only about two-thirds as stiff as when dry. A heavy piece of long leaf pine is stiffer than a light piece ; heavy pine in general is stiffer than light pine, but a piece of hickory, although heavier than the pine, may not be as stiff as the piece of longleaf pine, and a good piece of larch exceeds in stiffness any oak of the same weight.
+
+Since it is desirable, and for many purposes essential, to know beforehand that a given piece with a given load will bend only a given amount, the stiffness of wood is usually stated in a uniform manner and tinder the term '' modulus (measure) of elasticity."
+
+If AB, fig. 4, is a piece of wood, and d the deflection produced by a weight or load, the elasticity of the wood, as usually stated, is found the formula
+
+	Modulus of elasticity	W F
+
+ F bd
+
+where W is the weight, I the length, b and d the breadth and depth of the stick, and D the deflection for the load \V. In the following table the woods are grouped according to their stiffness. The figures are only rough approximations which are based on the data given in Vol. IX of the Tenth Census. The first column contains the above modulus, the second shows how many pounds will produce a deflection of 1 inch in a stick 1 by 1 by 12 inches, assuming that it could endure such bending within the limits of elasticity, and the third column gives the number of pounds which will bend a stick 2 by 3 inches and 10 feet long through inch.
+
+The stick is assumed to rest on both ends if it is a
+

@@ -1,0 +1,64 @@
+<doctype type="text">July, 1893	THE CANADIAN	ARCHITECT AND	BUILDER	79
+
+
+
+strainers to exclude from such waste pipes all substances likely to obstruct them
+
+(35)—An no case shall the waste pipe from a bath, tub or other fixture be connected with a water-closet trap
+
+(36) Overflow pipes from fixtures shall in every case be connected within the inlet side of the trap, and above the water
+
+(37)—Drip or overflow pipes from the safety pan under water-closets and other fixtures, or from tanks other than those of water-closets or refrigerators, shall be made to run into some place in open sight ; and in no case shall any pipe be connected directly with the drain, waste or soil pipe
+
+(38)- --Water-closets apartments shall open to the outer air, or be ventilated by means of a window, shaft or air duct, or by vent shaft to the chimney
+
+(39)—Interior water-closets shall in no case be supplied directly from the city reservoir supply pipes
+
+(4o)—-ln tenement houses containing more than one family, there shall be one water-closet for each family and a separate cistern for each closet in other houses, however, a group of closets may be supplied from one tank ; but not water-closets on different floors
+
+(14') —The overflow pipes from water-closet cisterns shall discharge into an open sink, or the basin of the water-closet, or where its discharge will attract attention and indicate whether waste of water is occurring into the soil or waste pipe or into the drain
+
+(42)—Valves must be so fitted and adjusted as to prevent wasting of water
+
+(43) -—No privy vault or cesspool for sewerage shall be permitted in any part of the city where water closets can be connected with a public sewer in the street when no sewer exists in the street a permit for a temporary privy may be granted by the board of health ; and in such case it shall l)e water tight, of a capacity of 45 cubic feet ; the sides and bottom shall be constructed of cemented brick twelve inches in thickness and well cemented inside such vault may be constructed of cast non, the shape or form of which shall be either circular or oblong without angles, and with a concave bottom it shall be provided with a ventilation pipe at least 4 inches in diameter, extending from the pit through the roof, sufficiently high as to prevent inconvenience to occupants of neighboring houses ; the seats shall have a tight fitting cover ; it shall have an aperture opening exteriorly to allow of cleaning by pneumatic process such aperture to be 2 feet by 1/2 feet in size or else the flooring shall be air tight and shall have a tightly fitting trap door communicating with the pit the top of the vault shall he one foot above the level of the ground ; nothing shall be put into such pit, excepting human excreta privies shall be located at a distance of 20 feet (or more according as the board of health may deem necessary) from any house or street they shall be emptied when the contents reach to within eighteen inches of the top of the vault or when judged necessary by the board of health, by persons appointed by the board ; no offensive smell or gases shall be allowed to escape therefrom But in no case shall a privy be allowed within the walls of a dwelling house
+
+(44)—No steam exhaust, blow off pipe shall connect with a sewer or any house drain, soil pipe or waste pipe ; such pipe must discharge into a tank or condenser
+
+(45)- Cellars shall not be connected with the house drain unless necessary, and by special permission of the board of health, and according to plans approved of by the board
+
+(46) --A sub soil drain shall be provided when necessary, and shall be constructed and trapped to the satisfaction of the board of health
+
+(47)—No trap shall be permitted between the house drain and the public sewer, unless by permission of the hoard of health conditionally however that such trap shall have a handle-hole for cleaning purposes and a fresh-air inlet pipe the whole as may be decided upon by the board of health
+
+(48)-- Drains in yards shall, in all cases, be trapped below frost, that is to say four feet at least under ground
+
+(49)—In the case of privy vaults now drained into a common sewer, they shall be isolated by means of suitable traps placed below frost and according to instructions from the board of health
+
+(50)—In the case of a new house being built or one already existing being prepared, wherever there is a public sewer in the street, a water-closet shall be put in, to the exclusion of privy pits
+
+(51) —The inspection of drains as well as the inspector of drains shall be under the exclusive control of the board of health
+
+Sec. 2. The word "board," wherever it occurs in this by-law means the board of health of the city of Montreal and the word "inspector" means the inspector appointed by the said board to carry out the provisions of this by- law
+
+
+
+Sec. 3. Any person contravening any of the provisions of the present by-law shall be liable to a fine, and in default of immediate payment of the said fine, and costs, to an imprisonment, the amount of said fine and the term of said imprisonment to be determined by the Recorder's Court, at its discretion ; but the said fine shall not exceed forty dollars, and the term of imprisonment shall not exceed two calendar months ; the said imprisonment however to cease at any time before the expiration of the period fixed upon by the Recorder's Court, on payment of said fine and costs and where the infraction is continuous, such infraction during each day, shall constitute a separate offence.
+
+COMBINATION HEATING.
+
+<article title=" COMBINATION HEATING " author="">
+
+THE word "combination" may be defined as the result of combining or joining together two or ionic different elements or systems into one harmonious whole. There are several distinct and different systems of heating, and the combining of any two of these systems into one would naturally result in a combination system. The specific form of combination heating which I wish to treat of is obtained by a combination of steam or lint water and air, or, as it is commonly called, furnace heat. The advantage of the combination system in buildings suitable to its rise are manifold, but in order that these advantages may he made apparent, it may be necessary to diverge a little. Heat is supposed by many to be an actual and dissemble substance, and until within a very few years even the more advanced students of natural physics were of the same opinion. Later investigation has shown that heat is nothing more or less than molecular motion, consisting in case of air (if nearly uniform rectilinear motions, with sudden changes in direction and velocity when the molecules come too near one another; in case of a liquid of irregular wandering of its molecules, and in case of a solid or orbital or oscillatory motions. By the foregoing definitions it will be readily seen that air will absorb beat much more rapidly than either liquids or solids, and as in combination heating we are depending for fully fifty per cent. of our heat on air heat, the natural conclusion is that a combination heater will give results in the rooms to be heated much quicker than either straight steam or straight hot water.
+
+Heat is communicated from one body to another in three ways, viz. Radiation, convection and conduction. Radiant heat passes from one body to another at a distance through the air in straight lines and with great velocity, but it does not, to any appreciable extent, warm the air through which it passes. Conducted heat passes from one particle of matter to another at insensible distances, as an iron bar with one end in the fire becomes gradually heated at the other end. Convicted heat is the movement of the heated body itself from one point to another, as the circulation of hot air or hot water. In combination heating we again have an advantage over straight steam or hot water, as we utilize in the rooms to be heated two or three processes of heat distribution—i. e., radiant and convicted heat— while in steam or hot water only the radiant heat is utilized.
+
+One of time most important features of combination heating is the fact that where the air supply is taken from the outside, as it always should be, it ensures a perfect ventilation throughout the building, as well as heat. The necessity for ventilation is very little appreciated by the general public, but as heating and ventilation have always seemed to me to be inseparable, and as the people naturally turn to our profession for their knowledge of these matters, it might be well for me to ask, What is ventilation, and why is it necessary? Ventilation is the act of replacing foul, impure air, in a confined space, with pure air. Please note that word replacing." Times without number have I had people assure me that they had looked out for the ventilation of their house, as they had fireplaces in all the principal rooms. When asked if they did not know that "Nature abhorred a vacuum," and that -their fireplaces would not exhaust unless there was some means provided for replacing the air thus removed, would reply, " They had not thought about that, but guessed there would be enough leaks in the doors and windows anyway." 1 could cite any number of leading authorities and read whole chapters showing the necessities of ventilation and the vast consequences of the result of continued breathing of impure air, but a mere statement of the component elements of air will suffice for this article. If we divide air into 10,000 parts, its composition would be as follows Oxygen 2,096, nitrogen 7,900 and carbonic acid 4 parts. When the proportion of carbonic acid in a room is increased from the normal amount of 4 parts in 10,000 to between 5 and 7 in 10,000 a faint, unpleasant odor is usually perceptible to one entering from the fresh air ; if the proportion reaches 8 per cent the room is said to be close. According to some authorities, a full-grown man at rest will exhale through the pores of the skin and from his lungs nearly 3/4 cubic foot of carbonic acid per hour. Taking a room containing 2,500 cubic feet of air in its normal condition, we find that the air contains cubic foot of carbonic acid. Now, let us suppose this room to be a sleeping room, not ventilated, occupied by two persons eight hours each night. If the windows and doors of the room were closed during the eight hours, the natural portion of carbonic acid would be increased to about 13 cubic feet (or
+
+paid to 200), and the occupants would arise in the morning with depressing headache. A person coming into the room from the outside would declare the air to be "foul," and a does not need to be a crank on ventilation to reach the conclusion that such a situation would be anything but healthful This condition could be obviated, to a certain extent, by raising the windows, but that practice is dangerous in results, is a prolific source of colds and sickness, and as a means of ventilation totally unreliable not to mention the morning's discomfort (if arising in a cold room. Accurate ventilation will replace the air in a given room every 20 or 30 minutes without draft.
+
+I wish to call attention here to the reason why the combination heater will from natural causes give more perfect and greater results in ventilation than it is possible to obtain from indirect
+
+
+
+ Abstract of paper read by Mr. Geo. Hoffman before the National Association of Steam and Hot Water Fitters.
+

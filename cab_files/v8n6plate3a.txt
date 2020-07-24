@@ -1,0 +1,3 @@
+<doctype type="plate">OFFICES OF MESSRS. <firm>PERRAULT, MESNARD & VENNE</firm>, ARCHITECTS MONTREAL.
+
+<person>J. Venne</person>

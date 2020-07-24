@@ -1,0 +1,192 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND	BUILDER
+
+
+
+tial building, they immediately consider that they have been imposed upon by their architect if their house has cost more than the sum given as the cost of the house of outside show and inside flimsiness. An accurate statement of the cost of erecting a house according to an illustrated design would be valuable information but a statement which any member of the profession is aware is false, and which will only be believed by those not posted, is misleading and injurious to the best interest of architecture. I would suggest that you do not give the cost of erecting buildings according to the designs illustrated, except when it will be especially valuable, and only then when you have reason to believe the statement absolutely correct. Responsible and competent men should not be driven into competition in cheapness by the careless, if not intentionally inaccurate statements of architects or supposed architects. Moreover, it is not desirable that architects should use your columns as a means of advertising their ability of doing inferior work, for cheap work in the majority of cases is bad work, and nothing else can be made of it.
+
+Yours truly,
+
+ "Estimate"
+
+
+
+
+
+<article title="Queries and Answers" author="">QUERIES AND ANSWERS.
+
+(Reply to Query No. 4 )—Fusil oil will remove varnish from wood-work so as to allow of the wood being stained another color, except in cases where oil has been mixed with the varnish. In such cases a weak solution of lye will effect the removal of the varnish, after which the wood can be put in condition to receive a stain of another color by being rubbed with vinegar.
+
+P.T.R.
+
+.
+
+In your last number I noticed in answer to a question in the February issue, rules for ascertaining the safe distributed load which a beam will carry. The rules given are in my opinion inaccurate, and I have therefore thought proper to give rules which are accepted by competent authorities. It is important that a formula should be simple but more so that it be accurate. To determine the safe distributed load which a beam will carry, the following formula may be used. 2 X b x d2 xc
+
+_________ = w.
+
+
+
+
+
+To obtain the breadth of a beam, the other quantities being given, use the following formula:
+
+wxl  =b.
+
+2 X d2 X C
+
+To obtain the proper depth of a beam where the other qualities are known, use this formula
+
+ w x 1  =d. 2XbXC
+
+
+
+w=safe load in pounds.
+
+b=breadth of beam in inches. d=depth of beam in inches.
+
+l= length of span in feet.
+
+c=value of material in beam.
+
+	American ash	III.
+
+	red beech		100.
+
+	yellow birch		90.
+
+	white cedar	55.
+
+	·	elm	77.
+
+	New England fir	83.
+
+	Hemlock	66.
+
+	American white oak 	105.
+
+	white pine	80.
+
+	yellow pine	125.
+
+	spruce pine	90.
+
+	Michigan pine      	85.
+
+Example —What is the sate distributed load which a beam
+
+6 inches wide 10 inches deep and spanning a distance of 12 feet
+
+will carry?
+
+2 X b x d2 xc 2 X 6 X 100 X 80 lbs. safe distributed load.
+
+12
+
+What should be the breadth of a beam to carry a distributed load of 8000 lbs. with a span of 12 feet and depth of 10 inches?
+
+	w X 1	8000 X 12
+
+______——	·—=6 inches the breadth of beam.
+
+2Xd2xc 2 X 100 X 80
+
+What depth of beam is required to carry a distributed load of 8000 lbs., when the beam has a span of 12 feet and breadth of
+
+6 inches?
+
+___ ___ 8000 X 12 10 inches depth of beam.
+
+	2 x b x c	2 X 6 X 80
+
+
+
+By working out the above examples we have shown that the rules prove each other, and must be accurate. The only point
+
+of doubt is the value we should give the constant C. and we have no better method than to go to the best authorities in such matters. It is true that we will find the authorities differ very materially, but with a little patience and study we may determine which of them is nearest being accurate. A student should consult the very latest works, by the best authorities on all subjects, and not be satisfied to work according to formula, which has been found unreliable years ago. JULY.
+
+Mr. <person>James R. Rhind</person>, Montreal, has been appointed assistant architect to <person>H. Saxon Snell </person>Esq: F. R. I. B. A., M. C. S. I., F. M. S., &c, London, England, on the <building>Royal Victoria Hospital</building>, the munificent gift of Sir <person>Donald A. Smith</person>, and Sir George Stephen, Bart., to the city. Mr. Snell is a specialist on hospital
+
+	construction and arrangement, and has built many of the largest and most important hospitals in the Old Country,
+
+
+
+<article title=" Correspondence - A Provincial Association of Builders and Contractors" author="">A PROVINCIAL ASSOCIATION OF BUILDERS AND CONTRACTORS.
+
+GUELPH, March 22nd, 1889.
+
+
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+DEAR SIR—I am perfectly satisfied that it is time some steps were taken for the better and fairer protection of builders against the many disadvantages under which they labor, and I am willing to assist in any way in the formation of a <assoc>Provincial Association of Builders and Contractors.</assoc>
+
+Yours truly,
+
+<person>JOHN H. REDWOOD</person>.
+
+
+
+
+
+LONDON, ONT,, April 10th 1889.
+
+EDITOR CANADIAN ARCHITECT AND BUILDER
+
+
+
+SIR,—Regarding the formation of a <assoc>Provincial Builders' Association</assoc>, the subject has been before the Builders Exchange of this city, and the opinion is that the proposal might be a good one. We think if the builders of Toronto (that being the largest city in Ontario) were to make some move in the matter of calling a meeting for organization, our Exchange would very likely send a representation.
+
+Yours respectfully,
+
+814 Dundas Street.
+
+<person>H. C. SIMPSON,</person>
+
+
+
+Secretary of Builders Exchange.
+
+PRESCOTT, March 13, 1889.
+
+Editor CANADIAN ARCHITECT AND BUILDER
+
+
+
+DEAR SIR—In reference to the proposed Association of Contractors and Builders, allow me to say, that doing at present only a small business, I am not so much affected by trade grievances as others in a larger field. I shall. however, be pleased to lend my mite of assistance towards the furtherance of so praiseworthy an object as the formation of such an Association, and shall be glad .to hear further concerning the matter.
+
+Yours truly,
+
+<person>H. HORWOOD</person>.
+
+
+
+
+
+COLLINGWOOD March 14, 1889.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+DEAR SIR—In reply to your letter of the 9th, I think that such an Association would be of great benefit. I know that here in our own town we have had in the past a great many difficulties to contend with, and if such an Association could be formed I think it would result in doing a great deal of good, more particularly in large centres than in small towns. I would be quite willing to give any assistance to the forming of such an Association, as I feel sure that it would be at least the means of ventilating and tending to the removal of differences that may arise from time to time.
+
+Respectfully yours,
+
+<person>ROBERT BURDETT.</person>
+
+
+
+
+
+HAMILTON, April 2, 1889.
+
+Editor CANADIAN ARCHITECT AND BUILDER
+
+
+
+DEAR SIR—In perusing your March issue, I was very pleased to see unmistakable signs of a Provincial Association of Builders and Contractors being formed. As an Englishman, I have always held that a man should be free and independent, and carry on his business as he best sees fit; or in other words, to use an old expression, · Let every tub stand on its own bottom.' But, in our onward march through life we have discovered that some "tubs" have no "bottoms," and to my mind herein lies the difficulty such an Association would have to contend with. My experience with Associations of Builders and Contractors is (though I am sorry to say it) that just so long as it suits their convenience they are honorable, but no longer. Now, sir, this should not be. When we consider the forces with which we have to contend, we should stand shoulder to shoulder whether it suits our convenience or not—always providing that the cause is a righteous one—and I presume such an Association is not contemplated for any other purpose.
+
+I feel that the subject is a very exhaustive one, and requires a more able pen than mine to show forth its advantages. Of one thing I am certain,
+

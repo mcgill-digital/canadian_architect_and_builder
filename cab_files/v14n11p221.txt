@@ -1,0 +1,52 @@
+<doctype type="text">	THE CANADIAN ARCHITECT AND BUILDER	221
+
+that buildings covered with zinced iron should not be exposed to the action of acid fumes or water holding any trace of acids in solution. It follows, therefore, that the life of a sheet of zinced iron is that of the zinc which covers it.
+
+Another point to be considered is that two metals placed in contact and exposed to atmospheric influences invariably give rise to some form of galvanic action, which facilitates their combination with carbon and oxygen. a process utterly destructive of their value as covering- materials. Old wrought-iron railings leaded into stone are found eaten away where the lead and iron come in contact, and lead-lined cisterns or soldered sheet lead traps invariably fail at the junction of lead and solder. In every modern house iron, copper, lead, tin and zinc are found in the same circuit, forming circulating and other water systems; the leakage of taps and other parts of such plumbers' work, as well as the failure of iron railings and lead cisterns, can be traced to this galvanic action, which would seem to be never taken into account by builders or sanitary plumbers. This action apart from ordinary oxidation by the atmosphere, has much to do with the premature destruction of the zinced iron sheets used in temporary buildings. Zinced (or "galvanized") corrugated iron is extensively used in the erection of churches, schools, hospitals, cottages, stables, workshops, sheds, barns, and other buildings, and it will be found that for all such erections the employment of specialists in this class of work has an immense advantage in point of economy over that of ordinary skilled or unskilled workmen, who are not accustomed to handle and work in this material.
+
+As a pound of paint will go much farther on iron than on wood or brick, painting an iron building is a cheap way of adding to its durability. It is not wise to purchase a second hand iron building for re-erection, because the sheets are always more or less damaged in taking down and removal, and when rusting once sets in it proceeds rapidly.
+
+<article title=" REAL ECONOMY IN CONSTRUCTION " author="">
+
+REAL ECONOMY IN CONSTRUCTION.
+
+From time to time all of us notice the construction of buildings, so ponderous in their formation, so irrational in their construction and so elaborate in detail, that they can have no justification in construction from a business standpoint.
+
+It is true that any building which has more of material, be it brick, steel, stone, or iron, or more of decoration, than is necessary for its dignity or character, will be a relative business failure. An excess of cost which results in extravagance of this kind is a permanent fixed charge upon such investments, and those who make such investments are sure to suffer therefrom during the life of the property. The time has come when manufacturers and those who occupy offices and apartments demand permanency, convenience, safety and the proper regard for the external appearance of the structures which surround them. Anything which goes beyond this is extravagant and deadening.
+
+The primary thing to consider in the erection of any building is the cost of insurance, not altogether in relation to this fixed charge, but because the cost of insurance emphasizes and fixes the character of the building. Any building which is entitled to a low rate of insurance must necessarily be a well constructed building; after this comes the question of appearance,
+
+dignity and character. There is no reason why any building should be ugly. A beautiful detail costs no more than an ugly detail. Good proportion is as cheap as bad proportion. When the world realizes this, well-built buildings and good buildings will be the rule and not the exception.
+
+<article title=" PORTLAND CEMENT IN COLOURS " author="">
+
+PORTLAND CEMENT IN COLOURS.
+
+A new process has been discovered for colouring cement which, it is claimed, will greatly enhance its value for slab making as it ensures uniformity throughout the artificial stone, a result that cannot be effected with the use of ordinary cement. The process consists in the addition of chloride of lime in the proportions of
+
+per cent. to 5 per cent., according to the intensity of shade desired, to the raw material ; sometimes with the aid of a little oxide of iron. The chemical action due to addition of chloride of lime is as follows: The chloride of lime oxidizes the iron combinations in the raw stone to the extreme limit, thus producing colours from green to black. The flaws (spots) so common in artificial stone prepared with ordinary cement result from a variety of combinations of the sulphides of iron and calcium that are produced. But with the addition of chloride of lime volatile sulphuric chloride combinations result which obviate the sulphur combinations that produce the spots. The editor of This industry says that practice may establish the theory of the inventor, but holds that chloride of lime will not work as described during burning. Iron and calcium sulphides are not obviated by an addition of chloride of lime. To add per cent. to the raw stone adds at least 135 to the cost of cement per wagon. The action of chloride of lime can only be effective on moist limestone, for at 122 Fah. it decomposes.
+
+<article title=" STRENGTH OF IRON TANK " author="">
+
+STRENGTH OF IRON TANK.
+
+In answer to a correspondent who wishes to know how to calculate the weight on the sides of a cistern 2Oft. by 10 ft. by 6ft., and the strength of iron sides, &c. Prof. Henry Adams gives the following answer in the London Builders' Record:—There is much more in designing the tank than finding the pressure on the sides and the thickness of the plates. The designing of large tanks is work for a specialist, or at least for one with experience in designing or manufacturing them ; so many points require minute attention, as witness the disastrous failures that have occurred at St. George's Hospital, the Crystal Palace, the West Ham Workhouse, &c. The pressure on the side of any cistern or tank containing water is— Area side, sq. fr. X 1/2 depth ft. X 62.5
+
+2,240= tons
+
+and with any intermediate portion such as the area supported by a stay, area X depth of its centre of gravity from surface X weight of a cubic foot of water
+
+pressure in lbs. The centre of pressure is two-thirds of the depth from the surface, but this has no particular importance in tank designing. The writer's rule for thickness of plates in cast-iron is to make the top row 1/2 in. thick and the bottom row by the formula— d DVD
+
+192
+
+
+
+where t = thickness of plate in inches ; d = depth of plate in inches ; and 1) = depth of lower edge from surface of water in feet ; intermediate tiers to be graduated between these thickness and all plates to be properly sufferance by ribs, feathered flanges, and tie-bolts. In important cases the result should be checked by other formulae. In the present case with a depth of 6ft. there would be two rows of plates, the top row 1/2 in. thick, and the bottom row— 36X /6 36 X 2.45
+
+192 —	=45 which, being less than 1/2 in., is to be
+
+192
+
+increased to 1/2 in. thick.
+

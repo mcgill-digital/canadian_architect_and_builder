@@ -1,0 +1,60 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+<person>Mr. Shankland </person>Twelve tons at the top. In these caissons the ordinary load is 15 tons at the top.
+
+<person>Mr. Baker </person>I am not clear myself, and I do not know whether we all are in reference to your statement that you do not provide for any live loads in preparing the foundations of the interior columns. Of course 3,000 to 3,500 lbs. per square foot on the ground we would consider extravagant building here I think we sometimes go up to 2 or 3 tons. By the dead load do I understand you to mean simply the weight of the floors themselves ?
+
+Mr. Shankland The weight of the building-.
+
+Mr. Baker The dead weight and lateral thrusts and everything of that kind. You do not include any superimposed load ?
+
+Mr. Shankland This is only office building construction.
+
+Mr. Baker Of course if it was only office buildings you referred to the live load is small but you also referred to pushing trucks up an incline and that made me think it was in some warehouse building.
+
+Mr. Shankland It is a warehouse.
+
+Mr. Baker I should think there would be tremendous superimposed loads in a building like that.
+
+Mr. Shankland The outside walls settle very much more than the interior columns. The worst settlement is the walls and you never can counteract the first settlement.
+
+Mr. Baker Given a floor area of 200 sq. feet and a dead load of 40 lbs.—a superimposed load of 100 lbs. in a 10 storey building would raise the load on the ground from 3500 to 8500 lbs. which in Chicago might be rather high. Mr. Shankland referred to foundations going down 80 or 100 feet in the ground. My attention was drawn to a building- in New York, where they are utilizing all that space for offices ; in one case they are putting in eight stories of offices under ground. There is no rdason that I can see why those could not bc used.
+
+Mr. Shankland: In New York they excavate in rock. In Chicago it would be a very difficult matter to keep the water from the lake out of the foundations.
+
+The President Have you examined the Stock Exchange in New York ? They have excavated there some 30 or 40 feet of quicksand, and the seepage in the cellar was nothing when I saw it.
+
+Mr. Shankland In the Sherry Building they have put in a waterproof caisson and there they started at the surface on one side and had to go down So or 90 feet at the other.
+
+Mr. Baker What is approximately the cost of fire proofed buildings per cubic foot in Chicago.
+
+Mr. Shankland They run from 35 to 50 cents. That depends on the interior finish. In New York they cost 50 to 75 per cent. more than that on account of the interior finish.
+
+Mr. Duck I should like to ask Mr. Shankland what method he took to ascertain the proper proportion for concrete, that is of cement, sand and stone.
+
+Mr. Shankland: That has been done several times in the physical laboratories; when we started crushing the limestone for the station they made an investigation of that, and the result of it in the tests was that you could get a stronger concrete to use it as it came from the crusher. All that has since been substantiated by the University of Illinois; and I think Perdue made some tests.
+
+<person>Mr. Duck</person>: Is that in all kinds of stone? How about granite ?
+
+Mr. Shankland: Over at Perdue they used only limestone. I do not know about granite; it would not be so important there; it makes a stronger concrete.
+
+Mr. Duck: The limestone in different localities varies very much, Some of the limestone is almost as fine as impalpable powder. In other sections we get a much better crushed stone.
+
+Mr. Shankland: This limestone conies from Southern Indiana that we use in Chicago.
+
+Mr. Duck: The process of pouring water into a receptacle full of crushed stone to get the amount of
+
+sand necessary to fill the interstices; then pouring water into this quantity of sand to get the amount of cement necessary to make a solid mass of the three substances usually comes out one, three and six, in taking a stone such as crushed boulders.
+
+<person>Mr. Jarvis</person>: I should like to ask Mr. Shankland if cement made with a hard crushed limestone that would pass through an 8th sieve and be caught on a moth, mixed in proportions of three to one, whether the water would have any effect on it so that the whole of the dust is eliminated, and no dust left, only clean particles of crushed limestone that go through an 8th and would be caught by a 100th.
+
+Mr. Shankland: I do not think the water would have any effect on it.
+
+Mr. 1KW. Barrett; If I may be allowed to make a remark I should like to do so, as I am interested in reinforced concrete construction. Our business of course, is in expanded metal and concrete, or reinforcing the concrete floor with the mesh of expanded metal. I quite agree with Mr. Shankland on the inadvisability of excessive spans. In a concrete floor, our own practice is to keep down to six to eight feet as long as we are allowed to do it. Sometimes we are forced to make longer spans, but it is against our will. Long spans have to be built with great care. In thc instance mentioned by Mr. Shankland, where part of a concrete floor fell in an Apartment House in Chicago, the accident occurred during construction, and was supposed to have been caused by a workman removing the centering while the concrete was green and not thoroughly set. I cannot say that I altogether agree with Mr. Shankland on the lateral strength of the floors; I think if you consider a concrete floor, where the beams are encased in the concrete, although the main slab is just over the top of the beams, each beam is encased in the concrete, so that the concrete slab will form a very very stiff construction across the building from wall to wall; much stiffer than you will find in a floor where the spaces between the steel beams are filled in with separate. blocks of terra-cotta. Then of course the consolidation of terra-cotta depends a great deal on the workmanship of the masons that are laying it; for, as you know, bricklayers are apt to leave a great many voids. On the other hand the concrete is laid in a plastic condition, and the beams are incorporated with the slab very largely. The result with the terra-cotta is that in place of a solid construction across the floor you have a number of joints; that is to say, each beam makes a complete separation from tire adjoining slab; and if you have any settlement or special extensions or contractions on the part of your building you are going to take away the strength that it has in compression, and such a floor is going to be weaker than a monolithic concrete floor. We have tested concrete l1oors with our expanded metal construction and while a slab of' 31/2 inches thick may seem very thin, tests have been made on a slab of 5 feet in width where the joist beams were fastened to girders 12 to 14 feet apart; and on a slab of that construction a partially distributed load of 4,000 pounds (0 the square foot, and a total distributed load of one hundred and sixteen thousand pounds, was put on that panel, and it did not go through. Mr. Shankland says if you set a slab of concrete up on edge it has not much lateral strength; but I think it has more lateral strength than a slab of terra-cotta of the same size set up on edge; I know that, for I have tried it. We can put up a partition two inches thick and it is a good working partition, but if you put up a terra-cotta partition of double that you can push it over with your foot.
+
+<person>Mr. Denison </person>It depends upon the foot, doesn't it?
+
+Mr. Barrett I know we had to rebuild a lot of terra cotta partitions because they fell down in putting other work to them. Then again as to the fire-proof quality of concrete, as compared with terra-cotta blocks, I think Mr. Shankland may perhaps know of a fire in Pittsburg a few years ago in which two buildings were damaged by fire; one fire-proofed with reinforced concrete and the other with terra-cotta blocks ; one building on each
+

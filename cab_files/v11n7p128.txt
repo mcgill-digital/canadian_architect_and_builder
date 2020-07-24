@@ -1,0 +1,114 @@
+<doctype type="text">
+
+If we take 12 and 12 on the square, the diagonal line touching these figures will be 17 or thereabouts, and the hip is the diagonal of a square added to the rise of the roof; therefore, we take 8 on the tongue and 17 on the blade, run the same number of times as we would for the common rafter (rule to find distance of hip diagonal, a2 + a2 ± b? y2). To cut jack rafters, divide the number of openings or spaces for common rafters. If we have five jacks, with six spaces, our common rafter being 12 feet long, each jack would be two feet shorter first 10 feet, second 8 feet, third 6 feet, and so on. The top down cut for jacks is the same as the plumb cut on common rafters the foot cut is also the same as in common rafters. To cut the mitre to fit the hip, take half the width of building on tongue and length of common rafter on blade, and blade line gives the cut. Now find the diagonal of 8 and 12, which is 14.42— call it 14 7-16; take 12 on tongue and 14 7-16 on blade; blade line also gives cut. The hip should be " backed " or beveled from centre to suit line of jacks. Take height of roof on tongue, length of hip on blade; tongue line gives bevel from centre line of hip. These figures will cover all cuts for cornice and sheathing. For bed moulding which is cut on the rake, take half width of building- on tongue, length of common rafter on blade blade line gives cut. It must be remembered that machine-made mouldings will not '' member" properly on a rake, no matter at what angle they may be cut, but the method given will make a solid joint, when the moulding may be pared to " member." To cut planceer to run up valley, take height of ratter on tongue, length of rafter on blade ; tongue line gives the cut. For the plumb cut, take height of hip-rafter on tongue, length of hip-rafter on blade ; tongue line gives cut. These rules give cuts and bevels for roofs of one-third pitch, regardless of size of building. Other pitches may be treated in a like manner, but of course the figures will be different.
+
+
+
+A BUILDER asked us the other day if Estimating Number of there was not some simple and rapid
+
+Joists, Studs, &c.
+
+way of finding the number of joists, studs, furring, etc., for any given length of floor or wall, where the centres were placed sixteen inches apart. The solution is quite simple Multiply the length of the building in feet, by 3, and divide the product by 4. For instance, a building is 124 feet long, then 124 x 3 = 372 +4 = 9;, the number of joists or studs required. This rule holds good no matter what the thickness of joists may be, as long as they are spaced i6 inches from centre to centre. Allow one extra always for a starter, except where a sill or other timber forms a starter. The same rule applies also to furring or strapping, or any other work, when 16 inches form the distances from centres. In estimating the number of rafters or other timbers that are set 2 ft. 6 in. to centres, results may readily be obtained by multiplying the length of building by 2 and dividing the amount by 5. The result will show the number of pairs of rafters required, less one pair, which must be added. Again, if we want to place joists or timbers of any kind eighteen inches from centres, all we have to do is to multiply the length in feet by 2, and divide the product by 3, pieces required less one, which must always be added. In the first instance, the foot is divided into three parts of 4 inches each, and in the two latter examples the foot is divided into two parts of 6 inches each. The principle is quite plain, and when properly understood, may be applied to many cases in estimating.
+
+IT frequently happens that a contractor Weights of Windows, desires to know the weight of doors,
+
+Doors and Blinds.
+
+blinds, sashes and other wrought stuff in order that he may be able to provide for railroad expenses or other freight charges and the following tables have been prepared to meet such requirement
+
+	WEIGHT OF DOORS.
+
+	Size	T Inch	1/4 Inch.	1/2 Inch.
+
+2 ft. o in. x 6 ft. o in	20 lbs.	25 lbs.	32 lbs.
+
+2	6	xb	6	27	33	38
+
+2	(	x6	8	30		40
+
+2	10	x6	10	33	40	45
+
+3	0	X7	0		45	90
+
+
+
+WEIGHTS OF WINDOWS 
+
+	Thickness, 1	Inches.
+
+  Size of Glass	Glazed.	Unglazed.
+
+7 x 9-- 2 light sheets	13 lbs.	6 lbs.
+
+8 X 10	15
+
+	9X12	20	71/2
+
+	
+
+	9X13	21	8
+
+	lox 12	22	81/4
+
+	10X14	23	81/2
+
+	10x16	26	9
+
+	WEIGHT OF BLINDS.
+
+
+
+Two sheets to each window of 12 lights.
+
+	7x 9	11 lbs.	2ft. 6in.x6ft.6in.	23lbs.
+
+	8X10	13	2	8	x6	8	24
+
+	9Xl2	14	2	10	x6	10	25
+
+	3	0	xb	6
+
+	10X12	17	3	0	X7	0	27
+
+	10X14	19	3	0	X7	6	29
+
+	10x16	21	3	0	x8	0	32
+
+	10x18	22	3	2	x8	2	34
+
+	10X20	26		6	x8	6	40
+
+
+
+While the tables are not absolutely correct, as the weight of lumber varies, yet they are sufficiently near the truth to enable the estimator to obtain an idea as to the cost of freight when he knows the rate per 100 pounds. The table referring to glazed sashes will also give the estimator a fair idea of the cost of sash weights required for any given work. The following table may also be of service in estimating cost of freight on dressed and undressed lumber
+
+Pine boards or plank,	weight per M	2, 700 1bs.
+
+Flooring, dressed,	1 ,900
+
+Ceiling,	in. thick,	800
+
+	2	1,200
+
+	1,400
+
+	1,600
+
+Boards, surfaced one side,	2,000
+
+Dimension stuff, rough	2,700
+
+Shingles, per 1/4 M. bunch	40
+
+Pickets or other dressed stuff,	100 ft	200
+
+
+
+From these tables, the weight of all the lumber and dressed stuff in a building may be determined, and the cost of freights to any given point obtained, railroad or steamboat charges per 100 pounds being known.
+
+
+
+IN preparing weights for sashes, care Weighting Windows, should be taken that the lower sheet
+
+is nicely balanced. The usual custom of making the weights of the lower sheet a trifle less than weight of sash, is all wrong, inasmuch as the weight of cords and friction of axle act against the weights more than against the sash, therefore it is better to have weight and sash just about balance. If the top sheet contains the same size glass, and same number of panes, the weights used should be the same heft as used in the lower sheet. This will always have a tendency to keep the top sheet snug to the top of the frame, as the weights will be a little heavier than the sash, owing to the fact that the bottom rail of the lower sash is always made heavier than the top rail of the upper sheet, while the meeting rails are the same in both sheets. Close, but not too tight-fitting, of sashes, enables them to move freely in their grooves, though, when fitting, allowance must be made for three coats of paint on the sash and three coats on the frame. Generally the trouble with hung sashes is the paint painters do not exercise the care they should when painting window sashes and frames. Sometimes a little soap applied to the groove in which the sash travels will perform wonders in assisting the sash to move easily.
+

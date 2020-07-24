@@ -1,0 +1,66 @@
+	<doctype type="text">134	THE	CANADIAN ARCHITECT AND BUILDER
+
+
+
+projection laid in common lime mortar the rate of incidence of the increasing load first presents itself. At the ordinary rate of building operations it may be roughly assumed that one—tenth of the total unit load is added per month. This would be 2cwt. per square foot per ton of total footing load per month in ordinary soils. In the large back-to-back cantilever the weakest point is the bottom course of the axial tooth joint of the footing brick— work, say at 4, Fig. 1. The resistance is that of the weaker of the shearing or adhesion of the mortar to the bricks in the footing bed joints. The vertical side joints of the stretchers add nothing to the tenacity of the tooth joint.  Taking four courses nigh of brickwork per loot, and the effective interlap of the footing bed joints as 2in. average, there would thus be eight square inches per loot high per. each 9in. of projection of the cantilever, according to the Metropolitan building Act, 1894. As the soil reaction produces the transverse stress on the footing base which tends to separate the back-to-back tooth joint of inch cantilevers near the looting axis (4, 2. 3, Fig. 1) there would first be the weaker of the shearing or adhesive strengths of the mortar bed joints to resist it. Assume that this strength is 2 1/2 lb. per square inch at the end of the first month. Since there are eight square inches of tooth bed joints, besides the base joint, in 1 in. long of length of wall per foot high, and that the tension on the lowest joint (4, Fig. 1) is double the mean stress, an average strength of 1 1/4 lb. per square inch. or 10 lb. per loot nigh. is available on this assumption for the ordinary class of brickwork laid in quicklime mortar. Since 1-10th ton, or 224 lb., per month per inch of longitudinal breadth of section is 18.66 lb. for 1 ft. projection of cantilever unit stress, it constitutes an upward reaction. But according to the London building Act, 1894, the projection for 1 ft. high of footings is 9 in. = 3/4 ths.), and a uniform load acts at the statically centre of pressure (3/8ths of 1ft. high) for each 9 in. of looting breadth. Then 8-3rds of 10 lb. = 20.66lb. is the tooth-joint resistance corresponding to 1ft. high of such cantilevers with 9in of projection, and
+
+
+
+20.66	lb. / 1 13.13 lb. for 18 in. projection. There is thus about (1/2 26.66 18.66 ) 4th of deficient resistance of mortar strength in 1 in. breadth of this cantilever, at the end of the first month per 1—10 ton of the ultimate unit— ton load on the looting base. For succeeding months, in most cases the strength of the mortar would perhaps increase quicker, up to the limit of its ultimate strength, than the load additions occurred. But as the axial back joint of the large cantilever may really act with at least double the vertical leverage due to the footings alone, having the cross-section of the base of the wall, with half-brick footing, or double that of the footing courses, if the bricks be laid in English bond, to draw upon. For such extra vertical leverage at least three times the above estimated results may be justifiably relied upon in practice in compressible soils. If three times the 1 ft. resistance for double the vertical leverage is thus assumed, there would be nine bed-joint interlaps including that of tile base. Four of the footing joints are of two square inches each, and four more of diem of more than four square inches each, besides the base bed joint, which, if allowed at the rate of the latter, makes about 28 square inches of bed joints. Then the corresponding effective cantilever action of the uniform load is 8-3rds (If this
+
+
+
+cantilever action of the uniform load is 8—3rds of this
+
+
+
+75 square inches, which at 1/4 lb. 94 lb. for a cantilevering per inch breadth of the cantilever. The double area
+
+of wall-base footing makes it very probable that the footings would be completely rent before the wall-base resistance would come into operation. But this is only an interim load; the ultimate conditions of load and resistance must be accounted for, which may reveal less satisfactory results. An ultimate load for ordinary soils at usual house-building levels, say down to 6 ft. below the surface, is about two tons (4,480 lb.) per square foot, or 1-12th of it (373.33lb.) stress per inch of cantilever on the wall line. On the other hand, the ultimate tensile resistance of common quicklime mortar (two sand), made in the ordinary way, in Vicat's latest investigations, is given at 10lb. per square inch, at one year old. if half of this, 5th per square inch, be taken as the ultimate safe mean shearing strength of the joint under the impressed load then for 12 in., including the footing base joint x 60Th. and 8-3rds of 60 100lb as the effective resistance of the cantilever hack-to-back joint per 9in. of the footings for 1in. of length on thc wall line. Half this result is less than half the two-ton unit load by 26—66 lb. X I=53.2 lb.
+
+
+
+SMALL CANTILEVERS (1, 1, 1, FIGS 1 and 2).
+
+
+
+If, now, the tooth joint of the side wall cantilevers of the footings be considered only, tile portion projecting from tile vertical planes of the wall faces will here be similarly examined. These cantilevers are limited to the projection for their leverage height—i.e., 9 in. projection for each foot in height. If every allowance is made for full 2 1-4 ins. interlaps of footing (which, however, can only be so when the full-length 9 in. bricks are used) 1-4 lb. more strength of resistance is thus produced, if 13 in., . including time footing base joint, be the cantilever footing area, then 13 X 1 1-4 equal 16 lb. per foot of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+height for the 9 in. projection outside the face of the wall base. For a uniform soil pressure time corresponding cantileverage projection is 8-3rds of the height of 1 ft., therefore i6 lb. x 8-3rds equals 43 lb. This gives a large surplus at the end of the first mouth for 1-10 toil load, which was assumed to be an ordinary rate of increase. if a double bottom footing course were laid it would afford an additional tooth joint and increase the resistance by 2.5 lb. X 8—3rds equals 7 lb. per inch. of longitudinal section of the wall. It appears, then, that one cause of the ultimate cracks and displacements that disfigure many London amid provincial houses, especially the old ones cannot be thus explained, for the earlier increments of loading when fenestration static's do tint operate prejudicially The ultimate deficiency of strength (If ordinary quicklime mortars, which cannot produce a safe mean shearing amid adhesive resistance of 10 lb. per square inch. must be the cause of some of tile disfiguring cracks observed. It has been shown that the London Building Act footings do not afford sufficient resistance for stresses produced by one ton per square foot of ultimate load on the footing base in compressible soils. Considering that four or five times more quicklime mortar is used than Portland cement in the footings of many large structures, a stronger design of footings should be adopted. There should also he
+

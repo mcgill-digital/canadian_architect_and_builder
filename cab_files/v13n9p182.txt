@@ -1,0 +1,34 @@
+	<doctype type="text">182	THE	CANADIAN	ARCHITECT AND BUILDER
+
+
+
+<article title="Methods of Estimating the Cost of Buildings" author="">METHODS OF ESTIMATING THE COST
+
+OF BUILDINGS.
+
+There are five methods of ascertaining the value of buildings before erection, writes Mr. John T. Rea, F.S. I., in the Architectural Record. Four of these deal with approximate estimates, and are chiefly used by architects ; the remaining one is the more exact method of precise quantities, and is the business of the quantity surveyor. These methods are
+
+1.	ESTIMATING BY THE COST PER CUBIC FOOT OF SIMILAR BUILDINGS. This is the best known and most usually adopted method, because of its general convenience. The dimensions are best taken by measuring the length and breadth from out to out of walls, and the height from halt foundations to half way up the root. The cubic contents thus obtained are multiplied by the price per foot cube of some similar building. Sometimes the height is measured from the bottom of footings (i.e., top of concrete) to half way up the roof. Cheaper attached structures, such as annexes, stables, sheds, &c., should be kept separate and priced at a lower rate; while more ornamental portions, like towers and porches, should be valued higher than the main block. Small buildings cost more in proportion than large ones of the same type.
+
+This cubing system is open to some objections. The lumping together of voids and solids at one rate is certainly unscientific, for the same class of building may be divided into many rooms with numerous internal solids in the shape of walls, & c., between ; while another may have comparatively few chambers, creating much empty space. In fact, the proportion of voids to the solid structure is not a fixed quantity, so that the price per cubic foot can never be exactly regulated. This requires large experience and a nicety in pricing which the estimator cannot always possess. The description and quality of materials and workmanship, too, are seldom the same ; neither are the conditions of contract ; and these variations are frequently overlooked when a certain rate per cube foot is assumed. Owing to these imperfections the following methods are better
+
+1!.	TAKING OUT ROUGH QUANTITIES AND PRICING THE ITEMS.—This method is described in Leaning's "Quantity Surveying," and in "A Price-Book for Approximate Estimates," by T. E. Coleman, F.S.I., surveyor, Royal Engineer Establishment. The work should be concentrated into as few items as possible in order to save labor, and a schedule of prices or old bills of quantities would be necessary to price these out. Though less expeditious, this is a more reliable system than pricing at per cubic foot.
+
+Ill.	ESTIMATING PER SQUARE.—This method has been recommended by Protessor Kerr in his " English Gentleman's House," and by Mr. Webber in his "Choice of a Dwelling," published in 1872. It has, however, been reserved for Mr. Alcock, F.S.I., surveyor, R. E. Establishment, to develop and fully describe this system in an article contributed to the "Occasional Papers of the Association of Surveyors of H.M. Service, July, 1894." The mode is to take the constructional shell only, pricing it at so much per 100 square feet. Walls, for instance, are taken according to their thickness and manner of finishing, including all digging, concrete, plastering, papering, & c.; floors including joists, struttings, ceilings, &c. ; roofs including slating, lead work, rafters, boarding, &c.; and
+
+so on—all being reckoned at per square complete. Such a system of superficial measurement appears to be more satisfactory than the cubing, as it takes into account the materials and labor in a more exact and definite form. Of course a special list of prices must be compiled for each of these main superficies, and care and discrimination are certainly required.
+
+IV.	PRICING PER UNIT OF ACCOMMODATION. This is a somewhat rough and ready means of estimating the cost of such buildings as hospitals, schools, churches, stables, which may be respectively priced at per patient, per scholar, per sitting, and per horse. It is better, however, to check an approximate estimate by working out two or more styles, thereby ensuring closer results.
+
+V.	ESTIMATING BY ACCURATE QUANTITIES.—For full information on this head the reader is referred to such well-known books as Leaning's " Quantity Surveying" and Fletcher's " Quantities." This method is only adopted when it is intended to actually carry out the work, and usually when tenders are sent in by several builders in competition. It is very laborious, and necessitates great skill and a thorough knowledge of building construction, so that the subject is invariably left to quantity surveyors as experts. The system is divided into the three parts of "taking off," " abstracting," and " billing," the last only being forwarded to the contractors for the purpose of inserting their prices, when the completed bills are sent to the architect for his and his client's decision. The whole procedure is, of course, familiar to every reader of this paper.
+
+
+
+<article title="Canadian Building Stones at Paris" author="">CANADIAN BUILDING STONES AT PARIS.
+
+The London Builder contains the following reference to the exhibit of Canadian building stones at the Paris Exhibition " Canada exhibits many varieties of building and ornamental stones. Amongst them we noticed a granite from Spoon Island, Queen's County, New Brunswick, which is similar in appearance to our Newry granite, having a bluegrey background, in which small irregular-shaped crystals of orthoclase feldspar abound. Another granite, like oure Sotch grey Dalbeattie stone, comes from Jarvis Inlet, Nelson Island, British Columbia. A third is like red Peterhead granite, minus smoky quartz. A fourth, of Laurentian age, from Gonansque, resembles the well known deep red, medium grained granite from Sweden. There are several kinds of light green and gray sandstones from different parts of the Dominion, and a deep red sandstone, recalling the stone from Corsehill Dumfries. A good assortment of marbles also forms part of this collection which has been made under Government auspices. The cities of Montreal, Quebec, and Ottawa are chiefly constructed of limestones from the Trenton formation. The grey fine-grained granites of Quebec are raised in the eastern part of the Province but many others equally good yet remain to be exploited from the Laurention formation. The same horizon furnishes excellent crystolline limestones, pure, or mixed with serpentine, forming beautiful white and greenish marbles. In the eastern part of Quebec, at New Rockland for example, there are large slate quarries, and the material compares very favorably with the best Welsh slate. Most of these stones are represented in the Canada building."
+
+
+
+A tinge of blue in white striping color on black increases the strength.
+

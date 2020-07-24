@@ -1,0 +1,54 @@
+<doctype type="text">190	CANADIAN ARCHITECT AND BUILDER
+
+
+
+CEMENT AND CONCRETE
+
+<article title=" CEMENT AND CONCRETE " author="">
+
+
+
+
+
+
+
+
+
+NOTE ----Contributions suitable for publication in this Department are invited from subscribers and readers
+
+SOME ESSENTIALS IN REINFORCED CONCRETE WORK.
+
+By FRANK 13. GILBRETH, New York.
+
+<article title=" SOME ESSENTIALS IN REINFORCED CONCRETE WORK " author="Gilbreth, Frank B.">
+
+The apparent simplicity of the design and construction of reinforced concrete has caused to rush into the business large numbers of engineers and contractors, who have not been properly prepared, either by education or by practice. Unless legislation is speedily caused that will protect the layman from his own ignorance, reinforced concrete will soon receive a setback that will require years to overcome.
+
+The following points, embodied in the standard practice of the writer's organization, would have prevented all of the well-known failure of reinforced concrete in America in thc last two years. They arc recommended as absolutely necessary for the best results
+
+(1)	All rods should he anchored at the ends regardless of whether or not they are deformed their entire length. If rods are 7—S in. or less in diameter a simple bend at right angles will be sufficient anchorage. If more than 7-8 in. in diameter, the anchor must consist of a threaded plate which is to act as a large nut on the threaded end of the root. Aside from the question of bond stress at the end of the rod. where it is at its maximum, it is well known that the more a rod is deformed the quicker will the concrete peel off under fire.
+
+(2)	Rods should be of a cross-section that will permit The concrete to flow up under the lower side of the rod with the least resistance, and with no deformation on the rod that will tend to pocket or confine the air in such a manner as to prevent the concrete from completely surrounding and at attaching itself by adhesion to the rods and thereby insuring prevention of rust and adequate fire protection.
+
+(3)	All rods in the tops of beams and girders at their supports should extend far enough beyond those points to insure sufficient anchorage even when all of the concrete below the rods in the bottom of the section has peeled off, due to the wedging action caused by the use of deformed reinforcement, or to the action of fire.
+
+(4)	Preference should be given to rods with across section that will give the least wedging action to the concrete fireproofing underneath the rod when the beam is subjected simultaneously to a load overhead and a fire underneath.
+
+(5)	Rods running in the same direction should never be permitted close to each other for the reason that the spaces between them will be filling with air bobbles which will exclude a proper filling of the spaces by concrete. (While nearly all building laws relating to reinforced concrete cover this point, it is well known that this requirement, in many instances, is practically ignored.)
+
+(6)	Rods in the bottom of beams, girders and slabs should be spaced far enough apart to permit a good bond of the fireproofing concrete to the interior of the section.
+
+(7)	In no ease should anything but smooth rods be used vertically. Where hoping is used in columns it should not be wired so rigidly as to prevent the concrete from settling and shrinking during its initial set. An ordinary warehouse or office building column will shrink in height from 1-4 in. to 1 in. during the period of initial set, and taller columns in proportion, if filled with concrete wet enough to permit thorough ramming both inside and outside of the hooping. Unless the vertical reinforcement is smooth and the hooping not too rigid, it will disrupt the concrete during the process of shrinking. This principle is so well recognized by some engineers that they insist on very long columns being poured front a point midway their height After the bottom portion sets the rest of the concrete is poured from the top of the column.
+
+(8)	All beams and girders should be constructed as continuous beams, even if for no other purpose than to prevent accidents through gross carelessness during construction. For instance, removing a portion of the shores too soon. This should also be done to prevent cracking over the supports due to negative moment, notwithstanding that rules and regulations for the use of reinforced concrete may require that the midsection be calculated as a. simple beam.
+
+(9)	Spacers and separators of concrete should be used to space all rods from each other and from the forms. This is not only necessary from a construction standpoint. but also for prevention of damage by fire and rust. If separators are not used the rods will surely be more or less displaced by the dumping of the concrete carts and during ramming. Metal spacers and separators form a straight joint in the fireproofing and also tend to conduct heat to the rods.
+
+(10) Forms should be as nearly watertight as possible. This means that the lumber must be sized and matched or tongued and grooved. Otherwise the cement will escape.
+
+(11)	Sand should be tested for foreign matter, for adhesion of cement, for crushing resistance and also for fire resistance.
+
+(12)	The broken stone should be tested for adhesion to cement, crushing resistance and fire resistance.
+
+(13)	The cement should be tested in accordance with the standard specifications of the American Society for Testing Materials. Samples of actual concrete should be taken out of the wheelbarrows as they are being transported to the forms. This will furnish data, under actual working conditions, as to crushing strength, as well as the correct proportions of materials and fire resistance of the cement. In addition, the moral effect on the workmen is good and will add
+

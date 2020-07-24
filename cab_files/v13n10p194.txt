@@ -1,0 +1,138 @@
+	<doctype type="text">194	THE CANADIAN ARCHITECT	BUILDER
+
+
+
+CROSS BENDING.
+
+
+
+This is a very favorite form of test, partly because very large pieces with big spans can be readily tested without requiring very big loads in fact, it is a test which can be readily carried out on a job with but little trouble or expense. Two knife edges or supports, a cradle to carry weights, and some pig or other lumps of iron for weights, are all that are needed, while a stretched cord and a 2-foot rule readily enable the strains or deflections to
+
+be measured. I will again describe only a few of the more modern experiments.
+
+Bauschinger made a large number of tests on beams 7 1/2 in. by
+
+
+
+7 1/2 in. by 98 in. span. The table gives some of his figures for the quality of timber for which the previous figures have been given
+
+	Modulus of	Limits of	Breaking
+
+	Elasticity,	Elasticity.	Stress.		Moisture.
+
+	lbs. sq. in.	lbs. sq. in.	lbs. sq. in.	Density.	per cent.
+
+Red Pine.
+
+Summer.. 1,535,000 2,867 6,720 0.50	23 Winter... 1,465,000 3,136 6,405 0.55 33 Spruce.
+
+Summer.. 1,563,000 3,247 5,957 0.45	29 Winter... 1,670,000 3,719 6,406 0.45 27
+
+
+
+Lanza's tests in general support Bauschinger's conclusions. His beams were 2 in. to 6 in. thick, 2 in. to 12 in. deep, span, 4 ft. to 20 ft.
+
+It is, perhaps, well to point out here that the calculated stresses in the outer fibres deduced from the ordinary formula for beams is only the real stress in the case where the load does not exceed the elastic limit beyond that the formulae does not hold. The figures we obtain, therefore, for the stress from the observed value of the load in the centre at rupture, are not stresses but mere numbers, useful, however, as comparative figures. Lanza's results are given in the table below
+
+
+
+CROSS BREAKING STRESS PER SQUARE INCH IN LBS.
+
+				Mean Modulus
+
+   Material	Max.	Min.	Mean.	of Elasticity.
+
+Spruce	8,756	2,994	4,883	1,330,000
+
+Yellow Pine	11,360	3,962	7,289	1,744,000
+
+Oak	7,660	4,985	6,074	1,292,000
+
+White Pine	7,250	3,437	4,807	1,080,000
+
+
+
+JOHNSON'S TESTS.—Most of his beams were 4 in.	and tested on a 6 ft. span; in these cases the rate of loading was arranged so as to produce deflection at the rate of 1/8-in per minute. Tests were also made on full-sized logs; in this case the rate of loading was arranged to give 1/4-in deflection per minute. Tile following is a table of Johnsons results for all kinds of tests of tour typical timbers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To give you an idea of the variation in such tests, in red pine, with 100 tests the highest crushing strength was 8,200 lbs. per square inch lowest, 4,300 pounds 54 per cent. were within 10 per cent. of mean, and 96 per cent. within 25 per cent. In cross-breaking the highest figure was 12,900 lbs., lowest 3,100 lbs.;
+
+per cent. came within 10 per cent., and 60 per cent, within 25 per cent. In these tests only absolutely bad stuff was rejected in testing no attempt was made to pick specimens.
+
+Johnson has shown by cutting up his large sticks into smaller ones that under conditions of moisture of the same character little sticks have the same strength as big ones. Only the temptation to pick out specially good small samples is usually too great to allow such tests to he fair averages.
+
+One general result of Bauschinger's tests, verified also by Johnson, was that the strength is much affected by the ratio of summer (solid) to spring (open) growth in each annual ring, or in other words, that the specific gravity is the determining factor. He also showed that there was a definite relation between the modulus of elasticity (determined front bending tests) and the values obtained for crushing and bending strengths—it varied directly with them. Johnson similarly found that for all timbers dealt with in his experiments (except in the case of oak, which from its complex cellular structure seems an exception) the
+
+strength rises steadily with density, i. e., with increase of specific gravity.
+
+SHEAR.
+
+
+
+In many beam tests, the beams actually give way by shear along the neutral axis. In Lanza's tests eleven beams gave way like this, the shear stress per square inch at the neutral plane being: -Spruce, 191 lbs. per square inch; yellow pine, 248 lbs. per square inch, which was also about the shear stress in this plane in the case of those which actually tore fairly across, so apparently they may in the case of soft woods give way in either fashion.
+
+Direct shear tests arc not numerous. The Watertown results were higher than above, namely, for yellow pine, 286 to 415 lbs. per square inch and for spruce, 253 to 374 lbs. per square inch. Johnson's results for the shear were somewhat higher. These are accounted for by tile fact that a special shear test fixes the shear at a particular section, while in the beam it selects the weakest plane near neutral axis.
+
+I must now say a few words on the influence of time on the ultimate strength. I always find in bending tests and crushing tests that when a certain load is reached the material will go on steadily yielding, i.e., the strain goes on increasing, and no doubt rupture would occur at loads less than the final one, if only we left he load on long enough.
+
+Professor Thurston made a striking series of tests on this question nine bars r in. square in section carried on 4o-in. supports were tested, the centre breaking load (on a similar bar on same span) rapidly applied being 375 lbs., and the deflection
+
+8 in. On three bars a load of 350 lbs. was hung from the centre of tile beam and left continuously on; on another three the load was 300 lbs., and on the last three the load was 250 lbs. All nine of the bars eventually broke in half under these loads.
+
+The three with 350 lbs. all broke in less than forty-three hours, deflection 2.3 in.
+
+
+
+The three with 300 lbs. all broke in from eighty to 719 hours, deflection 3"0 in.
+
+The three with 250 pounds all broke in from 6,000 to 11,000 hours (=250 to 460 days), deflection 2'5 in.
+
+Hence 60 per cent, of the final load produced rupture when kept on long enough.
+
+In conclusion, I would say that in most cases where much timber is to be used, it is better and safer to make fresh tests of the actual stuff to he used rather than to rely upon old figures.
+
+If cross bending tests of measurements are made of the deflections for gradually increasing loads, and if the results are plotted in the ordinary way as stress-strain curves, then the curves show that the timber has no true elastic limit, but that up to a certain load the relation between load and deflection is pretty constant. It is probable that if this load is not exceeded rupture would not occur, no matter how long the load was left upon the beam.
+
+
+
+
+
+PERSONAL.
+
+
+
+Mr. James Scott Webster, contractor, of Gait, was married on September 27th to Miss Annie Johnston, of hat town.
+
+
+
+Mr. 0. A. Reid, President of the Ontario Society of Artists, has completed an attractive new residence and studio on Indian Road, near High Park, Toronto.
+
+
+
+Mr. Win. Grove, whose father, Mr. David Grove, is one at the largest contractors in Berlin, Germany, and the agent for the Dominion Radiator Co., of Toronto, recently visited Toronto, and inspected many of the public buildings of that city. Mr. Grove's firm installed the heating and ventilating system in the new Parliament Buildings in Berlin at a cost of about a quarter of a million dollars. Comparison shows that in Germany the standard of prices for work of this character is higher than in Canada. Mr. Grove states that bot water heating is steadily growing in favor in Germany.
+
+
+
+Messrs. Toro Iwamura, a professor and lecturer in the Tokio Academy of Fine Arts, and Akaira Sano, an architect in the employ of the Japanese government, recently visited Toronto and inspected the public buildings of that city with the object of gaining information to be employed in the erection of a colossal new palace for the Crown Prince. It is estimated that fifteen years will be occupied in its construction. These gentlemen have been commissioned by the Government of Japan to visit all the capitals of Europe. They state that the government does not give great encouragement to foreign art, being desirous of preserving the old Japanese examples,
+

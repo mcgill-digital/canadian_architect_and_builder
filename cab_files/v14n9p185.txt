@@ -1,0 +1,114 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+ensure against crushing at any one point, and also to give a proper level bearing to the stack (rock strata often lie at an angle to the surface level). Much has been and may be, said about the width of concrete foundations for any given stack. This should always be determined after the nature of the foundation has been ascertained, but a foundation of concrete is not too wide provided it does not exceed the body of the concrete—that is do not have concrete so wide that, considering its thickness, it will fracture round the line of crush.
+
+A grillage of steel beams on iron tiers may he bedded in the concrete foundation to add to the tensile strength especially in treacherous soil. The pressure on a concrete foundation should ½ exceed 22 cwts. per sq. ft. If the angle of 6o degs. beyond the face of the wall is exceeded the concrete must be thickened accordingly.
+
+This crushing is greatly remedied by footings, which are of the greatest importance. They also act (especially in isolated structures standing on small bases) against the danger of the work being forced out of the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+perpendicular by the wind. Footings should project at least the thickness of wall beyond the face of the work and be set off in regular offsets of 2 14 in, and not more than 3 in. to avoid fracture of the bricks. Let us take the case of a chimney stack 100 ft. high standing on a base 10 ft. square and exposed to heavy gales. The compression of the ground to leeward to the extent of 0.025 ft. would he sufficient to cause the top of the stack to overhang 6 in. If, however, we increase the base to 20 ft. square we not only double the leverage with which the foundation resists the force of' the wind, but the bearing surface is quadrupled, so that the total resistance is eight times greater than in the first instance. It need scarcely be said that for footings to be efficient they must be securely bonded into the body of the work and be of sufficient strength to
+
+resist the violent cross-stress to which they are subjected. The lower the brick the greater the weight there is upon it, and the important matter to observe is that the back joints are as far from the face of the wall as possible. A good arrangement in foundations is to lace a few of the bottom courses together. Another rather special method is to introduce the inverted arch in the interior of the chimney. The plan of a circular shaft is like a kiln crown, that of a square one being ribbed. This is not a very common practice.
+
+The thickness of the work in stacks needs also to he carefully considered. The common rule is to start from the top with 9 in. adding 4½ in. ½ 20 or 25 ft. downwards, the width at the bottom being one—tenth the height for square stacks and one-twelfth for round ones. The common batter from bottom upwards is in. per ft. I have been concerned with many stacks battering 3—16 in. per ft. hut prefer in. or in. in a yard. I think the thickness of the work should never be less than 14 in. at the top, especially if the stack exceeds 80 ft. This gives a far stronger body of work to bond in a heavy or hanging head, and is not nearly so liable to get racked or rent up.
+
+The amount of hatter given to a stack chiefly concerns architectural taste, and although the engineer prefers a plain obelisk, he may secure this internally without affecting the draught to any perceptible extent and yet have a finely proportioned architectural column. A stack should not be ornamented at the expense of its stability but it is preferable not to leave it entirely plain. This is one good reason for having 14 in. work at the top instead of 9 in.
+
+Argument still persists as to whether a stack should diminish in sectional area inside, or whether it ought to be parallel (as wide at the top as at the bottom) ; or, again, whether a chimney should he even wider at the top than at the bottom. It does not fall under our consideration at present to determine what are the proper dimensions, especially as regards the internal area of a chimney-shaft, most suitable for a steam engine of any given horse-power or for burning a given quantity of coal per hour; but here is an example The area of a chimney in inches for a low pressure steam engine when of more than 10 h.p. should he 112 times the h.p. of the engine divided by the square root of the height of the chimney in feet.
+
+Example Required the area of a chimney for an engine of 50 h.p., the height of the chimney being Soft.
+
+	112 x 50	5600
+
+
+
+ 
+
+9
+
+	622 X	2ft. 5 in. 
+
+
+
+This gives 2 ft. 1 in. for the side of a square stack and 2 ft. 4 in. for the diameter of a circular stack.
+
+Adopting Tredgold's rule to Mr. Milne's data, it only requires the constant multiplier 112 to be substituted by 280 and the calculation in the above case will then be as follows
+
+50 X 280 14000
+
+ sq. 111. 3ft. 
+
+9
+
+
+
+for a square stack.
+
+This just shows how engineers differ, hut it will be interesting to notice the following example taken from the common rule— that of only considering the height
+
+the height for a
+
+	and having one-tenth	square stack and
+
+one-twelfth for a circular one
+
+An engineer requires a circular stack of 2 ft. 4 in. least diameter We shall begin at the top with 2 ft,
+

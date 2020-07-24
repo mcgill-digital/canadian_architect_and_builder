@@ -1,0 +1,158 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+and thc boiler being now full, we will start the fire on a measured quantity of fuel. and make a mark on the time record of the thermometers. When thc water in the expansion tank has acquired an ordinary working temperature, thc time being automatically noted or otherwise, we start the water to circulate through the meter at a rate previously decided on as in proper proportion to the size of the apparatus, and allowing the party interested in the economy of the boiler to fire up to the best of his knowledge or ability. With automatic instruments our work is over until the completion of the test, the recording instruments being under lock and key they cannot be tampered with—it being only necessary to insure further that the fireman is honest in regard to using no fuel but that measured out to him, so that the quantity of fuel burned during the test may be determined in thc usual manner.
+
+At the close of the tests we consult the records, which are then the records of what has been performed. Our report therefore will show, backed by the records and evidence referred to, that by the consumption of a certain amount of fuel during a stated time, in a hot water circulating boiler, we have raised the temperature of a stated quantity of water a certain number of degrees, the average being determined from the temperature curves that the thermometers have recorded, thus giving a simple data for obtaining both the efficiency and power of the boiler. The test would also show clearly at what part of the firing the best results were being obtained, and so be a guide in this respect and in determining the best proportions for the fire surface, etc.
+
+From thc data recorded as above, it is a comparatively simple matter to determine the number of British Thermal Units that have been abstracted from a stated quantity of fuel during a certain time for comparison with other absolute tests that may have been elsewhere made of other boilers, so giving their relative efficiency and power. Also by reducing the values to what they would be in steam evaporation from and at 212° F, the efficiency and power of a hot water boiler is made comparable with that of a steam boiler. This may seem to be getting into complicated calculations which we desired to avoid, but that depends, like the test itself, on how you take it, whether by frontal attack or by getting round. For instance if you ask a college professor for a rule for determining these values, especially as regards the steam comparisons, if he is unkind at the time he may 1)resent you with something like this, stating it has been founded on experiments and is a fairly accurate guide for a frontal attack.
+
+BC
+
+Log. p.=A - — — — 2
+
+T T
+
+Where A-~6. 1007
+
+Log. B —3.43642
+
+
+
+Log. C =5.59873
+
+P. = Pressure
+
+T. = Temperature
+
+
+
+But if he is kindly disposed at the time he may tell you that for his part he usually gets around it by consulting a book of tables to determine these values, where the whole thing is figured out for you in a reliable manner.
+
+
+
+
+
+<article title="The Ontario Association of Architects" author="">THE ONTARIO ASSOCIATION OF ARCHITECTS.
+
+
+
+CONSIDERATION is being given by thc Council and Committees to the educational and other matters to which the Association will direct its attention the coming autumn. It is expected that the new Association rooms will be ready for occupation about the first of September. Meanwhile, it is desired that architects should urge their students to register in accordance with the resolution adopted at the last convention.
+
+
+
+
+
+Messrs. Beaumont, Jarvis & Co., architects, of Toronto, have recently opened a branch office at 39 Sparks street, Ottawa.
+
+At the regular meeting of the Toronto Engineer's Club, held on the 13th inst., the topic for discussion was " Freight Traffic on City and Suburban Tramways."
+
+Joint Committees of the Ontario Association of Architects and the Toronto Builders' Exchange, are considering the terms of the form of contract at present in use in Toronto, with the object of amending some of its provisions, if it should be found advisable to do so.
+
+The following members of the Canadian Society of Civil Engineers have been appointed a committee to conduct tests and establish standards of quality of cement Prof. Bovey, McGill University, chairman M. J. Butler, C. B. Smith, T. Munro, C. H. Rust, P. A. Peterson, and G. A. Mountain.
+
+STUDENTS' DEPARTMENT ______
+
+
+
+<article title="Architectural League of America" author="">ARCHITECTURAL LEAGUE OF AMERICA.
+
+
+
+The second annual convention of the above organization was held on the 7th, 8th, and 9th inst., in Fullerton Hall, and the rooms of the Chicago Architectural Club and the Chicago Chapter of the American Institute of Architects, Art Institute Building, Chicago, the following clubs composing the League being represented The Cleveland Architectural Club, the Chicago Architectural Club, the Cincinnati Chapter, A.I.A.
+
+The Detroit Architectural Club, The Architectural League of New York, The T-Square Club, Philadelphia, Pa.; The Pittsburgh Architectural Club, The St. Louis Architectural Club, The Toronto Architectural Eighteen Club, The Washington Architectural Club. There were also present a number of visiting delegates from cities where branches of the League may not have yet been formed. The programme, which was closely adhered to, was as follows
+
+THURSDAY, JUNE 7.
+
+
+
+Rooms of The Chicago Architectural Club, Art Institute.  A. M.— Meeting of the Executive Board.
+
+10 A.	M.— Committee to confer with Committee from American Institute of Architects.
+
+Committee on Code Governing Competitions.
+
+
+
+II	A. M.—Registration of Delegates.
+
+
+
+Fullerton Hall—Art Institute.
+
+I.	P. M.—Call to Order.
+
+Address of Welcome, J. C. Llewellyn, President of The Chicago Architectural Club.
+
+Response and Address, Albert Kelsey, President of Thc Architectural League of America.
+
+Roll call of delegates and representatives
+
+Appointment of Committee on Records and Publicity.
+
+Election of Speaker and Secretary.
+
+Election of Auditors to examine and report upon the Treasurers accounts.
+
+Reading of Communications
+
+Annual report of the Executive Board. Henry W. Tomlinson, Secretary.
+
+Treasurer's Report, Herbert B. Briggs, Treasurer.
+
+Reports of Standing Committees.
+
+Club Organization and Management, William B. Ittner.
+
+Chairman.
+
+Municipal Improvement, Cass Gilbert, Chairman.
+
+Schedule of Circuit Exhibitions, Henry W. Tomlinson, Chair man.
+
+Reports of Special Committees.
+
+Committee on Co-operation with A. I. A., Dwight Heald Perkins. Chairman.
+
+Code Governing Competitions, Julius F. Harder, Chairman.
+
+Permanent Constitution, Julius F. Harder, Chairman.
+
+5 to 8	P. M.—Informal Reception to The Chicago Architectural Club and its guests by the Builder's Club, fourth floor, Chamber of Commerce Building, S. E. cor. Washington and La Salle streets.
+
+8 P.	M.—Joint Meeting of The American Park and Outdoor Art Association and The Architectural League of America,— to which all interested in Municipal Improvements are cordially invited.
+
+8 P. M.—Fullerton Hall, Art Institute.
+
+W.	M. R. French, Director of the Art Institute, presiding.
+
+"Municipal Improvement," a paper by Mrs. Edwin D. Mead, of the Twentieth Century Club, of Boston, read by C. M. Loring, President of the American Park arid Outdoor Art Association.
+
+Illustrated with stereopticon.
+
+"Municipal Development,' Albert Kelsey, President of The Architectural League of America.
+
+Illustrated by stereopticon.
+
+
+
+FRIDAY, JUNE 8.
+
+
+
+Fullerton Hall—Art Institute.
+
+ A.	M.—Reports from clubs on the years work and accomplishments.
+
+Report from clubs on circuit schedule and appointment of committee for coming year.
+
+"Philadelphia's Traveling Scholarships,' William C. Hays, Philadelphia.
+
+"Indigenous and Inventive Architecture," Elmer Grey, Milwaukee.
+
+"The Education of the Architectural Student," Prof. A. B. Trowbridge, Cornell University, Ithaca. Read by Henry W. Tomlinson.
+
+"The Architect," Frank Lloyd Wright Chicago.
+

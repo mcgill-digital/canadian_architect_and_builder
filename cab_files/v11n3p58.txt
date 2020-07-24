@@ -1,0 +1,109 @@
+<doctype type="text">
+<article title=" Tests of cast-iron columns by the department of buildings of New York City." author="">
+of the measuring instrument and the personal equation in reading it, and subtract it from .001 in., the difference, .0007 in., seems to be due to a variable error, due to variable friction, in the Phoenix machine. Taking the compressions doe to an increase of the load from 100 to 200 on the gage (Table II), or 273,000 lbs. in 10,000ths of an inch, we find that in the eight tests they were,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 5. COLUMN B 4. SHOWING FRACTURE NEAR CENTRE.
+
+respectively, 232,243, 235,243, 235,242, 238,240, averaging .02385 in.; the lowest figure (232) being .00065 in., or nearly 3% below, and the highest (243), .00045, or 200 above the average. The figure .02385 100= .0002385 in., seems to us to be a more correct figure for the average value of the compression due to the unit gage reading, than the figure .000243 given in the report, and this figure gives 2,675 lbs. instead of 2,730 lbs. as the load corresponding to a lb. pressure per sq. in. per division recorded on the gage. Comparing this value with the area of the cylinder of the testing machine 3,227 sq. ins., gives an average friction of 17.1%, instead of 15.4%, as computed above. According to the calibrations the friction may vary from the average as much as 300 in the case of loads of 273,000 lbs., the variable percentage being greater the smaller the load. The figure of 2,730 lbs. given in the Building Department report, may be accepted as being probably the highest value of the actual load corresponding to 1 lb. per sq. in. indicated on the gage, the actual load in some instances being probably 5% less than that computed from the gage reading in the case of lie lighter  loads, and, say, 30% less in the case of the heavier loads.
+We come now to consider the results of the breaking tests of the cast-iron columns. Ten columns were tested, six of them (Fig. 3) being 15 ft. 10 1/4 ins, long, 15 ins, diameter, and from to 3-16 in. thick; two (Fig. 4) were 13 ft. ins, long, 8 ins. diam.., and two were to ft. long and 6 ins. diameter. A condensed table of results, Table III, is given herewith, the last two columns of which are from our own calculations and are not given in FIG. 6.-Co the Building Department report, which gives only the actual data obtained without drawing any conclusions.
+From the observations reported by Mr. Ewing we quote as follows:
+Column 1.-Column suddenly broke under a total load of 1,356,000 lbs. into 10 pieces; the fractured surface began about
+3 ft. 4 ins. (average) from the bottom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 7.-COLUMN No. 7. SHOWING BREAK AT ENDS AND MIDDLE OF 6-IN.
+COLUMN.
+
+
+The quality of metal was medium grain; foundry dirt and blow-holes were quite numerous ; in one place the foundry dirt extended half way through the metal in another pace there was thin layer of foundry dirt and honeycomb midway between the inner and outer surfaces; between this layer and the two surfaces, the
+metal was perfectly sound ; this layer of foundry dirt contributed to the weakness of the column as was evident from an inspection of the fractured surface.
+The column sheared at an angle of about 30º with an element of the surface, and about 45º with a normal to the surface, inside of the layer of foundry dirt, above referred to only. This layer of
+foundry dirt extended about 6 ins. around (circumference) on column. At another fractured surface where no defects occurred, the metal sheared along a spiral course about 45º with an element of the surface, and at an angle of 45º with normal to the surface this surface was about 15 ins. long.
+Column II. The column crushed near the lower end, many of the pieces being quite small; the bottom flange was left intact, the fractured surface beginning at the top of the flange or 134 ins, from the faced end of the column and extending around the shaft in an irregular manner reaching 5 ins, away from bottom flange in one place.
+The shaft of the column above the fractured portion was found to be permanently sprung  1/2in. in a distance of 9 ft. 4 ins, along shaft. The quality of metal at bottom of column, where fracture occurred, was medium grain and quite uniform in grain. Considerable quantities of foundry dirt was found at fractured surfaces and where the column crushed into small pieces, the foundry dirt extended all the way through in many spots.
+The shaft sheared in several paces at an angle of about 45º to the elements of the surface of the
+column parallel with its axis, the fractured surface following a sort of spiral path around the shaft. The metal at the same lime sheared through at an angle of from 30º to 45º with a normal to the surface of column.
+Column B 2.-The fractured portion of column was below the center, beginning 3 ft. 9 ins, from bottom and 6 ft. 6 in. from top
+of column.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LUMN NO.	5. SHOWING BREAK AT BOTTOM AND PERMANENT SET IN UNBROKEN POSITION.
+
+Quality of metal, rather coarse, but quite uniform. Flaws occurred in spots, but not bad. There was evidence of shear at 45c the same as in preceding columns.
+Column B (Fig 5).-The quality of metal was rather coarse in center of shell, and somewhat finer toward the surfaces. Cinders
+	and	in	considerable	quantity, two bad spots 
+
+nearly opposite at bottom of column where metal was poor; one of these was 5 ins, long on outside (around column) and extending about half way through the metal. On the opposite side the defective portion was 4 ins, wide on inside, and extended for one-third to two-thirds the way through the metal. There were indications of shear at about 450 similar to cases previously noted, at the bottom, where the column broke into small pieces.
+The total number of pieces was 15.
+The fractured surfaces revealed many cinder pockets and blowholes near middle of column. Small cracks were observed in the necking near top of column.
+Column 5 (Fig. 6).-Column broke into 14 pieces; all fractures occurred below the lower necking on column and broke through the bottom flange. The permanent set in the shaft between the upper and lower necking was 2 5-16 ins, in 8 ft. 3 ins. the upper part of the shaft above the necking remained perfectly straight after the test. Flaws were found in fractured surfaces near bottom, of foundry dirt. One bad flaw about ins, wide and 4 ins, high (long) on outside extending three-fifths of the way through.
+ Quality of metal was rather fine grain and very uniform where no flaws occurred. Part of the shaft
+remained intact to end, and part of flange was left on. After the test, it was found that dummy head against which the end of the column bore, was broken in such a way that the load on the column was eccentric after the head gave out; the nature of the fracture sustains this belief.
+

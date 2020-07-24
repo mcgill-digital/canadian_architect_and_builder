@@ -1,0 +1,114 @@
+
+
+
+
+<doctype type="text;plate">PRISMATIC LIGHTING FOR THE ILLUMINATION OF DARK INTERIORS.*
+
+
+
+<article title="Prismatic Lighting for the Illumination of Dark Interiors" author="Greene, William H.">
+
+By DR. WM. H. GREENE.
+
+
+
+THE practical application of the refractive property of the lens or prism to change the direction of light rays passing through it, for the purpose of artificial illumination, originated with the French physicist, Fresnel, who first suggested its use in lighthouses, for the protection of maritime coasts, about the year 1815 ; and the Fresnel lens in various modifications is to-day solely used for this purpose.
+
+The Fresnel lens is designed for projecting a powerful beam of parallel light upon objects to be illuminated at a distance. The principle of this device is seen in Fig. I, which shows a central piano-convex lens surrounded
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+by a series of rings or segments of lenses or prisms, to which successively diminishing curvatures or angles are given in order to give them a common focus.
+
+Within the past four or five years the application of this principle has been made, and with decided success, to the illumination of dark interior spaces where the amount of light naturally entering therein is insufficient for satisfactory illumination, and artificial lighting must occasionally or constantly be resorted to.
+
+The requirements of public buildings and modern office buildings in this respect. have been most urgent, and the various devices known generally by the name of " prismatic lights " have been extensively used for the purpose and have proved so useful that in one or another form they have come to be regarded by architects and builders, not to speak of a great number of householders, as indispensable.
+
+It is the purpose of this communication to give a brief review of the art of prismatic lighting, which, at the present time is passing through the active stages of the course of evolution, to which all the arts are subject, in determining the survival of the fittest.
+
+Omitting, for the present, consideration of the vault light for basements and cellars, where but one form of prism, namely, an approximately right-angled prism depending on total reflection for its utility, is admissible, there are two general methods in vogue of installing prismatic lights to meet the requirements of service.
+
+In one of these the sheet of prismatic glass is placed in a window frame in the vertical position, thus taking the place of a window light, In the other the sheet of prismatic glass is installed in a more or less inclined position, projecting outwards from the window opening. This form of construction is known in the trade as a
+
+
+
+The question as to which of these two forms of installation will give the best results is determined by the extent of the sky opening upon which dependence must be placed for light.
+
+Where this is of considerable area, as for example where the windows face a wide street, the prismatic
+
+
+
+* Paper read before the Franklin Institute, and printed in the Journal of the Society.
+
+glass set into the window-frames in the vertical position will give satisfactory results.
+
+Where the windows receive their light from a restricted area, as for example in court-yards, or the side-yards of dwelling houses, and, generally, in the many situations where high walls rising in close proximity cut off the free access of light from above, the projecting, canopy form of prismatic glass is preferable.
+
+Speaking in a general way, the change from the vertical to the canopy form of installation will be indicated when the incident angle of the light falling on the window opening averages 6o degrees from the horizontal plane.
+
+The popularity achieved by the use of light projecting devices of this general nature. has called into existence a great number of patented inventions, some claiming special forms of prism construction (in combination, in certain cases, with a prismatic or lenticular formation on the reverse side of the glass), and of a far greater number of designs, patents and methods of glazing, and other matters of minor detail.
+
+For the purpose of this communication, these minor devices may be left out of consideration, and the several generic forms of prism construction only will be given attention.
+
+These may be divided into two general classes
+
+(I) Those in which the glass forming the light-projecting device consists of sheets having on one surface a series of prisms or segments of lenses of any desired angle, the back of the sheet being a plane surface, and
+
+(2) Those in which the glass forming the light-projecting device consists of sheets having on both surfaces a series of prisms or lenses.
+
+The prism glass most generally known and used is that of the first-named class.
+
+The action of a section of prism glass of this construction is shown in Fig. 2, in elevation and plan. It
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+is obvious that the general refracting effect of the prismatic surface in this and in the other forms of prism glass will be substantially the same, whether the refractive surfaces of the structure be straight (i.e. prismatic), or more or less curved (i. e. lenticular), irrespective of the angles of the prism sections or of the curvature of the lens segments. It is important, however, that these angles (or curves) be carefully considered, since upon the correct appreciation of this element the light-projecting efficiency of the structure largely depends. Improper angles (or curvatures) may greatly diminish the efficiency of the device, by the dispersion and loss of light, caused by total reflections in the interior of the glass.
+

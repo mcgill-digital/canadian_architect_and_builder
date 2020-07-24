@@ -1,0 +1,42 @@
+
+
+
+
+<doctype type="text">severely maintained his prestige. The result was that not only did his local patronage increase rapidly, but his high qualifications displayed themselves, and he was found sturdily contesting for precedence with the names of Street, Scott and Burgess in circumstances known to the readers of the '' Builder " or " Building News " of the period.
+
+It may be said that the schedule system, except by engineers, is not practised in Canada nor in the United States. The answer is plain. There was a time when it was not practised in England and it may be that there is a slight prejudice against English methods of business, no matter how much they may commend themselves in the matter of fair dealing. An opposing reason is sometimes given that the system leads into complications. This may happen when blank schedules without quantities are priced by contractors and measurements made from the building after work has been executed. This method should not be followed. It is not followed in England, except in cases of urgency to save time. All measurements should be made from the plans. Quantities should be prepared therefrom unless in case of additional work or deductions, and then the original schedule if properly drawn will clear away all complications.
+
+It can be noticed that a desire manifests itself at times on the part of contractors of certain departments to introduce a schedule or third witness to the bargain. Plans and specification may be shown them by the architect and a desire expressed for their tender to conform to the same. But in return it will be found along with their tender they also furnish a schedule prepared by themselves, and sometimes also drawings or sketches showing their interpretation of the specification and plans. This is not quite as it should be. The architect loses his prestige, and in a court of law the contractor's instrument would doubtless operate against him. The architect should issue his proposals under his own authority and thereby retain his prestige in the works he carries out.
+
+There remains the primitive desire on the part of the owners to overburden architects with multifarious duties which belong to contractors and some to their foremen, and the owners should be educated on this point. In this age of specialities and business rush, when design is becoming important and contracts extensive, the architect ought to pursue that policy which will reduce his own personal fatigue, and thereby be the better able to produce the best results in the interest of his client and in the advancement of his name in his honourable profession.
+
+
+
+
+
+<article title="The Slaking and Storage of Lime and Cement" author="">THE SLAKING AND STORAGE OF LIME
+
+AND CEMENT.
+
+WE have recently read, says the British Clayworker, a long and very important memoir by Monsieur H. Le Chatelier whose name is well known as an authority on pyrometry. This memoir details the results of numerous experiments which Le Chatelier has made regarding the slaking and storing of lime and cement. We give the following condensation in which will he found the main results which have been obtained. The rate of slaking in lime varies with the compactness of the product, the porous lime obtained by the calcination of calcium carbonate at a comparatively low temperature (900° C.), becoming at once completely hydrated when brought into contact with some water,
+
+whilst the more compact form, prepared by decomposing a fusible lime salt, e.g., the nitrate, requires from 24 to 48 hours. The presence of fusible substances, e.g., silicates, aluminates, etc., retards the operation ; as does also magnesia, but this influence is counteracted by increasing the temperature of the water employed for hydration, or by the admixture therewith of about two per cent. of calcium chloride.
+
+In the case of hydraulic lime, the proportion of free lime should be reduced to a minimum, since when hydrated it contributes nothing to the hardening of the mass, and when unslaked tends to reduce the setting power. In practice, the former evil is obviated by a proper selection of the materials—limestone and fuel— and the latter by slaking at a high temperature, i.e., arranging the heap so as to preserve the heat evolved during hydration. In the laboratory, hydraulic lime is best slaked by immersing the vessel in a boiling saturated solution of calcium chloride.
+
+The process of slaking is divisible into four stages in practice, the first being one of simple absorption of water. The mixture being then shovelled up against the face of the main heap, is warmed in contact, and also evolves heat by the chemical action going on thus a portion of the added water is evaporated. In the third stage the mass cools, and moisture is fixed by the silicates, although some of the free lime still remains unslaked. That this is so may be proved by quickly heating a sample to 150° C. in a tube, whereupon moisture will be deposited at the upper end, though the temperature is too low to eliminate water from calcium hydrate.
+
+In the final stage the unslaked lime removes this water from the silicates, and becomes completely hydrated without any access of external moisture. The operation is simple, the interstitial atmosphere of the heap containing aqueous vapor at a tension equal to that of the dissociation of the hydrated silicates present ; the lime continually absorbs this moisture, which is replaced by a fresh quantity released by the silicates, the speed of the operation varying directly with the temperature.
+
+These necessary stages are frequently curtailed in practice to the detriment of the product, a sufficient time being essential to enable hydraulic lime of good composition to slack properly, whilst that which becomes quickly and thoroughly hydrated is sure to be of poor quality.
+
+To enable cement to attain the requisite degree of hydration of the free lime, storage preferably in silos— is indispensable. The changes it then undergoes correspond to the fourth stage in the slacking of hydraulic lime, thought they are accomplished more gradual by reason of the lower temperature prevailing. The absorption of moisture from the atmosphere being precluded, the addition of a sufficiency of water is necessary to produce the maximum benefit from the process.
+
+The successive crushings employed in grinding hydraulic cement, result in the pulverising of the more completely hydrated portions first, and thereby give rise to difference in the quality of the product. This defect is avoided by a certain addition of water previous to crushing.
+
+By maintaining the stored cement at higher than the ordinary temperatures, say 1000 C., the time of storage could be reduced to about 14 days. Such a course would facilitate the manufacture of natural cements
+
+free from aluminates, and therefore less fusible and more easy to kiln. Such cements, although in the absence of aluminates the combination of silica and lime does not ensue, may, when devoid of free lime, have greater powers of resistance than Portland cement. Consequently, proper storage, by tending to eliminate this element of weakness, affords a means of reviving the said industry.
+
+The presence or absence of free lime may be determined as follows :—The sample is made up into a strong paste with water, and left to set, being moistened to prevent dessication. Then, within 24 hours, the block is placed in water and heated to boiling point in less than four hours, the distension produced being measured by the aid of a divided mould or other suitable means.
+

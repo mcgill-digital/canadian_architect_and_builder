@@ -1,0 +1,44 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+able to the most culpable carelessness. Acetylene, in a general sense, is safer than oil lamps. There is less risk of poisoning by breathing it than there is with coal gas. Generators must be placed where the frost can not reach them, for should the water in the tank freeze,
+
+
+
+Calculating Number of Squares in a Roof. Diagram.—Scale. Inches to a Foot.
+
+FIG. 6.
+
+
+
+it will stop the making of gas and interfere with the mechanism of the whole machine.
+
+
+
+From ''Sheet Metal Worker": Is there any speedy method, that is also simple, by which the number of ''squares" in a roof may be obtained.
+
+ANS. - We submit the following for the consideration of our correspondent, and others, which is con-
+
+
+
+FIG. 7.
+
+
+
+densed from an article on this subject, published in "The Metal Worker" some time ago, and which seems to fit the requirements asked for: ''As a general thing, in residences having steep or Queen Anne roofs, the pitch is uniform, except on towers and varies from 6 inches in 12 inches for quarter pitch, to 12 inches for half pitch. A favorite pitch in this section is to inches in 12 inches. Instead of measuring each section of roof plan separately and adding them up, an easier method is to measure the roof plan flat, as if it were to be covered like a floor. Say that this amounts to 3000 square feet. Have at hand a diagram, like the accompanying sketch, Fig. 6, which shows different pitched roofs, from 6 in 12 to 12 in 12. Divide the 3000 by 1 2, the length of the flat line, and multiply the quotient by 5, add the result to the 3000. The calculation will be as follows:
+
+ 
+
+
+
+The correctness of this method can be proved by assuming a plain roof, 40 X 75 feet in the plan, which is 3000 square feet flat. With a roof 12 X 12 inches pitch, with ridge through the middle, the rafter is 56.7 feet over from eave to eave, as near as can be measured
+
+
+
+with a rule, which, multiplied by 75, gives 4,252.5 square feet. This method is correct, so long as the pitch is uniform. It is also quite simple. The multiplier 5 is what is left after the 1 2 inches is taken from the pitch line. If the pitch were 9 inches in 1 2 inches, the multiplier would be 3, as shown. Now, while the multiplier 3 is absolutely correct, is a fraction too large, which can be demonstrated by the well known principle in geometry viz., the square of the base added to the square of the perpendicular equals the square of the hypothenuse. But that is as near as can be measured on an ordinary rule, and it does not affect the correctness of the method. If perfect exactness is required, all we have to do is to extract the square root of the multiplier, and the thing is done but, the average workman knows very little about square-root, and cares less."
+
+
+
+From "City Builder" :—I have a water-closet with an S trap which is fixed on the first floor and connected to a 5-inch glazed earthenware soilpipe fixed outside the house. A 1-inch air pipe in the outgo of the trap, but notwithstanding at times there is an
+

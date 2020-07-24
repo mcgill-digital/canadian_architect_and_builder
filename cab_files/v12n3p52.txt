@@ -1,0 +1,74 @@
+<doctype type="text">
+
+<article title=" MODERN SYSTEMS OF INTERIOR WIRING." author=" CHUBBUCK,L.B.">
+
+	52	THE CANADIAN ARCHITECT	AND BUILDER.
+
+
+
+all obstructions in the partition from top to bottom. In passing down the narrow space between the lathing and brick work on outer walls, what is technically termed a '' mouse is used, consisting of a short chain fastened to the end of a cord. This is dropped down the wall and fished out from below; the wires are then drawn up to the outlet in flexible conduit. In order to conceal the wiring under the floors, sonic of the flooring is taken up, preferably by carpenters, although in small jobs this work is generally done by the electrician himself. Where thick, gummy flooring is encountered, this is a most laborious operation with a hand saw, and a small circular saw is often used to much advantage. The writer has seen a combination of one of these saws geared to a small iron clad motor used for this work, which answered the purpose perfectly. Both saw and motor were mounted on a light wooden frame, by which the saw was moved ahead as the cutting proceeded. The connection to the motor was made by a long twin wire to the mains in the basement.
+
+When it is considered too troublesome or expensive to conceal the wiring in a finished building by lifting floors, etc., the wires are often run in wooden mouldings to diminish the unsightliness of open wires across the ceilings or walls. This class of work is much used on steamboats and is especially adapted to wiring panelled rooms, as the moulding may be made to match the woodwork of the room. Considered from an electrical rather than the decorative standpoint, wiring imbedded in moulding is inferior to wiring supported on porcelain and freely surrounded by air. The dissipation of heat is more easily effected in the latter case than in the former, and in a damp place the moulding will cause leakage, as wet wood is a conductor rather than an insulator. A case was met with recently where a No. 8 wire under the action of electrolysis had been entirely wasted away to a green trace of copper salts, by being imbedded in moulding,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 2. CONCENTRIC WORK.
+
+
+
+which had been soaked by a break in an adjoining water pipe. In practice the use of moulding is confined to work which is in full view and quite dry, and is not allowed in concealed work, such as between floors and ceilings, because of uncertainty as to dampness.
+
+A method of wiring especially adapted to fireproof buildings and known as the concentric system, is used to a great extent in England and Germany, though not yet in America, In this system, as illustrated in Fig. 2, instead of using two separate wires, one conductor is enclosed inside of an outer armor, which is used as the other conductor. The inner conductor is a tinned copper wire, which is surrounded with vulcanized rubber, taped and bedded with jute. Over all is bound a layer of galvanized iron wires twisted spirally, forming a complete tube about the inner conductor, and having a conductivity equal to it. For threewire work, there are two inner conductors, insulated from each other, and from the outer covering, which in this case is used as the middle wire of the system. In both the two and three wire work this outer armor is grounded where the mains enter the building, and at different points along the wiring, if the stretches are long. A case may occur where the terminals of two separate concentrics which are on long circuits come a short distance apart. If one of these cables is fully loaded while the other is idle, there may be a "drop" of 221475n the loaded cable to no
+
+drop' at all on the other, which will cause a difference of potential of 1between the outers at the ends of the two cables. This under certain conditions is sufficient to set up electrolysis, which in time would destroy the covering of one or both cables
+
+unless they are both well grounded at these ends. For alternating current work, unless for short runs, both conductors must be run in the outer covering, as in the case of a single conductor in an outer iron armor, the drop along the line will be increased by impedance due to the alternating current.
+
+The advantages of the concentric system are, that there is practically only one wire to run, and this may be buried in plaster or run over iron work with impunity. The cable itself also is quite small, being for a No. 12 wire only in. in diameter, and as no insulators are required it is very easily concealed. Since it is armored, it is unaffected by nails, etc., and in case of any rough usage, such as the rupture of the cable by a chisel, a dead short-circuit is formed, which blows the fuse immediately, without any arc being formed external to the cable. The adherents of this system claim, like Mark Twain, that it is best to put all your eggs in one basket and then " watch that basket." They argue that it is better to put all the insulation on one conductor, and to see that this insulation is well protected, than to have two conductors, each liable to a breakdown. The disadvantages of this system are, first, the obvious difficulty in making the joints, and, second, having the outer grounded, which is a disputed question. This system is used chiefly in isolated plants or in buildings using alternating current and supplied from separate transformers, as there would probably be considerable electrolysis of gas and water mains where there was a network of bare outer conductors all over a city.
+
+The concentric system is not used in America, and in the modem type of fireproof buildings, having brick partitions and floors of brick arches across the steel floor beams, the frail system of wiring on porcelain knobs is unsuitable. There is usually no free space along the floors or in the walls for running the wires, and even if there were such a space, the chances are great that falling mortar or brick would either break the wires or ground them on the steel frame work. To provide protection and accessibility to the wiring in such buildings, the conduit systems have been evolved. As far back as 1885 there are instances of wiring on some steamers being run in small brass pipes. The inside of the pipes was smooth, and as the runs were not long, the flexible cord used was easily threaded through the pipe from one opening to the next. Speaking tubes were tried about this time to act as a channel for the wires, but it was found that the conductors could not be inserted or withdrawn freely, and speaking tubes for this purpose were discarded. Since that time there has been very largely used a tube of papier mache, impregnated with a bituminous compound, to render it impervious to moisture and also to increase its insulation. It was found, however, that when this "plain conduit" was concealed in plaster, it was ultimately destroyed by chemical action. Another form of conduit, called circular loom or flexible conduit, is now used extensively. The inner portion consists of a tube formed by a strip of treated paper wound in a spiral; over this is a braided covering coated on the outside with flakes of mica. Though the inner tube is rather inflammable, the outer tube will withstand quite a flame for some time.
+
+The next step was to cover the plain papier mache tube with a thin brass sheath having a longitudinal seam. This brass armored conduit was thought at one time to be near perfection, but even it was found to have its faults. It withstands chemical action to some extent, but is not completely waterproof, and, like all the preceding forms of conduit, it is very susceptible to mechanical injury. Much of the trouble with brass armored conduit has been due to the poor manner in which it was installed, as moisture entering at the outlets or at poor joints is absorbed by the inner lining, which in time will ground the wires on the outer covering.
+
+Several tests were made in the school laboratories on both the circular loom and brass armored conduit, to determine their insulation under the presence of moisture. These tests were made by the condenser method in connection with an electrostatic voltmeter. It was found that in the case of the circular loom, though of fairly high insulation when dry, the insulation resistance fell off very rapidly under the presence of much moisture. The brass armored conduit tested well when dry, and also with moisture for a short time. When exposed, however, to damp for some time, especially if the armor was defective, the insulation fell off, the effect of grounding being more noticeable in the case of the brass armored conduit than with the circular loom, on account of the metal covering. 
+
+For absolute mechanical and moisture protection, the iron armored conduit is now used. It has been made with insulating linings of paper, wood, rubber, cement, enamel and asphaltic compound. The metal tube should be the minimum of metal strength and rigidity, and the lining, besides being capable of
+

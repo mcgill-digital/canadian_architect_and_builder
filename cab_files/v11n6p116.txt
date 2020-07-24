@@ -1,0 +1,83 @@
+
+
+<doctype type="text">
+
+<article title="Improved Methods of Testing Cement. " author="">
+
+standard mortar can suffer if the mold is not held fast to the table.
+
+The oiling of the molds, particularly in preparing briquettes of neat cement, should not be omitted, but is to be done carefully in order that the strength of the pieces may not go down. Thin oils are better than thick. A mixture of three parts of rapeseed oil and one part of petroleum has given satisfaction during several years.
+
+In order to obtain uniform results it is necessary in tension as well as compression tests to adhere to a definite amount of mortar. The amount for each mold is to be weighed out. Mortar placed lightly in the mold gives uniform results, while the strength is increased in an uncontrollable manner by pressing the mortar into the molds. In Mr. Gary's experiments 1.9 pounds of mortar are used for the compression test pieces, and 0.4 pound for briquettes, except in the case of light cements, when 0.44 to 0.5 pound is used.
+
+When the mixing has been done with a trowel by hand, the greatest density and strength is given to both
+
+such conditions have not yet been undertaken at the laboratory. Fresh test pieces must be protected carefully from drafts and dryness.
+
+For comparative tests of cement the water in which the pieces are placed should he kept as nearly as possible at a constant temperature of from 59 to 64 degrees Fahrenheit. The strength of the piece is increased by raising the temperature of the water, but the influence of temperature varies among the different brands, being apparently greater in the case of stronger cements.
+
+
+
+
+
+<article title="Electric Heating and Its Apllications." author="Le Roy, M. Ferdinand">
+
+ELECTRIC HEATING AND ITS APPLICATIONS.*
+
+By M. FERNAND LE Roy, CE.
+
+
+
+IN pursuing his researches Mon. Le Roy sought to attain the following results
+
+The construction of apparatus of such simple and handy form that the ordinary domestic would experience no difficulty in using it; to make the application readily available in conjunction with the present forms of saucepans, kettles, stoves, irons, etc., so that any change of method on the part of housekeepers would be avoided.
+
+The system is described as consisting essentially in what is
+
+BUCHE ELECTRIQUE
+
+Actual Size—Plan
+
+Glass tube
+
+Stick of Silicum agglomate
+
+Exhausted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tension and compression test pieces by 150 blows of a 4.4-pound hammer. A reduction in the rate at which the blows are delivered influences the strength of the test pieces, and on that account the blows should be delivered at a rate of fifty per minute.
+
+The test pieces must be carefully struck off and smoothed on the top if the most regular and reliable results are to be obtained. Mere striking off without smoothing lowers the strength and uniformity of the tests.
+
+Tension test pieces cannot be left more than half an hour in the molds without influencing the results, while pieces for compression must be left 24 hours in the molds. The pieces must be kept under entirely similar circumstances.
+
+Slow-setting- cements must be protected from strong and protracted shaking during setting, because such shaking has a retarding influence which seems to increase with the age of the test piece. Experiments to determine the behavior of quick-setting cements under
+
+called la Buche electrique, or the electric log. A stick of silicum agglomerate metallised at each extremity in order to prevent the overheating of the joints and to insure good contact at the sockets is inserted in a glass tube, from which, to prevent the oxidation of the silicum, the air is exhausted. The two extremities of the glass tube are set in plaster and the metal ends of the stick are attached to the contact pieces in thc same manner as in the case of incandescent lamps (see diagram).
+
+Metal spring clips render the insertion of the heater in the circuit an extremely simple operation.
+
+Each buche or heater is constructed of such dimensions and resistance that the power absorbed under a pressure of 50 volts is from 60 to 100 watts, but of course they can be used under any voltage by arranging them in multiple series.
+
+For warming rooms the apparatus would be particularly serviceable, and for general purposes in the kitchen this simple appliance is equally adaptable, as it can be utilized in connection with our present utensils. Hitherto electric cooking devices have been constructed on a much more elaborate and consequently expensive principle, but the method here described bids fair to revolutionize this branch of electrical industry.
+
+
+
+Summary of paper communicated to the Society of Civil Engineers, Paris, Feb. 4, 1898.
+
+Metal Spanish Tiles and Gothic Shingles, The Star Ventilator, Merchant & Co. Inc., Brooklyn Chicago Philadelphia New York

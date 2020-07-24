@@ -1,0 +1,140 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	119
+
+
+
+<article title=" ILLUMINATION OF A WAREHOUSE " author="Smith, Ernest C.">ILLUMINATION OF A WAREHOUSE.
+
+By Ernest C. Smith M E.*
+
+
+
+There are buildings for many lines of business in which the theory most commonly applied to the lighting installation is that the men' experienced in these respective lines know best "where they want the lights.' if this were naturally true it would leave much gross misuse of the means of illumination to he accounted for. It is also much more commonly believed that close calculation and the use of highly efficient accessories for the class of lighting installation with which we have to deal in this number is extravagance. It is fortunately possible to make rather
+
+close	comparisons between	different methods of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lighting where efficiency is of prime importance. The problem in hand is the lighting of a wholesale warehouse. the stock carried being hardware and entlery. The building in question is 133 ft. front by 130 ft. deep, four stories and basement. All of these floors are used for stock except the ground floor one-third of which is used for offices and the balance for shipping and receiving. Inasmuch as a complete description of this installation would entail munch repetition and some very obvious information I have decided to simply illustrate the application of illuminating engineering to a problem of this sort without any at— tempt to rehearse the schedule of equipment actually used.
+
+Fig I is a sectional view of the shelving on either side of one of the second floor aisles 43 ft. in length, with a window at home end and the main aisle at the other. Time points taken for the calculation of illumination will be floor A, time plane in which orders and shipping memoranda would ordinarily be read B, and the centre of the space above the various shelves C, D. E, F, G. and H.
+
+The illumination is measured in terms of the strength of the incident rays and the distance of time object from time radiant source. Where light is measured in "candle power'' and distance in feet, the common unit of illumination is a foot—candle, i.e.' the illumination on a plane perpendicular to the rays at one foot disturbance from in a light source of one candle power. For all light sources of relatively small size the law of inverse squares applies very closely to the direct illumination, that
+
+*Engineering of Illumination, <building>Aikins Building. Winnipeg</building>.
+
+is to say, tile illumination varies inversely as the square of the distance from the source. If the plane of illumination is not perpendicular to the rays tile result of this calculation must he further multiplied by the cosine of the incident angle.
+
+For the conditions illustrated in Fig. 1 we will first consider the use of an ordinary 16 C.P. incandescent electric lamp with clear bulb hung in the middle of the aisle and 7 ft. from the floor. On consulting the Uniform illumination Curve of this lamp the following intensities of direct illumination will be found at the various stations:
+
+A—O.12	foot-candles.
+
+	B—O.75	"
+
+	C—O.18	''
+
+	D—O.35	"
+
+	E—0.75	"	"
+
+
+
+F—1.75
+
+	H -- 1.0	"
+
+If four of these lamps were placed at equal distances, that is, about 10 ft. apart along this aisle the minimum illumination in the plane B for reading purposes would be about 0.4 foot-candles, which is entirely insufficient. This method of lighting is open to the obvious criticism that the high intrinsic brilliancy of the lights ma— ten ally reduces the apparent illumination of surrounding objects, with the lamps in this position.
+
+We will next suppose time same 16 C. P. lamps to be swung 8½ ft. above the floor and fitting with flat porcelain cone reflectors. Referring again to the Uniform illumination Curve of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this unit the following intensities at the various stations are readily calculated:—
+
+A—0. 19 foot-candles.
+
+B—0.75
+
+C—0.21
+
+D—0.36	"
+
+E—0.67
+
+F—1.2	
+
+
+
+G—1.9	''
+
+H—O.75
+
+If placed 10 ft. apart as before the minimum illumination in the reading plane B would be 0.48 foot—candles, which is still insufficient but would enable reference to orders, as the lights themselves are further out of the direct hue of vision.
+
+As a check on the difference in efficiency be
+

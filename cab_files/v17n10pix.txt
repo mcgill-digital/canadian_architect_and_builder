@@ -1,0 +1,25 @@
+<doctype type="text;ad">THE CANADIAN ARCHITECT AND BUILDER	ix.
+
+
+
+<article title=" GERMAN REGULATIONS FOR REINFORCED
+
+CONCRETE.
+
+" author="">GERMAN REGULATIONS FOR REINFORCED
+
+CONCRETE.
+
+
+
+The regulations as to reinforced concrete in building construction issued in the form of a circular by the Prussian Minister of Public Works are a most important contribution to the subject and deserve the closest attention of architects and engineers in this country. These regulations are entirely commendable. They are based upon a recognition and understanding of the real nature of armoured-concrete construction ; they are so framed that invention and originality of design and technical methods of execution are not unduly interfered with ; and they are drawn up with due regard to avoidance of annoyance by unreasonable inspection, &c., which too often is a feature in our by-laws, causing delay and increase of cost. The latitude which these regulations give the officials to grant concessions where engineers or contractors can show good reasons for modification is particularly worthy of note, being a model of what our own building by-laws should be, especially in rural districts, for the red tapeism of standing by the strict letter of the law is a crying evil. The regulations officially acknowledge the pretensions of advocates of concrete-steel construction that, provided proper care is taken in the choice and admixture of materials and in the execution of the work, the stresses in members constructed of these two materials in combination can be very exactly determined, and they specify rules and give data for the design of structures on this system.
+
+It will be seen that the Prussian authorities take the coefficient of elasticity of steel as fifteen times that of concrete, whereas ten times is considered sufficient by many ; but the regulation is on the right side for safety, and as the authorities express their willingness to allow a concession on sufficient showing we see no rea
+
+son for complaint. Again, in columns it is stipulated that the concrete shall not be stressed beyond one tenth its breaking stress nor the steel beyond one fifth. This is also on the side of safety, hut most engineers would probably be ready to work with a much smaller margin of safety where ordinary care is exercised in execution. It is a wise provision that all the tensile stresses in a beam shall be treated as being resisted wholly by the steel reinforcement, for while well-made concrete may theoretically be capable of offering a substantial resistance to tensile stress, the impossibility of determining cracks or weakness in the concrete prevents any reliance on this in structural calculation. The common theory of flexure by which the intensity of bending stress varies directly as the distance from the neutral axis is prescribed by these regulations for beams, in view of its simplicity.
+
+Some authorities, we might point out, have endeavoured to supplant this common theory with a complicated one or an arbitrary law such as the variation of the intensity according to the ordinates of various curves, in view of the observed result that the common theory of flexure does not hold good throughout when an armoured-concrete beam is tested to failure ; but considering that there is just as much, if not more, variation from the same theory in the case of steel beams tested to failure, the wisdom of using such a simple method of calculation within the limits of ordinary working stresses for this new method of construction is apparent. It is also stipulated that stresses shall be conveyed to the steel reinforcement by the form of the latter as far as possible, but where this cannot be done the adhesive stress of the concrete for the iron shall be computed. This regulation is drafted in view of the fact that actual experience has shown that while the bond between the steel and the concrete is of material value, and may even be high, its amount is frequently uncertain, and with a view of giving to the steel reinforcement the stress which it must carry the form of the steel bars employed has become of great importance.—Builders' Journal.
+
+The Canadian Bridge company., Limited Walkerville Ontario Steel Buildings, Roof Trusses
+
+The National Builder Chicago The best building paper published in America

@@ -1,0 +1,116 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+ <article title=" INTERCOMMUNICATION " author="McLeod, James">INTERCOMMUNICATION 
+
+
+
+[Communications sent to this department must be addressed to the editor with the name AND address of the sender attached not necessarily for publication The editor does not hold himself responsible for the expressions or opinions of correspondents, but will, nevertheless, endeavor to secure correct replies to queries sent in, We do not guarantee answers to all queries, neither do we undertake to answer questions in issue following their appearance.]
+
+
+
+
+
+
+
+In the answer given regarding the proper laying of tiles in last month's number, there was a mistake made in placing the "cuts". The illustration given, numbered Fig. I, should he Fig. 2, and Fig. 2, should read 'Fig. 1", otherwise, the answer given is correct
+
+
+
+From ''Carpenter":—Will you kindly inform me through your excellent columns, for what purpose the so-called diagonal scale on steel-squares, is used, and the method of using it?
+
+ANs.—The diagonal scale which is found on steel squares, and sometimes on pocket rules is a very useful device for obtaining close measurements and taking off quantities from plans that are drawn to a small scale and in obtaining the fractions of an inch. The use of this scale, however does not seem to be as generally understood as the conveniences of it would warrant. The illustration, Fig. I, shows a scale designed
+
+
+
+
+
+
+
+
+
+
+
+<article title=" DIAGONAL SCALE " author="">
+
+
+
+FIG. i—DIAGONAL SCALE.
+
+
+
+
+
+for the purpose of measuring tenths an(l hundredths. This scale may be any length, but in this case, for convenience, we make it four inches long and one inch wide. We divide the width into ten equal parts as shown by the vertical figures, 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10. Now divide one inch of the length of the scale, into ten equal parts also as shown. Now each one of these divisions represents one tenth of an inch, either \ or horizontally. Draw diagonal lines from top to bottom as shown in the diagram, and these lines where they cross the horizontal lines, represent a difference of hundredths of an inch. Thus, for example, it is desired to take off, with the aid of compasses, any fraction of an inch, as, 24-one-hundredths, we proceed as follows:—run down the diagonal line marked 2, until we reach the horizontal line marked 4, which is the point required for one leg of the compasses, the other is placed on the vertical line 0, and the distance obtained is .24 of an inch. Again, if for example it is desired to lay off a distance of 3.67 --three sixty-seven hundredths inches, we place one leg of the compasses on the point C, and the other at the intersection of the diagonal line 6 and the horizontal line 7, In the same manner any tenth or hundredth of an inch may be ascertained and transferred with the aid of a pair of compasses. The scale need not always be divided into tenths and hundredths, but may be divided into eighths or any fraction that may be most convenient for the purpose desired. Primarily the use of the diagonal scale is to indicate minute measurements; an(l from it, it is not at all impossible to measure the 500th part of an inch, or indeed a smaller part; in actual practice, however, such minute measurements, are, as a rule, not required, but, in certain classes of drawing when
+
+a small scale is needed and extreme accuracy is necessary, the success of the operation will depend to a large extent upon the precision with which these small measurements are taken, and the diagonal scale is better adapted for insuring such precision than any other system.
+
+
+
+From <person>L.W.V.</person>--Will you kindly publish an easy rule for finding the cubic contents of a stone wall or pier.
+
+ANS.--A very simple method of arriving at the cubical contents of small portions of a building, as piers or footings, is the rule of cross multiplication, thus: what is the cubical contents of a pier or footing 4'2"X3'6"X2'0"? Rule, 4'-2"
+
+
+
+x
+
+-	6"
+
+	12'- 6"
+
+	2-0
+
+	I
+
+	14' - 7
+
+	x 2'
+
+
+
+
+
+29' - 2 Cubic feet.
+
+	Or this.		-3' x	12 cubic feet.
+
+		"	3' x 2'= o.6 " inches.
+
+			6" x 4'—2' o " feet.
+
+			2 X 6" = 12' or 1 cubic inch.
+
+
+
+14' 7' X 2'29 ft. 2 cubic inches.
+
+The rule to be observed, is that; feet multiplied by feet give feet, feet multiplied by inches give inches, feet multiplied by seconds give seconds, or 12M, inches multiplied by inches give seconds, or 12M For the measuration of surfaces the same rule may be used, thus: what is the superficial contents of a surface, or wall 8' 6" x 8' - o"? Example:—8' - 6"
+
+x
+
+8' - 0"
+
+
+
+64' - 0'
+
+4' -0
+
+
+
+68' - o" superficial feet.
+
+
+
+
+
+
+
+From <person>B. R. D.</person>—Please inform me if there is any general rule giving the area or size of foundations for supporting given thickness of brick and stone walls, or for piers of any size, and if there are such rules, will you kindly publish same and oblige an old subscriber from the first?
+
+ANs.—There is no specific or defined rules that can be relied upon as being accurate for the spread of foundations. Certain rules have been prescribed by those who have made a study of weights and pressures, but they have based their calculations on certain soils:
+
+for instance, a hard gravelly sand--if the strata does not rest on a layer of quicksand—may sustain a weight of 25 to 35 pounds to the square inch without compression, while a soil composed of an admixture of sand and loam will only sustain a weight of from 15 to 25 pounds to the square inch. Clay, however, is one of the most deceptive soils we know of for foundations; in dry weather it is capable of sustaining great weight while in long damp seasons it becomes so permeated with moisture as to make it very compressible and dangerous. Experience is the best, and in fact, the only reliable teacher in the matter of foundations and a very extended experience, too, is necessary to insure success
+

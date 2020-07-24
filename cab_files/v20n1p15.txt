@@ -1,0 +1,78 @@
+<doctype type="text">CANADIAN ARCHITECT AND BUILDER
+
+
+
+
+
+
+
+CANADIAN PLUMBER 
+
+HEATING AND LIGHTING ENGINEER
+
+
+
+
+
+
+
+<article title=" HEAT UNIT AND ITS APPLICATION TO BUILDINGS " author="Bennet, G. G.">
+
+HEAT UNIT AND ITS APPLICATION TO BUILDINGS.*
+
+By GEO. G. BENNETT.
+
+
+
+When estimating the heat required for the warming of buildings, the following methods may be used. Determine the loss in heat units through the walls and windows, and make some allowance for the loss of heat by the leakage of cold air, due to the faulty construction of the room or building. The total loss in heat units for the entire building is found by the following method, which will be found to give a very close approximation. It has been determined by practical experiment that the loss in heat units through the change of air in the room or building, caused by bad construction when not otherwise ventilated, is about 1.439 heat units per square foot of surface per hour. It will require 0.238 head units to raise 1 cubic foot of air 1 degree from absolute zero, but we are only figuring on zero on the Fahrenheit scale, and the specific heat of air at this temperature is 0.0864, therefore, to find the loss in heat units, we must multiply 0.236 by o.o864, which equals 0,0205. Now, this is equal to the loss of heat in cubic foot for hour for each degree difference of temperature, and the room or building must be heated to 70 degrees, with an outside temperature of zero. To find the total loss we must multiply 0.0205 by 70 degrees, which equal 1.439 heat units for 1 hour.
+
+Outside walls will require 0.223 heat units per hour per degree difference of temperature between the inside and outside temperatures. The difference is 70 degrees, which, multiplied by 0.223, equals 15.61 heat units, which gives the loss for 1 square foot for 1 hour. The next operation is to find the loss in heat units through 1 square foot of glass. The glass being the coldest part of the building, it requires a greater number of heat units to counteract the cooling effect of the outside temperature. The glass will lose 0.543 heat units per hour per degree of difference of temperature. Now, as in the former example, the difference between the inside and outside temperatures is 70 degrees, and 0.543 multiplied by 70 degrees equals 38.01 heat units, which is the loss for
+
+square foot of glass. The total loss per hour will be about as follows:
+
+Loss for 1 cubic foot of air	14.39 heat units Loss for 1 square foot of outside wall. 15.61 heat units Loss for square foot of glass      38.01 heat units
+
+	Total	55.059 heat units
+
+I will now give a practical example of the above methods of determining the amount of radiation for a given sized room. The room is 16 ft. square by 10 ft. high, and has four windows containing 32 square feet of glass each. The total number of heat units necessary
+
+*	Paper presented at meeting of Ohio Society Mechanical, Electric and Steam Engineers.
+
+ to counteract the cooling effect of glass, outside walls and cubical contents is as follows
+
+For the cubical contents we have 16 x 16 x 10
+
+2,560 cubic feet, which is the cubical contents. This,
+
+multiplied by 1.439 equals 3,683.84, the heat units.
+
+The square feet of outside wall equals 16 X 10 x 2
+
+320, and this multiplied by 15.61 equals 4,995.20 heat
+
+units lost through the outside walls. The square feet
+
+of glass equals 32 x 4 — 128, and this multiplied by
+
+38.01	— 4.864 heat units lost through the glass. The total amount is equal to:
+
+Cubical contents	3,683.840 heat. units
+
+Outside wall	4,995.20 heat units
+
+Glass	4,864 heat units
+
+	Total	13,542 heat units
+
+The total loss in heat units for the above room is now represented by 13,542.04.
+
+The number of square feet of pipe or other radiating surface that will be needed to counteract this loss is determined by the aid of the difference between the temperature of the steam pipe and the temperature at which the room is to be kept. We will assume the temperature of the steam to be 228 degrees pounds gage pressure. The difference between the temperature of the steam pipe and the temperature of the room will be the number of heat units given off in the room. The room is to be kept at 70 degrees, then 228 70 158 heat units —i. e., each square foot of heating surface will give off to the air in the room 158 heat units, so if we divide 13,542 by 158 the quotient will be the square feet of pipe or radiating surface, which is equal to 85.7.
+
+If it is desired to heat the same room by hot water the process is somewhat similar, with the exception that the temperature of the water will be considerably less than that of the steam, so that the square feet of heating surface will be increased that much. In hot water heating the temperature of the water very rarely gets above 180 degrees, and it will be found safer to estimate the temperature of the water at about 140 degrees. If the outside temperature should get below zero the temperature of the water could be raised to 180 or 200 degrees.
+
+
+
+PLUMBING GOODS.
+
+A Toronto architect expressed to the writer his opinion that there exists a favorable opportunity for a competent firm to establish an agency in Canada for British plumbing goods. The preferential tariff offers an advantage in this direction. In order that such an undertaking might be successful, however, a complete stock, including parts required for repairs, would have to be carried. The difficulty and delay incident to securing parts is given as one of the chief causes for the increasing use of American as against British goods in this line. Doubtless another reason is the fact that goods of this description are now being manufactured on a considerable scale in Canada.
+

@@ -1,0 +1,64 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER	103
+
+
+
+<article title="Foundations of Buildings" author="Anglin, S.">FOUNDATIONS OF BUILDINGS.
+
+By S. ANGLIN, Master of Engineering. Royal university of Ireland.
+
+
+
+IN recent years thc field of operations of the architect has been considerably enlarged by the introduction of steel and iron in the construction of buildings, and what was formerly considered to be exclusively the business of the civil engineer is becoming more the work of the architect. A knowledge, therefore, of the nature and properties of steel and iron and the methods of calculating the strengths of the various members of such structures is becoming more essential every day to the architect. It is not proposed in this paper to deal with thc arranging and designing of such structures—this of itself would supply material for more than one paper
+
+—but rather to make a few remarks on the supertructure or foundations of such buildings, and, indeed, of buildings in general.
+
+In ordinary buildings constructed of stone or brick walls, the pressure on the foundations is pretty evenly distributed over a comparatively large area of ground surface so that pressure per square foot on the foundations is usually small, and does not call for any special consideration except when the ground is soft or treacherous. In the case of lofty buildings of enormous weight supported on pillars the case, however, is quite different, In such buildings as much as 1,000 tons may come on the foundations of a single pillar; this immense pressure being exerted on a comparatively small area of ground surface, it will be apparent that special means will have to be adopted for insuring the stability of such foundations.
+
+My attention was forcibly drawn to the importance of this subject, and to the scant thought it sometimes receives by the architect, about four year ago, when I was asked to report on the causes of the collapse of a large mill then in course of construction in Germany. This was a typical Lancashire cotton mill, of several stories, the floors being for the most part supported on cast-iron pillars. These pillars rested On brick piers, underneath which were beds of concrete, the concrete itself resting on a sand foundation. Partly owing to the presence of water in the sand, partly owing to inferior bricks and mortar and the slovenly manner in which the work was executed, and perhaps, also, partly owing to the defective cast-iron base plates on which the pillars rested, one day, when the construction of the mill was nearing completion, the foundations of One or more of the pillars subsided, causing the base plates to fracture, and the shafts of the pillars to pierce through the brickwork and concrete beneath. This occasioned the complete wreck of the structure, and entailed the loss of the lives of several of the workmen. Here we have an example of a building carefully designed and erected so far as its superstructure was concerned, but, owing to carelessness in the designing and execution of the foundations, meeting with an untimely fate.
+
+In America the construction of lofty steel and iron buildings is carried to much greater lengths than in this country. The erection of what are termed "sky scrapers' seems to have originated in Chicago, and from there has spread to several other cities in the States, and it is not at all improbable that in the near future we shall see their introduction into England.
+
+There may be many objections to these colossal structures from an aesthetic point of view, and I dare say many people consider them monstrous eyesores. There may be also objections to them as excluding light and air ; yet, when we admit all this, we cannot but admire the ingenuity displayed in their construction, and from a commercial point of view we must admit their claims, especially in cities where land is very valuable. Such being the case, we should face the situation boldly, and, instead of decrying them as monstrosities, should rather study them and make Ourselves conversant wit h all the intricacies of their design.
+
+In America, the work of designing these structures is usually divided between the engineer and architect. The details of their construction are so varied that neither the engineer nor the architect by himself can satisfactorily cope with them. The work of the engineer consists in designing the steel framework, including the pillars and girders ; that of the architect in arranging the plan of the rooms and offices and the skeleton walls and partitions, and also the general decorations; while the foundations, which are of the utmost importance, might be planned conjointly by both. In providing for these, thc loads coming on the foundations must first be carefully calculated. These consist of, first, the dead weight of the building itself, including that of the floors and roof; and, secondly, the loads on the floors, which may consist of goods, machinery, and people, and also tile wind pressure exerted Oil the building. These latter loads may change from time to time, and are sometimes termed live or
+
+A paper read before the Manchester Society of Architects, and reprinted from the Journal of the R.I.B.A.
+
+accidental loads, and they vary considerably in different buildings. The maximum live loads on tile floors of dwellings may be taken
+
+as 1 1/4 cwt. per square foot; on public buildings at 1 1/2 cwt. per square foot; and on warehouses at from 1 1/2 to 3 cwt. cwt. per square foot. In the case of dwelling-houses and public buildings it scarcely seems probable that these loads call be reached, but it is always advisable to have a margin. It is quite possible that such floors may contain a densely-packed crowd of people, which may weigh as much as cwt. per square foot of floor surface. In the case of lofty structures consisting mainly of offices with light fixed furniture it is not necessary to allow for such heavy loads as those specified. The weight of the roof, including wind pressure and snow, depends on the span, and varies between 25 and 65 lbs. per square foot of roof surface.
+
+A lofty steel structure has just been completed in New York, and it may be of interest to refer to a few particulars respecting it.
+
+This is tile Park Row building, mainly consisting of offices. It is the highest building in the world, its height from the level of the herb in Park Row to the top of the cupola being 386 feet. It has thirty-two stories, and contains 1,000 offices, having accommodation for 4,000 persons. The total weight of the building is estimated at 65,000 tons, and the pressure on some of tile pillar foundations is as much as 1,100 tons.
+
+The structure is carried on round timber piles of spruce from 10 to 14 inches in diameter, driven into a sand foundation to a depth of about 20 feet. The piles are placed from i6 to i8 inches apart, centre to centre, and are driven in rows, the distance between each row being 24 inches—centres. The load Oil each pile does not exceed 16 tons. The heads of the piles were cut off level, and concrete was tilled in between them to a depth of 12 to 16 inches the surface of the Concrete being level with the tops of the piles. Upon the concrete are laid granite blocks which receive brick piers, which in their turn receive the grillage beams and distributing girders. Some of the interior pillars rest directly on tile grillage beams, which are steel-rolled joists. In other cases distributing girders rest On the grillage beams of two or mote of the foundations, and support two or three pillars. These distributing girders are massive steel-riveted girders of the box form, and vary in length from 20 to 47 feet, and in depth from 6 to 8 feet, and some of them weigh as much as 47 tons.
+
+This example of a building is, of course, an extreme case, and the architect may never be called upon to consider such enormous loads and such intricate foundations ; yet the general principles coming into operation here are, ill a modified way, applicable to similar buildings of less pretentious.
+
+Having said so much in a general way, we will now consider more in detail as to what constitutes a good foundation, and at working loads different foundations are capable of sustaining. I would, however, remark that within the scope of a brief paper, hastily written, it is not claimed that anything in the nature of a complete survey of tile question can be attempted.
+
+In preparing a foundation thc first thing to he done is to examine the nature of the ground on which the building is to be erected. It is not often that the surface of the ground is suitable for building upon. If it is of rock, of course we have all that is necessary so far as the stability is concerned. It is tile exception, and not the rule, however, that a rocky foundation is to be met with. It then becomes necessary to excavate until a reliable foundation is reached. As to what constitutes a reliable substratum is a matter very largely time result of practical experience.
+
+
+
+Ordinary foundations may be ranged under three classes, viz
+
+I. Foundations in rock, or in some material whose stability is not affected by water.
+
+2. Foundations in firm earth under which are included such materials as sand, gravel, and hard clay.
+
+3. Foundations in soft earth.
+
+It must be borne in mind that the base of every foundation should be as clearly as possible perpendicular to the direction of the pressure which it has to sustain ; and moreover, it must he of sufficient area to bear that pressure with safety.
+
+To prepare a rock foundation for being built upon it will be necessary :—(1) To cut away all loose and decayed parts of the rock
+
+
+
+(2)	to cut and dress the rock to a plane surface, or to a set of plane surfaces like those of steps, perpendicular to the direction of the pressure; (3) to fill, where necessary, hollows in the rock with concrete or rubble masonry or it may be advisable, in order to distribute the pressure, to cover the surface of the rock with a layer of concrete varying in thickness from a few inches to several feet.
+
+
+
+The crushing strength of rock varies considerably. That of chalk, if we may consider chalk a rock, is as low as 30 tons per square foot. The crushing strengths of different kinds of sand-
+

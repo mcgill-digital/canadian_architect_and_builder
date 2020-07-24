@@ -1,0 +1,74 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+jig saw are felt in the conception of the female form. This is truly new art. Representations of women are usually said to be either intellectual or sensuous ; but here are figures which are neither.
+
+In its more moderate form the shaped board style of work is shown in such forms as the door architraves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in Fig. 5. It is evident that the feebleness of A can only be corrected by the br tality of B.
+
+There is no life in this sort of effort alter shape for shape's sake, and when people to whom fashions in art serve the same purpose as a poster—something to attract attention for a while because it is new—find it has served its purpose, this branch of the New Art will told its tent like the Arabs and silently steal away.
+
+Of the same order as this amorphous shaping of material are the French statues growing out of a crude block of marble, and their unconfined architectural carving and flowing lines of moulding. It is all apparently at bottom a reaction from the conventions of classical architecture, and the mistake made is in confusing with the conventions of style conventions which are essential to satisfactory expression in all building in rejecting both the prevailing horizontality of classical architecture and the use of the mouldings by which it is expressed ; in avoiding right lines altogether or making them run the other way. Mr<person>. Voysey</person>, whose own work is allied to reactionary ideas, complains in an article of the excess of verticality.
+
+Gothic architecture may he vertical in feeling but there is nothing sits so well upon the ground; its masses take care of that both in plan and structure; in fact, as a school of design which was essentially structural, it could not do otherwise than express, by the facts of its construction, the law of gravity which is the basis of building. The conventions of classic architecture express the same thing in an abstract manner, emphasizing for the greater satisfaction of the eye its repose under a law of which we are always unconsciously conscious. If the New Art wants a change, it must devise a new convention on the same lines, or else a new law.
+
+It is quite otherwise when it comes to movable furniture. Here the freedom of the New Art scores over Michael Angelo ; for such furniture is not building but joinery. Its conditions of' stability are not vertical pressure. Its tenons are fox wedged or pinned, which give its joints tensional strength ; or glued, so that their strength comes from suction, due to the pressure of the atmosphere, which follows the law of fluids, pressing every way. Furniture is made to be both lifted and loaded, and its construction has various tensions to express as well as vertical resistance. The joints are therefore absolutely devoid of expression and to ignore them is the proper policy. The grace of Colonna's furniture, shown in illustrations of the Maison Bing in the Studio and Architectural Record, is mainly due to the vertical and horizontal lines, both of which are severely simple, meeting with a slight curve. This does not at all express the joint, which comes somewhere in the curve ; but it is exactly the right expression to the eye of the perfect union of the work at the joints ; the union of parts in an article which is intended to be moved. The same thing may be expressed by a projecting tenon and pin ; but the " honesty " of this work is not carried far enough ; if it proclaims itself movable it ought to be so, but it usually is not. Colonna's furniture is light and its expressiveness is more delicate than in the furniture of our rude (and strong) forefathers. The joints (to return to them) are
+
+emphatic points in his design, like the corners of a picture frame, but no more. He usually emphasizes them still further by knots of carving which are not intended to be read, as it were, in one direction but are worked over the joint.
+
+To sum up, because it is time, not because the subject is fully treated :—l'Art Nouveau, has probably arisen as a reaction from the over tigidity of system in classical design. But the reaction is everywhere ; the New Art is but one phase and for the most part not a very good one. There is as much reaction in Mr. Belcher's Institute of Chartered Accountants as in the greatest vagary in Paris; it is just as much alive as any piece of New Art and likely to remain alive much longer.
+
+<person>W.	A. LANGTON.
+
+</person>
+
+<article title=" HEATING AND VENTILATION OF BUILDINGS*
+
+" author="Carpenter, R. C.">HEATING AND VENTILATION OF BUILDINGS*
+
+By R.C. CARPENTER, Professor Experimental Engineering, Cornell University.
+
+In the time which can reasonably be devoted to a consideration of this subject, only a few elements relating to the important art of heating and ventilation can be diseussed. I have selected consequently certain phases of the question which I believe would be of interest to architects and which I thought would lead to a practical and valuable discussion.
+
+TEMPERATURE REQUIRED.
+
+
+
+The requirement for heating varies in different countries and under different conditions so that propositions and rules are very rarely of' such a general nature that they can be applied without some modification due to surrounding conditions. On the continent of Europe 15° Centigrade, corresponding to about 59° Fah., is considered a comfortable temperature ; in America it is the general practice and custom to maintain a temperature of 7O° Fah, in dwellings, offices, stores and most workshops, and a heating apparatus is considered inadequate which will not maintain this temperature under all conditions of weather.
+
+EFFECT OF MOISTURE.
+
+
+
+The lack of moisture in the air is in a large measure responsible for the demand for such high temperatures in our inhabited rooms. In buildings warmed without an additional supply of moisture, the relative humidity becomes very low and as a consequence the air develops an excessive greediness for moisture and a capacity for drying out all furniture and removing all moisture from bodies with which it comes in contact. Outside air usually contains from ½ to 2/3 the amount of moisture required for saturation and as a consequence it exerts only a slight influence in evaporating fluids from the body or from other materials. This same air if warmed to any considerable amount develops a great capacity for absorbing or evaporating more moisture and as this evaporating process is one which removes heat from the human body, it no doubt accounts for the demand for a hot room provided it contains dry air. This is well illustrated by a consideration of the capacity for holding moisture by air at different, temperatures. Thus, one cubic foot of air at a temperature of zero is saturated by .56 of a grain, while air at 70 degrees temperature requires very nearly 8 grains to saturate one cubic foot. This indicates that if air of zero degrees temperature be drawn into a room and warmed, nearly 7½ grains of moisture per cubic foot must be added to maintain it in a saturated condition, or about 3¾ grains would be required to maintain its relative humidity at about 50 per cent. of the saturated condition, or say in a comfortable condition. Since 7000 grains make one pound, this calculation would indicate that more than one pound of water must be added for each 2000 cubic feet of air introduced in order to maintain the room in a comfortable condition so far as the degree of humidity is concerned.
+
+In respect to the supply of moisture to our warmed rooms, all our heating systems are deficient and until
+
+*From Heating and ventilation, N. Y. <firm>John Wiley & Son</firm>. (4th Edition) +Paper read at the annual convention of the O.A.A., Jan.. 1904.
+

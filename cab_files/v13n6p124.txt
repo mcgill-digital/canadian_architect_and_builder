@@ -1,0 +1,50 @@
+
+
+
+
+<doctype type="text;plate">COLLAPSE OF A CHIMNEY AT HAMILTON,
+
+ONT.
+
+<article title="Collapse of a Chimney at Hamilton" author="">At one o'clock on the morning of the 19th of April a brick chimney 200 feet in height, constructed at Hamilton, Ont., for the Hoefner Refining Co., collapsed. The structure had only been completed on the afternoon of the previous day. We reproduce from the Engineering Record the accompanying illustration and particulars of the chimney, and the circumstances under which the accident occurred
+
+A sectional elevation of the chimney is given in an accompanying drawing, from which it may he noted it was a single shaft resting on a stone masonry founda
+
+tion on concrete. It rose to a height of 200 feet, and the cross-section of its flue was apparently a regular octagon, the diameter of the inscribed circle being 8 feet. The brickwork varied from feet 6 inches in thickness at the base to 26 inches at the top. There were no offsets on the inside. of the shafts, as are common in such structures. The tunnel connecting with the chimney flue, it will be noticed, entered through the footing. on top of the two lower courses.
+
+The ground on which the stack stood is blue clay. Beach sand was used in the outside masonry and the sand for the inside was taken from a building site in the city which had been pronounced good. In the cold weather the mortar was used hot. It is stated that when the stack was up about 170 feet, it showed signs of crushing on all four sides, just above the stonework, bricks chipping off in many places. Attention was drawn to the circumstance at the time, but
+
+the chimney was completed, with the result that when the 30 feet were added the collapse came. The chimney fell in a direction north by east, and on the same side as the tunnel. The ragged line across the drawing near the base of the chimney shows the stump left standing, which has several fissures or cracks running diagonally across it as much as an inch wide.
+
+A calculation was made to determine the probable static unit stress of the brickwork on the bearing area of the stone masonry, where, it will be remembered, signs of crushing were observed. Assuming the chimney to be square on the outside for 25 feet of its height, or from the 5-foot elevation to the 30-foot elevation, and to be the frustrum of a pyramid from this
+
+level to its top, the cubical contents, subtracting the 195-foot octagonal flue space, were found to be about
+
+36,500 cubic feet. The brick masonry was assumed to weigh 125 pounds per cubic foot, so that the total weight of the brickwork would amount to 2,285 tons. The bearing area being 308 square feet, the pressure per square foot due to the dead weight would, therefore, be 7.4 tons.
+
+Later information states that several large stones were found embedded in the first or lower 25 feet of the shaft, where the wall was feet 6 inches thick ; and all along the line where the shaft slid off, these stones were exposed to view. The contractor claims he was instructed to put the stones in, while the architect charges the contractor with this construction. Some of the stones came to within four inches of the outside face and were irregular in shape and as much as I foot I I inches in depth. A first-class brick was used in ordinary lime mortar. At the time of the accident a slight southerly wind was blowing.
+
+In reply to enquiries we are informed that the chimney is being rebuilt by the same contractor, under an inspector, hut we have not learned who is to bear the loss resulting from the accident.
+
+
+
+
+
+<article title="Concrete Floor Construction" author="">CONCRETE FLOOR CONSTRUCTION.
+
+
+
+RULES for concrete floor construction were recently given by Mr. Frank Caws, in a paper in the Journal of the Royal Institute of British Architects, as follows
+
+i. To take pains to obtain old cement. 2. To use good broken-brick aggregate, and not sand, in the proportion of four of brick to one of cement for the body of the slab, and fine crushed granite without sand for the surface coating, having about three of granite to one of cement. (I may say I have found that when the surface coat is gauged two of granite to one of cement, it sets too soon, while the continued expansion of the body beneath is still going on, and this causes minute cracks, tending to deface and spoil the surface.) 3. To adopt, as precautionary provision, sheep-wire netting as the base, and steel angle or tee bars weighing not more than 1 1/2 pounds per lineal foot, spaced about 3 feet apart on the netting. 4. To consider a slab 10 feet square by 4 inches thick as capable of sustaining a load of 9 hundred-weight per foot, including its own weight, and to reckon that every slab will bear per square foot more or less than 9 hundredweight directly in proportion to the square of its thickness, and inversely in proportion to the cube of its span. When the slab is rectangular the minimum span has to be considered the span. 5. To avoid casting slabs in frosty weather. 6. To insist upon organizing the gangs of workmen so as to cast as large an area of slabs as possible in one heat, and never to allow a slab to be left over night with its area only partially cast. 7. To insist upon strong centering, and to keep it all standing not less than five weeks after the last slab of the series of one flat is cast, and absolutely to forbid and prevent the sudden and careless removal of the centering.
+
+
+
+
+
+<article title="Proposed New Cement Manufacturing Company" author="">PROPOSED NEW CEMENT MANUFACTURING COMPANY.
+
+
+
+A public meeting of the citizens of the town of Durham, Ont., was held recently to consider what steps should be taken to establish there a Portland cement manufactory. It was stated that the conditions were most favorable, an abundant supply of the required mud and clay being available, with excellent shipping facilities. The following gentlemen were appointed a committee to secure a charter for a joint stock company to carry out the project Messrs. Neil McKechnie, Gilbert Mckechnie, Wm. Laidlaw, Chas. McKinnon, Charter Smith and Dr. Jamieson.
+

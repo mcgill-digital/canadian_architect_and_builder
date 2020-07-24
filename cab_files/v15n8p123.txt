@@ -1,0 +1,90 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+galvanic action being set up between the iron and the minimum. It is singular that no one has ever advanced this objection to the painting of iron with white lead and linseed oil, an application which is exactly on all fours with the composition of red lead and linseed oil. The objectors to red lead and not to white lead also seem to have forgotten that the oil, especially when dry, is so bad a conductor the passage of any current seems absolutely impossible. At Bremen, an iron coated with red lead 18 years before was found to be absolutely insulated, so that it did not affect a galvanometer with tensions of 150 volts. In fact, the director of telegraphs at Hanover was led to suppose that even atmospheric tensions might be resisted by a mixture of red lead and linseed oil.
+
+A paste of red lead and linseed oil is the only substance capable of closing hermetically joints subjected to great pressure from gases or water, and it is used in the manufacture of secondary batteries to protect metals from oxidation. The experiments of <person>Hacketal </person>have shown that a paste of linseed oil and red lead applied to vegetable fibre provides a solid insulating, weather-resisting envelope, capable of replacing guttapercha for overhead wires. The resistance of the dry mass is more than 640,000 megohms per square inch. The tissue impregnated with linseed oil pasted with from four to five times its weight of red lead loses completely its hygroscopic properties and becomes an insulator equal to india rubber. It is insensible to all change of weather.
+
+Two threads of bronze, each one-twentieth of an inch in diameter, were exposed to chlorine gas for a month, one naked, the other painted with red lead and linseed oil. The latter was not in the least affected, and the other was eaten completely through.
+
+The present agitation against the use of lead in any form, from its poisonous effects on the workmen using it, is taking a wrong form. The right course is not to prohibit the use of lead and its compounds, which have valuable properties probably impossible to secure with any substitutes, but to find out and adopt methods whereby they may be used without injuring the health of those who have to handle them. Such must exist, and up to the present, very little attempt has been made to find them.—L'Architecture.
+
+
+
+
+
+<article title=" CANADIAN BRICK MANUFACTURERS' LOSSES " author="Frost">CANADIAN BRICK MANUFACTURERS' LOSSES
+
+
+
+BY <person>FROST</person>.
+
+
+
+The Clayworker states that the brick manufacturers of Ottawa, Canada, suffered a severe loss from frost recently. Nearly all of the yards had started the 1st of May, and thousands of brick were frozen. <person>Alex Graham</person>, of Ottawa East, lost 150,000 brick, having started about a week before the others. The Ottawa Brick Manufacturing Co. was the next heaviest loser, 120,000 being destroyed. <firm>King & Mulligan </firm>lost
+
+and <person>Thomas O'Reilly</person>
+
+	75,000	75,000. These three
+
+
+
+manufacturers have yards at Hog's Back. <firm>Odell Bros.</firm>., at Ottawa East, were the safest, losing only 30,000. They began operations a little later. <firm>Ballantyne & Conn</firm>, of Billings' Bridge, lost 100,000 brick and had the water pipes and pump badly damaged by frost. There is a big demand for brick among builders and the first on thc market would have claimed a high price.
+
+HOW WAGES HAVE ADVANCED.
+
+The New York Record and Guide prints the following table showing how wages have advanced in the building trades since 1860
+
+<article title=" VARIATION IN PRICES PER HOUR or LABOR FROM 1860 TO 1902" author="">VARIATION IN PRICES PER HOUR or LABOR FROM 1860 TO 1902.
+
+	In
+
+1860 *1869 1879.	1902. crease.
+
+Bricklayers	$0.22 $0.34 $0.30 $0.60	76
+
+Carpenters		.22		.20	.50	47
+
+Gas fitters				.30	.50	TOO
+
+Hod carriers and	other laborers	.17	.21	.17	.33	57
+
+Marble cutters	28	.32	.25	.55	71
+
+Marble polisher	15	.20	.17	.44	120
+
+Masons	18	.34	.30	.55	61
+
+Painters	22	.27	.25	.44	63
+
+Plasterers	22	.39 .30	.62	59
+
+Plumbers	' '	27	.30	.50	85
+
+Roofers	20	.32	.25	.50	56
+
+Stone cutters	28	.34	.30	.54	59
+
+	Average per cent. of increase	71
+
+	Wages reduced to gold basis.
+
+
+
+Per cent. of increase from 1869 to 1902.
+
+
+
+To this great increase in wages amounting in some trades to more than 100 per cent. must be added a reduction of 20 per cent. in the working clay. It is estimated that labor represents about 40 per cent. of the present cost of building, and yet we have strikes in all the trades for higher pay. The result must be to restrict building enterprise.
+
+
+
+
+
+<article title=" ENGINEERING BRICKWORK " author="">ENGINEERING BRICKWORK.
+
+
+
+We have recently been inspecting some fine specimens of engineering brickwork, in connection with bridge-building, says the British Clayworker. The particular wall, which we may describe as a type of several others on the same large contract, is about twenty feet in height, and about seven feet in thickness. This is how it was built A foundation about eight feet in depth of good concrete was first put in upon this the wall rose. The outside vertical faces were faced will brindles, and the interior filled up with common red bricks. So far, so good. But the thickness of the reds was a little less than that of the brindles. Consequently, in the absence of sufficient infilling concrete, there will always be internal strains and stresses of no ordinary character as long as the wall lasts. If these circumstances do riot lead to the facing bricks being cracked or forced outwards it will be a marvel. Again, there is considerable difficulty in preserving the regular courses of the bricks in this wall, owing to the fact that one—half of the wall has to be built before the other half, and the latter half has to be joined to the former. There would Id, of course, be no difficulty in joining the two halves together if the thickness of the red were the -same as that of the brindles. As it is, the wall has to be much thicker than would be the case were the bonding perfectly true. On the score of using more bricks than need be for building construction, the clayworker cannot complain but it is unfair to him to point out, as the engineer will probably do later on, that his bricks are not strong enough for general engineering purposes. Everybody knows that the co-efficient of expansion of steel is not the same as that oh bricks —no matter of what kind. Engineers are so well aware of this fact that they have for years past allowed for the movement of the girders, as the latter are affected more rapidly by extremes of change in temperature than are bricks. When that movement is not compensated for in some way, the brickwork or stonework on which the girders are
+

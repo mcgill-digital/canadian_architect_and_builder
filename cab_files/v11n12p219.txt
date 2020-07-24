@@ -1,0 +1,150 @@
+<doctype type="text">
+
+<article title=" VENTILATION OF HOUSE DRAINS." author="">
+
+	THE CANADIAN	ARCHITECT AND	BUILDER
+
+
+
+half moon (Fig. 3). This is accounted for by the friction of the water near the sides of pipe, which caused the particles of water nearest to move not so quickly as those in the centre. In the narrower side line (2 In ) the same observation was made, only with this difference, that the inflow of larger masses of water immediately caused the formation of a piston, and in consequence the emptying of the connections. The smaller pipe was cut open at the end and carried up vertically (Fig. 1). here the same phenomena were observed Th is pipe acts just like a main line of smaller dimensions.
+
+No principal main interception trap was used in later experiments with siphons, since the use of the same is prohibited, and rightly so, by the new Cologne police regulations. Yet a few experiments. were made on account of the great effect such a contrivance has upon the movement of both water and air in drains.
+
+When the trap was removed from the principal syphon, and a strong inflow of water equal to a medium rainfall was let into the second fall pipe, it was shown that the water rose in the principal syphon up to the top ridge, and a current of air ensued which could clearly be felt one yard above the open syphon, even when the first fall pipe was open at the top. When the main trap was closed, thc current of air became strong enough to constantly break water seals which had a depth of ½in. It was even noticed that particles of falling water in the fall pipe were thrown up by this current. At any rate, these trials proved that the Omission of the main trap facilitates the proper discharge of water in the house drains. Another question of the utmost importance in connection with the experiments described below was to ascertain the limit at which siphons were self—cleansing as, t bough an increase in the water seal diminishes the danger of its being rendered useless by suction, experiments with siphons which are not self-cleaning are of no value. The maximum depth of the water seal depends upon the rinsing power sufficient to render the siphon self-cleansing. In order 10 ascertain this limit, experiments were made with siphons made of glass, of different widths and of different depths of water seal. The whole of the bends (see Fig. 4) was filled the slimy sand, after which water was let into the pan so as to give about 16 in. over-pressure. The diameter of the inflow on the sieve was taken equal to 50 per cent. of that of the siphon. What always happened was this The water broke through at the upper part of the lower bend of the syphon, a, thus creating a strong current which carried away the rest of the sand. These experiments led to the following conclusion Siphons of 1 1/2 to 2 fl. diameter proved self—cleansing up to 4¾in. depth of water seal, siphons of 2½in. diameter up to 216 in. of water seal.
+
+Siphons made of glass were used in these experiments, as already mentioned. The usual lead or iron siphons have, of course, not such smooth interiors as these, and therefore a depth of 4 in. may be taken as the average limit.
+
+A word might be said about experiments made to determine what time expires before an ordinary siphon lets sewer air into the rooms owing to evaporation of water contained in it. For this purpose four glass siphons of ½in. and 2 in. diameter, and 2 in. to 4 in. depth of water were set up in a medium temperature if 68 deg. F. They all showed an average evaporation of 0.4 in. per week. Therefore it would take 10 weeks to break a water seal of 4 in. by evaporation. The evaporation was reduced to o.6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG, 3.
+
+
+
+
+
+FIG. 4.
+
+
+
+in.	per week if a flannel cloth saturated with oil was inserted above the sieve opening of the pan. In this ease a 4 in. seal would therefore be broken in about 16 weeks. A nearly similar result was obtained by pouring about a wineglass of oil into the pan. This shows that a house is quite safe in this respect during an ordinary holiday absence. In order to be absolutely sate, it Is only necessary to open the siphons arid to fill them with glycerine.
+
+We will now describe more minutely the siphon experiments on the vertical fall pipe at which the above-mentioned data were taken into consideration. The main drain, a b (Fig. 1), consisted of 5 pipes with a fall of 1 in 50. That was considered the lowest fall allowable. The first fall pipe, c d (Fig. ), was 2 in. wide afterwards one of 2 in. width was used. The width of the siphon and siphon connections was ___ 2 and 2 1/2 inches, so that with the 2 in. fall pipe, ½ in. and 2 in. siphons were used while with the 2 1/3 in. pipe, 2½ in. siphons were connected in addition to the for mer.
+
+The ½in. siphons had water seals of 1 ½, 21/3, and 4 inches while the depth was 3¼, 4 and 4¾inches at the 2 in. and ½in. siphons. These combinations were tried with the various widths of pipes described above. One siphon if each size was made of glass.
+
+In order to accurately observe the movement of the air—i.e., thickening or thinning—an opening was made at the highest point (see Fig. 5). This was corked, and an S-shaped 0.39 in. glass tube was inserted into it. This tube was ft. high. Behind it was fixed a sheet of paper, ruled off to scale, the zero point
+
+of which lay exactly in the middle of the tube. The tube was filled with water up to zero point.
+
+In order to determine the diameter of the sieves, 0.2 in., 0.24 in., and 0.32 in, was fixed as, width for the holes, and after measuring several samples current in the trade. Tim number of the holes varied very much, arid their superficies was from 10 to 50 per cent. of the diameter of the opening. This appears at first sight impossible. The following table, however, explains it
+
+			Width of hole
+
+	Diameter.	0 2 in.	   0.24 in.	-	0.32 In.
+
+	in.	63 holes	45 holes	25 holes.
+
+	2 in.	98 holes	70 holes	39 holes.
+
+	21/2 in.	,166 holes	118 holes	66 holes.
+
+0.325	in. was used for the experiments as being the least favorable for the seals. According to the above table a 0.32 in. sieve would have, with an opening of 1 1/2 in., 2 in., and in. diameter,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 6.
+
+
+
+FIG. 5.
+
+
+
+a 23/4	in., and 434 in. diameter, and 25, 39, and 66 holes respectively. These sieves were made of zinc and shaped like the rose of a watering pot, and were inserted as required into the lower part of the pans (see Fig 6). The opening which the latter were intended to close during the experiments was blocked with a piece of wood until the most favorable diameter was discovered.
+
+In every experiment referring to the distance of pan from fall pipe the siphon was connected direct on the fall pipe branch by the insertion of a piece of the same diameter as the siphon, and also by a piece of the same diameter as the fall pipe by means of a reduction piece, so that in the latter case the distance from fall pipe to pan was 3 ft. 3 in. In order to ascertain what influence either the closing, widening or narrowing of the upper prolongation of the fall pipes had on the state of the water seal, every one of he above-described experiments was repeated, with the addition of a correspondingly wide top piece. All possible cases of inflow were tried by pouring the water into the upper, middle or lower pan, either singly or together, in every conceivable variation and by observing at the same time the action of every one of the three seals. From one to three or more buckets holding 3.3 gallons each were thrown in at one time (see later). At the last experiment of each series it was also determined in which way the widening or narrowing of the upper part of the fall pipe influenced the water seal of the siphon, and it was found that while a widening of the fall pipe had no effect upon the movement of the water contained in the siphon, on the other hand, a narrowing of the top piece gave unfavorable results. The principle of carrying every fall pipe in the same width right
+
+·above roof must therefore be maintained. It is, however, preferable to make the top piece a little wider, so that an opening equal to the diameter of the original pipe still remains in he winter, when the same is liable to be partially stopped up by hoar frost settled along the rim.
+
+If we now summarise the result of the experiments made with a vertical fall Pipe, with three pans connected above each other, we arrive at the following conclusions
+
+If a secondary ventilation of the pan siphon is to be omitted, the following points must be observed (1) The diameter of the fall pipe must always be greater than that of the water seal. A 1½in. diameter of water seal corresponds with a 2 in. diameter of fall pipe (minimum) by 2 in. diameter of the former, 2½in. minimum diameter of the latter is required, and so forth. (2) The water seal must be fixed immediately below the pan and connected either direct to the branch piece (which must be of the same width) without any connecting piece or with a branch piece of the same width as the fall pipe, and with a connecting piece of the next higher width of Pipe of at least 2 in. diameter, fixed direct to the siphon. (3) The depth of the water seal must be 4 in. (4) The total of the openings in the pan sieves must not be more than 50 per cent. of the free diameter of We siphons underneath. (5) Every fall pipe is to be carried past the roof vertically, and, if possible, without a bend but it is better starting, say, with a width of 2 in. below the roof, to add 2 in. of diameter from there, It should project at least 4 in. above the roof, and should
+

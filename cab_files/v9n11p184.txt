@@ -1,0 +1,104 @@
+<doctype type="text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THIS DEPARTMENT IS DESIGNED TO FURNISH INFORMATION SUITED TO THE REQUIREMENTS OF THE BUILDING TRADES. READERS
+
+ARE INVITED TO ASSIST IN MAKING IT AS HELPFUL AS POSSIBLE BY CONTRIBUTING OF THEIR EXPERIENCE,
+
+AND BY ASKING FOR PARTICULAR INFORMATION WHICH THEY MAY AT ANY TIME REQUIRE.]
+
+<article title=" A Few Handy Rules " author="">
+
+A Few Handy Rules.
+
+IN estimating material for a building, it often happens that no convenient means are at hand, whereby the length
+
+of rafters may be found without going through the clumsy rules of square root. In the first place, a thorough understanding of what is meant by pitch is necessary. The word, as used by builders, means the height of the roof above the wall plates ; thus, a building 24 feet wide, having its roof ridge raised 6 feet above the wall plates, is said to be quarter pitch ; if the ridge is 12 feet above the level of the wall plates, then it is said to be half pitch, etc., etc. By the accompanying rule we can get the lengths of the rafters for any of the pitches herewith named, for estimating purposes, by simply multiplying the width of the building by the corresponding decimals for the difference in pitch, which gives the length of the rafters in feet, and a decimal of a foot; multiplying this decimal by 12, we have the inches. This method, of course, is only intended to be used in figuring up the quantity of materials required; it does not give angles or cuts; these, along with the exact lengths, are better found by using the steel square, in a manner that we will describe in a subsequent issue
+
+RULE.
+
+
+
+For 1/4 pitch, multiply width of building by .56
+
+	1/3	''	.6
+
+
+
+5-12	''
+
+	1/2	''		.71
+
+	5/8	''	''	.8
+
+	''	3	''	''	.9
+
+		4
+
+
+
+As an example, let us suppose a building 26 ft. wide, the roof to be one-half pitch, as per rule. We proceed as follows
+
+Width of building, 26 feet.
+
+Multiple for half pitch, as per rule, .71
+
+	26
+
+	182
+
+
+
+Total, 18.46
+
+	If we multiply the decimal by	2
+
+	we get	92
+
+	46
+
+
+
+We have in inches, 5.52
+
+or a total length of rafter of 18 feet 5.52 inches, or for estimating purposes, 18 feet 6 inches, Now this is an odd length, and would be difficult to find in any lumber yard in Canada or the United States, and to take the next regular commercial length of 20 feet, would mean a great waste of material, unless the length would be called for as lookouts over the eave, but, if 18 feet 6 inches should represent the exact length, the estimator would be justified in lowering the roof a trifle so that
+
+Cisterns.
+
+stuff i8 feet long would answer the purpose, and we are sure no reasonable architect would object, unless there were greater reasons than usual for the ridge standing that particular height.
+
+
+
+
+
+THERE IS no more useful convenience to a village or country house than a good cistern, and the carpenter or
+
+bricklayer is frequently called upon to devise or construct one of these important affairs. It matters not whether a cistern is formed by simply digging a hole in the ground, without further backing, or is lined up with stones or bricks, it should be plastered with good cement, and the bricks and stones should also be laid in cement, as it makes much better work. If the ground is of a kind that will admit of plastering on, a good coat of cement may be all that is required to make it water-tight. Sand and gravel thus cemented stand fairly well, but it is better when a trifling extra expense is no object, to have the bottom and sides of the cistern lined up with either stones or good hard bricks. Clinkers are the best for cistern building, as they do not soften and crumble on the outside. Stone does very well for lining, but being heavier than bricks and irregular in size, it does not generally break joints very well, and is apt to settle and crack the cement; and being rough and uneven on the face, requires more cement to cover it, than would the same surface if made of bricks. When the latter can be obtained at from $7 to 88 per thousand, of the proper hardness, it is more economical to use them than to make use of the cheapest kind of stone-work. Usually the lining of cisterns with bricks is done by making them all " stretchers," which makes the wall four inches thick only. We think a much better job is secured by using " headers" for every fifth course ; it makes the wall so much stronger and better. The bottom should be laid with bricks on edge, and should be "pot-bottomed," or lower in the centre than at the circumference. The mortar used for plastering should be formed of one part of cement and two of sand, if the cement is extra quality of the Owen Sound brand, or one of cement and one of sand if of inferior grade. Good sharp sand should be used in any case. Two coats are generally applied, and sometimes three, waiting for each coat to partially set before applying the next. The last coat should be brushed down with a wet brush while it is green, which materially assists in hardening the cement. Every cistern should be provided with an overflow water pipe, leading to some point where the surplus water may get away without inconveniencing anything. This pipe may be fixed near the top of the cistern on a level
+

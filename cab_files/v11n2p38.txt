@@ -1,0 +1,84 @@
+<doctype type="text">
+
+<article title="Reasonable Supporting Strength of Different Kinds of Soil." author="Wickson, A.F.">
+
+REASONABLE SUPPORTING STRENGTH OF
+
+DIFFERENT KINDS OF SOIL.*
+
+	By A. F.	WICKSON.
+
+
+
+REGARDING this question there is a large amount of data to be had from the text books, so I will not dc more than was in the first place intended, viz., merely attempt to open this discussion. I think we shall obtain the most desirable results if members who have had difficulty in getting a good foundation will tell us just what the difficulty they experienced was, and the means they adopted to surmount it. The text books speak of the different kinds of foundations to be found, there is rock, clay, gravel and sand, the clay being- marked as one of the most dangerous, as a rule, owing to the difficulty of keeping it dry. Good hard, dry clay is, as almost everyone knows, an excellent foundation, but not as good as gravel or compact sand. One thing I thought I would speak of particularly is the practice of making tests wherever one is going to build it would almost seem as if tables and data alone were not sufficient in erecting buildings of any magnitude, and that the best thing one can do is to make careful tests. The suggestion of Mr. Kidder, who has recently written a book on this subject, is that a table with four legs, each about six inches square, should be placed on the soil, and gradually loaded with heavy weights until there are signs of settlement, carefully noting them, and having found that it is beginning to make an impression to take from one-fifth to one-half of the load as the safe carrying power. For the Capitol at Albany they erected a mast, holding the top in place by guys, and loaded weights on it, taking, I think, about fourteen inches square at a time. For the congressional library at Washington they had a moveable table with the load already on it, that was moved around the foundations making tests at short intervals, and in that way they found what it would safely carry. The strength of soil as given by Rankin is very low indeed, from 1 to 1.5 tons, but that is a great deal below the average. In Kidder's new book he puts it as follows:
+
+BEARING POWER OF SOILS.
+
+		Bearing Power
+
+	KIND OF MATERIAL.	 in tons per
+
+		square foot *
+
+	Min.	Max.
+
+Rock, hard	25	30
+
+Rock, soft	 5	10
+
+Clay on thick beds, always dry		6
+
+Clay on thick beds, moderately dry	 2	4
+
+Clay, soft	 1	2
+
+Gravel and coarse sand, well cemented	 8
+
+Sand, compact and well cemented	 4	6
+
+Sand, clean dry	 2	4
+
+Quicksand, alluvial soils, etc	0.5
+
+
+
+*	Ira 0. Baker, C. E., in Treatise on Masonry Construction.
+
+
+
+
+
+I think if we could get any discussion from members as to how they have overcome the difficulty encountered in quicksand it would be very helpful to many of us. Here in Toronto we are very well off for foundations as most of our soil will carry from two to four tons per square foot pretty safely. One large building put up not long ago was carefully figured for two and a quarter, and in a warehouse building which I put up myself, where it was figured at three and a half there has been no trouble, so far as I have heard. In a recent experiment in France they found that clean sand carried 100 tons to the square foot quite easily. One is liable, even
+
+Introductory paper read at the annual convention of the Ontario Association of Architects, January, 1898.
+
+in Toronto, perhaps, to take it for granted that as we have pretty good soil it is not necessary to test it, or take as much pains as in some other places, but we certainly run risks in not doing so. I know of one building erected here not long ago on partially filled in ground, the foundations of which were in some places not taken far enough below the original top surface. While nothing dangerous resulted, it went down sufficiently at one corner to cause a slight crack. A little more careful testing would have prevented that. Quicksand is one of the most difficult soils to build on. I notice that in building the Boston aqueduct they had trouble with it, and tried several methods before they succeeded ; putting- in concrete first, it would not work, as there was a sufficient force of water to prevent it properly setting-. Then they tried filling a trench quickly with two feet of good coarse gravel, pounded down, and in that way obtained a very good foundation. Made ground is also one of the most difficult bottoms to handle, the only method being, usually, to go right through to the solid earth with the masonry walls---rather an expensive method, it is true, but I see no other way out of it. Not long ago there was an arbitration case here, and I know a great many of those who were on it took the view that the only way of making such ground useful for building purposes was to take piers right through the filling into the hard ground, and that meant going down, I think, between twenty-five and thirty feet, in some cases. There is just one other point that occurred to me in this connection, and that is that in building where there will be tremor one has to allow a good deal less for bearing power than in other buildings, as the shaking and vibration have the effect of causing such a building- to continue sinking for a much longer time than a steady building would do.
+
+DISCUSSION 
+
+
+
+Mr. Helliwell A case came under my notice in the city where there was a deep ravine, the filling in of which was begun about ten years ago, and has been continued up to the present time. The filled—in portion is now quite extensive, arid the owners of the land contemplate putting up buildings on it. The site is not such that very costly buildings would be erected, and the question arises, What would be the best way to overcome the liability to settlement." The depth of the ground would be from forty to sixty feet, and I would like to hear suggestions as to what can be done in a case of that kind to put up buildings at a moderate expense.
+
+Mr. Wickson The only thing, I should think, would be to have the ground tested as accurately as possible, and then, if it has any bearing qualities at all, by spreading the footings the difficulty might be overcome. The difficulty about spreading the footings is that it is rather expensive, even when composed of concrete with twisted wire (one of the cheapest methods), but I do not know of any other way except to go right down to the original soil. The method 1 suggest might do if the filled soil had a bearing power of a ton to the foot.
+
+
+
+Mr. Pearson if it had a bearing power of a ton to the foot there might in course of time be a shrinkage, owing to the action of water, and I should think it might be better to pile.
+
+
+
+Mr. Wickson Unless the ground is saturated, it is very little good. Piles will not last in ground that is not wet, one of the fundamental principles of piling being that they must be cut off below the water level to be of any value.
+
+
+
+Mr. Gordon In the case referred to I would suggest building the house somewhere else.
+
+
+
+Mr. Paul] In the city of Boston they drove down piling below the water's edge, and on that they put large flat stones across, and on that they have successfully laid their foundations and erected fine mansions.
+
+
+
+Mr. Wickson Mr. Paull's remarks about the houses at Boston simply support what I have just said as to cutting off the piles below the water line. In reply to the statement that a soil not carrying more than a ton to a foot is not strong enough to be
+

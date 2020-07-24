@@ -1,0 +1,36 @@
+
+
+<doctype type="text">SPECIFICATIONS.*
+
+<article title="Specifications" author="">THERE is one word in a specification of which the meaning is often disputed. It is the word "best" when applied to workmanship and materials, especially to materials, and is, I grant, somewhat ambiguous. But I would not use such terms as "best," "finest," "extra best," super best," best best," and so on ; but merely employ the word best once and for all and attempt to define its meaning. Here is a suggested definition ot this word "The word 'best,' as applied to materials, articles and workmanship, shall mean that there is no superior quality of material or finish of article in the market, and no better class of workmanship obtainable." In fact, by defining this word "best," it will only he necessary to mention it in the one clause when stating that all materials and workmanship are to be of the best quality and class.
+
+MECHANICAL DEFINITIONS.
+
+
+
+We are all apt to fall into the error of describing certain materials mechanically, such as timber from a market which has long since been entirely exhausted, or stone from a worked out quarry, or we use misleading and exaggerated language, "timber free from knots, demanding what, in our own minds, we never expect to obtain. We should only specify what we can get, what we mean to have, then see that we get it. At the same time we must not lose sight of the fact that our endeavor must be to obtain the most suitable and best material procurable in the market, and that the work when executed shall be a credit to all.
+
+SUB-CONTRACTS.
+
+
+
+As to the question of sub-contracts, this would take some time to discuss, but, as a general rule, let a subcontract go through the general contractor; but when this is impossible, then make the sub-contractor subject to all the conditions of the main contract equally with the general contractor, and in the main contract stipulate that the general contractor is to give every facility to the sub-contractor, and allow him the use of his scaffolding and plant.
+
+ARRANGEMENT OF STAIRS.
+
+
+
+Having now, so tar, settled the general scope and bearing of a specification, the next step is to put the various items into order and place. As I have before said, we cannot do better generally than to divide the specifications into separate headings or trades, as they are called. As to the order in which these trades should be placed, I do not think that very important, only let each trade, if possible, come in the order in which the building would be erected.
+
+Thus the specification would be started with the preliminary items or general clauses, under which heading would come every item that would apply to the building generally as a whole. Then would follow the trade of excavator, this being the first start of the actual work. Then the trades embracing the structural parts of the building, such as bricklayer or mason, whichever trade would chiefly apply to the walls. In like manner you would go on constructing the building on paper until it was roofed in, when the trades taking the interior fittings, finishings and requirements would follow, and finally the decoration and painting. As to what items each particular trade should embrace, or how many trades the specification should be divided into, that to some extent would be a matter of convenience and clearness consequent on the nature of the building in question.
+
+'Extracts from a paper read before the London Architectural Association by F. W. Macy.
+
+Thus, if pavior is a considerable item, make it a separate trade, but if a very minor point then the paving may come under the trade bricklayer. Again, if the drainage is a large item I would make that a distinct trade instead of putting it, as is often done, under excavator. Further, floor and wall tiling might either come under pavior, bricklayer or plasterer, as each of these trades, in certain parts of the country, is performed by the same class of workmen. Many other items may be treated in the same manner. Each trade is started with a preamble, or the general clauses most applicable to all the items under that trade, such as the description of the various materials, and the general covering clauses referring to similar parts of the work in different positions, after which follow in detail the actual items of work. Strictly speaking, a preamble is an introduction or preface ; but in a specification the term is applied in the sense of denoting the general clauses and descriptions at the beginning of each trade. Going more fully into the various items of almost similar description under each trade, I think the best plan, in most cases, is to describe all the items of a similar nature to each floor separately, from the lowest to the topmost story, continuing with other similar items on each floor. But if the description of any item will apply equally over the whole of the building, describe it so, without reference to each separate floor, and thus save useless repetition. As to the exact order of the various items under each trade, I would put them as far as possible in that order in which they would be built. But there is no hard and fast rule to follow in this respect, as in many cases it will be clearer to run them on, regardless of that order. When describing the items do not omit to mention the class of material
+
+thus state the particular quarry and bed of stone, give the class of wood for the timber and joinery work, and state whether it is rough or wrought. A general clause, such as this, "that all exposed faces of timber and joinery work, except where otherwise mentioned, are to be wrought," will save repetition ot this word
+
+wrought." State if you mean Portland or other kind of cement ; the word Portland is often omitted. And all other descriptions of materials should be clearly defined.
+
+Reverting once more to what may be considered the best order in which to place the items of work under the various trades, I know that this is one of the chief difficulties of the beginner, and I will suggest an arrangement for some of the principal items. I have before mentioned that, as a rule, it is best to specify the items in that order in which the work will be built, but that it is not always possible to carry out that order. But I would say that, whatever order you once adopt, always follow in all your specifications and in all its parts, so that you will know yourself where to find an item. I have also said that each trade in every case should start with a preamble, or the general clauses and description of materials. Now to take the principal items under the various trades respectively. In preliminary items I do not think any particular order is essential, but it would be as well to keep the clauses in that order which would mostly run with the order of the work to the building. If old buildings have to be removed the description would come under this heading of preliminary items. But if a housebreaker is employed then this work would form a separate and distinct contract by itself. In excavator take the surface excavation first, then the deep excavation, such as that to basements and cellars ; then the general excavation to the founda
+

@@ -1,0 +1,41 @@
+<doctype type="text">BY THE WAY. <article title=" BY THE WAY " author="">
+
+A CERTAIN well-known firm whose business it is to manufacture and install heating apparatus were recently advised that one of their plants was not doing satisfactory work. Without showing the least surprise at the information the member of the firm to whom it was addressed, replied in terms like these '' Oh, well, that house was put up by so-and-so, and the heating system is not by any means a fair example of our work. You see, the price was so cut down that it simply was not possible to give the work proper attention." Here we see the evil results of trying to get work done too cheap. The man for whom the system was installed is no longer the owner of the house in fact he " went down " with mans' others in the crash which followed the Toronto real estate boom. The present owner in purchasing took it for granted that the heating system was all right because the firm who installed it have a first-class reputation. Aside from the disappointment and discomfort experienced by him as the result of finding that the system is not up to the expected standard, was it wise on the part of the heating contractors to tender at a price which made it impossible for them to do the work properly and maintain their reputation? I have no hesitation in expressing the opinion that it was not, as one such imperfect job is likely to result in future losses exceeding many times in amount the paltry profit which they may have succeeded in squeezing out of the contract.
+
+xxx x
+
+"THERE are about half a dozen persons who are not getting their usual amount of sleep these days on account of the contract for heating the new city and county buildings," said a member of a well-known Toronto firm of heating contractors to me the other day. Then he went on to tell me who these persons were, and how the different manufacturers of radiators were working tooth and nail to guide the contract into the hands of their friends who might be depended on to purchase from them the required radiators. My informant remarked that the condition in the specifications requiring that tenderers must show that they have successfully carried out previous contracts of corresponding magnitude, and that they are in a position financially to carry out the work, would be sufficient to narrow the competition down to half a dozen firms at most. "It is a foregone conclusion," said this gentleman, " that the contract will be taken at a low figure, but I think that in view of the many risks involved in a contract of such magnitude, the contractors who successfully complete the work, are entitled and should certainly receive a substantial profit." In answer to my enquiry he expressed the opinion that the work could only be successfully carried out by placing the entire contract in the hands of one firm, and resting the responsibility entirely upon their shoulders. Any attempt at sub-contracting would be sure to lead to confusion and trouble. As an instance of the risk involved in large contracts of this character, my attention was called to the fact that the disagreement into which Mr. Neelon, the contractor for the masonry of this building, fell with the architect, and the extended litigation arising therefrom had caused the contractor's ruin, and that Messrs. Brown & Love, one of the most honorable contracting firms in the Dominion, had suffered the loss of thousands of dollars as the result of their effort to be released from their tender for the completion of the work. "There will be required
+
+	THE	CANADIAN	ARCHITECT AND	BUILDER	153
+
+
+
+for this contract," said my friend, '' a large number of American specialties, for which 'cash down' must be paid, while the contractor will perhaps he required to wait a long period for payment of his accounts under the contract. He must therefore have a long bank account, and should, as I have already stated, reap a liberal margin of profit from the undertaking." It is understood that the architect has estimated the cost of the heating system for the building at $100,000.
+
+
+
+xx xx
+
+
+
+IT is by no means an unusual experience to meet with men who cherish original notions regarding the kind of house they would like to build for their comfort. It is well that in the majority of instances these notions never get beyond the form of ''castles in the air," for if put in concrete shape the inventor would quickly be disillusionized. If we are to believe a writer in Truth, however, one such individual who happened to be blest with an abundance of "the needful," not only conceived but carried out a decidedly novel idea of house building. We are told that this man, who has a large lake upon his estate, recently caused it to be drained, and in the deepest part he has had a house built which contains three rooms a smoking-room, a dining room, and a servant's waiting-room. The frame-work of the house is of iron, and the floor is stone resting upon a foundation of concrete. The sides and the roof, however, are entirely composed of very thick plate glass. There is a passage under the water from the boathouse to the glass house, and air is obtained through large clumps of artificial water-lilies which rest upon the surface of the lake. It is indescribably pleasant to sit in one of the rooms upon a warm day ; the air is very cool, there is no sound to be heard, and it is especially interesting to watch the fish swimming round, attracted by the glare of the electric lights. This is decidedly a new luxury. The house and the passage, moreover, cost comparatively little to build." If the statement that a house walled and roofed with plate glass, resting on a foundation of concrete and with subaquaeous passages, was constructed at comparatively little cost was meant to be taken seriously, we have another proof of the adage, that "Truth is stranger than fiction."
+
+
+
+<article title=" STRENGTH OF GIRDERS " author="">
+
+STRENGTH OF GIRDERS.
+
+THE Effective Span, for computing the strength of a girder, says the Contract Journal, is the distance between the centres of the bearing areas which support the ends of the girder. The span is usually measured in feet and inches in practice, but for use in computation it is either in feet or parts of a foot, or all in inches. This is according to the nature of the expression (or coefficients) in the formula, as it requires all dimensions
+
+( bd3/l to be in the same denomination b, d, 1 denote
+
+
+
+the breadth, depth, and length respectively.
+
+
+
+As the weight of the girder itself forms a part of its load, hence only the weight per foot run of the clear span between the supports should be taken. The weight of the girder is treated as a uniformly distributed load, and is double that of a centre load.
+
+In computations for obtaining the stiffness of girders, the length of the span and the deflections must be taken as those of the clear span only between supports, and not to the centres of the bearing areas, as required for computations of the strength of girders.

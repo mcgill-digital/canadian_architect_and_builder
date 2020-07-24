@@ -1,0 +1,82 @@
+	<doctype type="text">232	THE CANADIAN ARCHITECT AND BUILDER 
+
+<article title=" TEST OF BLOWING FANS " author="">
+
+TEST OF BLOWING FANS. *
+
+Two years ago, in connection with the subject of ventilation, we commenced, at Cornell University, a study of different fans in order to find not only the efficiency of the various fans made but also to find what shapes gave the best results and what were the conditions necessary to he fulfilled in order to produce thc best results. When we undertook this investigation, I thought it would be a very easy matter to carry it out. We have been at it now for three years, and I think we have tested some seven or eight fans. We have tested an experimental fan which we built in various ways and shapes, and we still find that there is very much more to be done before we can make a complete report. I think the question is of a great deal of importance to us all, and I believe there is no machine built anywhere in the world that is of as much importance as die blowing fan that has been so little investigated, and regarding which there is so little known. It is of special importance, since, if we are in the dim future or in the near future to ventilate our buildings, we must do it by some sort of fans, and hence it becomes necessary to get exact knowledge regarding them. I think if you have erected fans and have taken data from the catalogues published by the various makers, that you have found the results actually obtained practically were quite different from those stated in the catalogue at least, that has become so trite a saying that I suppose the statement will pass unchallenged. In fact, 1 think you will find—and this I do not know to he certain in regard to all fan catalogues, because I did not investigate all of them—that the figures in the tan catalogues which show thc capacity of the fans, and how much air can be moved, require a fan of zoo per cent. efficiency a perfect fan. I might say that not only never has such a fan been built, but it is impossible to build one, from theoretical reasons, too, as well as practical ones. Hence it is absolutely impossible to attain the results which are given in certain fan catalogues, and possibly in all of them. But, on the other hand, I do not want you to think that the fan people do not know that. Consequently, when they sell you a fan they usually give you private information, which is much more accurate than that which is published.
+
+
+
+TWO TYPES OF FANS.
+
+
+
+If you have looked into the subject of fans you will have noticed, of course, that there are two very distinct types sold. These are sold, I believe, for distinct purposes, and rarely come into competition. One we will call the disc fan, in which the air is received at one side and carried right through the fan and discharged in parallel directions with thc axis. The other is more commonly called the blower or centrifugal fan. in which the air is discharged from the edges of the blades and then carried off by pipes or some other arrangement. The disc fans are, I think, never put in for pressure fans—that is, they are not used in places where air under pressure is required. They are generally used in places where air needs to be moved from a room and discharged into the open air—exhausting purposes principally and this work they do very nicely. The other class of fans is used both for exhausting air and for discharging air into pipes—that is, for moving air under pressure.
+
+
+
+The air in the centrifugal fan is received at the centre of the blades, and by their motion it is thrown to the outside of the fan and discharged outward. This was ascertained some years ago regarding suction fans, I think by Gibbeau, a Frenchman— namely, that if he attached a chimney to his exhaust fan he increased thc efficiency very much, almost doubling it that is, if you take an exhaust fan and discharge the air, it would require a certain amount of work to move a certain amount of air. If, on the other hand, you construct from that fan a tapering chimney, you will discharge with the same amount of work very nearly double the amount of air. This principle, as it was stated by Gibbeau, has been verified and is known to bc true. It applies only to suction fans. It shows that the chimney is a very useful adjunct indeed to such a fan.
+
+
+
+In this country I believe the chimney has not been used, except, it may be, in fans constructed for ventilating purposes; and, by the way, you should all know that the mining engineers are the men who have had the most experience with fans. They have had to use fans to ventilate mines, and it was from their practice that this fact was carved.
+
+
+
+PRESSURE FANS.
+
+
+
+In regard to pressure fans—that is, the fans which deliver the air from the tips of the blades—it was found that the efficiency
+
+
+
+Address by Professor R. C. Carpenter at the Convention of the American Society of Heating and Ventilating Engineers
+
+was very much increased if the passing was made considerably
+
+larger than thc fan. If you run	 with a casing very close to
+
+
+
+the blades, you will find that it requires very much more work to
+
+move a certain amount of air	if that casing he some considerable
+
+
+
+ distance from the fan, and this has been found to be true in regard to centrifugal pumps for pumping water. The reason for this is that thc air is thrown out entirely by centrifugal force. The particles of air strike the blade and are projected. If there be not room at the end of the blades not only for the air to be stored, but to get rid of its whirling motion, there will be a considerable loss of efficiency, and it has been found that in order to give thc best result the area at the end of the casing should bc about equal in length to the length of the blade of the fan.
+
+In regard to our experiments, I will say that we started out two years ago, first by testing one of thc commercial fans, afterwards by constructing an experimental fan, and then putting the greater portion of our work on the experimental fan. Thc experimental fan was in some respects very much like thc commercial fan, but we built it in such a manner that we could vary thc shape and size of the blades, and also the form and size of the casings, these being the important things. Then we made various experiments under different conditions, in order to ascertain under what conditions we obtained the best efficiencies, and then we verified some of the things we found out later. I will not trouble you with all the details, but I may mention that we found that a fan with straight radial blades would perhaps move the most air for a given diameter. That is, a 48 fan, with the blades slightly bent at the inner sides, would move the most air but we found that when we curved the tips of the blades backward, with the inner edges running a little forward, we got the highest efficiency. That is, for the same amount of power applied we got the most air moved, although for thc same diameter the other style of fan would move the most air.
+
+
+
+We also found, in regard to thc casing, what I have practically announced as a general principle—the casing, at thc end of thc fan, in order to give the best results, must be away fully the length of the blade, otherwise it will affect the result seriously. One other thing we found is this---which differs from what has generally been announced regarding fans, at least in the different makers catalogues, and I feel very certain that it is true, because it was not only true in respect to our experimental fan, but it has been found to be true of commercial fans that we tested that thc efficiency increased with thc speed of the fan up to a certain size and up to a speed which gave us a pressure of about 2 1/2 inches of water measured by the manometer. There was a falling off in efficiency below that. That speed corresponds in all fans to a speed of about 6200 feet per minute of the tip of the fan, and if we ran any of the fans slower or much faster than that there was a falling off in efficiency.
+
+If you will look in fan makers catalogues, I think you will find that you can move a great deal more air with a great deal less power if you run thc fans at a much lower speed than I have given. Their statement does not seem to me correct. We found that by increasing the speed of the fan we moved more air with less power up to that point, and we found, further, that it was more economical to keep a considerable pressure and let the fan work against a pressure corresponding to something over an ounce, or, say 1/4" of water, than to work freely against the air.
+
+
+
+I speak of these points because they are points which have not been considered good practice and, too, in the putting in of a forced-blast system it has been thought best to keep thc velocity and pressure down very low. Consequently this shows that in this respect our practice has not been leading to thc very best efficiency.
+
+
+
+MEASURING VELOCITIES.
+
+
+
+In connection with efficiencies, I should like to say a word or two about measuring the velocities of air. If you take up this
+
+	of ventilation,	perhaps you all may
+
+system	as	- very soon, you must
+
+
+
+know how to measure air, and I tell you it is the most difficult thing to measure that you ever had anything to do with. You may get a great deal of practice in measuring it, and, from the very fact that we cannot see it, you will find that it is very hard stuff to handle. It does not. move with uniform velocity in the pipe, and that has made more trouble for us than anything else.
+
+
+
+I have been looking over some old fan tests where the efficiency ran over 120 per cent.—that. is, where the actual work of moving the air was 20 per cent. higher than that done by the engine driving the fan. This test was made in a report by Professor Trowbridge. Now, what does this mean? It means that he made a mistake in measuring the air. If you will use some instrument
+

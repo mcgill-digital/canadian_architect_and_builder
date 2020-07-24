@@ -1,0 +1,76 @@
+<doctype type="text">
+
+<article title=" WARM VENTILATION OF HOUSES." author="">
+
+
+
+in temperature. A body falls through space at a velocity per second about equal to 8 times the square root of the number of feet fallen. So that with the temperature inside a house at the standard of 70 and and the temperature outside at 20°, the house being 40 feet from bottom of furnace to top of the fire-place chimneys which form the outlets for air, the velocity with which air will pour into the cold air duct will be at a rate per second which is 8 times the square root of 70-20 X 40 that is to say about 8 times 2, or i6 feet a second.
+
+491
+
+
+
+An allowance of 20 per cent. or more must be made for friction and other causes which detract from this theoretical rate ; so that we may take the rate of the in-flowing air, when the temperature is 20 outside, as about 12 feet a second. By a similar process we can find that the velocity of inflow per second varies from about 15 feet when the temperature is zero to 10 feet when the temperature is 40°. It is then a simple matter to discover the range our cold air duct must have. As one cubic foot per head per second is the requirement, it is obvious that a duct one foot square will supply air for ten people when the temperature is 40 and need be only or 2/3 of a foot for 10 people when
+
+ 
+
+the temperature is zero. In other words, the formula is area In the average household of 6 persons
+
+velocity
+
+
+
+—as we know that we require 6 cubic feet of air per second, and that air flows into the house from 10 to 15 feet per second, reckoning from 40°, beyond which we need not go, to zero, after which perhaps we may close the inlet -we can determine our inlet to have an
+
+6/15
+
+area of from to of afoot; that is to say, it should
+
+ 15
+
+
+
+be 7" x 12" with a sliding door by means of which it can be reduced to about 4" X 12" or less. This is not a great affair and it becomes evident when the matter is worked out, that the householder's kick has been against a cold air duct about three times too big. For an inlet of this size the two or three fire-places that are usual in a small house will afford all the outlet necessary.
+
+So far figures may be used with sufficient precision to serve as a guide to practice ; but when it comes to examining into the question of furnace dimension and consumption of coal there is a wide margin to be allowed for variation n the space allowed to each occupant ; that is to say, from our present point of view, in the amount of cooling surface to which the air delivered to him is exposed ; and for other varying circumstances of construction, exposure, etc. Experiment becomes the ultimate basis of practical calculations ; but it is always worth while to examine how common practice agrees with the results of calculation from the data of science.
+
+Taking the average winter temperature as 20°, at which temperature air enters the heating chamber of our furnace for 6 persons at the rate of 6 cubic feet a second, 258,200 cubic feet will enter in 12 hours, i.e., during the time in which one charge of coal for the furnace is consumed. As dry air weighs 13 lbs. a cubic foot this means about 20,000 lbs. of air. One pound of coal as usually burned will heat 8,000 lbs. of air 4.2° Fahrenheit. We have to raise 20,000 lbs. of air to such a degree of heat as will, when distributed through the house, keep it at a temperature of about 70°. The temperature of the air issuing from the furnace chamber will need to be about 120°, in other words, it is necessary to raise the temperature of 20,000 lbs. of
+
+air I00°. This will require 6o lbs. or a cubic foot of coal in 12 hours. The fire-pot for this supply must have about twice that capacity in order to allow room also for the residuum of glowing coal for which the new charge is food. A pot I'.0" in diameter on top, 1'.4" in diameter at the bottom, and 1'.0" deep will hold the required amount ; and the consumption will be at the rate of half a ton a week in average winter weather of 20 Fahrenheit.
+
+<article title=" FIRE TESTS." author="">
+
+FIRE TESTS.
+
+"THE Builder," London, England, of October 21, 1899, publishes the following The British Fire Prevention Committee started its winter session by arranging a private view of its testing station at Regent's Park and showing a series of experimental tests with a concrete floor, with an iron safe, and with some wooden doors. The floor was of steel girders with a concrete filling prepared on the lines recently required by the London county council. The fire was intended to be of two and a half hours duration at a temperature of 2000 degrees Fahr., but the floor collapsed in approximately an hour and a half, before that temperature had been quite reached. The testing operations were conducted by a sub-committee of the executive, comprising several district surveyors with Frederick Farrow, Mr. Max Clarke and Mr. Charles E. Goad.
+
+<article title=" TORONTO GUILD OF CIVIC ART." author="">
+
+TORONTO GUILD OF CIVIC ART.
+
+THE following gentlemen were elected at the annual meeting recently to form the advisory hoard for the ensuing year Laymen, Messrs. G. W. Allan, James Bain, Jr., Allan Cassels, Q.C., S. H. Janes, E. F. B, Johnston, Q.C., Jos. London, Prof. James Mayor, Bernard McEvoy, E. E. L. Porteous, A. J. Somerville,
+
+B.	E. Walker ; architects, Messrs. Frank Darling, W. A. Langton, A. F. Wickson ; artists, Messrs. E. W. Grier, L. R. O'Brien, G. A. Reid. Mr. E. B. Osler was elected president Mr. B. E. Walker retiring. The other officers are Messrs. Hon. G. W. Allan and E.
+
+F.	B. Johnston, vice-presidents ; James Bain, jr., treasurer ; and W. A. Langton, secretary.
+
+
+
+PERSONAL.
+
+
+
+The death is announced at Victoria, B.C., of Mr. A. J. Smith, a pioneer contractor of that city, aged 60 years.
+
+Mr. Joseph R. Roy, formerly of Montreal now resident engineer of the Department of Public Works, New Westminster, B.C., was married recently to Miss Edna Harvey of that city.
+
+Mr. Hercules Robertson, one of the oldest, best known, and most highly respected contractors of Toronto, died at his residence in that city a fortnight ago. The late Mr. Robertson was a native of Shetland, Scotland.
+
+We record with regret the death of Mr. John Fletcher, contractor, of Toronto, from paralysis. The late Mr. Fletcher, who was sixty-five years of age, had for many years occupied a prominent place in the ranks of Toronto contractors, and was connected with the erection of many of the important building of that city, including the Temple building on Bay street.
+
+During the last convention of the American Institute of Architects, held at Pittsburg, Pa., in November last, Mr. Alcide Chausse, architect, of Montreal, was elected a corresponding member of the above named association. Mr. Chausse is also corresponding member of the Societe Nationale des Architectes de France and of the Societe Centrale d'Architecture de Belgique, and member of the council of the province of Quebec Association of Architects.
+
+
+
+The Elliott & Son Company, decorators, are preparing to remove on January 1st to new premises on King street west, Toronto.
+

@@ -1,0 +1,88 @@
+<doctype type="text">	148	CANADIAN	ARCHITECT AND BUILDER
+
+
+
+<article title=" THE USE OF STEEL IN THE CONSTRUCTION OF
+
+DAMS AND RESERVOIRS.
+
+" author="Fielding, John S.">THE USE OF STEEL IN THE CONSTRUCTION OF
+
+DAMS AND RESERVOIRS.
+
+By JOHN S. FIELDING, C. E.
+
+
+
+TENSILE strength is required in nearly all materials used by engineers, and the utility of the article is in the majority of instances determined by this standard. in the members of a Pratt truss bridge the tensile strains predominate, and numerically about 6o per cent. of them are subject to direct tension, and 40
+
+
+
+per cent, to compression. And yet, the compression members, while not being subject to tensile stress, nevertheless develop tensile stress in themselves, while engaged in transmitting stress of an opposite kind.
+
+Even in stone work, such as a bridge abutment, it is necessary to have tensile strength, as the work of carrying the bridge and resisting the pressure of the bank or the current, although practically all compression, nevertheless develops tensile power through unequal loading, and a stone that is deficient in tensile strength is liable to prove to be a bad investment, by cracking and allowing unequal settlement or bulging of the wall.
+
+
+
+In a stone dam of the usual construction, with a vertical face toward the pressure of the water, the tensile strength of the material determines the thickness of the wall and the shape of the structure unless the structure is made so excessively heavy as to resist by sheer inertia of its mass. But an engineer would be severely criticized who built everything so heavy as to ensure permanency by the great size and strength of the structure compared with the forces which could come against it and the work which it had to do. He must not waste material and money in any such scheme for the furtherance of his own credit for building for permanency. If he should do so his reputation would suffer, and his pocket also, for he would be seldom employed.
+
+
+
+Great and small engineering undertakings are dependent upon an item that is not engineering, but is closely allied to it. I refer now to rate of interest upon investment and, just as the money lenders of Europe can prevent nations going to war by withholding from them loans of money, so does the rate of interest which can be expected upon an engineer's contemplated expenditure, have the deciding voice as to whether he shall or shall not proceed with the undertaking.
+
+
+
+In this way the engineer is beholden to look about him for a  material or materials that will enable him to perform certain work
+
+
+
+in a way that will fulfill the duties required of it, and at the same time satisfy the chief clerk of the works, viz., rate of interest upon investment, that a proper return can be got out of the use of the article.
+
+
+
+Stability and permanency are necessary to do this with any degree of success, so that as a general rule the best materials at hand are the most economical, and if any saving is to be effected, it can best be done by the efficient use of good material. In this connection we are brought back to the opinion expressed at the beginning of this letter, viz., that a good material for engineering purposes is usually one possessing tensile strength in a high degree.
+
+
+
+Timber is a more useful article to an engineer than stone or concrete because it can be used where great tensile strength is required, and stone or concrete cannot be so used. If concrete could be made that would develop a tensile strength of thousands of pounds per square inch instead of only hundreds, it would be a much more valuable and reliable article for the uses of the engineer. The material par excellence for the engineer is undoubtedly open hearth' or Bessemer steel,' and after some years' use of, and reliance upon this material, one gels to feel that no matter what work he may have in hand, if this material could be used, he would be able to estimate just what to expect from it, and to say exactly what it would cost to construct.
+
+
+
+It is probably with such feelings actuating me that I have accepted the idea that steel is the proper material with which to construct a dam or reservoir. One objection that may be urged against this is the fact that water is very antagonistic to steel, through developing corrosion, but there cannot be as much in this as appears at first sight, for why use iron water mains or steel bridge piers or even steel ships, steel lighthouses, steel piles, such as have been used at Brighton Pier and other places on the sea coast in England and America.
+
+
+
+If, then, water and steel may be allowed to meet, we may discuss the designs.
+
+
+
+FIRST, for a reservoir—Reservoirs are simply a means of impounding water at a point or situation where natural means are wanting upon two or more sides, and probably all four sides, being different from a dam which impounds water upon one side and
+
+holds back a body of water with the assistance of natural walls upon other sides.
+
+It this way it is like a bowl or basin, and why can it not be built like such, and of a material that will exert tensile strains ? A bowl or basin of circular form filled with liquid can have no strains caused by unequal loading, since water transmits equally in all directions.
+
+An earthen reservoir depends upon its thrusting strength to hold back the water, but this strength is about nil if water gets under its bearing surfaces, which may occur if the inner coating of asphaltum or other material admits of the slightest leakage. When this occurs the earthen damn is like the man pushing a weight with a banana peeling under his shoe. The stone dam is in a similar category, because neither of them can exert material tensile strength and their strength is not self—contained, but is dependent upon outside conditions.
+
+But consider a reservoir built with a steel circle or rib running horizontally, on a level with the top of the water, another rib in a horizontal plane five feet below it, another five feet below No. 2, and each one describing a smaller circle—these horizontal ribs to be connected by means of curved ribs in a vertical plane, and the whole being a skeleton frame of the bowl, to be filled in wit it a wall of concrete. Would not such a reservoir he of such strength that its stability could be depended upon, and its strength determined without reference to outside conditions, such as the action of moles, muskrats, frost or soakage.
+
+
+
+In regard to cost, it would appear that any size of reservoir could be built with a very thin wall of concrete if the concrete were bound with such steel bands, and the thickness of the concrete would not lie increased materially for even a deep reservoir
+
+—the amount of steel being varied to suit the stresses caused by the volume and head of water, the thickness of the concrete being made to suit the spacing of the steel bands 0111)'.
+
+Such great care would not have to be exercised to keep this basin tight, as its strength would not be dependent upon this. Soakage through the concrete would have to be taken care of by providing underdrains to carry it away.
+
+
+
+Now, in the case of having to build a dam, it seems to me a strange thing for the engineer to have the choice of a great many different formula for the strength of tile wall lie intends using or for the size of wall he should use also a great many different coefficients (all by prominent authorities) for the friction of earth upon earth, stone upon stone, or stone upon earth, etc., etc., and these changing constantly upon the assumed conditions being changed. It is easy to imagine an engineer pondering over what row of decimals lie should use for safety, and which row of decimals would bring the cost out to an amount that would admit of the work going on then, in tine end doing as was done recently for an important work, make miniature models and subject them to miniature freshets, and go on from there. It looks to me as if that sort of work cannot be called an exact science.
+
+Take again the case of a recent partial failure of a dam, where large stones were moved, having let go at the cement joints— now that may appear to be all a case of weight and sliding friction as opposed to a pressure of rushing water, but I think it could more properly be ascribed to a weakness of tensile strength ill the materials at tine up stream face, or the outer fibres of the structure. The cement joints, being but partially set, gave way at a low tensile stress, and the water getting under the bed of the stone soon moved it. If there had been a tensile strength of 600 pounds instead of probably 200 pounds per square inch in the cement joints the wall would have undoubtedly stood bow much more secure then would it have been if the tensile strength were 6,000 pounds?
+
+
+
+To get a tensile strength equal to this or even to be worth calling a tensile strength, we have to use metal, and steel is the best article.
+
+A dam is not like a reservoir, for it may be subject to unequal loads. During flood time a greater depth of water at one point or a concentrated blow by a log, or even the increased velocity at centre of the stream, will all cause unequal loading. If the nature of the foundation subsoil varies, so as to give a better co-efficient of friction at one point than at another, amid the putting together of the stones is more carefully done in one part than in another, we have then only to assume the defects in strength named, and the increase in pressure named to be merged in one point to have a case of very unequal loading, and, it appears to me, that in the case of a wall not having a large factor of safety over and above what would be requited at the point of the greatest stress, move-
+

@@ -1,0 +1,176 @@
+<doctype type="text">54	IHE CANADIAN ARCHITECT AND BUILDER
+
+<article title=" A GRAPHICAL SOLUTION OF THE FINK ROOF
+
+TRUSS.
+
+" author="Wright, C. H.">A GRAPHICAL SOLUTION OF THE FINK ROOF
+
+TRUSS.
+
+By PROF. C. H. WRIGHT, of the School of Practical Science,
+
+Toronto.
+
+
+
+Let the annexed diagram Fig 1, represent a Fink roof truss supporting the loads AB, BC, CD, DE, etc. ,and let the reaction of the left wall be MA. Consider first the forces acting on the point ABLM. There are two
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+known forces MA and AB and two unknown, BL and ML, exerted by the members BL & ML on the point as in Fig. 2.
+
+From any point M, Fig. 3, draw the lines MA and AB to represent the wall reaction MA and the load AB.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Through B and M draw the lines BL and ML parallel to the directions of the forces BL and ML.
+
+Let these lines intersect in L. Then MABLM is the vector diagram for the point, and the lengths of BL and LM represent the magnitudes of the forces BL and LM acting on the point the force BL being a push and LM a pull, hence the member BL is in compression and LM in tension.
+
+Proceeding to the point BCKL the known forces acting are LB and BC, and the unknown CK and KL as in Fig. 4.
+
+From any point L Fig. 5, draw the line LB parallel to the force LB and from it cut off the length LB to represent the magnitude of the force and from B draw
+
+BC to represent the force BC.
+
+Through C draw CK parallel to the force CK and through L draw LIK parallel to the force LK intersecting CK in the point K.
+
+Then LBCKL is the vector diagram for the point and CK and KL represent the forces CK and KL. These are both pushes on the point, and therefore the members CK and KL are both in compression.
+
+Considering the forces acting on the point JKLM there are two known forces ML and LK and two unknown KJ and JM as in Fig. 6.
+
+The vector diagram being MLKJM fig. 7, where KJ and JM represent the forces KJ and JM. As they are both pulls on the point the members KJ-JM are in tension.
+
+Now examine the conditions existing at the point
+
+DEFG. There is one known force DE and three unknown, viz.— EF, FG and GD as indicated in fig. 8.
+
+Two of these forces DG and EF act in the same direction and will have a resultant acting in this same direction. For these two forces substitute their
+
+
+
+
+
+
+
+
+
+
+
+
+
+resultant and the forces acting on the point are DE, GF and the resultant of DG and EF or R, fig. 9.
+
+Draw the vector diagram (fig. 10) for these three forces and the lines DE, GF and R will represent the force DE, GF and R, and as GF is a push on the point the member GE is in compression.
+
+At the point FGHN there are four forces acting, one of
+
+
+
+
+
+
+
+
+
+
+
+
+
+which FG is known and the other FN, HN and are unknown and act as in fig. 11.
+
+Of the unknown forces FN and NH act in the same direction and will have a resultant acting in that direction. Substituting this resultant for the two forces
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and the set of forces becomes GF, GH and R2 (Resultant of FN and NH) fig. 12.
+
+Draw the vector diagram GF, and GH and R2, fig. 13,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+and the length of the line GH gives the magnitude of the tension in the member Gil.
+
+Combine these four vector diagrams in one (fig 14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The annexed diagram Fig. 15 represents the condition existing at the point CDGHJK. There arc two unknown forces DG and HJ. Draw the vector diagram
+

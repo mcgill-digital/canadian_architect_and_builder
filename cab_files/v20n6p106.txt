@@ -1,0 +1,38 @@
+	<doctype type="text">106	        CANADIAN ARCHITECT AND BUILDER
+
+		NOTE.—Contributions suitable for publication in this Department are invited from subscribers and readers
+
+<article title=" CONCRETE BLOCKS FOR BUILDING PURPOSES " author="">
+
+CONCRETE BLOCKS FOR BUILDING PURPOSES.
+
+In a recent consideration of the properties of the hollow concrete building block, which particularly fit it for residence construction, H. H. Price, the well known writer on concrete matters, says: "The block is made as large as can conveniently be handled in laying. Thus its volume is equivalent to from 20 to 35 bricks, greatly saving thc masons' time. reducing the proportion of mortar joints and facilitating the maintenance of true lines in thc wall.
+
+''The form of the concrete block is its most decided advantage, affording an air space which prevents the passage of moisture, which makes a house cool in summer, which cuts off 25 per cent. of the winter's fuel bill, which impedes the passage of sound, and which so promotes ventilation that maximum sanitation ensues.
+
+
+
+"The accessibility of materials used in manufacturing thc concrete block is a very great point in its favor. There is no place where it is necessary, except for special grades of work, to ship in any other ingredient than Portland cement. No other building material is known to man of which 87 1-2 per cent. of the necessary raw material is universally at hand.
+
+''The strength of thc well-made concrete block is so far in excess of any duty likely to be imposed upon it in residence construction that it seems unnecessary to dwell upon this quality. In most cities ordinances now provide that concrete block walls, with usual percentage
+
+ of air space, may replace solid brick walls of equal thickness, although some have been progressive enough to vary this regulation in favor of the concre
+
+the block. As a matter of fact, in no ordinary residence will a twelve inch wall be found inadequate. Well made, properly cured and properly laid blocks may bc relied upon to carry a minimum load of 2,500 pounds to the square inch. It will therefore bc seen that, where joists are properly hung, the point of greatest danger will bc in the floor span rather than in thc walls. Of course, good construction will not place a concrete block in tension, as its compressive strength is about ten times its tensile strength. Hence a transverse strain or eccentric loading demands a distribution of the load by the introduction of reinforced concrete members.
+
+''The term fireproof is greatly abused and is often applied to a material which is merely non-combustible. A fireproof building must be not only non-combustible, it must be fire-resistant, it must be so constructed that its contents will be protected from excessive heat. It is in this respect that the concrete block stands foremost among fireproofing materials. Concrete being of itself a non-conductor, and its conductivity being decreased by dehydration of the outer quarter
+
+of an inch at a temperature of 1,000 degrees F., its efficacy in a fierce conflagration is enhanced by the air space in the wall, which effectually prevents the transmission of heat to the interior. In actual fires it has been noted that the hand could be comfortably held against the interior of a concrete block wall while flames from an adjoining burning building were beating against the exterior."
+
+Regarding the selection of materials, the writer is insistent that only the best should be employed, and that the gradation of aggregates and thc proper proportioning of materials to eliminate voids and secure maximum strength and density with the maximum saving in cement, should receive much greater consideration than is usually accorded.
+
+"To manipulation in mixing too much attention cannot be given. In many of the smaller plants mixing is still done by hand, because of thc expense of purchasing and operating a good power mixer.
+
+"In the curing of blocks great progress has been made, and the day is no more when blocks were allowed to lie exposed to sun and wind until they dried. When curing is by sprinkling, the common practice of the present day is to cover the blocks with hay, straw, burlap, or some other moisture-retaining material. Thc result is not only blocks of far greater strength and soundness than in the early days, but blocks of more uniform color, greater freedom from map or crazing cracks, and an almost entire absence of that white efflorescence which was formerly the cause of so much vexation. Many of the more progressive block makers arc curing by steam. Of course it has long been known that blocks placed in a cylinder under steam pressure cured with great rapidity, but to-day numerous plants are curing in sheds lined with tar paper, the blocks being stacked in these sheds and steam turned in for 24 hours with excellent results, both as to saving in time and as to color and hardness of the finished product. Especially are the steam sheds advantageous in the north, as they enable the manufacturer to continue operations throughout the winter.''
+
+<article title=" DANGER IN DECAY OF CONCRETE " author="">
+
+DANGER IN DECAY OF CONCRETE.
+
+Are our structures of armored or reinforced concrete, now so popular as a building material, likely to be permanent? It has been assumed hitherto, and no facts to the contrary have been adduced, that the concrete envelope protects the iron rods or bats embedded in it, SO that there is no danger of rust. Recent experiments, however, show that. where there are electric currents in the vicinity, corrosion may take place within the concrete very quickly. The latest tests arc these made by A. A. Knudson, of New York, and reported a few weeks ago to the American Institute of Electrical Engineers. The experiments were
+

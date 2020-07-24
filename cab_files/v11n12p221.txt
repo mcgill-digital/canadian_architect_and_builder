@@ -1,0 +1,94 @@
+<doctype type="text">
+
+<article title=" VENTILATION OF HOUSE DRAINS." author="">
+
+	CANADIAN	ARCHITECT AND BUILDER
+
+
+
+were of 21/2 in. and 4 in. diameter respectively, and a pan having a 2 in. wide water seal was connected with them. The water was poured in through a hose fitted with a gauge cock, so that the quantity of water could be accurately regulated.
+
+We allowed that, as a rule, 118.4 square yards of roof required a 21/2 in. pipe, while for 236.8 square yards superficial a 4 in. pipe would be sufficient. The equivalent of a rainfall of 14 in. on 118.4 square yards is equal to 0.0616 gallons per second, and that of double the size of roof is equal to exactly double that quantity of water passing through the pipe. We made the following experiments on the 21/2 in. fall pipe: (a) 0.11, 0.22, 0.44 gallons per second, as corresponding to a rainfall of 2.79 in., 5.58 in. and 11.16 in. on 1 18.4 square yards of roof; (b) 0.22, 0.44 and 0.88 gallons per second, corresponding to the same amount of rain on double the size of roof. The result was as follows The water seal of the siphon connected with the 2 1/2 in. pipe was not weakened by an inflow of 0.1] gallon per second. It was emptied by the 0.22 gallon per second, and consequently (1) by an 8.8 gallon per second flow: (2) on the 4 in. fall pipe 0.22 gallon per second weakened and 0.44 gallon per second broke the seal. Therefore pans must not be connected with roof or bath-room drains. In any case a 4 in. deep water seal and special ventilation is required. In these experiments also we tested, by means of an anemometer, the volume of the air drawn down by the water. It appears superfluous to repeat here the various results, as they fully coincide with those made by the municipal architect of Posen, Mr. Grueder, and described in the Gesundheitsingenieur, 1896, No. 23.
+
+In order to test the working of several w.c. siphons connected with one fall pipe, again the second pipe was used, first with a width of in., then with one of 51/4 in. Three in. branches were
+
+This has to be done in the following cases (1) when the siphons of the pans have less than in. and those of the w.c.'s less than 2 in. depth of water seal; (2) when the diameter of the tall pipe is not larger than that of the siphon (3) when fall pipes through which large quantities of water have to pass, and to which pans are connected, are constructed with 4 in. diameter or less (4) when the distance of the pans from the fall pipe exceeds 3 ft. in.:
+
+(5) when more than one pan is connected with a horizontal line (for gradients see previously)—in this case, however, it is sufficient to carry up one ventilator at the end of this line furthest away from the fall pipe.
+
+Although we may take it for granted that the method in which secondary ventilating lines are to be constructed is generally known yet it may not be superfluous to indicate how this should be done when required, because we have come across many installations which were badly planned with regard to that point.
+
+As we have already mentioned, narrow ventilating pipes, and principally branch pipes from the siphon to the vertical ventilating pipe or fall pipe, have the, tendency to accumulate fat, coffee grounds and cobwebs. The minimum diameter for the upward part should be 2 in., and that for a branch connection only 14 in. less than that of the siphon. Lead, iron or zinced gas-pipes only must be used, and they must be either soldered, screwed or packed with hemp (Mening's patent) and leaded. In the case of the siphon being ventilated direct into the fall pipe, which appears admissible where there are only one or two of the former, the connection must be made at a point higher than the upper rim of the pan. This must be done with a screw thread made of brass set in horizontally. It should never be soldered direct, because this is difficult to do, and is not done satisfactorily except in the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLANS OF HOUSE IN ROSEDALE, TORONTO.(See illustration pages. )—K. J. Edwards, Architect
+
+
+
+connected with the w.c. siphon by means OT a connecting piece 3 ft. 3 in. long and 4 in. wide. Siphons with a depth of water seal of in. and 2in. and 3.3 gallon cistern were used. The result was as follows: (1) w.c. siphons with 1 in. water seal always required ventilation, even if the tall pipe was 51/4 in. wide (2) w.c. siphons with 2 in. water seal always required ventilation if their diameter was equal to that of the fall pipe ventilation was still necessary if they were more than 3ft. 3 in. distant from the latter, even when their diameter was smaller than that of the fall pipe. Regulations therefore should always expressly demand siphons of at least 2 in. water seal, placed not further than 3 ft. 3 in. from a fall pipe of at least in. diameter. Should the latter be narrower, then secondary ventilation must be provided. No experiments were made with w. c. siphons having deeper water seals, because they have not proved self-cleansing with the methods usually employed in Cologne—i.e., ordinary ring or centre rinsing. It is desirable that such trials should be made with closets worked by vacuum pressure or by lever. All the above described experiments refer to fall pipes continued upwards in the same diameter. The narrowing of a in. fall pipe to gave unfavorable results.
+
+It does not appear to be absolutely necessary, where structural difficulties exist, to insist upon the continuation of the fall pipe in the case where only one single w.c. siphon is connected on to a 534 in. fall pipe, provided that the siphon is connected direct with the same, and has a 2 in. water seal, and that there is behind the first fall pipe another one which is ending in such a continuation. It is, however, desirable to do so tinder any circumstances.
+
+This concludes the experiments concerning the desirability of secondary ventilation.
+
+It now remains to determine the conditions under which it is necessary to demand the erection of secondary ventilating shafts.
+
+rarest instances. Branch connections with a vertical ventilating pipe must be executed in an angle of 45 deg. The upper end of the ventilating pipe may then be continued above the roof, either direct by itself or from above the last connection on the fall pipe. In the latter case the connection is best made by a separate piece (Fig. 8) with a flanged joint, and the widened fall pipe set over the upper flange. In the other case, both the ventilating and the fall pipe must be widened, beginning with 2 in. below the level of the roof.
+
+In conclusion, I beg leave to communicate the results of a few experiments on the diameter of the water supply required with various sized siphons, on account of the flooding which often occurs when the former is unproportionally large. These results are, of course, dependent upon the pressure on the mains, and refer especially to Cologne, where a pressure of 3.5 atmospheres is applied. They demonstrated : (1) the quantity of water supplied by a ] in. low screw tap is too large for a in. pipe; (2) a 34 inch tap brings 21.78 gallons in 70 seconds—for this quantity a 2 in. pipe without sieve is sufficient ; (3) a in. tap brings the same quantity in 100 seconds—a 2 in. pipe with a sieve of 50 per cent. of the diameter is sufficient for this; (4) a in. tap brings the same quantity in 300 seconds, requiring a 11/2 pipe with a 50 pet- cent. sieve. Consequently the size of taps is 4 in. for 2 in. siphons and 3/8 in. for 11/2 in. siphons.
+
+I think that, although the above results repeat much which was already known, some useful hints may be taken from them. Technical men who have to plan house drains may also be glad to receive actual proofs of points which they knew previously. Furthermore, many points were elucidated and proved which were not at all clear before, as is shown by the divergence of the various by-laws and regulations in this matter.
+

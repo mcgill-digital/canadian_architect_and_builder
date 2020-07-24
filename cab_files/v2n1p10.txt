@@ -1,0 +1,104 @@
+January, 1889
+
+<doctype type="text">10 THE CANADIAN ARCHITECT AND BUILDER
+
+
+
+New middle class schools in connection with the <building>Church of St. John the Evangelist</building>, are being erected from the designs of Mr. <person>P. B. Williams, </person>at a cost of about $30, 000. They will be ready for occupation for the summer term.
+
+The School of Art in connection with the Council of Arts and Manufactures for the province, of which <person>S. C. Stevenson</person>, B. A. , is secretary and director, is in full swing and doing good work in affording technical instruction in the various branches. The total number of students is over 400, of all ages from 15 to 40. The classes arc free with an entrance fee of one dollar which is returned to regular attendants at the close of the session and are as follows: Freehand drawing, Messrs. <person>E. Breguit</person>and <person>F. S. Cleverley </person>; advanced freehand model and object drawing, Mr. <person>Rene Quintin</person>; mechanical drawing. <person>J. T. Gardham</person>; architectural drawing, <person>E. Belanger</person>, C. E. ; modeling and wood carving. <person>Arthur Vincent </person>; lithography, <person>T. A. P. Labelle </person>; decorative painting, <person>F. E. Meloche </person>; stair building and building construction, <person>L. H. Blouin</person>; plumbing, <person>F. Horton </person>; pattern making class (for boot and shoe makers) Messrs. <person>T. Godin </person>and <person>A. Patrie</person>. The plumbing class is under the control of the " <assoc>Plumbers' Association</assoc>. " who agree to deduct one year from the term of apprenticeship of all pupils. The classes are held every evening from 7:30 to 9:30.
+
+The Plumbers' Association is in a flourishing condition, being now in the third year of its existence. Monthly meetings are held in the rooms of the Contractors Association, (of which this society is a section) and papers are read and discussed, About 40 members have joined the Association, which has for its object the raising of the standard of both work and workmen. When this has been effected in some degree by means of the Plumbing Class above mentioned. it is hoped the system of licensing after due examination may be introduced into the by—laws of the corporation. Mr. <person>John Date </person>is President, Mr. <person>F. X. Drapeau</person>, Vice-President, and Mr. <person>J. W. Hughes</person>. Sec. -Treasurer.
+
+
+
+
+
+<article title="Factory Chimney Construction" author="Knox, William">FACTORY CHIMNEY CONSTRUCTION.
+
+BY Wm. KNOX. ARCHITECT AND C, E.
+
+
+
+A	TALL chimney is seldom a very pleasing architectural feature ; yet it is an important part of factory construction , requiring special architectural skill, a point not often acknowledged by either architects or owners. A manufacturer contracts with a boiler-maker for a certain amount of power from a given quantity of coal, and if he fails to perform his contract there is trouble, when the chimney may be the whole cause of the failure.
+
+If a chimney is required to take away gases or fumes from retorts and furnaces, then it must be built to a height sufficient to carry these clear oft the surrounding premises. This height can only be determined by a knowledge of the nature of the gases, etc., and the situation of the factory.
+
+In the following paper it is only intended to deal with a chimney necessary for ordinary factory purposes.
+
+In order to give the required draught to the common steam-boiler, the chimney should be not less in height than 80 feet above ground surface at its base, and not exceed 150 feet unless there is higher land in time immediate neighborhood
+
+To find the necessary area of a chimney, first ascertain as nearly as possible the area of the grate bar surface of the various furnaces ; then if the chimney is to be 80 feet in height above the ground surface, multiply the area of the grate surface in square feet by 14 ; for a chimney 100 feet high, multiply by 11; for a chimney 120 feet high, multiply by 12 ; and for a chimney 150 feet high multiply by 9.8, and the quotient in each case will be the area of the chimney in square inches at its narrowest point. The area at the top of a chimney should never be less than at the base; some engineers say that it should be greater, because the smoke and air entering the chimney at very high temperature, ascends rapidly, but as it cools in its passage through the flue its progress gradually becomes slower. A square chimney was erected by us last year, in Hamilton , for the Canadian Screw Company It is 100 feet from floor of boiler house to top of cope. The flue has an equal area at top and bottom of 2,116 square inches. It was designed to give draught to three boilers of 100 h. p. each, two drying ovens and four annealing furnaces. To it also was connected an 8 inch pipe, from the drains It is now working and giving perfect satisfaction The foundations ought to be deep enough to take all the footings below the reach of frost, each course projecting beyond the one above not more than two-thirds of its own depth—thus increasing until the  projection of foundation is gained beyond the line of the base of the chimney equal to one twenty-fifth of the height of the chimney above the ground surface. This is necessary for the stability of the chimney upon a good hard bottom. On soft land or bad bottom, the area of the foundation must be increased so as to spread the weight over a surface sufficient for its support
+
+The strongest chimney is one built entirely with brick above a stone foundation, and the best form of plan is the octagon, , the draught of which is al-most as good as the circular, and the cost of building is considerably less.
+
+In setting out the brick work, start at the top and figure downwards. If the width of the flue is less than 5 feet, then the walls of the chimney will only require to be one brick for 25 feet below the cope, and if the outside of thc chimney has a batten of 1/4 inch in every foot, the thickness of the walls at the base will be w hat they measure.
+
+The inside face of brick work above foundation ought to be of fire-brick. carried about 1/6 the height of the chimney and air space is not necessary,
+
+unless where a strong flame (as from wood fuel) would be constantly striking. Finally have as few openings as possible into the chimney, and upon no
+
+consideration allow waste or exhaust steam to enter it.
+
+
+
+
+
+<article title=" Correspondence - National Association of Builders of the United States" author="Sayward, William"> NATIONAL ASSOCIATION OF BUILDERS OF THE UNITED
+
+STATES.
+
+<assoc>NATIONAL ASSOCIATION OF BUILDERS OF THE UNITED
+
+STATES.
+
+</assoc>BOSTON , Dee. 27, 1888.
+
+Editor Canadian Architect AND Builder
+
+DEAR SIR —Appreciating your generous reference to the efforts of this Association to ' ' improve the position of the master builder," I have the pleasure to forward to your address duplicate copies of the following, viz. , ' ' Uniform Contract, Forms 34, 36, 37 and 38, the latter showing our efforts to induce Associations or Exchanges throughout the United States that are not at present affiliated with us, to join our Association and send delegates to represent them at our coming convention.
+
+Should I be able to give you any information or papers that will aid you in the establishment of a ' ' Canadian Builders' and Contractors' Association, ' ' I will cheerfully furnish such as you may require.
+
+We hope sometime Canada will be part of the United States, and then all your builders can join our national body.
+
+Yours respectfully,
+
+WM. H. SAYWARD,
+
+Secretary.
+
+
+
+<article title=" Correspondence - Hamilton" author="">HA MILTON.
+
+
+
+(Correspondence of the CANADIAN Architect And Builder
+
+
+
+S
+
+ O far we have had an open winter and favorable weather for all kinds of building operations which has certainly proved a blessing to the working men in the building trades. It has enabled them to live comfortably and make up for the great loss of time in the early part of the season consequent upon the building strikes
+
+Reviewing the seasons work, it is gratifying to see that there has been a large amount of work done in Hamilton and its suburbs, comparing favorably with the average of the past five years.
+
+T he new City Hall is roofed in, and with two weeks of fine weather, the slating will be finished, As it is all closed in, the interior work will be carried on throughout the winter, giving unexpected employment to a number of carpenters. The contractor, Mr. Piggott, deserves credit for his energy and perseverance in pushing on the work in face of the difficulties he had to contend with.
+
+There were quite a number of fine villa residences erected here last year, varying in cost from $3,000 to $12,000, besides quite a number of smaller buildings which I have already reported, and a great many that I could not report owing to the oft repeated fact that the Hamilton Building by-law is a myth—a by-law to be broken in almost every instance—as the record in the Inspector's office has not set forth one half the buildings that were erected.
+
+This is a bad state of things, but as the members of our new City Council promise many reforms, it is hoped that during the present year builders will be compelled to comply with the law, in which ease it will be a great source of pleasure to forward to your journal a correct list and description of the building operations of the city.
+
+The CANADIAN ARCHITECT AND BUILDER, I am pleased to know, is largely circulated here, and is well received, I would suggest that you should introduce an enquiry column in your journal, for questions and answers, so that those desiring information on any subject might avail themselves of the best means of acquiring it. T here is no doubt that the well informed will willingly impart their knowledge to assist those who are seeking for information.
+
+
+
+The <assoc>Montreal Master Plumbers' Association</assoc>has elected the following officers :—Chairman, Alderman <person>V. Grenier </person>; ViceChairman, <person>James Mattison </person>; Secretary, <person>A. Martin</person>; Assistant Secretary, <person>W. M. Briggs</person>; Committee, <person>I. Jacotel</person>, <person>William Brittan</person>, <person>J. Sadler</person>, <person>P. Carroll</person>, <person>John Wate</person>, <person>J. W. Hughes</person>; Interpreter, <person>J. R. Savignac</person>.
+
+Messrs. <firm>Knox & Elliott, architects</firm>, of this city, have perfected a process by which they are enabled to make any number of copies (up to 50) of working drawings, reproducing the various colors with surprising exactness. Such a process will save at least the expense of one draughtsman, besides expediting the work of the contractors.
+
+
+
+The criticism of American architecture, more especially the architecture of Chicago, by "Abacus," in the November number of this journal, has called forth rejoinders from several American architectural journals. The Inland Architect good-naturedly admits that "Abacus" tells American architects and people" a great many things that it is well to heed." At the same time it takes him to task in most sarcastic language for some of his other statements.
+

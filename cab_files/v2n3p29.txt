@@ -1,0 +1,98 @@
+
+
+<doctype type="text">against them and the profession. Nevertheless there are some good points in the design, which if carried out, will be an advance in the right direction. I am pleased with the lecture and remarks therein, by Mr. <person>Gambier-Bousfield</person>, on the " Responsibilities of Students." I trust he will continue these lectures. They should be an incentive to students to carefully study the valuable works in the library now so close to their hands in Toronto. Let me assure the youthful students that their youth is the most precious period of their existence. They will find their enthusiasm will wane and dull when they come in contact with the mean and sordid spirit in this life, unless they lay a deep, solid foundation of love for their profession which will carry them forward and uphold them through all the troubles they will have to meet incident to contact with this venal business age.
+
+I am gratified by your remarks anent so-called competitions, and the treatment meted out to the profession by individuals and corporations who in an ordinary business transaction would doubtless scorn to be dishonest, but who, in the matter of these so-called architectural competitions, are trying to obtain by dishonest means the knowledge and labor of members of the architectural profession. But, sir, the profession is to a great extent to blame, for are there not self-styled architects always on hand to propagate these evils? Until the architects unite as a common brotherhood there is no way that I can see to successfully fight this and other kindred injustices.
+
+We have had three meetings of the most prominent architects in this city, and appointed a committee to draft constitution and by-laws to govern an association. We are determined with the aid of our brother architects in Ottawa, Toronto, and elsewhere, to raise the status of the profession to its proper level.
+
+<person>F. J. RASTRICK</person>.
+
+
+
+
+
+<article title=" Correspondence - The Woodstock Competition" author="Ogilvie, Robert">THE WOODSTOCK COMPETITION.
+
+TORONTO, March 7th, 1889.
+
+Editor CANADIAN ARCHITECT AND BUILDER.
+
+
+
+I send you my protest against the manner in which the architectural competition for Woodstock Court House is being conducted.
+
+Yours truly,
+
+ROBT. OGILVIE
+
+<article title="Hamilton Architects Organizing" author="">HAMILTON ARCHITECTS ORGANIZING.
+
+
+
+A
+
+ CORRESPONDENT writes as follows: The architects of Hamilton have had two meetings and formed an Association similar to the Ottawa Association, with F. J. Rastrick, President; <person>J. Balfour</person>, Vice President; <person>W. A. Edwards</person>, Secretary-Treasurer, and Messrs. <person>Mulligan</person>, <person>Hills</person>, and <person>Brass</person> as council. Mr. <person>Townsend</person>, of Toronto, was at the last meeting, and explained the objects of forming a Provincial Association. Architects here are all in sympathy with the movement, and a number will attend the meeting in Toronto on the 21st March, when I trust we will see our way clear to form a strong body.
+
+
+
+<article title="Queries and Answers" author="Knox, William">QUERIES AND ANSWERS.
+
+(Reply to Query No. 1.)—The factor of safety for wood beams should not be less than 1/8 the breaking weight. To find the breaking weight of a wood beam, multiply the square of the depth in inches by the breadth in inches, and by the constant for the kind of timber, and divide by the square root of the length in inches; the result will be the breaking load of the beam in pounds.
+
+The constant for oak, 1.700 clear pine, 1.300 ; rough pine,
+
+1.100.
+
+
+
+To find the required depth for a beam, when supported at both ends to sustain a given load with safety, multiply the square of the length in feet by the weight in pounds and by C, and divide by the breadth in inches ; the cube root of the result will be the required depth of the beam in inches.
+
+Let C represent .013 for oak, .01 for clear pine, and .009 for rough pine or hemlock.--WILM KNOX.
+
+
+
+(Reply to Query No. 2.)—Let "Lux" take one pound of iron filings and 5-16 of an oz. of sal-ammoniac, and make them into a thick paste with water.—SUBSCRIBER.
+
+(Reply to Query No. 3.)—Use imuriatic acid, painted on with a brush and let it stand for an hour or two; the old putty will become quite soft and easily run over.— PAINT BRUSH.
+
+
+
+
+
+(No.4).— Will you kindly inform me through the column of your paper, whether fusil oil will remove varnish from woodwork, so as to allow of the woodwork being stained another color, or can you recommend anything that will remove varnish, and very much oblige,
+
+HENRY LUCAS.
+
+
+
+
+
+<article title="Draft Constitution of Proposed Ontario Association of Architects" author="">DRAFT CONSTITUTION OF PROPOSED <assoc>ONTARIO ASSOCIATION OF ARCHITECTS</assoc>.
+
+T
+
+HE <assoc>Toronto Architectural Guild</assoc> has submitted for the approval of architects throughout the Province of Ontario, copies of the following draft constitution for the proposed Architectural Association
+
+SECTION I.-Name.- The name of this organization shall be "The Ontario Association of Architects."
+
+SECTION II.- -Objects.—The objects of the Association are to unite in fellowship the architects of the Province of Ontario, to combine their efforts so as to promote the artistic, scientific and practical efficiency of the profession, and to cultivate and encourage the study of kindred arts.
+
+SECTION II I.—Membership-----The Association shall consist of Fellows and Honorary Members.
+
+SECTION I V.--Qualifications.- Any architect engaged in the honorable practice of the profession in the Province of Ontario may become a Fellow of this Association. Honorary Members of this Association may be elected upon the recommendation of the Board of Directors, but all Fellows of the Association shall become Honorary Members when, after three years honorable standing as Fellows they resign the practice of architecture. Honorary Members shall not be entitled to vote, nor be eligible to office, nor shall they be assessed for dues or initiation.
+
+SECTION V.— Officers.— The officers of this Association shall be a President, three Vice-Presidents, a Secretary, a Treasurer and five Directors. All the officers shall form a Board of Directors for the care of the property and management of the general welfare of the Association, and shall report at each regular meeting.
+
+SECTION VI President and Vice-President —- It shall be the duty of the President to preside at all meetings of the Association. In his absence the chair shall be taken by the first Vice-President; in the absence of the first Vice-President by the second Vice-President; and, in the absence of the second Vice-President, by the third Vice-President.
+
+SECTION VII.—Secretary.----It shall be the duty of the Secretary to take the minutes of the meeting and conduct the correspondence of the Association, subject to the Board of Directors.
+
+SECTION VIII. —Treasurer.——It shall be the duty of the Treasurer to collect all funds, and disburse the same on the order of the Secretary when countersigned by the chairman of the Board of Directors.
+
+SECTION IX.—Amendments. — The Constitution may be amended by a two-thirds vote of the Fellows present at any regular meeting.
+
+SECTION X.-- Status of Architect.—The status of an architect is hereby defined as follows: An architect is a professional person whose sole ostensible occupation consists in supplying data preliminary to the material construction and completion of buildings, in exercising administrative control over the operations of contractors supplying material and labor incident to the construction and completion of buildings, and in officiating as arbitrator of contracts, stipulating terms of obligations and fulfillment between proprietor and contractor.
+
+SECTION XI.—-Failure to Pay Dues.—Should any member fail for one year to pay his dues, the Board of Directors may at its discretion, drop his name from the roll. Should charges of misconduct be preferred against any member, they must be made in writing, and be signed by the person making such
+

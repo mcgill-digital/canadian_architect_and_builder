@@ -1,0 +1,252 @@
+<doctype type="text">THE CANADIAN ARCHITECT AND BUILDER.
+
+
+
+have also been established for its production in England. Being a mechanical mixture of iron slag with slaked lime, it is very different in its constitution from Portland cement, which is a true chemical combination. it is stated by its inventors to be fully equal in quality to Portland cement this, however, is not admitted by the highest authorities. Cement adulterated with slag and slag cement will bc found finer ground and quicker setting than Portland, and it will attain its maximum strength in I shorter time than the best Portland, but retrogression then takes place which is most treacherous in its nature. '[he failure of the concrete construction of the Aberdeen harbor works is now attributed to thc use of cement which was not true Portland, although at first it was considered that the action of the sea water was the cause, hut examinations of similar Constructions limit with good Portland cement many years previously proved, that when the proper material is em played and due care exercised in construction, permanency is assured.
+
+Salt is often added to the water used in mixing mortar in cold weather, to prevent the mortar from freezing before it has set. Authorities differ regarding the effect of salt. '[he most reliable information is probably contained in the report of the tests made at Governor's Island, New York harbor, by Mr. <person>John Gartland </person>for Col. <person>D. C. Houston</person>, U. S. engineer, and also of tests at the Cairo bridge, In the first mentioned tests, sea water was used, and was found to increase the strength of the cement from to 80 per cent., except in the case of Hoffman Rosendale two months old. At three and six months, this same cement gave higher tests with sea water, About 330 briquettes from 8 brands of cement were tested, so the results seem entirely reliable. In the tests at the Cairo bridge the mortars were mixed in the proportion of 1 volume of cement to 2 volumes of sand. The tests were made in the manner recommended by the American Society of Civil Engineers. Each result is the mean obtained from to briquettes at the age of six months. The general opinion of engineers that sea water decreases the strength of cement is probably based on Gillmore's experiments, which were not nearly so comprehensive as the above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLES SHOWING THE RESULT OF TESTS MADE AT TEE CAIRO BRIDGE,:
+
+
+
+TENSILE STRENGTH, LBS. PER
+
+	FINENESS	SQUARE INCH
+
+
+
+BRAND OF
+
+
+
+CEMENT 
+
+ 
+
+ 
+
+
+
+ o
+
+
+
+Portland Alsen's,
+
+	Louisville	99.2	87.0	201	2i3	223	215	245
+
+Falls City Mills.	92.4 83.5	176 1 179	[72	146 I 156
+
+
+
+Sugar added to mortar has the same effect in preventing freezing that salt has. It also combines chemically with the lime, forming a sucrate of lime, which is a detriment to cement mortar, but increases the strength of lime mortar, especially in the heart of thick walls, where lime would not harden under ordinary conditions. An excess of clay in cement is said by some to make the mortar more easily affected by frost. Over clayed cements, if underburned, set quickly and give a high test, but they are liable to injury during calcination by changes of temperature, while cement containing is slight excess of lime is not easily injured thereby.
+
+
+
+REQUISITES FOR GOOD PORTLAND.
+
+Good Portland should be burned at a high temperature, which is indicated by high specific gravity (95 lbs. per cubic foot) and slowness in setting (2 hours or longer). The color indicates hut little, since it is chiefly due to the oxides of iron and manganese. Gray or greenish gray is considered best; bluish gray indicates a probable excess of lime; brown, an excess of clay, A mauve tint indicates adulteration with iron slag, and an undue proportion of underburned material is generally indicated by a yellowish shade, with a marked difference between the color of the hard burned unground particles retained by a fine sieve and the finer cement which passes through the sieve.
+
+The fineness should be such, that 90 per cent, by weight will pass through a sieve of 2,500 meshes per square inch made of No, 40 wire (Stubb's wire gauge). Made into cakes or pats about 21/2 inches square and 3/8 inch thick and immersed in water immediately after setting, it should show no cracks at the end of a week. The tensile strength of Portland cement should be about as follows, a very high strength within four weeks generally indicating an unsound cement
+
+		 TENSILE STRENGTH	LBS. PER SQ. INCH.
+
+	COMPOSITION	________________	_____________
+
+	NEAT OR SAND	24 hours.	1 week	1 month 1 year.
+
+
+
+Neat cement....,.,...... 100 to 140 250 to 550 j 350 to 700 450 to 8oo
+
+3 parts sand to x part cement	8o to 125 100 to 200 200 to 350
+
+
+
+It should not contain impurities in excess of the following quantities Magnesia, per cent.; free lime, 2 per cent.; sulphuric acid, 11/2 per cent.; ferric oxide, 4 per cent.
+
+ANALYSIS OF CEMENT.
+
+Theoretically the ratio of the lime and alumina (together) to the silica should be as 265 to 100,
+
+	Combining weight of lime CaO	= 238.5
+
+alumina A12 03 = 26.5
+
+
+
+265.0
+
+	silica Si 02	— 100,0
+
+following are two analysis of good Portland cements, Josson and Burham
+
+	JOSSON.	BURHAM.
+
+	Lime CaO	63.60	61.04 
+
+	Silica Si 02	22.6o	22.45
+
+	AluminaAl2O3	6.72	6.91
+
+	Oxide of iron Fe2 03	169	3.62
+
+	Magnesia MgO.......,...,	0.97
+
+	Potash K2 O	1.62	 1.86
+
+	Soda Na2
+
+	Sulphate of lime Ca SO4		—
+
+	Water H2O	—
+
+	Sulphuric acid	1.30	 1.44
+
+	Carbonic acid.......,.,	1.50	 1.50
+
+	100.00	100.00
+
+
+
+NATURAL CEMENTS.
+
+By Natural cements are meant those which are obtained from natural stone containing lime and clay burned at a comparatively low temperature, This cement rock is usually found in several layers, containing various proportions of clay. lime, etc.. and it is only by a judicious mixture of stone from the different layers that a good cement is formed. The rock is quarried, broken into pieces and burned in a kiln. The burnt cement is then crushed into small fragments and ground between ordinary millstones.
+
+The description of impurities in Portland cement is applicable to Natural cements, except the part relating to magnesia. Free magnesia is as objectionable in Natural cement as in Portland, but the greater part of natural cement rocks are argillo-magnesian limestones. In burning, a triple silicate of lime, alutaina and magnesia is formed which makes a good cement, but any free magnesia will absorb water and expand as in Portland, Natural cement is generally light colored and quick setting, and is especially adapted to sewer work and places where the mortar is exposed to running water before setting. The requirements for good Natural cement are the same as Portland, except as regards color, weight, tensile strength and the presence of magnesia. The tensile strength should be about as follows:
+
+	TENSILE STRENGTH	LBS. PER SQ. INCH.
+
+	COMPOSITION	___________________________________
+
+	NEAT OR SAND	24 hours.	week.	1 month.       j 1 year.
+
+Neat cement	40 to 8o	6o to 100 100 to 150 300 to 400
+
+1 part cement to 1 part sand		30 to 50 50 to 8o 1200 to 300
+
+
+
+
+
+IMPROVED CEMENTS.
+
+Ibis name is given to Natural cements mixed with Portland. The Natural cements are usually light colored and the Portland dark, so that color of the mixture is of some value in determining the quality. It is advisable to obtain samples of the natural or unimproved" cement, and also of the Portland used in the mixture. By comparing samples of the improved cement with these, a fair idea of its quality may be obtained.
+
+The following tests of Improved Anchor" cement made at the Chief Engineer's Office, Lehigh Valley Railway, will give a fair idea of the ten. sile strength of a good "Improved cement:
+
+
+
+TENSILE STRENGTH LBS. PER SQ. INCH
+
+COMPOSITION
+
+	NEAR OR SAND	24 hours	t week	1 month	i year
+
+Neat cement	100	140	220	420
+
+1 cement to 2 sand		30	75	275
+
+
+
+Improved cements eventually attain great strength and hardness, and are hut little inferior to the lower grades of Portland.
+
+TESTING CEMENT.
+
+On June 21st, 1885. a Committee of the American Society of Civil Engineers recommended a system of testing cement of which the following is a brief synopsis
+
+It is recommended that tests for hydraulic cement be confined to methods for determining fineness, liability to checking or cracking and tensile strength; and for the latter, for tests of 7 days and upward, that a mixture of 1 part of cement to x part of sand for Natural cements, and 3 parts of sand for Portland cements, be used, in addition to trials of neat cement. The quantities used in the mixture should be determined by weight. Usually, when cement has a good reputation and is used in large masses, the testing of every fifth barrel seems to be sufficient; but in very important work where the strength of each barrel may in a great measure determine the strength of that portion of the work where it is used, or in the thin walls of sewers, etc., every barrel should he tested. In selecting the cement for experimental purposes. take the sample from the interior of the original packages at sufficient depth to ensure a fair exponent of the quality, and store the same in tightly closed receptacles, impervious to light or dampness, until required for manipulation, when each sample of cement should
+

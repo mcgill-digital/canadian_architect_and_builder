@@ -1,0 +1,5 @@
+<doctype type="plate">Ground Floor Hall and Staircase.
+
+The <building>McGill College Students' Union, Montreal</building>.
+
+<person>Percy E. Nobbs</person>, M.A., and Messrs. <firm>Hutchison and Woods</firm>, Montreal, Conjoint Architects.

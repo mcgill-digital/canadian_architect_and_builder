@@ -1,0 +1,74 @@
+<doctype type="text">28	CANADIAN ARCHITECT AND BUILDER
+
+<article title=" REINFORCED CONCRETE COLUMNS " author="">
+
+REINFORCED CONCRETE COLUMNS.
+
+
+
+Concrete columns with longitudinal rods imbedded in them are not efficient and are not rational design, for the following reasons:
+
+(1)	The column is a composite of steel and concrete, and not a true reinforced concrete column, as the steel must he chiefly in compression.
+
+(2)	There is no way to determine, even approximately, the respective amounts of the load that the steel and the concrete will bear. The use of the moduli of elasticity of the two materials is no aid, on account of tile fact that the concrete tends to shrink and shorten, leaving the steel rods longer than the normal unstressed concrete.
+
+(3)	If tile rods are near the surface of tile concrete, they can more easily break out under the bowing action of direct compression or the bulging action of diagonal shear.
+
+(4)	If tile rods are near the center of column, they will be of 110 aid to resist flexural stresses due to horizontal forees or to cecentric loading.
+
+(5)	Longitudinal rods offer little or no resistance to longitudinal splitting or bulging of the column.
+
+(6)	The rods cannot take diagonal shear without over-stressing the concrete.
+
+The assumption that they can take shear, in amounts of anywhere near the capacity of steel to carry shear, is simply untenable and absurd. in spite of recognition in building codes and regulations. If, for example, we assume a shear of 12.000 pounds in a rod 1 inch square, there must, of necessity, be a bending moment in the rod. Now the square rod, at 24.000 pounds extreme fiber stress, would take a betiding moment of 4,000 inchpounds. The lever arm of the 12.000 would then have to be only 1-3 inch. Tile force of 12.000 pounds applied on the side of a square rod in a length of 1-3 inch, or on several times this length, is beyond the power of concrete to withstand.
+
+(7)	A plane of cleavage, especially if it be a sloping one, such as a joint left where pouring of concrete ceases for a while. will leave a weak section and vitiate to a large extent the factor of safety.
+
+Compression of a reinforced concrete column with a steel column as a basis of design is misleading. because of tile fact that steel is very strong in tension and, therefore. cap-able of resisting bending stresses. Cast-iron columns were formerly proportioned on the basis of 11.300 pounds per square inch (reduced for length). Full-size tests made some years ago showed this unit to be too high and that a- proper unit is about 7,600 pounds, reduced for length of column. The compressive strength of cast iron in short blocks is about 100_000
+
+pounds per square inch, but on account of the low tensile strength, and consequent low shearing strength, tile safe unit in columns has but a remote relation to the compressive strength in short test pieces. An exactly similar condition exists in columns of plain concrete or of concrete that is not reinforced, with a view t)f relieving it of all tensile strains and of excessive shearing strains.
+
+Practical experience has proven the inability of concrete columns in which small rods are imbedded to carry heavy loads. The practical experience referred to is the failure of buildings that h-ave recently occurred.
+
+It follows, then, that rat-ion-al design of reinforced concrete columns demands not only longitudinal reinforcement to take flexure stresses. but - circular reinforcement to take tile bursting or bulging force due to diagonal shear. Columns so designed have proven under test to be the strongest. of all known forms of reinforced concrete columns.
+
+A good and efficient column is made by reinforcing a round or an octagonal column with a- coil made of a square rod and with 8 longitudinal square rods wired to I-lie same, just inside of the coil. The purpose of the longitudinal rods is to take flexural stresses—that is, to relieve the concrete of longitudinal tensile stresses due to any side force or any tendency to bow at the middle of the height of the column. The steel thus used is rationally employed, as it takes tension that would otherwise come on the concrete. These steel rods should not, be counted upon to take any of the direct load 'of tile column, because of the fact that tests show that such rods alone in a concrete column offer little or no assistance to the concrete.
+
+'When a concrete column is under compression, its length is diminished and its diameter increased somewhat. The steel coils come into play by this tendency of the columns to increase in diameter and are, therefore. in tension.
+
+If we assume a safe load of 550 pounds per square inch arid a lateral pressure of 10-48 of this ill intensity, we have a basis for the determination of the tension on a coil. Let the pitch of the coil he 1-8 of the diameter of the column. and let
+
+D=diameter of column in inches;
+
+d=diameter of square steel rod in the coil. in inches.
+
+Equating the equivalent fluid pressure on the rod to its tension at 12,500 pounds pcr square inch, we it-ave
+
+	10	1)	D
+
+	550 X —	X = 12,500d
+
+	48	2	8
+
+Solving we find
+
+D
+
+
+
+42
+
+If we make the diameter of the coil 7-8 of that of ti-hf' column. and the diameter of the square rod of which the coil is made 1-40 of the diameter of the column, we shall have close to 12,500 pounds per square inch on the steel.
+
+For the 8 rods which run the length of the column we may assume the same lateral pressure and proportion the rods to take that pressure. Assuming that they would act to resist- I-lie outward pressure of the disintegrated concrete, at the ultimate strength of the column. we can make the rods of a diameter that they Would take the stresses in bending, at a safe unit, due to a lateral pressure of 10-48 of 550 or 115 pounds per square inch. The outward force per inch in the length of rod is 115 x " x D / 8. The clear span- is 1-8 of D less 1-4 of D — 1-10 of D. As the rods are fixed ended, the bending moment is 1-12 of W 1, or
+
+	115 n D	D2	1
+
+	8	100	12
+
+Equating this to
+
+12,500S3 -: - 6
+
+(Concluded "'I page 30.)
+

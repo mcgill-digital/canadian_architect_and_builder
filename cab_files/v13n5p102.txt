@@ -1,0 +1,82 @@
+
+
+
+
+<doctype type="text;plate">Working drawings are always drawn to scale. The usual scale for general drawings is either one-quarter or one-eighth of an inch to the foot. That is, a quarter or an eighth of an inch on the drawing will represent a foot on the actual building. These scales are spoken of as "quarter scale" and "eighth scale." In the first, every quarter inch on your two foot rule, as you lay it upon the plan, will represent a foot on the building, every eighth inch six inches, and every sixteenth will
+
+
+
+FIG. 3.—SIDE ELEVATION.
+
+
+
+
+
+
+
+represent three inches. On an eighth scale drawing you cannot scale closer with a two foot rule than six inches, which is represented by a sixteenth of an inch. Occasionally sketches are made to a scale of a sixteenth of an inch to the foot, but except for approximate figures the mechanic should refuse to estimate from a drawing on this scale, as it is impossible to make such a drawing sufficiently accurate to permit of anything but guesswork. In general, a quarter of an inch to the foot is small enough for accuracy, except in the case of large buildings, though some architects are so particular in making their working drawings that an eighth scale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 4.—SIDE ELEVATION.
+
+
+
+
+
+
+
+drawing from that office is more apt to scale correctly than a quarter scale from another office where the draughtsman is notoriously careless as to accuracy. These, however, are points that you will soon learn after a little experience in figuring out of different offices. On the plan all measurements are considered as being made on floor or parallel with it. The accompanying drawings have been originally made to a quarter scale and photographically reduced to an eighth
+
+scale,
+
+In order to insure accuracy in laying out the building the architect does not depend entirely on scale measurements, but carefully figures the dimensions on his drawings, though this is not always done until after the contract has been let. These figures are placed either in rows across the plans, with arrow points to indicate the places between which these measurements are to be counted, or they are placed outside, with dotted or red lines running to the point indicated by the figures. At the bottom of Figure I you will find a general cross dimension, to the right and outside is the total length and on the left side is a dimension line indicating the centers of the windows. The rule in all architects' offices is that figured dimensions are always to be taken in preference to scale measurement, and this is a very important rule to consider in estimating. I have seen mechanics figuring on a set of drawings entirely by the measurements which they would read from their two foot rule, neglecting plainly figured dimensions. When you consider that often there is considerable discrepancy between the two (the figures being placed on the drawing after it is entirely finished, and then being carefully calculated to correct any error the draughtsman may have made), the danger of this practice is readily seen.
+
+Now turning to the elevations, we see that the sloping roof, of which only the edges are
+
+seen in the front elevation (Figure I), becomes a rectangle in the side elevations (Figure 3 and 4). If this is to be painted it becomes an important question to determine the number of square feet in this roof. To do so we measure from eaves to peak on the front elevation (A to B) and multiply by the length of the ridge line on Figure 3 (C to D). To obtain the number of square feet on the different perpendicular surfaces on each side elevation is merely a simple question of mensuration as given in the arithmetics. But to determine the area of any sloping surface we must first
+
+examine the drawings carefully to find its greatest length and greatest breadth, just as we have done in the case of the roof. Study carefully, in this manner, the method of determining the surface of the projecting hood, carried on brackets, shown only by two parallel lines on the front elevation, which extends over the front stoop.
+
+In the sectional drawing (Figure 5), which represents a piece cut through the building, we can scale the Linde surface of the eaves, which the specifications tell us are yellow pine match boards that are to be oiled and varnished. We can also see the height of the wainscot that is to have three coats of varnish, and the quantity of rough plaster which is to be kalsomined.
+
+In a brief article like this it is impossible to discuss every point that may be brought up in reading a set of plans, but the painter who carefully studies those plans which may come to hand by the same methods we have here employed, and who is guided in his measurements by the system of measurements adopted by the National Association of Master House Painters and Decorators, and published by them in book form, need fear no difficulties that may present themselves.—James K. Carpenter, in Painters' Magazine.
+
+
+
+The journeymen plumbers of Halifax, N.S., went on strike on May for an increase of wages to $ 2.25 per day.
+
+FIG. 5.—SECTION.
+

@@ -1,0 +1,138 @@
+<doctype type="text;plate">THE	ARCHITECT AND
+
+
+
+stapled to the walls and ceilings, would he the alternatives. What is called concealed work, in which rubber covered wires are run between floor and ceiling, and brought out only where brackets or hanging fixtures are to be placed, is probably the most suitable for the ordinary run of dwellings. Where once in there is little liability of its being disturbed. But in larger buildings, warehouses, stores and such like, where there are likely to be changes in partitioning oft the space, and in the distribution of the lights, to suit different tenants, Or the same tenant at different times, wires run in mouldings ate by far the most convenient. They are not only most readily accessible for changes of wiring, but the wiring is much less liable to damage by workmen in other trades making repairs. The principal objection is the unsightliness of lines of mouldings straggling all over the ceiling to wherever a lamp is needed But moulding work has frequently many advantages of convenience to recommend it. Architects, I believe, are always looking for a motive in design. Mouldings can be made of any section. and perhaps they might be used to panel off the ceiling in some decorative pattern, suitable to any probable distribution of lights, giving a wide choice of paths for wiring and points for outlets But this touches the artistic side of architecture, which is beyond my province. The best class of wiring is interior conduit work in which buildings are piped with strong nonmetallic, waterproof and poorly combustible tubing, and wires subsequently drawn into. This is particularly suitable to such work as the best class of office buildings. And where it would be too expensive to carry throughout a building, it may sometimes be used for the main lines to centers of distribution
+
+When incandescent electric lights were first introduced they were distributed on wall brackets and hanging fixtures in the same manner as gas jets, as if this were the natural arrangement of lights, instead of having originated in the necessity of keeping gas jets within reach for ease in lighting, and in keeping them away from walls and ceilings for fear of fire. This force of habit for some time prevented, and in a measure still prevents full advantage being taken of the possibilities offered by electric lights for getting better illumination with the same amount of light. For a desk light or a reading light we cannot do better than replace the shaded oil lamp or gas drop light by a shaded electric lamp, but for the general illumination of a room the incandescent light can, in general, do much better. The illumination we perceive depends not only on the amount of light reflected from an object, but also on the amount of the reflected light the eye takes in, and with lights a little above the level of the eye, we are always partially dazzled by them, and our perception of surrounding objects is indistinct compared with what it would be if the lights were out of sight, to get the best illumination for the quantity of light, a room should be lighted as a picture is lighted for exhibition. Electric lamps high up near the ceiling remove the dazzling effect and at the same time give a more generally diffused light, especially if there are light tinted walls and ceilings to reflect the light without much loss.
+
+For lighting large rooms, arc lamps are used to a considerable extent on the continent of Europe. constructed so that they throw all their light on a white or light tinted ceiling, the room being thus lighted entirely by reflection from the ceiling. The result is a diffused light as shadowless as diffused daylight.
+
+Now with regard to uses of arc and incandescent lights, Diagram V is copied from one by <person>Prof. Nichols, </person>of Cornell. embodying the results of experiments made by him, and is instructive in illustrating the difference of light from different sources in quality, as opposed to quantity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This diagram represents the brightness of different parts of the spectra of the electric arc, clear daylight and clouded daylight, in comparison with the same colors in the spectrum of an incandescent lamp the brightness of the latter is taken as the standard in all parts of the spectrum, and is represented in the diagram by the horizontal line at the height I The other spectra are reduced to the same brightness at the yellow line D, and their brightness in other regions of the spectrum is shown by diagrams.
+
+Curve I represents daylight on a cloudless summer day.
+
+Curve II represents day light under a densely clouded sky.
+
+Curve III shows the light from an electric arc.
+
+Curve IV is from the lime light.
+
+The abrupt rise and almost immediate descent again of curve III indicates a narrow but very bright band of light in the violet end of the arc spectrum, which accounts for the value of the arc light in photography, and also explains the predominant bluish tinge of its light
+
+The curves show how far all artificial illuminants fall short of equaling the quality of clear daylight, which latter must always be our standard of perfect white light Even the light of a very dull day is a better all round light than an arc light or lime light of equal general brightness.
+
+Lights are usually rated by candle power, and this is gauged by the relative blackness of shadows thrown on a where ground. Candle power therefore merely measures the ability to distinguish between black and white.
+
+For this purpose the yellow rays are much the most effective; but the blue and violet rays are the most useful for showing the distinction between colors, that is, for bringing out the colors of natural objects. And this being so, the curves show that the incandescent lamp gives us the most of that kind of light wanted, for reading or writing, whilst the arc light gives a closer approach to the effect of daylight upon colors In addition to positive utility, the feeling of suitability has a value, The incandescent lamp, with its warm yellowish red glow, gives a cheerful and cosy air to a small room, where an arc lamp would be simply garish In a large hail or store, to which the idea of cosiness is inappropriate, the same light that makes a small room cheerful may give Only an impression of dullness, whilst the arc light would give an agreeable effect or brilliancy. Of two laige stores side by side, one lighted by arcs and the other by incandescents, the arc lit store has in general a more attractive air of being brilliantly lighted, although, measured by candle power, its actual illumination may be decidedly inferior. Diagram VI's a curve of current consumed in one trip of an electric elevator. The time in seconds is measured horizontally, and the aniperes ver
+
+electrically. This is a diagram from an actual elevator, running 250 feet per minute to a three-storey building. I have taken several such diagrams from different elevators and they all have the same general form as the one shown I have chosen this one of an elevator having a short run, in order to better bring out the effect on the current consumption of frequent stops. The peak at the beginning of the curve shows the large current required to start the car and accelerate it to full speed, in comparison with the small current needed—from 7th to 14th second in diagram—to keep the car in motion after speed has been attained. Nevertheless, even in this unfavorable case, the curve shows the very small cost of power per trip.
+
+For the diagram given the cost is only cents per full trip one way, at the rate charged in Toronto for very intermittent use of current, which is 50 10913gher than the regular Toronto meter rate for power supplied to an elevator in constant use.
+
+Hitherto the application of electricity to architecture has owed little to architects. Trade competition has forced in electric power to take the place of power from other sources which had been already applied to elevators, pumps, ventilating fans, &c.; but beyond this little has been done. The convenience of electric power has certainly led to the extension of mechanical ventilation, with its steady displacement of a fixed volume of air per minute. independent of the degree of dryness or temperature which makes ventilation by natural draught so variable. In ventilation architects have been fairly quick to utilize the opportunity afforded them. But in the larger problems of architecture, the possibilities of applying electricity seem to have received little or no attention An illustration of what I mean is what might conceivably, though not probably, be the effect of cheap electric power in modifying the design of dwelling houses. II it were desirable to use elevators it would not be very difficult to devise perfectly safe methods of operating them without tainted attendance, and a constantly used elevator would have almost as great an effect in modifying house planning as the substitution of stairs for ladders. Supposing such a use of elevators were practicable; whether is would be desirable, whether it would really add to the comforts and conveniences of life, nobody can say so well as the architect, who alone is trained to appreciate at their proper value all points bearing on such a question. And that is the point I wish to bring out by the illustration. Whether in the future electricity is to play any part in modifying architecture ; whether is be of any real assistance to the architect in dealing with the particular problems of his profession, depends principally on the architect himself. The electrical engineer must co-operate in devising working details, but if the applications of electricity to architecture are ever to he more than superficial, the initiative must come from within, not from without.
+
+
+
+
+
+<article title="Illustrations" author="">ILLUSTRATIONS.
+
+SKETCHES IN ITALY--BY <person>ARNOLD FINDLEY, </person>MONTREAL
+
+
+
+Competitive DESIGN FOR A <building>Masonic TEMPLE, MONTREAL</building>—
+
+<person>J.	R. RHIND</person>, ARCHITECT—AWARDED SECOND POSITION,
+
+<building>CHURCH OF ST. GREGORY, OSHAWA</building>.—<firm>POST & HOLMES, </firm>ARCHITECTS, TORONTO.
+
+DETAILS OF STORE FOR <person>R. SIMPSON</person>, TORONTO.—<person>EDMUND BURKE, </person>ARCHITECT.
+
+
+
+
+
+<article title="Toronto Builders Exchange" author="">TORONTO BUILDERS' EXCHANGE.
+
+The following are the officers elect for 1895 Board of Directors—<person>George Oakley</person>, president ; <person>John Aidridge</person>, 1st vice-president ; Win. Park, 2nd vice-president ; <person>David Williams</person>, treasurer; <person>W. Peats</person>, <person>T. Cannon</person>, Jr., <person>James Crang</person>, <person>W. Booth</person>, <person>Henry Martin</person>, <person>Fred K. Wakefield</person>, <person>Henry Lucas</person>, <person>James Isaac</person>.
+
